@@ -13,6 +13,7 @@ import {
   CalendarDays,
   Sparkles,
 } from 'lucide-react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import { COURSES } from './data/coursesMeta';
 import { STATISTIK_QUESTIONS } from './data/statistikData';
 import TotiBuddy from './components/TotiBuddy';
@@ -421,6 +422,7 @@ export default function App() {
           </div>
         </div>
       )}
+      <SpeedInsights />
     </div>
   );
 }
