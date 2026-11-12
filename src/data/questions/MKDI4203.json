@@ -1,0 +1,3648 @@
+[
+  {
+    "num": 1,
+    "q": "Kewirausahaan dilekatkan pada seseorang yang mengatur proyek besar, merupakan ciri khas kewirausahaan pada masa...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Periode Awal Sejarah"
+      },
+      {
+        "label": "B",
+        "text": "Abad Pertengahan"
+      },
+      {
+        "label": "C",
+        "text": "Abad 17"
+      },
+      {
+        "label": "D",
+        "text": "Abad 20"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Abad Pertengahan."
+  },
+  {
+    "num": 2,
+    "q": "Kewirausahaan terdiri dari pihak pasif sebagai pemilik modal dan pihak aktif sebagai pihak yang menggunakan modal, merupakan ciri khas kewirausahaan pada masa...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Periode Awal Sejarah"
+      },
+      {
+        "label": "B",
+        "text": "Abad Pertengahan"
+      },
+      {
+        "label": "C",
+        "text": "Abad 17"
+      },
+      {
+        "label": "D",
+        "text": "Abad 20"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Abad 17."
+  },
+  {
+    "num": 3,
+    "q": "Kewirausahaan telah mengalami perkembangan dari waktu ke waktu dengan karakteristik yang berbeda. Pada abad keberapakah inovasi dan teknologi digital melekat erat pada wirausaha?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Abad Pertengahan"
+      },
+      {
+        "label": "B",
+        "text": "Abad 18"
+      },
+      {
+        "label": "C",
+        "text": "Abad 19"
+      },
+      {
+        "label": "D",
+        "text": "Abad 20"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Abad 20."
+  },
+  {
+    "num": 4,
+    "q": "Manajer dapat melakukan pemantauan pencapaian kinerja secara real time merupakan peranan teknologi dalam fungsi...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Operasional"
+      },
+      {
+        "label": "B",
+        "text": "Komunikasi"
+      },
+      {
+        "label": "C",
+        "text": "Perencanaan"
+      },
+      {
+        "label": "D",
+        "text": "Monitoring dan Pengawasan"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Monitoring dan Pengawasan."
+  },
+  {
+    "num": 5,
+    "q": "Peranan teknologi informasi pada fungsi operasional di perusahaan adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Interaksi efektif antar manajer di perusahaan"
+      },
+      {
+        "label": "B",
+        "text": "Membuat struktur organisasi semakin ramping"
+      },
+      {
+        "label": "C",
+        "text": "Peran strategis dalam pengembangan perusahaan"
+      },
+      {
+        "label": "D",
+        "text": "Sarana komunikasi, kerja sama, dan interaksi"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Membuat struktur organisasi semakin ramping."
+  },
+  {
+    "num": 6,
+    "q": "Di era digital, mayoritas generasi muda (wirausaha muda) yang mampu memunculkan eksistensi dirinya dalam bisnis dengan membangun startup dan unicorn. Faktor utama yang menyebabkan terjadinya fenomena ini adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Model bisnis yang mudah"
+      },
+      {
+        "label": "B",
+        "text": "Usia yang lebih muda dan energik"
+      },
+      {
+        "label": "C",
+        "text": "Kemudahan akses modal"
+      },
+      {
+        "label": "D",
+        "text": "Teknologi Informasi"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Teknologi Informasi."
+  },
+  {
+    "num": 7,
+    "q": "Berikut ini pernyataan yang tepat tentang riset UPI dan BPPT dalam mempersiapkan masyarakat menghadapi teknologi digital adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Riset sumber pengganti minyak dilakukan oleh UPI"
+      },
+      {
+        "label": "B",
+        "text": "Riset bibit buah unggulan dilakukan oleh UPI"
+      },
+      {
+        "label": "C",
+        "text": "Riset pertanian dilakukan oleh BPPT"
+      },
+      {
+        "label": "D",
+        "text": "Riset kendaraan emisi rendah dilakukan oleh LIPI"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Riset bibit buah unggulan dilakukan oleh UPI."
+  },
+  {
+    "num": 8,
+    "q": "Berikut ini penjelasan yang tepat tentang peran teknologi digital, kecuali...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Teknologi digital meningkatkan daya saing bangsa menurut BPPT"
+      },
+      {
+        "label": "B",
+        "text": "Penelitian energi terbarukan dilakukan UPI"
+      },
+      {
+        "label": "C",
+        "text": "UPI melakukan pengembangan benih padi unggul"
+      },
+      {
+        "label": "D",
+        "text": "Pengembangan transportasi dilakukan BPPT"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Penelitian energi terbarukan dilakukan UPI."
+  },
+  {
+    "num": 9,
+    "q": "Pengembangan riset unggulan UPI sehingga masyarakat siap menghadapi teknologi digital adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mobil listrik"
+      },
+      {
+        "label": "B",
+        "text": "Bahan bakar ramah lingkungan"
+      },
+      {
+        "label": "C",
+        "text": "Pembangkit listrik tenaga surya"
+      },
+      {
+        "label": "D",
+        "text": "Varietas tanaman yang lebih berkualitas"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Varietas tanaman yang lebih berkualitas."
+  },
+  {
+    "num": 10,
+    "q": "Apa yang dapat dilakukan pelaku usaha untuk meningkatkan customer engagement dengan mengoptimalkan teknologi?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Memasang aplikasi chat pada situs e-commerce"
+      },
+      {
+        "label": "B",
+        "text": "Membekali karyawan dalam penguasaan teknologi informasi"
+      },
+      {
+        "label": "C",
+        "text": "Memperhatikan media sosial"
+      },
+      {
+        "label": "D",
+        "text": "Menerapkan konsep digital dalam bisnis"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Memasang aplikasi chat pada situs e-commerce."
+  },
+  {
+    "num": 11,
+    "q": "Perubahan dan perkembangan teknologi digital mendorong terjadinya disrupsi berbagai aktivitas bisnis. Berikut ini adalah dampak positif wirausaha mengadopsi teknologi dalam bisnis, kecuali...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bergantung pada negara lain sebagai mitra bisnis"
+      },
+      {
+        "label": "B",
+        "text": "Meningkatkan daya saing bangsa"
+      },
+      {
+        "label": "C",
+        "text": "Memberikan nilai tambah"
+      },
+      {
+        "label": "D",
+        "text": "Membuka peluang bisnis berskala internasional"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Bergantung pada negara lain sebagai mitra bisnis."
+  },
+  {
+    "num": 12,
+    "q": "Contoh dari meningkatkan customer engagement dengan mengoptimalkan teknologi adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Aplikasi Chatbot"
+      },
+      {
+        "label": "B",
+        "text": "Menggunakan Twitter"
+      },
+      {
+        "label": "C",
+        "text": "Menggunakan Facebook"
+      },
+      {
+        "label": "D",
+        "text": "Menggunakan Instagram"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Aplikasi Chatbot."
+  },
+  {
+    "num": 13,
+    "q": "Kesuksesan bisnis di era digital adalah kemampuan menyesuaikan diri dengan perkembangan teknologi digital. Hal tersebut dikenal dengan istilah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kolaborasi"
+      },
+      {
+        "label": "B",
+        "text": "Berbagi"
+      },
+      {
+        "label": "C",
+        "text": "Pandai"
+      },
+      {
+        "label": "D",
+        "text": "Adaptasi"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Adaptasi."
+  },
+  {
+    "num": 14,
+    "q": "Berbisnis di era digital bukan perkara yang mudah, namun tidak juga sulit. Salah satu strategi implementasi digitalisasi dalam wirausaha adalah mematangkan strategi digital dengan tujuan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Membekali SDM dengan pengetahuan digital"
+      },
+      {
+        "label": "B",
+        "text": "Mengembangkan media sosial sebagai media pemasaran"
+      },
+      {
+        "label": "C",
+        "text": "Memahami konsumen melalui forum media sosial"
+      },
+      {
+        "label": "D",
+        "text": "Mentransformasikan bisnis secara menyeluruh"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Mentransformasikan bisnis secara menyeluruh."
+  },
+  {
+    "num": 15,
+    "q": "Era digital tidak sekadar menghasilkan produk digital, namun juga harus transformasi bisnis dari konvensional ke digital. Berikut ini yang dilakukan wirausaha agar dapat bersaing di era digital, kecuali...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Beradaptasi"
+      },
+      {
+        "label": "B",
+        "text": "Kolaborasi"
+      },
+      {
+        "label": "C",
+        "text": "Berani mengambil risiko"
+      },
+      {
+        "label": "D",
+        "text": "Stabil"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Stabil."
+  },
+  {
+    "num": 16,
+    "q": "Pengusaha dapat meningkatkan added value dari barang ataupun jasa melalui proses...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Creative Construction"
+      },
+      {
+        "label": "B",
+        "text": "Initiative Destruction"
+      },
+      {
+        "label": "C",
+        "text": "Creative Destruction"
+      },
+      {
+        "label": "D",
+        "text": "Initiative Construction"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Creative Destruction."
+  },
+  {
+    "num": 17,
+    "q": "Kewirausahaan merupakan usaha kreativitas yang dibangun berdasarkan, kecuali...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Inovasi menghasilkan sesuatu yang bernilai tambah"
+      },
+      {
+        "label": "B",
+        "text": "Menciptakan lapangan pekerjaan"
+      },
+      {
+        "label": "C",
+        "text": "Meningkatkan kesenjangan sosial dan ekonomi"
+      },
+      {
+        "label": "D",
+        "text": "Meningkatkan taraf hidup masyarakat"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Meningkatkan kesenjangan sosial dan ekonomi."
+  },
+  {
+    "num": 18,
+    "q": "Wirausaha menyumbang sejumlah manfaat positif dalam masyarakat, di antaranya sebagai berikut, kecuali...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Memberikan contoh kemauan untuk berkembang"
+      },
+      {
+        "label": "B",
+        "text": "Membuat para karyawan menjadi orang yang lebih mandiri"
+      },
+      {
+        "label": "C",
+        "text": "Membuat dan memperluas kesempatan kerja"
+      },
+      {
+        "label": "D",
+        "text": "Meningkatkan jumlah karyawan yang pensiun dini"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Meningkatkan jumlah karyawan yang pensiun dini."
+  },
+  {
+    "num": 19,
+    "q": "Terdapat kekurangan yang dapat dirasakan oleh wirausaha jika menjalankan usaha berbentuk firma, yaitu...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sulit dalam peralihan pimpinan perusahaan jika terjadi konflik internal"
+      },
+      {
+        "label": "B",
+        "text": "Tanggung jawab yang tak terbatas apabila ada risiko"
+      },
+      {
+        "label": "C",
+        "text": "Kelangsungan hidup perusahaan terancam jika ada salah satu pendiri mengundurkan diri"
+      },
+      {
+        "label": "D",
+        "text": "Semua jawaban benar"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Semua jawaban benar."
+  },
+  {
+    "num": 20,
+    "q": "Berikut ini dampak positif perkembangan kewirausahaan terhadap pertumbuhan ekonomi negara, kecuali...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Meningkatkan kesenjangan sosial dan ekonomi"
+      },
+      {
+        "label": "B",
+        "text": "Membuka lapangan pekerjaan"
+      },
+      {
+        "label": "C",
+        "text": "Meningkatkan taraf hidup masyarakat"
+      },
+      {
+        "label": "D",
+        "text": "Meningkatkan pendapatan nasional"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Meningkatkan kesenjangan sosial dan ekonomi."
+  },
+  {
+    "num": 21,
+    "q": "Terdapat kelebihan yang dapat dirasakan oleh wirausaha jika menjalankan usaha berbentuk persekutuan komanditer, yaitu...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Belum dikenai pajak oleh pemerintah"
+      },
+      {
+        "label": "B",
+        "text": "Kelangsungan hidup perusahaan terjamin"
+      },
+      {
+        "label": "C",
+        "text": "Jaminan rahasia perusahaan terjamin"
+      },
+      {
+        "label": "D",
+        "text": "Lebih fleksibel"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Lebih fleksibel."
+  },
+  {
+    "num": 22,
+    "q": "Contoh bentuk wirausaha berdasarkan lapangan yang digeluti adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Persekutuan Firma"
+      },
+      {
+        "label": "B",
+        "text": "Perseroan Terbatas"
+      },
+      {
+        "label": "C",
+        "text": "Badan Usaha Industri"
+      },
+      {
+        "label": "D",
+        "text": "Pertanian"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Pertanian."
+  },
+  {
+    "num": 23,
+    "q": "Wirausaha yang menjalani bisnisnya tanpa meninggalkan pekerjaan utamanya, sering disebut dengan istilah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Wirausaha Muda"
+      },
+      {
+        "label": "B",
+        "text": "Wirausaha Wanita"
+      },
+      {
+        "label": "C",
+        "text": "Wirausaha Paruh Waktu"
+      },
+      {
+        "label": "D",
+        "text": "Wirausaha Rumah Tangga"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Wirausaha Paruh Waktu."
+  },
+  {
+    "num": 24,
+    "q": "Ciri dari usaha berbadan hukum persekutuan firma adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Berakhir jika salah satu anggota meninggal atau mengundurkan diri"
+      },
+      {
+        "label": "B",
+        "text": "Modal sulit cair"
+      },
+      {
+        "label": "C",
+        "text": "Sistem pengelolaan usaha sederhana"
+      },
+      {
+        "label": "D",
+        "text": "Mudah beralih pimpinan"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Berakhir jika salah satu anggota meninggal atau mengundurkan diri."
+  },
+  {
+    "num": 25,
+    "q": "Wirausaha harus memiliki sikap mudah berbaur dengan orang baru, hal tersebut dikenal dengan karakter...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Adaptasi"
+      },
+      {
+        "label": "B",
+        "text": "Supel"
+      },
+      {
+        "label": "C",
+        "text": "Ramah"
+      },
+      {
+        "label": "D",
+        "text": "Komunikatif"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Supel."
+  },
+  {
+    "num": 26,
+    "q": "Berikut ini karakteristik wirausaha, kecuali...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Supel"
+      },
+      {
+        "label": "B",
+        "text": "Visioner"
+      },
+      {
+        "label": "C",
+        "text": "Hati-hati"
+      },
+      {
+        "label": "D",
+        "text": "Suka tantangan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Hati-hati."
+  },
+  {
+    "num": 27,
+    "q": "Keteguhan menjalankan usaha dan pantang menyerah merupakan salah satu wujud karakteristik unggul seorang wirausaha, yaitu...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Visioner"
+      },
+      {
+        "label": "B",
+        "text": "Memiliki Dorongan Kuat"
+      },
+      {
+        "label": "C",
+        "text": "Kedisiplinan yang Tinggi"
+      },
+      {
+        "label": "D",
+        "text": "Memiliki Empati"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Memiliki Dorongan Kuat."
+  },
+  {
+    "num": 28,
+    "q": "Karakteristik kunci wirausaha ini mampu mengubah setiap tantangan menjadi peluang bisnis yang menguntungkan. Sebutkan istilah yang tepat dari karakteristik tersebut...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Visionary"
+      },
+      {
+        "label": "B",
+        "text": "Positive Thinking"
+      },
+      {
+        "label": "C",
+        "text": "Genuine Thinking"
+      },
+      {
+        "label": "D",
+        "text": "Goal Oriented"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Positive Thinking."
+  },
+  {
+    "num": 29,
+    "q": "Seorang wirausaha harus memiliki karakter kepercayaan diri yang tinggi. Ciri dari karakter ini adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Berani menerima tantangan"
+      },
+      {
+        "label": "B",
+        "text": "Berani berbaur dengan orang baru"
+      },
+      {
+        "label": "C",
+        "text": "Belajar dan bangkit dari kegagalan"
+      },
+      {
+        "label": "D",
+        "text": "Berani promosi produk baru ke pelanggan"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Berani menerima tantangan."
+  },
+  {
+    "num": 30,
+    "q": "Kemampuan wirausaha untuk memulai, mengembangkan, dan mengelola sebuah bisnis disebut...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kemampuan Teknis"
+      },
+      {
+        "label": "B",
+        "text": "Kemampuan Manajerial"
+      },
+      {
+        "label": "C",
+        "text": "Kemampuan Wirausaha"
+      },
+      {
+        "label": "D",
+        "text": "Tidak Ada Jawaban yang Benar"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Kemampuan Wirausaha."
+  },
+  {
+    "num": 31,
+    "q": "Wirausaha yang sukses dalam inovasi produk dan teknologi baru adalah wirausaha yang memiliki tingkat... tinggi",
+    "options": [
+      {
+        "label": "A",
+        "text": "Abstraksi"
+      },
+      {
+        "label": "B",
+        "text": "Intelegensi"
+      },
+      {
+        "label": "C",
+        "text": "Logika"
+      },
+      {
+        "label": "D",
+        "text": "Naturalis"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Intelegensi."
+  },
+  {
+    "num": 32,
+    "q": "Banyak wirausaha yang berhasil meraih kesuksesan dalam menjalankan usahanya karena mampu memahami kebutuhan dan keinginan masyarakat. Termasuk klasifikasi manakah sikap wirausaha tersebut...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Etos Kerja"
+      },
+      {
+        "label": "B",
+        "text": "Kemampuan Dasar"
+      },
+      {
+        "label": "C",
+        "text": "Kepribadian"
+      },
+      {
+        "label": "D",
+        "text": "Mental Wirausaha"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Kemampuan Dasar."
+  },
+  {
+    "num": 33,
+    "q": "Muhammad Yunus, pendiri Grameen Bank di Bangladesh untuk masyarakat miskin dan ibu rumah tangga, mempunyai kepribadian yang menonjol adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rendah hati"
+      },
+      {
+        "label": "B",
+        "text": "Berani mengambil risiko"
+      },
+      {
+        "label": "C",
+        "text": "Pandai"
+      },
+      {
+        "label": "D",
+        "text": "Empati"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Empati."
+  },
+  {
+    "num": 34,
+    "q": "Umar sedang melakukan langkah-langkah untuk menemukan flow, setelah memilih kegiatan yang harus dilakukan berikutnya adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tetapkan tujuan yang jelas"
+      },
+      {
+        "label": "B",
+        "text": "Hilangkan gangguan dan bingkai pengalaman Anda"
+      },
+      {
+        "label": "C",
+        "text": "Mengembangkan keterampilan yang mahir"
+      },
+      {
+        "label": "D",
+        "text": "Benamkan diri Anda saat ini"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Teori Flow (Csikszentmihalyi): Kondisi fokus total yang seimbang antara kemampuan & tantangan. Urutan 5 langkahnya: pilih kegiatan → tetapkan tujuan jelas → benamkan diri → hilangkan gangguan → kendalikan diri. Jawaban: Tetapkan tujuan yang jelas."
+  },
+  {
+    "num": 35,
+    "q": "Kemampuan membuat kombinasi baru antara unsur, data, atau variabel yang sudah ada sebelumnya, dapat menjadi ide awal pengembangan kewirausahaan di era digital. Kata yang tepat untuk menggambarkan kalimat tersebut adalah... WA",
+    "options": [
+      {
+        "label": "A",
+        "text": "Inovasi"
+      },
+      {
+        "label": "B",
+        "text": "Produk Baru"
+      },
+      {
+        "label": "C",
+        "text": "Kepribadian"
+      },
+      {
+        "label": "D",
+        "text": "Kreativitas"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Kreativitas."
+  },
+  {
+    "num": 36,
+    "q": "Amir ingin masuk ke dalam kondisi flow saat belajar. Ciri dari seseorang yang sudah memasuki kondisi flow adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kemampuan mengontrol diri"
+      },
+      {
+        "label": "B",
+        "text": "Distorsi pengalaman masa lalu"
+      },
+      {
+        "label": "C",
+        "text": "Kesadaran reflektif meningkat"
+      },
+      {
+        "label": "D",
+        "text": "Fokus pada kondisi sekitar"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Teori Flow (Csikszentmihalyi): Kondisi fokus total yang seimbang antara kemampuan & tantangan. Urutan 5 langkahnya: pilih kegiatan → tetapkan tujuan jelas → benamkan diri → hilangkan gangguan → kendalikan diri. Jawaban: Kemampuan mengontrol diri."
+  },
+  {
+    "num": 37,
+    "q": "Berikut ini adalah pernyataan yang terkait dengan flow, kecuali...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Menandai adanya penyerapan secara total atas apa yang dilakukan seseorang"
+      },
+      {
+        "label": "B",
+        "text": "Kondisinya dipengaruhi oleh keseimbangan antara kapasitas dan peluang"
+      },
+      {
+        "label": "C",
+        "text": "Hanya fokus pada diri pribadi dan tidak terkait pada lingkungan"
+      },
+      {
+        "label": "D",
+        "text": "Dapat digunakan untuk mengembangkan potensi diri"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Teori Flow (Csikszentmihalyi): Kondisi fokus total yang seimbang antara kemampuan & tantangan. Urutan 5 langkahnya: pilih kegiatan → tetapkan tujuan jelas → benamkan diri → hilangkan gangguan → kendalikan diri. Jawaban: Hanya fokus pada diri pribadi dan tidak terkait pada lingkungan."
+  },
+  {
+    "num": 38,
+    "q": "Menemukan flow dapat membawa efek positif bagi wirausaha di masa mendatang. Berikut ini adalah pernyataan yang terkait dengan flow, kecuali...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Menandai adanya penyerapan secara total atas apa yang dilakukan seseorang"
+      },
+      {
+        "label": "B",
+        "text": "Kondisinya dipengaruhi oleh keseimbangan antara kapasitas dan peluang"
+      },
+      {
+        "label": "C",
+        "text": "Dapat digunakan untuk mengembangkan potensi diri"
+      },
+      {
+        "label": "D",
+        "text": "Dapat dilepaskan dengan lingkungannya"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Teori Flow (Csikszentmihalyi): Kondisi fokus total yang seimbang antara kemampuan & tantangan. Urutan 5 langkahnya: pilih kegiatan → tetapkan tujuan jelas → benamkan diri → hilangkan gangguan → kendalikan diri. Jawaban: Dapat dilepaskan dengan lingkungannya."
+  },
+  {
+    "num": 39,
+    "q": "Berikut ini merupakan faktor dalam teori flow, kecuali...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Konsentrasi dan fokus dalam tindakan yang dilakukan"
+      },
+      {
+        "label": "B",
+        "text": "Gabungan tindakan dan kesadaran"
+      },
+      {
+        "label": "C",
+        "text": "Autotelic"
+      },
+      {
+        "label": "D",
+        "text": "Munculnya kesadaran diri reflektif"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Teori Flow (Csikszentmihalyi): Kondisi fokus total yang seimbang antara kemampuan & tantangan. Urutan 5 langkahnya: pilih kegiatan → tetapkan tujuan jelas → benamkan diri → hilangkan gangguan → kendalikan diri. Jawaban: Munculnya kesadaran diri reflektif."
+  },
+  {
+    "num": 40,
+    "q": "Menemukan flow pada diri pribadi akan memberi manfaat bagi wirausaha. Terdapat lima langkah yang dapat dilakukan wirausaha untuk menemukan flow. Membuat tujuan yang lebih sulit di dalam wirausaha adalah termasuk langkah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Benamkan diri pribadi pada saat ini"
+      },
+      {
+        "label": "B",
+        "text": "Tetapkan tujuan yang jelas"
+      },
+      {
+        "label": "C",
+        "text": "Pilih kegiatan"
+      },
+      {
+        "label": "D",
+        "text": "Hilangkan gangguan dan bingkai pengalaman Anda"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Teori Flow (Csikszentmihalyi): Kondisi fokus total yang seimbang antara kemampuan & tantangan. Urutan 5 langkahnya: pilih kegiatan → tetapkan tujuan jelas → benamkan diri → hilangkan gangguan → kendalikan diri. Jawaban: Tetapkan tujuan yang jelas."
+  },
+  {
+    "num": 41,
+    "q": "Kemampuan wirausaha membangun jejaring dengan pihak lain adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Crazy Quilt"
+      },
+      {
+        "label": "B",
+        "text": "Bird in Hand"
+      },
+      {
+        "label": "C",
+        "text": "Pilot in the Plane"
+      },
+      {
+        "label": "D",
+        "text": "Affordable Loss"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Crazy Quilt."
+  },
+  {
+    "num": 42,
+    "q": "Menemukan flow pada diri pribadi akan memberi manfaat bagi wirausaha. Terdapat lima langkah yang dapat dilakukan wirausaha untuk menemukan flow. Memperhatikan apa yang terjadi di saat ini dan menikmati pengalaman langsung adalah termasuk langkah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pilih Kegiatan"
+      },
+      {
+        "label": "B",
+        "text": "Tetapkan Tujuan yang Jelas"
+      },
+      {
+        "label": "C",
+        "text": "Benamkan Diri Pribadi pada Saat Ini"
+      },
+      {
+        "label": "D",
+        "text": "Hilangkan Gangguan dan Bingkai Pengalaman Anda"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Teori Flow (Csikszentmihalyi): Kondisi fokus total yang seimbang antara kemampuan & tantangan. Urutan 5 langkahnya: pilih kegiatan → tetapkan tujuan jelas → benamkan diri → hilangkan gangguan → kendalikan diri. Jawaban: Benamkan Diri Pribadi pada Saat Ini."
+  },
+  {
+    "num": 43,
+    "q": "Efektuasi adalah seperangkat prinsip pengambilan keputusan yang dilakukan wirausaha dalam menghadapi situasi yang tidak pasti. Salah satu prinsipnya adalah prinsip Pilot in the Plane, yaitu...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kemampuan mengontrol situasi dan jalur yang dilalui untuk mencapai tujuan"
+      },
+      {
+        "label": "B",
+        "text": "Kesiapan wirausaha menanggung kerugian atas usaha yang didirikannya"
+      },
+      {
+        "label": "C",
+        "text": "Kemampuan mengenal diri pribadi dan orang-orang yang dikenal yang bermanfaat bagi usaha"
+      },
+      {
+        "label": "D",
+        "text": "Kreativitas dalam mengubah hal-hal yang tidak menyenangkan menjadi satu hal yang menarik"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Prinsip Effectuation: Crazy Quilt = bangun jejaring/mitra; Pilot in the Plane = kontrol penuh jalur tujuan; Affordable Loss = batas rugi terukur & bangkit dari gagal; Bird in Hand = mulai dari aset yang ada. Jawaban: Kemampuan mengontrol situasi dan jalur yang dilalui untuk mencapai tujuan."
+  },
+  {
+    "num": 44,
+    "q": "Ali berani membangun jaringan dengan wirausaha lain untuk memajukan usahanya, prinsip Ali dikenal dengan istilah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lemonade"
+      },
+      {
+        "label": "B",
+        "text": "Affordable Loss"
+      },
+      {
+        "label": "C",
+        "text": "Bird in Hand"
+      },
+      {
+        "label": "D",
+        "text": "Crazy Quilt"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Crazy Quilt."
+  },
+  {
+    "num": 45,
+    "q": "Peranan affordable loss dalam prinsip effectuation adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pengetahuan lebih luas"
+      },
+      {
+        "label": "B",
+        "text": "Bangkit kembali dari kegagalan"
+      },
+      {
+        "label": "C",
+        "text": "Membangun jejaring lebih luas"
+      },
+      {
+        "label": "D",
+        "text": "Lebih kreatif"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Prinsip Effectuation: Crazy Quilt = bangun jejaring/mitra; Pilot in the Plane = kontrol penuh jalur tujuan; Affordable Loss = batas rugi terukur & bangkit dari gagal; Bird in Hand = mulai dari aset yang ada. Jawaban: Bangkit kembali dari kegagalan."
+  },
+  {
+    "num": 46,
+    "q": "Terdapat lima tahapan yang harus dilakukan seseorang saat memulai aktivitas kewirausahaan. Salah satu tahapan tersebut dapat menyebabkan seseorang tidak dapat disebut sebagai wirausaha jika tidak mengalami kegagalan pada tahapan tersebut, yaitu...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mengembangkan Rencana Bisnis"
+      },
+      {
+        "label": "B",
+        "text": "Merancang Konsep Bisnis Berbasis Kemandirian"
+      },
+      {
+        "label": "C",
+        "text": "Memulai Menjalankan Ide Bisnis"
+      },
+      {
+        "label": "D",
+        "text": "Menemukan Ide Bisnis yang Benar"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Memulai Menjalankan Ide Bisnis."
+  },
+  {
+    "num": 47,
+    "q": "Tahapan memulai aktivitas kewirausahaan setelah tahapan mengembangkan rencana bisnis adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Menemukan ide bisnis yang tepat"
+      },
+      {
+        "label": "B",
+        "text": "Mengalami kesuksesan atau kegagalan"
+      },
+      {
+        "label": "C",
+        "text": "Mendapatkan pelanggan pertama"
+      },
+      {
+        "label": "D",
+        "text": "Meningkatkan pendanaan usaha"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Mendapatkan pelanggan pertama."
+  },
+  {
+    "num": 48,
+    "q": "Berikut ini tahapan kelima dalam memulai aktivitas usaha adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Menemukan ide bisnis yang tepat"
+      },
+      {
+        "label": "B",
+        "text": "Mengembangkan rencana bisnis"
+      },
+      {
+        "label": "C",
+        "text": "Mengalami kesuksesan atau kegagalan"
+      },
+      {
+        "label": "D",
+        "text": "Mendapatkan pelanggan pertama"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Mengalami kesuksesan atau kegagalan."
+  },
+  {
+    "num": 49,
+    "q": "Contoh peluang usaha menjual melalui toko online adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tokopedia"
+      },
+      {
+        "label": "B",
+        "text": "Mengolah dan mencari data secara online"
+      },
+      {
+        "label": "C",
+        "text": "Endorse di Instagram yang memiliki banyak follower"
+      },
+      {
+        "label": "D",
+        "text": "Membuat konten video ulasan produk"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Tokopedia."
+  },
+  {
+    "num": 50,
+    "q": "Berikut ini yang termasuk peluang usaha di era digital menjadi pekerja online paruh waktu adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Youtuber"
+      },
+      {
+        "label": "B",
+        "text": "Food Blogger"
+      },
+      {
+        "label": "C",
+        "text": "Reseller"
+      },
+      {
+        "label": "D",
+        "text": "Mengolah data penelitian"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Mengolah data penelitian."
+  },
+  {
+    "num": 51,
+    "q": "Seseorang dapat fokus terhadap hobi yang dimilikinya untuk kemudian dijadikan peluang usaha dan menghasilkan uang darinya. Manakah peluang usaha yang diawali dari hobi...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Food Blogger"
+      },
+      {
+        "label": "B",
+        "text": "Pekerja Online Paruh Waktu"
+      },
+      {
+        "label": "C",
+        "text": "Situs Belanja Online"
+      },
+      {
+        "label": "D",
+        "text": "Selebgram"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Food Blogger."
+  },
+  {
+    "num": 52,
+    "q": "Berikut ini adalah bidang lain yang dapat menjadi sumber penghasilan uang yang dapat dimanfaatkan di era digital, kecuali...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Penyewaan Mobil Online"
+      },
+      {
+        "label": "B",
+        "text": "Pemasaran Online"
+      },
+      {
+        "label": "C",
+        "text": "Penulis Lepas"
+      },
+      {
+        "label": "D",
+        "text": "Semua Jawaban Salah"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Semua Jawaban Salah."
+  },
+  {
+    "num": 53,
+    "q": "Seorang wirausahawan yang memiliki empati memiliki kecerdasan... yang tinggi.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Emosional"
+      },
+      {
+        "label": "B",
+        "text": "Bahasa"
+      },
+      {
+        "label": "C",
+        "text": "Intelektual"
+      },
+      {
+        "label": "D",
+        "text": "Komunikasi"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Emosional."
+  },
+  {
+    "num": 54,
+    "q": "Ari adalah seorang wirausaha sukses di bidang kuliner. Dalam berinovasi produk, Ari melihat dari realitas pasar dan sudut pandang konsumen. Hal ini karena Ari memiliki karakter...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pandai"
+      },
+      {
+        "label": "B",
+        "text": "Empati"
+      },
+      {
+        "label": "C",
+        "text": "Kreatif"
+      },
+      {
+        "label": "D",
+        "text": "Komunikatif"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Empati."
+  },
+  {
+    "num": 55,
+    "q": "Semakin kuat energi empati di dalam sebuah perusahaan, hubungan kerja akan semakin harmonis yang akan berdampak pada...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Menghasilkan ide bisnis yang baru"
+      },
+      {
+        "label": "B",
+        "text": "Meningkatkan pangsa pasar"
+      },
+      {
+        "label": "C",
+        "text": "Peningkatan kinerja pegawai"
+      },
+      {
+        "label": "D",
+        "text": "Soliditas kerja yang sangat kolaboratif"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Soliditas kerja yang sangat kolaboratif."
+  },
+  {
+    "num": 56,
+    "q": "Proses test terdiri dari lima tahapan, proses design thinking dilakukan setelah proses...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ideate"
+      },
+      {
+        "label": "B",
+        "text": "Define"
+      },
+      {
+        "label": "C",
+        "text": "Empathise"
+      },
+      {
+        "label": "D",
+        "text": "Prototype"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "5 Tahap Design Thinking: Empathise (pahami pengguna) → Define → Ideate (ciptakan ide) → Prototype (purwarupa dari ide) → Test (uji akhir). Jawaban: Prototype."
+  },
+  {
+    "num": 57,
+    "q": "Langkah kelima (5) dalam design thinking adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Empathise"
+      },
+      {
+        "label": "B",
+        "text": "Prototype"
+      },
+      {
+        "label": "C",
+        "text": "Test"
+      },
+      {
+        "label": "D",
+        "text": "Define"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "5 Tahap Design Thinking: Empathise (pahami pengguna) → Define → Ideate (ciptakan ide) → Prototype (purwarupa dari ide) → Test (uji akhir). Jawaban: Test."
+  },
+  {
+    "num": 58,
+    "q": "Di era digital, design thinking memegang peranan penting, karena...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Berguna untuk pemanfaatan teknologi dalam penciptaan inovasi produk"
+      },
+      {
+        "label": "B",
+        "text": "Membantu dalam melakukan jenis penelitian yang tepat untuk meningkatkan kualitas produk"
+      },
+      {
+        "label": "C",
+        "text": "Menghasilkan pemahaman yang holistik dan empatik tentang masalah yang dihadapi konsumen"
+      },
+      {
+        "label": "D",
+        "text": "Semua jawaban tidak salah"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "5 Tahap Design Thinking: Empathise (pahami pengguna) → Define → Ideate (ciptakan ide) → Prototype (purwarupa dari ide) → Test (uji akhir). Jawaban: Semua jawaban tidak salah."
+  },
+  {
+    "num": 59,
+    "q": "Mengembangkan pemahaman mendalam dari pengguna serta konsep desainnya, pada tahap design thinking terjadi di langkah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Define"
+      },
+      {
+        "label": "B",
+        "text": "Empathise"
+      },
+      {
+        "label": "C",
+        "text": "Ideation"
+      },
+      {
+        "label": "D",
+        "text": "Prototype"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "5 Tahap Design Thinking: Empathise (pahami pengguna) → Define → Ideate (ciptakan ide) → Prototype (purwarupa dari ide) → Test (uji akhir). Jawaban: Empathise."
+  },
+  {
+    "num": 60,
+    "q": "Ide yang muncul pada tahapan ideation merupakan input bagi proses...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Define"
+      },
+      {
+        "label": "B",
+        "text": "Test"
+      },
+      {
+        "label": "C",
+        "text": "Empathise"
+      },
+      {
+        "label": "D",
+        "text": "Prototype"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "5 Tahap Design Thinking: Empathise (pahami pengguna) → Define → Ideate (ciptakan ide) → Prototype (purwarupa dari ide) → Test (uji akhir). Jawaban: Prototype."
+  },
+  {
+    "num": 61,
+    "q": "Beberapa penelitian menyebutkan bahwa dahulu saat seorang konsumen mengalami kekecewaan dari pengalamannya mengonsumsi suatu produk, maka informasi kekecewaan tersebut akan berhenti pada 55 orang saja. Namun di era digital ini, satu orang konsumen kecewa, maka seluruh dunia akan mengetahui keburukan produk tersebut. Hal ini disebabkan karena...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Konsumen cerdas"
+      },
+      {
+        "label": "B",
+        "text": "Konsumen memiliki kekuatan word of mouth melalui media sosial"
+      },
+      {
+        "label": "C",
+        "text": "Konsumen selalu bereksperimen"
+      },
+      {
+        "label": "D",
+        "text": "Konsumen mudah berpindah"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Konsumen memiliki kekuatan word of mouth melalui media sosial."
+  },
+  {
+    "num": 62,
+    "q": "Karakter konsumen di era digital dengan membeli produk branded untuk meningkatkan status sosial adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cerdas"
+      },
+      {
+        "label": "B",
+        "text": "Sombong"
+      },
+      {
+        "label": "C",
+        "text": "Bebal"
+      },
+      {
+        "label": "D",
+        "text": "Wirausaha"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Sombong."
+  },
+  {
+    "num": 63,
+    "q": "Hermawan Kartajaya menyatakan bahwa karakter konsumen di era digital adalah memilih berdasarkan harga barang yang dijual. Pernyataan tersebut menerangkan konsumen yang memiliki karakter...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sombong"
+      },
+      {
+        "label": "B",
+        "text": "Bebal"
+      },
+      {
+        "label": "C",
+        "text": "Cerdas"
+      },
+      {
+        "label": "D",
+        "text": "Wirausaha"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Bebal."
+  },
+  {
+    "num": 64,
+    "q": "Bentuk pasar berdasarkan luas wilayahnya ada yang memiliki jangkauan Asia Tenggara, pasar tersebut dikenal dengan pasar...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nasional"
+      },
+      {
+        "label": "B",
+        "text": "Internasional"
+      },
+      {
+        "label": "C",
+        "text": "Lokal"
+      },
+      {
+        "label": "D",
+        "text": "Regional"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Regional."
+  },
+  {
+    "num": 65,
+    "q": "Pasar yang memiliki karakteristik tidak adanya peran konsumen untuk menetapkan harga produk, yaitu...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pasar Monopolistik"
+      },
+      {
+        "label": "B",
+        "text": "Pasar Oligopoli"
+      },
+      {
+        "label": "C",
+        "text": "Pasar Monopsoni"
+      },
+      {
+        "label": "D",
+        "text": "Pasar Oligopsoni"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Pasar Monopolistik."
+  },
+  {
+    "num": 66,
+    "q": "Pasar di mana barang yang diperjualbelikan tidak tersedia secara langsung, disebut...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pasar Abstrak"
+      },
+      {
+        "label": "B",
+        "text": "Pasar Konkret"
+      },
+      {
+        "label": "C",
+        "text": "Pasar Global"
+      },
+      {
+        "label": "D",
+        "text": "Pasar Persaingan Tidak Sempurna"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Pasar Abstrak."
+  },
+  {
+    "num": 67,
+    "q": "Secara sederhana, segmentasi pasar merupakan proses membagi pasar berdasarkan karakteristik tertentu. Seorang pemasar telah melakukan segmentasi pasar menjadi segmen konsumen urban dan konsumen nonurban. Strategi segmentasi pasar manakah yang diterapkan pemasar tersebut...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Segmentasi Demografis"
+      },
+      {
+        "label": "B",
+        "text": "Segmentasi Psikografis"
+      },
+      {
+        "label": "C",
+        "text": "Segmentasi Geografis"
+      },
+      {
+        "label": "D",
+        "text": "Segmentasi Perilaku"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Segmentasi Geografis."
+  },
+  {
+    "num": 68,
+    "q": "Menurut Pride & Ferrell, segmentasi pasar adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Membagi pasar dalam segmen pelanggan potensial"
+      },
+      {
+        "label": "B",
+        "text": "Pembeli berbeda dalam keinginan dan sumber daya"
+      },
+      {
+        "label": "C",
+        "text": "Membagi pasar menjadi kelompok homogen"
+      },
+      {
+        "label": "D",
+        "text": "Pembeli berbeda dalam sikap dan kebiasaan membeli"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Membagi pasar dalam segmen pelanggan potensial."
+  },
+  {
+    "num": 69,
+    "q": "Menurut Gitosudarmo, berikut ini termasuk manfaat segmentasi pasar, kecuali...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Menentukan desain produk sesuai segmen"
+      },
+      {
+        "label": "B",
+        "text": "Membedakan antara segmen"
+      },
+      {
+        "label": "C",
+        "text": "Mengetahui sifat setiap segmen"
+      },
+      {
+        "label": "D",
+        "text": "Mencari segmen yang paling potensial"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Membedakan antara segmen."
+  },
+  {
+    "num": 70,
+    "q": "Salah satu permasalahan yang sering dihadapi wirausaha adalah tidak dapat menentukan target pasar dengan benar. Apa yang dapat digunakan wirausaha untuk menetapkan target pasar?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Segmentasi Pasar"
+      },
+      {
+        "label": "B",
+        "text": "Positioning Pasar"
+      },
+      {
+        "label": "C",
+        "text": "Harga Produk"
+      },
+      {
+        "label": "D",
+        "text": "Tingkat Persaingan"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Segmentasi Pasar."
+  },
+  {
+    "num": 71,
+    "q": "Berikut ini adalah hal-hal yang harus dipertimbangkan dalam proses penetapan pasar sasaran oleh wirausaha di era digital, kecuali...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Segmen pasar dekat dengan perusahaan"
+      },
+      {
+        "label": "B",
+        "text": "Segmen pasar dapat dijangkau"
+      },
+      {
+        "label": "C",
+        "text": "Segmen pasar dapat diukur"
+      },
+      {
+        "label": "D",
+        "text": "Segmen pasar menguntungkan"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Segmen pasar dekat dengan perusahaan."
+  },
+  {
+    "num": 72,
+    "q": "Estetika, keindahan, dan rasa aman merupakan elemen apa dalam profil pekerjaan pelanggan...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tugas fungsional"
+      },
+      {
+        "label": "B",
+        "text": "Tugas sosial"
+      },
+      {
+        "label": "C",
+        "text": "Tugas emosional"
+      },
+      {
+        "label": "D",
+        "text": "Kebutuhan dasar"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Tugas emosional."
+  },
+  {
+    "num": 73,
+    "q": "Value Proposition Canvas dikembangkan oleh Alexander Osterwalder. Kerangka kerja tersebut dapat digunakan oleh wirausaha untuk...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Memperbaiki produk yang sudah ada"
+      },
+      {
+        "label": "B",
+        "text": "Memperbaiki penawaran layanan yang sudah ada"
+      },
+      {
+        "label": "C",
+        "text": "Mengembangkan produk baru dari awal"
+      },
+      {
+        "label": "D",
+        "text": "Semua jawaban benar"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Strategi & Model Bisnis Digital: MVP fokus fitur inti untuk belajar bukan fitur canggih; Blue Ocean rekonstruksi pasar & kurangi over-delivery; Freemium gratiskan fitur dasar lalu berbayar bertahap. Jawaban: Semua jawaban benar."
+  },
+  {
+    "num": 74,
+    "q": "Value Proposition Canvas dikembangkan oleh Alexander Osterwalder. Kerangka kerja tersebut dapat digunakan oleh wirausaha untuk menciptakan value bagi konsumen. Berikut ini adalah value proposition dari ojek online sebagai respons terhadap kebutuhan konsumen akan moda transportasi, kecuali...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Instant Booking"
+      },
+      {
+        "label": "B",
+        "text": "Pengemudi Profesional"
+      },
+      {
+        "label": "C",
+        "text": "Hemat Waktu"
+      },
+      {
+        "label": "D",
+        "text": "Harga Murah"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Strategi & Model Bisnis Digital: MVP fokus fitur inti untuk belajar bukan fitur canggih; Blue Ocean rekonstruksi pasar & kurangi over-delivery; Freemium gratiskan fitur dasar lalu berbayar bertahap. Jawaban: Harga Murah."
+  },
+  {
+    "num": 75,
+    "q": "Gabungan penghilang rasa sakit dan pencipta nilai adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Meningkatkan keuntungan pelanggan dari solusi sekarang"
+      },
+      {
+        "label": "B",
+        "text": "Produk dan layanan"
+      },
+      {
+        "label": "C",
+        "text": "Menghapus hal negatif yang dialami pelanggan"
+      },
+      {
+        "label": "D",
+        "text": "Risiko yang ditakuti oleh pelanggan"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Meningkatkan keuntungan pelanggan dari solusi sekarang."
+  },
+  {
+    "num": 76,
+    "q": "Vidio memberikan layanan gratis dengan fitur terbatas dan memberikan fasilitas berjenjang tergantung langganan yang pelanggan bayar. Model bisnis yang dilakukan Vidio adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Freemium"
+      },
+      {
+        "label": "B",
+        "text": "Margin"
+      },
+      {
+        "label": "C",
+        "text": "Presentase dari setiap transaksi"
+      },
+      {
+        "label": "D",
+        "text": "Basis harga rendah"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Freemium."
+  },
+  {
+    "num": 77,
+    "q": "Era digital mendorong terjadinya perubahan model bisnis. Seorang wirausaha menerapkan strategi produk gratis, namun konsumen diminta untuk membayar biaya pelatihan dan pemasangannya. Termasuk model bisnis yang manakah strategi tersebut...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Model Freemium"
+      },
+      {
+        "label": "B",
+        "text": "Produk Gratis, Pendapatan dari Iklan"
+      },
+      {
+        "label": "C",
+        "text": "Harga Berjenjang Berdasarkan Volume"
+      },
+      {
+        "label": "D",
+        "text": "Harga produk rendah, tetapi dukungan tambahan"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Harga produk rendah, tetapi dukungan tambahan."
+  },
+  {
+    "num": 78,
+    "q": "Salah satu contoh kategori bisnis era digital dengan presentase dari setiap transaksi adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Orang membayar untuk upgrade"
+      },
+      {
+        "label": "B",
+        "text": "Facebook Ads"
+      },
+      {
+        "label": "C",
+        "text": "Afiliasi"
+      },
+      {
+        "label": "D",
+        "text": "Pembayaran langganan internet bulanan atau tahunan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Afiliasi."
+  },
+  {
+    "num": 79,
+    "q": "Berikut ini hal yang harus diperhatikan dalam membuat bisnis di era digital adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Model bisnis canggih"
+      },
+      {
+        "label": "B",
+        "text": "Kecepatan bisnis"
+      },
+      {
+        "label": "C",
+        "text": "Segmen pasar besar"
+      },
+      {
+        "label": "D",
+        "text": "Definisi pelanggan dan pendapatan yang akan dicapai"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Definisi pelanggan dan pendapatan yang akan dicapai."
+  },
+  {
+    "num": 80,
+    "q": "Crowdfunding menjadi cara efektif untuk mendulang dana secara online melalui platform digital semacam media sosial. Salah satu contoh praktik crowdfunding di Indonesia adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Greenpeace.com"
+      },
+      {
+        "label": "B",
+        "text": "Kitabisa.com"
+      },
+      {
+        "label": "C",
+        "text": "National Geographic"
+      },
+      {
+        "label": "D",
+        "text": "Pandawa"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Kitabisa.com."
+  },
+  {
+    "num": 81,
+    "q": "Salah satu aplikasi online yang menerapkan model bisnis penghasilan berupa presentase dari setiap transaksi adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Facebook"
+      },
+      {
+        "label": "B",
+        "text": "Amazon"
+      },
+      {
+        "label": "C",
+        "text": "Traveloka"
+      },
+      {
+        "label": "D",
+        "text": "Lazada"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Traveloka."
+  },
+  {
+    "num": 82,
+    "q": "Produsen handphone mengeluarkan tiga varian saat memproduksi handphone baru, untuk kebutuhan anak sekolah, youtuber, dan pekerja profesional. Dalam kerangka Kanvas Model Bisnis, penentuan varian dilakukan pada langkah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Key Partner"
+      },
+      {
+        "label": "B",
+        "text": "Customer Segment"
+      },
+      {
+        "label": "C",
+        "text": "Channels"
+      },
+      {
+        "label": "D",
+        "text": "Value Proposition"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Strategi & Model Bisnis Digital: MVP fokus fitur inti untuk belajar bukan fitur canggih; Blue Ocean rekonstruksi pasar & kurangi over-delivery; Freemium gratiskan fitur dasar lalu berbayar bertahap. Jawaban: Customer Segment."
+  },
+  {
+    "num": 83,
+    "q": "Memiliki model bisnis dapat memberikan sejumlah manfaat bagi wirausaha yang ingin mengelola usahanya secara sukses dan dapat bertahan dalam jangka panjang. Berikut ini yang tidak termasuk peran model bisnis dalam pendirian usaha adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Menciptakan keunggulan bersaing"
+      },
+      {
+        "label": "B",
+        "text": "Menjaga keberlanjutan keuangan"
+      },
+      {
+        "label": "C",
+        "text": "Membantu penyediaan modal bisnis"
+      },
+      {
+        "label": "D",
+        "text": "Memberikan informasi kepada investor"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Membantu penyediaan modal bisnis."
+  },
+  {
+    "num": 84,
+    "q": "Memiliki model bisnis dapat memberikan sejumlah manfaat bagi wirausaha yang ingin mengelola usahanya secara sukses dan dapat bertahan dalam jangka panjang, salah satunya adalah dengan menciptakan keunggulan bersaing dengan cara membangun...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ketersediaan modal bisnis"
+      },
+      {
+        "label": "B",
+        "text": "Keberlanjutan keuangan"
+      },
+      {
+        "label": "C",
+        "text": "Bisnis yang unik"
+      },
+      {
+        "label": "D",
+        "text": "Perencanaan pertumbuhan usaha"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Bisnis yang unik."
+  },
+  {
+    "num": 85,
+    "q": "Terdapat sembilan blok elemen dalam Kanvas Model Bisnis. Elemen manakah yang dapat digunakan untuk mewujudkan value proposition...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Key Activities"
+      },
+      {
+        "label": "B",
+        "text": "Key Resources"
+      },
+      {
+        "label": "C",
+        "text": "Key Partnership"
+      },
+      {
+        "label": "D",
+        "text": "Customer Segments"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Strategi & Model Bisnis Digital: MVP fokus fitur inti untuk belajar bukan fitur canggih; Blue Ocean rekonstruksi pasar & kurangi over-delivery; Freemium gratiskan fitur dasar lalu berbayar bertahap. Jawaban: Key Activities."
+  },
+  {
+    "num": 86,
+    "q": "Memantau jumlah pengunjung yang membuka website untuk pengukuran kinerja optimasi penggunaan kata kunci merupakan contoh dari...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Key Metrics"
+      },
+      {
+        "label": "B",
+        "text": "Cost Structure"
+      },
+      {
+        "label": "C",
+        "text": "Life Time Value"
+      },
+      {
+        "label": "D",
+        "text": "Solusi"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Key Metrics."
+  },
+  {
+    "num": 87,
+    "q": "Terdapat sembilan blok elemen dalam Kanvas Model Bisnis. Salah satu elemennya adalah elemen Channels yang meliputi saluran komunikasi, saluran distribusi, dan saluran penjualan. Fungsi manakah dalam elemen Channels yang dapat digunakan untuk meningkatkan brand awareness...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Menyampaikan value proposition pada pelanggan"
+      },
+      {
+        "label": "B",
+        "text": "Meningkatkan kesadaran pelanggan atas produk perusahaan"
+      },
+      {
+        "label": "C",
+        "text": "Menyediakan dukungan pasca pembelian kepada pelanggan"
+      },
+      {
+        "label": "D",
+        "text": "Membantu pelanggan mengevaluasi value proposition"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Strategi & Model Bisnis Digital: MVP fokus fitur inti untuk belajar bukan fitur canggih; Blue Ocean rekonstruksi pasar & kurangi over-delivery; Freemium gratiskan fitur dasar lalu berbayar bertahap. Jawaban: Meningkatkan kesadaran pelanggan atas produk perusahaan."
+  },
+  {
+    "num": 88,
+    "q": "Menentukan fitur utama dari produk yang ditawarkan pada konsumen dalam Lean Canvas dalam model bisnis dilakukan pada langkah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Customer Segment"
+      },
+      {
+        "label": "B",
+        "text": "Cost Structure"
+      },
+      {
+        "label": "C",
+        "text": "Revenue Streams"
+      },
+      {
+        "label": "D",
+        "text": "Solution"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Strategi & Model Bisnis Digital: MVP fokus fitur inti untuk belajar bukan fitur canggih; Blue Ocean rekonstruksi pasar & kurangi over-delivery; Freemium gratiskan fitur dasar lalu berbayar bertahap. Jawaban: Solution."
+  },
+  {
+    "num": 89,
+    "q": "Lean Canvas merupakan suatu pemodelan bisnis yang terdiri dari sembilan blok yang dapat ditindaklanjuti dan berfokus pada wirausaha. Langkah kelima dari Lean Canvas adalah Revenue Streams berupa cara-cara potensial untuk menciptakan aliran pendapatan, salah satunya adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Harga pembelian produk"
+      },
+      {
+        "label": "B",
+        "text": "Uang muka pembelian"
+      },
+      {
+        "label": "C",
+        "text": "Harga jual produk tambahan"
+      },
+      {
+        "label": "D",
+        "text": "Biaya pemasangan produk"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Strategi & Model Bisnis Digital: MVP fokus fitur inti untuk belajar bukan fitur canggih; Blue Ocean rekonstruksi pasar & kurangi over-delivery; Freemium gratiskan fitur dasar lalu berbayar bertahap. Jawaban: Harga jual produk tambahan."
+  },
+  {
+    "num": 90,
+    "q": "Penjualan aset, biaya penggunaan, biaya berlangganan, dan biaya pengiriman dalam Lean Canvas dalam model bisnis merupakan bagian dari...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Channels"
+      },
+      {
+        "label": "B",
+        "text": "Revenue Stream"
+      },
+      {
+        "label": "C",
+        "text": "Solution"
+      },
+      {
+        "label": "D",
+        "text": "Problem & Existing Alternative"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Strategi & Model Bisnis Digital: MVP fokus fitur inti untuk belajar bukan fitur canggih; Blue Ocean rekonstruksi pasar & kurangi over-delivery; Freemium gratiskan fitur dasar lalu berbayar bertahap. Jawaban: Revenue Stream."
+  },
+  {
+    "num": 91,
+    "q": "Blue Ocean Strategy merupakan strategi wirausaha dengan meninggalkan arena persaingan yang ketat lalu menciptakan peluang baru. Berikut ini adalah pendekatan sistematik dari Blue Ocean Strategy...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kurangi faktor yang berlebihan"
+      },
+      {
+        "label": "B",
+        "text": "Menerapkan strategi market challenger"
+      },
+      {
+        "label": "C",
+        "text": "Rekonstruksi batas-batas pasar"
+      },
+      {
+        "label": "D",
+        "text": "Fokus pada gambaran yang menyeluruh"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Strategi & Model Bisnis Digital: MVP fokus fitur inti untuk belajar bukan fitur canggih; Blue Ocean rekonstruksi pasar & kurangi over-delivery; Freemium gratiskan fitur dasar lalu berbayar bertahap. Jawaban: Rekonstruksi batas-batas pasar."
+  },
+  {
+    "num": 92,
+    "q": "Pendekatan sistematik perubahan pola pikir dengan pendekatan sistematik Blue Ocean Strategy untuk mencegah over delivery kepada pelanggan adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tingkatkan"
+      },
+      {
+        "label": "B",
+        "text": "Ciptakan"
+      },
+      {
+        "label": "C",
+        "text": "Hapuskan"
+      },
+      {
+        "label": "D",
+        "text": "Kurangi"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Strategi & Model Bisnis Digital: MVP fokus fitur inti untuk belajar bukan fitur canggih; Blue Ocean rekonstruksi pasar & kurangi over-delivery; Freemium gratiskan fitur dasar lalu berbayar bertahap. Jawaban: Kurangi."
+  },
+  {
+    "num": 93,
+    "q": "Blue Ocean Strategy merupakan strategi wirausaha dengan meninggalkan arena persaingan yang ketat lalu menciptakan peluang baru. Berikut ini adalah prinsip eksekusi dari Blue Ocean Strategy...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Atasi seluruh rintangan utama perusahaan"
+      },
+      {
+        "label": "B",
+        "text": "Perluas permintaan yang ada"
+      },
+      {
+        "label": "C",
+        "text": "Rekonstruksi batas-batas pasar"
+      },
+      {
+        "label": "D",
+        "text": "Fokus pada gambaran yang menyeluruh"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Strategi & Model Bisnis Digital: MVP fokus fitur inti untuk belajar bukan fitur canggih; Blue Ocean rekonstruksi pasar & kurangi over-delivery; Freemium gratiskan fitur dasar lalu berbayar bertahap. Jawaban: Atasi seluruh rintangan utama perusahaan."
+  },
+  {
+    "num": 94,
+    "q": "Untuk mendukung penerapan Strategi Blue Ocean, wirausaha dapat menggunakan Kanvas Problem-Solution Fit yang terdiri dari 4 (empat) langkah. Langkah manakah yang mengidentifikasi respons pelanggan atas permasalahan yang terjadi...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Langkah Problem-Behavior Fit"
+      },
+      {
+        "label": "B",
+        "text": "Langkah Customer State Fit"
+      },
+      {
+        "label": "C",
+        "text": "Langkah Solution Guess/Problem-Solution Fit"
+      },
+      {
+        "label": "D",
+        "text": "Langkah Communication-Channel Fit"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Strategi & Model Bisnis Digital: MVP fokus fitur inti untuk belajar bukan fitur canggih; Blue Ocean rekonstruksi pasar & kurangi over-delivery; Freemium gratiskan fitur dasar lalu berbayar bertahap. Jawaban: Langkah Problem-Behavior Fit."
+  },
+  {
+    "num": 95,
+    "q": "Pertanyaan \"Apa yang harus memicu pelanggan untuk bertindak?\" terdapat pada langkah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Problem-Behavior Fit"
+      },
+      {
+        "label": "B",
+        "text": "Customer State Fit"
+      },
+      {
+        "label": "C",
+        "text": "Solution Fit"
+      },
+      {
+        "label": "D",
+        "text": "Communication-Channels Fit"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Communication-Channels Fit."
+  },
+  {
+    "num": 96,
+    "q": "Untuk mendukung penerapan Strategi Blue Ocean Strategy, wirausaha dapat menggunakan Kanvas Problem-Solution Fit untuk...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mengidentifikasi permasalahan dan mencari solusi tepat"
+      },
+      {
+        "label": "B",
+        "text": "Merencanakan langkah bisnis di tengah persaingan"
+      },
+      {
+        "label": "C",
+        "text": "Mendorong kegiatan promosi untuk mencapai pasar sasaran"
+      },
+      {
+        "label": "D",
+        "text": "Memperluas potensi bisnis"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Strategi & Model Bisnis Digital: MVP fokus fitur inti untuk belajar bukan fitur canggih; Blue Ocean rekonstruksi pasar & kurangi over-delivery; Freemium gratiskan fitur dasar lalu berbayar bertahap. Jawaban: Mengidentifikasi permasalahan dan mencari solusi tepat."
+  },
+  {
+    "num": 97,
+    "q": "Minimum Viable Product (MVP) merupakan sebuah produk yang memiliki cukup fitur untuk dicoba apakah dapat diterima di pasar. Berikut ini adalah hal yang harus dipertimbangkan wirausaha ketika memutuskan untuk membuat MVP, kecuali...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Diperlukan biaya untuk peluncurannya"
+      },
+      {
+        "label": "B",
+        "text": "Fokus pada belajar, bukan optimisasi"
+      },
+      {
+        "label": "C",
+        "text": "Pertimbangkan permintaan fitur pelanggan lainnya"
+      },
+      {
+        "label": "D",
+        "text": "Menghadirkan konsep produk yang canggih"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Strategi & Model Bisnis Digital: MVP fokus fitur inti untuk belajar bukan fitur canggih; Blue Ocean rekonstruksi pasar & kurangi over-delivery; Freemium gratiskan fitur dasar lalu berbayar bertahap. Jawaban: Menghadirkan konsep produk yang canggih."
+  },
+  {
+    "num": 98,
+    "q": "Solusi agar tidak mengasumsikan fitur-fitur apa saja dalam menyusun Minimum Viable Product adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bersihkan catatan Anda"
+      },
+      {
+        "label": "B",
+        "text": "Hilangkan fitur yang tidak optimal"
+      },
+      {
+        "label": "C",
+        "text": "Mulailah dari masalah nomor satu"
+      },
+      {
+        "label": "D",
+        "text": "Pertimbangkan fitur permintaan pelanggan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Mulailah dari masalah nomor satu."
+  },
+  {
+    "num": 99,
+    "q": "Minimum Viable Product (MVP) merupakan sebuah produk yang memiliki cukup fitur untuk dicoba apakah dapat diterima di pasar. Berikut ini adalah hal yang harus dipertimbangkan wirausaha ketika memutuskan untuk membuat MVP...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Diperlukan biaya yang besar untuk peluncurannya"
+      },
+      {
+        "label": "B",
+        "text": "Tidak perlu feedback dari pengguna"
+      },
+      {
+        "label": "C",
+        "text": "Menghadirkan konsep produk yang canggih"
+      },
+      {
+        "label": "D",
+        "text": "Mengandung fitur-fitur inti dari produk"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Strategi & Model Bisnis Digital: MVP fokus fitur inti untuk belajar bukan fitur canggih; Blue Ocean rekonstruksi pasar & kurangi over-delivery; Freemium gratiskan fitur dasar lalu berbayar bertahap. Jawaban: Mengandung fitur-fitur inti dari produk."
+  },
+  {
+    "num": 100,
+    "q": "Salah satu cara untuk mengetahui apakah perusahaan sudah memiliki Product-Market Fit adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mengirimkan survei pada pengguna"
+      },
+      {
+        "label": "B",
+        "text": "Mengidentifikasi nilai"
+      },
+      {
+        "label": "C",
+        "text": "Memetakan masalah"
+      },
+      {
+        "label": "D",
+        "text": "Mengidentifikasi kebutuhan pelanggan"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Strategi & Model Bisnis Digital: MVP fokus fitur inti untuk belajar bukan fitur canggih; Blue Ocean rekonstruksi pasar & kurangi over-delivery; Freemium gratiskan fitur dasar lalu berbayar bertahap. Jawaban: Mengirimkan survei pada pengguna."
+  },
+  {
+    "num": 101,
+    "q": "Hierarki piramida Product-Market Fit dari dasar ke puncak piramida adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Map the Problem, Reach the Market, Identify the Value"
+      },
+      {
+        "label": "B",
+        "text": "Identify the Value, Map the Problem, Reach the Market"
+      },
+      {
+        "label": "C",
+        "text": "Reach the Market, Identify the Value, Map the Problem"
+      },
+      {
+        "label": "D",
+        "text": "Map the Problem, Identify the Value, Reach the Market"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Strategi & Model Bisnis Digital: MVP fokus fitur inti untuk belajar bukan fitur canggih; Blue Ocean rekonstruksi pasar & kurangi over-delivery; Freemium gratiskan fitur dasar lalu berbayar bertahap. Jawaban: Map the Problem, Identify the Value, Reach the Market."
+  },
+  {
+    "num": 102,
+    "q": "Product-Market Fit adalah keberhasilan dari sebuah produk yang telah memasuki pasar yang cocok. Terdapat lima komponen kunci dalam konsep Product-Market Fit, salah satunya terkait dengan tahap pasca pembelian, yaitu...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Target Konsumen"
+      },
+      {
+        "label": "B",
+        "text": "Pengalaman Pengguna"
+      },
+      {
+        "label": "C",
+        "text": "Keunggulan Bisnis dibanding Pesaing"
+      },
+      {
+        "label": "D",
+        "text": "Fitur Produk"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Strategi & Model Bisnis Digital: MVP fokus fitur inti untuk belajar bukan fitur canggih; Blue Ocean rekonstruksi pasar & kurangi over-delivery; Freemium gratiskan fitur dasar lalu berbayar bertahap. Jawaban: Pengalaman Pengguna."
+  },
+  {
+    "num": 103,
+    "q": "Peluncuran produk baru dengan harga yang tinggi dan promosi yang cepat dikenal dengan strategi...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Slow Skimming"
+      },
+      {
+        "label": "B",
+        "text": "Slow Penetration"
+      },
+      {
+        "label": "C",
+        "text": "Penetrasi Cepat"
+      },
+      {
+        "label": "D",
+        "text": "Rapid Skimming"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Rapid Skimming."
+  },
+  {
+    "num": 104,
+    "q": "Peluncuran usaha dan produk baru merupakan upaya yang berisiko. Berikut ini adalah sejumlah kesalahan yang sering dilakukan wirausaha saat meluncurkan produk yang berakibat pada kegagalan, kecuali...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Harga produk yang tidak tepat"
+      },
+      {
+        "label": "B",
+        "text": "Menggunakan teknologi yang terlalu canggih"
+      },
+      {
+        "label": "C",
+        "text": "Kebutuhan pelanggan tidak dipahami"
+      },
+      {
+        "label": "D",
+        "text": "Target pasar yang tidak sesuai"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Menggunakan teknologi yang terlalu canggih."
+  },
+  {
+    "num": 105,
+    "q": "Strategi peluncuran produk baru dengan harga tinggi dan sedikit promosi disebut...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Strategi Peluncuran Cepat"
+      },
+      {
+        "label": "B",
+        "text": "Strategi Peluncuran Lambat"
+      },
+      {
+        "label": "C",
+        "text": "Strategi Penetrasi Cepat"
+      },
+      {
+        "label": "D",
+        "text": "Strategi Penetrasi Lambat"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Strategi Peluncuran Lambat."
+  },
+  {
+    "num": 106,
+    "q": "Berdasarkan framework kepemimpinan efektif, yang tidak termasuk bagian dari The Leader's Traits adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Knowledge"
+      },
+      {
+        "label": "B",
+        "text": "Abilities"
+      },
+      {
+        "label": "C",
+        "text": "Personality"
+      },
+      {
+        "label": "D",
+        "text": "Motivation"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Abilities."
+  },
+  {
+    "num": 107,
+    "q": "Wirausaha yang tidak egois dan percaya bahwa timnya kompeten dalam melakukan tugas adalah karakter wirausaha yang memiliki keterampilan...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mendelegasikan tugas"
+      },
+      {
+        "label": "B",
+        "text": "Komunikatif"
+      },
+      {
+        "label": "C",
+        "text": "Visioner"
+      },
+      {
+        "label": "D",
+        "text": "Memimpin dengan contoh"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Mendelegasikan tugas."
+  },
+  {
+    "num": 108,
+    "q": "Karakteristik yang berorientasi pada tujuan membantu seseorang mencapai tujuannya disebut dengan...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Motivasi"
+      },
+      {
+        "label": "B",
+        "text": "Kepribadian"
+      },
+      {
+        "label": "C",
+        "text": "Integritas"
+      },
+      {
+        "label": "D",
+        "text": "Ability"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Motivasi."
+  },
+  {
+    "num": 109,
+    "q": "Menurut Brazilian Institute of Coaching, berikut ini manfaat dari shared leadership dalam pengelolaan usaha, kecuali...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mendorong perilaku inovatif"
+      },
+      {
+        "label": "B",
+        "text": "Membuat tim berkembang"
+      },
+      {
+        "label": "C",
+        "text": "Menciptakan ikatan saling ketergantungan"
+      },
+      {
+        "label": "D",
+        "text": "Mendukung kerja tim"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Menciptakan ikatan saling ketergantungan."
+  },
+  {
+    "num": 110,
+    "q": "Pemimpin sukses di era disrupsi, seperti pada Deloitte dan MIT, mendorong transformasi di area...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cognitive, Behavioral, Social"
+      },
+      {
+        "label": "B",
+        "text": "Cognitive, Creativity, Social"
+      },
+      {
+        "label": "C",
+        "text": "Cognitive, Behavioral, Emotional"
+      },
+      {
+        "label": "D",
+        "text": "Communication, Behavioral, Emotional"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Cognitive, Behavioral, Social."
+  },
+  {
+    "num": 111,
+    "q": "Berikut ini tips yang harus diperhatikan oleh pemimpin organisasi di era digital, kecuali...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Terbuka berdialog dengan tim"
+      },
+      {
+        "label": "B",
+        "text": "Menginformasikan ide baru"
+      },
+      {
+        "label": "C",
+        "text": "Berdiskusi dengan tim setiap melakukan perubahan"
+      },
+      {
+        "label": "D",
+        "text": "Memberi kesempatan pada tim berkomunikasi formal"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Memberi kesempatan pada tim berkomunikasi formal."
+  },
+  {
+    "num": 112,
+    "q": "University of Berkeley mengupas poin penting yang harus dijalankan wirausahawan dalam menyusun tim efektif yaitu...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ide dari karyawan cerdas lebih berharga"
+      },
+      {
+        "label": "B",
+        "text": "Waspadai karyawan yang tidak terbuka"
+      },
+      {
+        "label": "C",
+        "text": "Pemecahan masalah adalah tanggung jawab leader"
+      },
+      {
+        "label": "D",
+        "text": "Informasi akurat adalah dari sumber yang tepat"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Informasi akurat adalah dari sumber yang tepat."
+  },
+  {
+    "num": 113,
+    "q": "Shared leadership digunakan dalam pengelolaan usaha yang akan memberikan manfaat kepada wirausaha. Salah satu manfaatnya adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pengelolaan dalam usaha"
+      },
+      {
+        "label": "B",
+        "text": "Pengambilan keputusan"
+      },
+      {
+        "label": "C",
+        "text": "Badan usaha terbagi"
+      },
+      {
+        "label": "D",
+        "text": "Eksploitasi kekayaan talenta dalam perusahaan"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Eksploitasi kekayaan talenta dalam perusahaan."
+  },
+  {
+    "num": 114,
+    "q": "Dalam membentuk tim efektif dibutuhkan konsensus untuk...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Membentuk tim yang kreatif"
+      },
+      {
+        "label": "B",
+        "text": "Komunikasi efektif"
+      },
+      {
+        "label": "C",
+        "text": "Menetapkan tujuan dan pemecahan masalah"
+      },
+      {
+        "label": "D",
+        "text": "Mencegah kebingungan saat tim bekerja"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Menetapkan tujuan dan pemecahan masalah."
+  },
+  {
+    "num": 115,
+    "q": "Aktivitas yang akan dilakukan pada elemen identifikasi pekerjaan dalam job description terdapat pada...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ringkasan pekerjaan"
+      },
+      {
+        "label": "B",
+        "text": "Kewajiban pekerjaan"
+      },
+      {
+        "label": "C",
+        "text": "Identifikasi perusahaan"
+      },
+      {
+        "label": "D",
+        "text": "Identifikasi pekerjaan"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Identifikasi pekerjaan."
+  },
+  {
+    "num": 116,
+    "q": "Pemimpin yang paling efektif akan lebih berfokus pada membangun hubungan kepercayaan dan...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kebersamaan"
+      },
+      {
+        "label": "B",
+        "text": "Loyalitas"
+      },
+      {
+        "label": "C",
+        "text": "Pengawasan"
+      },
+      {
+        "label": "D",
+        "text": "Kekuatan"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Kebersamaan."
+  },
+  {
+    "num": 117,
+    "q": "Dalam job description, aktivitas yang akan dilakukan tertulis pada elemen...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ringkasan pekerjaan"
+      },
+      {
+        "label": "B",
+        "text": "Kewajiban pekerjaan"
+      },
+      {
+        "label": "C",
+        "text": "Identifikasi pekerjaan"
+      },
+      {
+        "label": "D",
+        "text": "Identifikasi perusahaan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Kewajiban pekerjaan."
+  },
+  {
+    "num": 118,
+    "q": "Spesifikasi pekerjaan dalam elemen job description merupakan hal penting untuk menentukan...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Compensable Factor"
+      },
+      {
+        "label": "B",
+        "text": "Responsibility"
+      },
+      {
+        "label": "C",
+        "text": "Authority"
+      },
+      {
+        "label": "D",
+        "text": "Role"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Compensable Factor."
+  },
+  {
+    "num": 119,
+    "q": "Sesuatu yang membantu calon pelamar untuk mendapatkan gambaran tentang kondisi perusahaan disebut dengan...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ringkasan pekerjaan"
+      },
+      {
+        "label": "B",
+        "text": "Kewajiban perusahaan"
+      },
+      {
+        "label": "C",
+        "text": "Informasi Perusahaan"
+      },
+      {
+        "label": "D",
+        "text": "Identifikasi perusahaan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Informasi Perusahaan."
+  },
+  {
+    "num": 120,
+    "q": "Terdapat beberapa langkah yang perlu diperhatikan dalam menyusun job description. Salah satunya adalah langkah melakukan analisis pekerjaan yang meliputi hal-hal berikut ini, kecuali...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mengamati pelaksanaan tugas"
+      },
+      {
+        "label": "B",
+        "text": "Meminta karyawan untuk mengisi lembar kerja"
+      },
+      {
+        "label": "C",
+        "text": "Informasi perusahaan"
+      },
+      {
+        "label": "D",
+        "text": "Mewawancarai karyawan tentang tugas yang dilakukan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Informasi perusahaan."
+  },
+  {
+    "num": 121,
+    "q": "Dalam kewirausahaan di era digital, merek memegang peranan penting sebagai identitas produk sekaligus membedakannya dengan produk yang lain. Berikut ini adalah bagian-bagian dari merek, kecuali...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nama"
+      },
+      {
+        "label": "B",
+        "text": "Simbol"
+      },
+      {
+        "label": "C",
+        "text": "Karakter"
+      },
+      {
+        "label": "D",
+        "text": "Hak cipta"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Hak cipta."
+  },
+  {
+    "num": 122,
+    "q": "Pengelompokan produk berdasarkan daya tahan dikelompokkan menjadi...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Habis dikonsumsi dan tahan lama"
+      },
+      {
+        "label": "B",
+        "text": "Material, capital items, dan service"
+      },
+      {
+        "label": "C",
+        "text": "Convenience, specialty, shopping, dan unsought goods"
+      },
+      {
+        "label": "D",
+        "text": "Barang dan jasa"
+      }
+    ],
+    "correct": [
+      0,
+      3
+    ],
+    "isMulti": true,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Habis dikonsumsi dan tahan lama • Barang dan jasa."
+  },
+  {
+    "num": 123,
+    "q": "Manfaat sebenarnya yang diperlukan dan akan dikonsumsi dari setiap produk disebut dengan produk...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Potensial"
+      },
+      {
+        "label": "B",
+        "text": "Pelengkap"
+      },
+      {
+        "label": "C",
+        "text": "Generik"
+      },
+      {
+        "label": "D",
+        "text": "Utama"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Utama."
+  },
+  {
+    "num": 124,
+    "q": "Faktor yang mempengaruhi competitive advantage menurut konsep ekuitas merek dari Aaker adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Perceived Quality"
+      },
+      {
+        "label": "B",
+        "text": "Brand Loyalty"
+      },
+      {
+        "label": "C",
+        "text": "Proprietary Asset"
+      },
+      {
+        "label": "D",
+        "text": "Brand Awareness"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Perceived Quality."
+  },
+  {
+    "num": 125,
+    "q": "Membangun merek yang kuat di era digital memerlukan strategi jitu dari wirausaha. Keunikan konsumen di era digital membuat pelaku bisnis mesti berhati-hati dalam pengembangan merek. Akselerasi pengembangan merek dapat didorong lebih cepat dengan...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Memperkuat ekuitas merek pada produk yang dipasarkan"
+      },
+      {
+        "label": "B",
+        "text": "Berinvestasi lebih besar untuk pengembangan merek"
+      },
+      {
+        "label": "C",
+        "text": "Menyediakan layanan konsumen atas keluhan terhadap merek"
+      },
+      {
+        "label": "D",
+        "text": "Tidak ada jawaban yang benar"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Memperkuat ekuitas merek pada produk yang dipasarkan."
+  },
+  {
+    "num": 126,
+    "q": "Sebuah ukuran ketertarikan konsumen terhadap merek disebut loyalitas merek yang berimplikasi pada...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Penolakan pelanggan terhadap produk lain"
+      },
+      {
+        "label": "B",
+        "text": "Perubahan fitur produk yang ditawarkan kepada konsumen"
+      },
+      {
+        "label": "C",
+        "text": "Peningkatan harga saham perusahaan"
+      },
+      {
+        "label": "D",
+        "text": "Tidak ada jawaban yang benar"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Penolakan pelanggan terhadap produk lain."
+  },
+  {
+    "num": 127,
+    "q": "Asep, seorang wirausaha, menjual produk yang fokus terhadap kebutuhan umum konsumen. Cakupan pasar yang dilakukan Asep adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pemasaran serba aneka"
+      },
+      {
+        "label": "B",
+        "text": "Pemasaran serba sama"
+      },
+      {
+        "label": "C",
+        "text": "Pemasaran terpusat"
+      },
+      {
+        "label": "D",
+        "text": "Pemasaran bercabang"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Pemasaran serba sama."
+  },
+  {
+    "num": 128,
+    "q": "Proses evaluasi segmen pasar akan memunculkan pilihan segmen mana dan berapa banyak segmen yang dilayani disebut dengan...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Keunggulan bersaing"
+      },
+      {
+        "label": "B",
+        "text": "Pasar potensial"
+      },
+      {
+        "label": "C",
+        "text": "Seleksi pasar sasaran"
+      },
+      {
+        "label": "D",
+        "text": "Positioning"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Seleksi pasar sasaran."
+  },
+  {
+    "num": 129,
+    "q": "Langkah penting yang harus dilakukan wirausaha setelah menetapkan strategi positioning adalah...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Menetapkan kalimat tagline"
+      },
+      {
+        "label": "B",
+        "text": "Mengkomunikasikan diferensiasi produk"
+      },
+      {
+        "label": "C",
+        "text": "Mengkomunikasikan posisi produk di pasar"
+      },
+      {
+        "label": "D",
+        "text": "Mengembangkan keunggulan bersaing"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Mengkomunikasikan posisi produk di pasar."
+  },
+  {
+    "num": 130,
+    "q": "Peralihan pemasaran konvensional ke pemasaran digital menyebabkan terjadinya perubahan bauran pemasaran, yaitu berkurangnya peran... dalam proses transaksinya.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Promotion"
+      },
+      {
+        "label": "B",
+        "text": "People"
+      },
+      {
+        "label": "C",
+        "text": "Price"
+      },
+      {
+        "label": "D",
+        "text": "Product"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: People."
+  },
+  {
+    "num": 131,
+    "q": "Berikut ini kelebihan dari strategi pull dalam saluran pemasaran di era digital, kecuali...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tidak ada batasan konten"
+      },
+      {
+        "label": "B",
+        "text": "Kebebasan konten"
+      },
+      {
+        "label": "C",
+        "text": "Teknologi sederhana"
+      },
+      {
+        "label": "D",
+        "text": "Aktif"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Teknologi sederhana."
+  },
+  {
+    "num": 132,
+    "q": "Untuk dapat memperkenalkan produk ke pasar, pemanfaatan pemasaran digital harus memperhatikan konsep AIDA sebagai penjelas bahwa komunikasi yang dibangun pelaku usaha berdampak pada konsumen. Berikut ini adalah konsep AIDA, kecuali...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Awareness"
+      },
+      {
+        "label": "B",
+        "text": "Decision"
+      },
+      {
+        "label": "C",
+        "text": "Interest"
+      },
+      {
+        "label": "D",
+        "text": "Action"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Decision."
+  },
+  {
+    "num": 133,
+    "q": "Kelas pengguna dalam rencana penjualan merupakan bagian dari...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sumber produk"
+      },
+      {
+        "label": "B",
+        "text": "Segmentasi pasar"
+      },
+      {
+        "label": "C",
+        "text": "Pangsa pasar"
+      },
+      {
+        "label": "D",
+        "text": "Pengembangan produk"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Segmentasi pasar."
+  },
+  {
+    "num": 134,
+    "q": "Rencana penjualan dibuat untuk memudahkan proses penjualan yang dilakukan oleh tenaga penjual produk tertentu. Salah satu komponen dari rencana penjualan adalah anggaran biaya yang memberikan gambaran...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Jenis promosi yang digunakan"
+      },
+      {
+        "label": "B",
+        "text": "Sistem distribusi produk yang digunakan"
+      },
+      {
+        "label": "C",
+        "text": "Jumlah tenaga penjual yang terlibat"
+      },
+      {
+        "label": "D",
+        "text": "Proyeksi laba-rugi"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Proyeksi laba-rugi."
+  },
+  {
+    "num": 135,
+    "q": "Dalam rencana penjualan, wirausaha harus menetapkan segmen pasar. Pemetaan segmen pasar ini akan berdampak pada hal-hal berikut ini, kecuali...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Strategi promosi produk"
+      },
+      {
+        "label": "B",
+        "text": "Strategi harga produk"
+      },
+      {
+        "label": "C",
+        "text": "Jenis produk yang dipasarkan"
+      },
+      {
+        "label": "D",
+        "text": "Tidak Ada Jawaban yang Benar"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Tidak Ada Jawaban yang Benar."
+  }
+]

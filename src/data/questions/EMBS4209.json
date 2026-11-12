@@ -1,0 +1,4403 @@
+[
+  {
+    "num": 1,
+    "q": "Fungsi MSDM yang berkaitan dengan keadilan dan kewajaran perusahaan terhadap karyawannya merupakan fungsi ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pengangkatan dan pemberhentian karyawan"
+      },
+      {
+        "label": "B",
+        "text": "pengupahan dan pemberian tunjangan"
+      },
+      {
+        "label": "C",
+        "text": "penilaian kinerja dan penghargaan"
+      },
+      {
+        "label": "D",
+        "text": "pelatihan dan pengembangan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pengupahan dan pemberian tunjangan."
+  },
+  {
+    "num": 2,
+    "q": "Salah satu fungsi penilaian kinerja adalah sebagai alat organisasi untuk ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menghukum karyawan"
+      },
+      {
+        "label": "B",
+        "text": "menentukan seberapa pantas penghargaan akan diberikan kepada karyawan"
+      },
+      {
+        "label": "C",
+        "text": "mempromosikan karyawan"
+      },
+      {
+        "label": "D",
+        "text": "menentukan kenaikan tambahan gaji karyawan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Penilaian & Penghargaan: 360° memakai banyak penilai; Komparatif membandingkan antar karyawan; Intrinsik muncul dari pekerjaan itu sendiri, sedangkan Ekstrinsik bersifat formal/tunjangan. Jawaban: menentukan seberapa pantas penghargaan akan diberikan kepada karyawan."
+  },
+  {
+    "num": 3,
+    "q": "Fungsi manajemen SDM yang berkaitan dengan proses pengkajian dan penelaahan kebutuhan SDM adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pengembangan karier"
+      },
+      {
+        "label": "B",
+        "text": "perencanaan SDM"
+      },
+      {
+        "label": "C",
+        "text": "pengangkatan dan pemberhentian karyawan"
+      },
+      {
+        "label": "D",
+        "text": "kepemimpinan dan produktivitas"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: perencanaan SDM."
+  },
+  {
+    "num": 4,
+    "q": "Perbedaan model pendekatan SDM dengan pendekatan tradisional terletak pada pendekatan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "tradisional sub-subfungsi tidak terpisah dari subfungsi lainnya"
+      },
+      {
+        "label": "B",
+        "text": "tradisional menggambarkan struktur organisasi dari fungsi personalia"
+      },
+      {
+        "label": "C",
+        "text": "SDM memiliki hubungan yang jelas antara tujuan bisnis dan subfungsi manajemen personalia"
+      },
+      {
+        "label": "D",
+        "text": "SDM terdiri dari sedikit ikatan antara subproses perencanaan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: SDM memiliki hubungan yang jelas antara tujuan bisnis dan subfungsi manajemen personalia."
+  },
+  {
+    "num": 5,
+    "q": "Pengusaha mulai menggunakan fungsi manajemen dalam memecahkan permasalahan pekerjaan terjadi pada saat pergerakan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "sumber daya manusia"
+      },
+      {
+        "label": "B",
+        "text": "administrasi personel"
+      },
+      {
+        "label": "C",
+        "text": "hubungan manusia"
+      },
+      {
+        "label": "D",
+        "text": "Great Depression"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: administrasi personel."
+  },
+  {
+    "num": 6,
+    "q": "Pemerintah mulai turun tangan dengan menyediakan hak-hak dasar dan perlindungan kepada karyawan pada masa pergerakan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "administrasi personel"
+      },
+      {
+        "label": "B",
+        "text": "hubungan manusia"
+      },
+      {
+        "label": "C",
+        "text": "sumber daya manusia"
+      },
+      {
+        "label": "D",
+        "text": "Great Depression"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Great Depression."
+  },
+  {
+    "num": 7,
+    "q": "Peran dari manajemen kontribusi karyawan terlihat dalam kehidupan karyawan sehari-hari dalam hal ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "permasalahan dan kebutuhan organisasi"
+      },
+      {
+        "label": "B",
+        "text": "permasalahan dan keprihatinan pimpinan organisasi"
+      },
+      {
+        "label": "C",
+        "text": "keprihatinan dan kebutuhan serikat pekerja"
+      },
+      {
+        "label": "D",
+        "text": "permasalahan, keprihatinan, dan kebutuhan karyawan"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: permasalahan, keprihatinan, dan kebutuhan karyawan."
+  },
+  {
+    "num": 8,
+    "q": "Mendesain dan menyelenggarakan proses-proses SDM secara efisien seperti dalam mengangkat atau menilai karyawan merupakan peran utama dari manajemen ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kontribusi karyawan"
+      },
+      {
+        "label": "B",
+        "text": "transformasi dan perubahan"
+      },
+      {
+        "label": "C",
+        "text": "infrastruktur perusahaan"
+      },
+      {
+        "label": "D",
+        "text": "sumber daya manusia stratejik"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: infrastruktur perusahaan."
+  },
+  {
+    "num": 9,
+    "q": "Menurut Drucker (1988), tantangan manajemen SDM adalah munculnya kecenderungan bahwa tenaga kerja pada saat ini ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "lebih profesional"
+      },
+      {
+        "label": "B",
+        "text": "susah diatur"
+      },
+      {
+        "label": "C",
+        "text": "taat pada perundang-undangan"
+      },
+      {
+        "label": "D",
+        "text": "menuntut pekerjaan yang lebih menantang"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: lebih profesional."
+  },
+  {
+    "num": 10,
+    "q": "Salah satu alasan khusus peningkatan bisnis global adalah menurunkan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pajak tenaga kerja"
+      },
+      {
+        "label": "B",
+        "text": "persaingan tenaga kerja"
+      },
+      {
+        "label": "C",
+        "text": "biaya tenaga kerja"
+      },
+      {
+        "label": "D",
+        "text": "biaya administrasi"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: biaya tenaga kerja."
+  },
+  {
+    "num": 11,
+    "q": "Perubahan peraturan perundang-undangan dalam pola operasi global memerlukan kajian akademik yang signifikan, dan ini merupakan beban bagi Manajer ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Umum"
+      },
+      {
+        "label": "B",
+        "text": "Hubungan Kemasyarakatan"
+      },
+      {
+        "label": "C",
+        "text": "Operasional"
+      },
+      {
+        "label": "D",
+        "text": "Sumber Daya Manusia"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Sumber Daya Manusia."
+  },
+  {
+    "num": 12,
+    "q": "Tantangan baru dan unik bagi setiap manajer pada bisnis global, khususnya keragaman angkatan kerja sangat tergantung pada ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kemampuan mengelola keberagaman talenta karyawan yang dapat mengantarkan pada ide, perspektif, dan pandangan kerja yang inovatif"
+      },
+      {
+        "label": "B",
+        "text": "keberanian membina keberagaman talenta karyawan yang dapat mengantarkan pada ide, perspektif, dan pandangan kerja yang inovatif"
+      },
+      {
+        "label": "C",
+        "text": "kebiasaan membantu keberagaman talenta karyawan yang dapat mengantarkan pada ide, perspektif, dan pandangan kerja yang inovatif"
+      },
+      {
+        "label": "D",
+        "text": "tradisi memotivasi keberagaman talenta karyawan yang dapat mengantarkan pada ide, perspektif, dan pandangan kerja yang inovatif"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: kemampuan mengelola keberagaman talenta karyawan yang dapat mengantarkan pada ide, perspektif, dan pandangan kerja yang inovatif."
+  },
+  {
+    "num": 13,
+    "q": "Berdasarkan persepsi pelanggan, keunggulan kompetitif berarti bahwa pelanggan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mendapat kepuasan"
+      },
+      {
+        "label": "B",
+        "text": "setia kepada perusahaan"
+      },
+      {
+        "label": "C",
+        "text": "memperoleh nilai lebih tinggi dari transaksinya dengan perusahaan"
+      },
+      {
+        "label": "D",
+        "text": "selalu diutamakan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: memperoleh nilai lebih tinggi dari transaksinya dengan perusahaan."
+  },
+  {
+    "num": 14,
+    "q": "Kondisi yang membahayakan perusahaan adalah jika perusahaan gagal mengambil keunggulan dari ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kapasitas produksinya"
+      },
+      {
+        "label": "B",
+        "text": "kapabilitas uniknya"
+      },
+      {
+        "label": "C",
+        "text": "kapabilitas organisasinya"
+      },
+      {
+        "label": "D",
+        "text": "fasilitas sumber dayanya"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: kapabilitas uniknya."
+  },
+  {
+    "num": 15,
+    "q": "Contoh kebijakan SDM yang dapat menurunkan nilai pelanggan adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "produk yang kurang berkualitas"
+      },
+      {
+        "label": "B",
+        "text": "pengiriman barang yang cepat"
+      },
+      {
+        "label": "C",
+        "text": "penetapan harga produk yang rendah"
+      },
+      {
+        "label": "D",
+        "text": "pemberian kompensasi yang rendah"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pemberian kompensasi yang rendah."
+  },
+  {
+    "num": 16,
+    "q": "Salah satu praktik manajemen sumber daya manusia yang dapat membantu perusahaan dalam menciptakan keunggulan kompetitif adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "merekrut sumber daya manusia dari perusahaan lain"
+      },
+      {
+        "label": "B",
+        "text": "merotasi karyawan yang bermasalah"
+      },
+      {
+        "label": "C",
+        "text": "melalui program penilaian dan pengembangan"
+      },
+      {
+        "label": "D",
+        "text": "melakukan kontrak kerja"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: melalui program penilaian dan pengembangan."
+  },
+  {
+    "num": 17,
+    "q": "Program penilaian dan pengembangan sumber daya manusia merupakan salah satu praktik MSDM yang dapat membantu perusahaan dalam menciptakan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "keunggulan kompetitif"
+      },
+      {
+        "label": "B",
+        "text": "produk baru"
+      },
+      {
+        "label": "C",
+        "text": "karyawan teladan"
+      },
+      {
+        "label": "D",
+        "text": "rencana strategis perusahaan"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: keunggulan kompetitif."
+  },
+  {
+    "num": 18,
+    "q": "Kemampuan bisnis untuk mengelola sistem organisasi dan orang-orang yang terlibat di dalamnya untuk menyelaraskan (matching) antara kebutuhan pelanggan dan kebutuhan strategi merupakan tipe tradisional dari sumber daya yang menawarkan keunikan, yaitu kapital ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "finansial"
+      },
+      {
+        "label": "B",
+        "text": "fisik organisasi"
+      },
+      {
+        "label": "C",
+        "text": "manusia"
+      },
+      {
+        "label": "D",
+        "text": "organisasional"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: organisasional."
+  },
+  {
+    "num": 19,
+    "q": "Pertalian yang dinamis, banyak segi, dan berbasis pada kontinuitas daripada interaksi sekuensial merupakan salah satu dari empat level keterkaitan antara fungsi sumber daya manusia dengan manajemen strategik. Hal ini biasa disebut dengan keterkaitan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "administratif"
+      },
+      {
+        "label": "B",
+        "text": "one-way"
+      },
+      {
+        "label": "C",
+        "text": "two-way"
+      },
+      {
+        "label": "D",
+        "text": "integratif"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: integratif."
+  },
+  {
+    "num": 20,
+    "q": "Dua tahapan peran MSDM dalam proses manajemen stratejik adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "analisis dan implementasi"
+      },
+      {
+        "label": "B",
+        "text": "penetapan dan pemilihan"
+      },
+      {
+        "label": "C",
+        "text": "formulasi dan implementasi"
+      },
+      {
+        "label": "D",
+        "text": "monitoring dan evaluasi"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: formulasi dan implementasi."
+  },
+  {
+    "num": 21,
+    "q": "Keterkaitan integratif sebagai salah satu level keterkaitan SDM dan manajemen stratejik lebih berbasis pada ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "interaksi sekuensial"
+      },
+      {
+        "label": "B",
+        "text": "kontinuitas"
+      },
+      {
+        "label": "C",
+        "text": "strategi perusahaan"
+      },
+      {
+        "label": "D",
+        "text": "visi dan misi perusahaan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: kontinuitas."
+  },
+  {
+    "num": 22,
+    "q": "Salah satu proses pokok yang dilakukan oleh perusahaan sebelum mempekerjakan karyawan adalah proses perekrutan yang mewajibkan perusahaan untuk ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "melaporkan lowongan pekerjaan"
+      },
+      {
+        "label": "B",
+        "text": "memperoleh izin"
+      },
+      {
+        "label": "C",
+        "text": "berbadan hukum"
+      },
+      {
+        "label": "D",
+        "text": "membuat perjanjian"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: melaporkan lowongan pekerjaan."
+  },
+  {
+    "num": 23,
+    "q": "Organisasi/perusahaan harus menawarkan pekerjaan yang cocok kepada calon karyawan sesuai dengan kemampuan dan persyaratan jabatan yang dibutuhkan serta memperhatikan kepentingan umum dengan tidak memihak kepada kepentingan pihak tertentu, merupakan salah satu asas dalam penempatan tenaga kerja yaitu asas ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "terbuka"
+      },
+      {
+        "label": "B",
+        "text": "bebas"
+      },
+      {
+        "label": "C",
+        "text": "objektif"
+      },
+      {
+        "label": "D",
+        "text": "adil"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: adil."
+  },
+  {
+    "num": 24,
+    "q": "Pengusaha melaporkan lowongan pekerjaan kepada departemen/dinas terkait berarti perusahaan melakukan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "persamaan hak"
+      },
+      {
+        "label": "B",
+        "text": "diskriminasi"
+      },
+      {
+        "label": "C",
+        "text": "proses perekrutan"
+      },
+      {
+        "label": "D",
+        "text": "penempatan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: proses perekrutan."
+  },
+  {
+    "num": 25,
+    "q": "Pengusaha yang mempekerjakan pekerja melebihi ketentuan pokok waktu kerja wajib membayar upah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kerja lembur"
+      },
+      {
+        "label": "B",
+        "text": "minimum"
+      },
+      {
+        "label": "C",
+        "text": "pesangon"
+      },
+      {
+        "label": "D",
+        "text": "perhitungan PPh"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: kerja lembur."
+  },
+  {
+    "num": 26,
+    "q": "Undang-Undang Nomor 13 Tahun 2003 Pasal 86 ayat (1) huruf a menyatakan bahwa setiap pekerja/buruh mempunyai hak untuk memperoleh perlindungan atas ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kesejahteraan"
+      },
+      {
+        "label": "B",
+        "text": "keselamatan dan kesehatan kerja"
+      },
+      {
+        "label": "C",
+        "text": "keselamatan kerja selama bekerja di tempat kerja"
+      },
+      {
+        "label": "D",
+        "text": "kesehatan kerja bagi keluarga pekerja"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: keselamatan dan kesehatan kerja."
+  },
+  {
+    "num": 27,
+    "q": "Upah minimum ditentukan oleh Peraturan Menteri Tenaga Kerja Nomor ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Per-01/MEN/1967"
+      },
+      {
+        "label": "B",
+        "text": "Per-01/MEN/1997"
+      },
+      {
+        "label": "C",
+        "text": "Per-01/MEN/1998"
+      },
+      {
+        "label": "D",
+        "text": "Per-01/MEN/1999"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Aturan Ketenagakerjaan & Kompensasi: Perhatikan ketentuan norma kerja/UU 13 Tahun 2003 serta klasifikasi PHK (sukarela vs pengusaha). Jawaban yang sesuai adalah: Per-01/MEN/1998."
+  },
+  {
+    "num": 28,
+    "q": "Besaran uang pesangon yang diberikan pengusaha kepada pekerja sebagai akibat adanya pemutusan hubungan kerja yang masa kerjanya empat tahun atau lebih tetapi kurang dari lima tahun adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "6 bulan upah"
+      },
+      {
+        "label": "B",
+        "text": "4 bulan upah"
+      },
+      {
+        "label": "C",
+        "text": "5 bulan upah"
+      },
+      {
+        "label": "D",
+        "text": "7 bulan upah"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Aturan Ketenagakerjaan & Kompensasi: Perhatikan ketentuan norma kerja/UU 13 Tahun 2003 serta klasifikasi PHK (sukarela vs pengusaha). Jawaban yang sesuai adalah: 5 bulan upah."
+  },
+  {
+    "num": 29,
+    "q": "Berakhirnya hak dan kewajiban antara karyawan dan pengusaha disebut ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "berakhir kontrak kerja"
+      },
+      {
+        "label": "B",
+        "text": "pemutusan hubungan kerja"
+      },
+      {
+        "label": "C",
+        "text": "berakhir perjanjian kerja"
+      },
+      {
+        "label": "D",
+        "text": "pemutusan persetujuan kerja"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pemutusan hubungan kerja."
+  },
+  {
+    "num": 30,
+    "q": "Pemutusan hubungan kerja yang disebabkan karena pindah ke perusahaan lain adalah salah satu contoh jenis pemutusan hubungan kerja ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "atas keinginan karyawan"
+      },
+      {
+        "label": "B",
+        "text": "tanpa sepengetahuan perusahaan"
+      },
+      {
+        "label": "C",
+        "text": "tanpa izin serikat pekerja"
+      },
+      {
+        "label": "D",
+        "text": "atas desakan organisasi politik"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Aturan Ketenagakerjaan & Kompensasi: Perhatikan ketentuan norma kerja/UU 13 Tahun 2003 serta klasifikasi PHK (sukarela vs pengusaha). Jawaban yang sesuai adalah: atas keinginan karyawan."
+  },
+  {
+    "num": 31,
+    "q": "Salah satu tugas dari Lembaga Administrasi Negara menurut undang-undang yang berlaku adalah melakukan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pembinaan dan penyelenggaraan pendidikan dan pelatihan Aparatur Negara"
+      },
+      {
+        "label": "B",
+        "text": "penelitian dan pengembangan administrasi"
+      },
+      {
+        "label": "C",
+        "text": "pengoordinasian kegiatan fungsional dalam pelaksanaan tugas"
+      },
+      {
+        "label": "D",
+        "text": "pengkajian kinerja kelembagaan dan sumber daya manusia"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pembinaan dan penyelenggaraan pendidikan dan pelatihan Aparatur Negara."
+  },
+  {
+    "num": 32,
+    "q": "Pengadaan pegawai sebagai bagian dari proses manajemen PNS antara lain ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mengidentifikasi kebutuhan untuk melakukan pengadaan"
+      },
+      {
+        "label": "B",
+        "text": "mengidentifikasi kelulusan calon pekerja"
+      },
+      {
+        "label": "C",
+        "text": "menyalurkan calon pekerja di bidang masing-masing"
+      },
+      {
+        "label": "D",
+        "text": "memberikan pengarahan kepada calon pekerja"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: mengidentifikasi kebutuhan untuk melakukan pengadaan."
+  },
+  {
+    "num": 33,
+    "q": "Ketentuan pokok tentang Pegawai Negeri Sipil (PNS) meliputi kegiatan yang dimulai dari ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "promosi, kenaikan jabatan, disiplin, kenaikan pangkat, dan pensiun"
+      },
+      {
+        "label": "B",
+        "text": "rekrutmen pegawai, pengembangan, peningkatan karier, pemberian kompensasi, penegakan disiplin, dan pemensiunan"
+      },
+      {
+        "label": "C",
+        "text": "remunerasi, promosi, disiplin, kenaikan jabatan, kenaikan pangkat, dan pensiun"
+      },
+      {
+        "label": "D",
+        "text": "penegakan disiplin, promosi, kenaikan pangkat, pengembangan, dan pensiun"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: rekrutmen pegawai, pengembangan, peningkatan karier, pemberian kompensasi, penegakan disiplin, dan pemensiunan."
+  },
+  {
+    "num": 34,
+    "q": "Deskripsi jabatan digunakan untuk ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mengidentifikasi daftar fungsi pekerjaan"
+      },
+      {
+        "label": "B",
+        "text": "merumuskan spesifikasi jabatan"
+      },
+      {
+        "label": "C",
+        "text": "membuat daftar wewenang"
+      },
+      {
+        "label": "D",
+        "text": "menyusun daftar tugas sesuai dengan kebutuhan"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Konsep Jabatan: Bedakan 3 istilah inti → Analisis jabatan (proses kumpulkan info), Deskripsi jabatan (daftar tugas/ringkasan kerja), Spesifikasi jabatan (syarat pendidikan, pengalaman, pengetahuan & sikap). Maka tepat: mengidentifikasi daftar fungsi pekerjaan."
+  },
+  {
+    "num": 35,
+    "q": "Menurut Noe et al. (2003), informasi yang diperoleh dari analisis jabatan sangat penting digunakan untuk ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "desain ulang pekerjaan"
+      },
+      {
+        "label": "B",
+        "text": "desain tunjangan karyawan"
+      },
+      {
+        "label": "C",
+        "text": "penyusunan budget anggaran"
+      },
+      {
+        "label": "D",
+        "text": "pelaksanaan hubungan industrial"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Konsep Jabatan: Bedakan 3 istilah inti → Analisis jabatan (proses kumpulkan info), Deskripsi jabatan (daftar tugas/ringkasan kerja), Spesifikasi jabatan (syarat pendidikan, pengalaman, pengetahuan & sikap). Maka tepat: desain ulang pekerjaan."
+  },
+  {
+    "num": 36,
+    "q": "Metode analisis jabatan adalah suatu proses untuk mempelajari dan mengumpulkan berbagai informasi yang berhubungan dengan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "persyaratan operasi jabatan"
+      },
+      {
+        "label": "B",
+        "text": "berbagai kewajiban dan hak karyawan"
+      },
+      {
+        "label": "C",
+        "text": "berbagai operasi dan kewajiban suatu jabatan"
+      },
+      {
+        "label": "D",
+        "text": "data tentang wewenang jabatan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Konsep Jabatan: Bedakan 3 istilah inti → Analisis jabatan (proses kumpulkan info), Deskripsi jabatan (daftar tugas/ringkasan kerja), Spesifikasi jabatan (syarat pendidikan, pengalaman, pengetahuan & sikap). Maka tepat: berbagai operasi dan kewajiban suatu jabatan."
+  },
+  {
+    "num": 37,
+    "q": "Salah satu contoh kegiatan sebagai bagian dari tahapan proses analisis jabatan adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mengkaji ulang jabatan secara berkala"
+      },
+      {
+        "label": "B",
+        "text": "menyiapkan data evaluasi jabatan"
+      },
+      {
+        "label": "C",
+        "text": "mengembangkan deskripsi jabatan"
+      },
+      {
+        "label": "D",
+        "text": "mengkaji konsep dan metode evaluasi jabatan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Konsep Jabatan: Bedakan 3 istilah inti → Analisis jabatan (proses kumpulkan info), Deskripsi jabatan (daftar tugas/ringkasan kerja), Spesifikasi jabatan (syarat pendidikan, pengalaman, pengetahuan & sikap). Maka tepat: mengembangkan deskripsi jabatan."
+  },
+  {
+    "num": 38,
+    "q": "Salah satu contoh kegiatan sebagai bagian dari tahapan proses analisis jabatan adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mengkaji dan menyusun jabatan"
+      },
+      {
+        "label": "B",
+        "text": "memfinalkan uraian dan rekomendasi pekerjaan"
+      },
+      {
+        "label": "C",
+        "text": "mengumpulkan data dan analisis jabatan"
+      },
+      {
+        "label": "D",
+        "text": "mengevaluasi spesifikasi jabatan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Konsep Jabatan: Bedakan 3 istilah inti → Analisis jabatan (proses kumpulkan info), Deskripsi jabatan (daftar tugas/ringkasan kerja), Spesifikasi jabatan (syarat pendidikan, pengalaman, pengetahuan & sikap). Maka tepat: mengumpulkan data dan analisis jabatan."
+  },
+  {
+    "num": 39,
+    "q": "Kegiatan pengembangan deskripsi dan spesifikasi jabatan sebagai bagian dari tahapan proses analisis jabatan dimulai dengan proses ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menyusun konsep deskripsi dan spesifikasi jabatan"
+      },
+      {
+        "label": "B",
+        "text": "memutakhirkan deskripsi dan spesifikasi jabatan sesuai perkembangan organisasi"
+      },
+      {
+        "label": "C",
+        "text": "mengkaji data jabatan yang akan dianalisis"
+      },
+      {
+        "label": "D",
+        "text": "menyusun konsep jabatan yang akan dianalisis"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Konsep Jabatan: Bedakan 3 istilah inti → Analisis jabatan (proses kumpulkan info), Deskripsi jabatan (daftar tugas/ringkasan kerja), Spesifikasi jabatan (syarat pendidikan, pengalaman, pengetahuan & sikap). Maka tepat: menyusun konsep deskripsi dan spesifikasi jabatan."
+  },
+  {
+    "num": 40,
+    "q": "Suatu uraian yang menyatakan bahwa tugas seorang manajer pemasaran yakni merencanakan, mengarahkan, dan mengoordinasi produk/jasa perusahaan merupakan salah satu komponen deskripsi jabatan yang berupa ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "identifikasi jabatan"
+      },
+      {
+        "label": "B",
+        "text": "ringkasan jabatan"
+      },
+      {
+        "label": "C",
+        "text": "lingkup jabatan"
+      },
+      {
+        "label": "D",
+        "text": "standar jabatan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Konsep Jabatan: Bedakan 3 istilah inti → Analisis jabatan (proses kumpulkan info), Deskripsi jabatan (daftar tugas/ringkasan kerja), Spesifikasi jabatan (syarat pendidikan, pengalaman, pengetahuan & sikap). Maka tepat: ringkasan jabatan."
+  },
+  {
+    "num": 41,
+    "q": "Spesifikasi jabatan sebagai salah satu komponen deskripsi jabatan secara tipikal dinyatakan sebagai suatu ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pengetahuan, keterampilan, dan sikap"
+      },
+      {
+        "label": "B",
+        "text": "tanggung jawab dan wewenang"
+      },
+      {
+        "label": "C",
+        "text": "tugas pokok dan fungsi"
+      },
+      {
+        "label": "D",
+        "text": "standar kinerja jabatan"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Konsep Jabatan: Bedakan 3 istilah inti → Analisis jabatan (proses kumpulkan info), Deskripsi jabatan (daftar tugas/ringkasan kerja), Spesifikasi jabatan (syarat pendidikan, pengalaman, pengetahuan & sikap). Maka tepat: pengetahuan, keterampilan, dan sikap."
+  },
+  {
+    "num": 42,
+    "q": "Sebagai dasar untuk menyusun jalur promosi merupakan salah satu manfaat dari ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "deskripsi jabatan"
+      },
+      {
+        "label": "B",
+        "text": "spesifikasi jabatan"
+      },
+      {
+        "label": "C",
+        "text": "analisis jabatan"
+      },
+      {
+        "label": "D",
+        "text": "perencanaan jabatan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: analisis jabatan."
+  },
+  {
+    "num": 43,
+    "q": "Hal yang tidak termasuk dalam karakteristik yang berkenaan dengan budaya kerja sebagai komponen dari deskripsi jabatan berbasis kompetensi adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "aktivitas tinggi"
+      },
+      {
+        "label": "B",
+        "text": "akuntabilitas"
+      },
+      {
+        "label": "C",
+        "text": "fleksibel"
+      },
+      {
+        "label": "D",
+        "text": "mutu tinggi"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Konsep Jabatan: Bedakan 3 istilah inti → Analisis jabatan (proses kumpulkan info), Deskripsi jabatan (daftar tugas/ringkasan kerja), Spesifikasi jabatan (syarat pendidikan, pengalaman, pengetahuan & sikap). Maka tepat: aktivitas tinggi."
+  },
+  {
+    "num": 44,
+    "q": "Di bawah ini merupakan sifat yang berkenaan dengan preferensi kerja sebagai komponen dari deskripsi jabatan berbasis kompetensi yang berkaitan dengan kepribadian adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mutu tinggi"
+      },
+      {
+        "label": "B",
+        "text": "akuntabilitas"
+      },
+      {
+        "label": "C",
+        "text": "fleksibel"
+      },
+      {
+        "label": "D",
+        "text": "kemandirian"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Konsep Jabatan: Bedakan 3 istilah inti → Analisis jabatan (proses kumpulkan info), Deskripsi jabatan (daftar tugas/ringkasan kerja), Spesifikasi jabatan (syarat pendidikan, pengalaman, pengetahuan & sikap). Maka tepat: kemandirian."
+  },
+  {
+    "num": 45,
+    "q": "Pengukuran kinerja sebagai komponen dari deskripsi jabatan berbasis kompetensi secara singkat berisi tentang suatu ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kemampuan dan perilaku kritikal dalam mencapai misi dan tujuan jabatan"
+      },
+      {
+        "label": "B",
+        "text": "asumsi, nilai, dan kebiasaan yang harus dimiliki manajer dan karyawan dalam melakukan pekerjaan"
+      },
+      {
+        "label": "C",
+        "text": "pengukuran untuk pemangku jabatan yang akuntabel"
+      },
+      {
+        "label": "D",
+        "text": "sifat jabatan dengan karakteristik kepribadian"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Konsep Jabatan: Bedakan 3 istilah inti → Analisis jabatan (proses kumpulkan info), Deskripsi jabatan (daftar tugas/ringkasan kerja), Spesifikasi jabatan (syarat pendidikan, pengalaman, pengetahuan & sikap). Maka tepat: kemampuan dan perilaku kritikal dalam mencapai misi dan tujuan jabatan."
+  },
+  {
+    "num": 46,
+    "q": "Pendekatan dalam spesifikasi jabatan yang didasarkan pada estimasi terhadap latar belakang pendidikan seseorang disebut pendekatan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "statistik"
+      },
+      {
+        "label": "B",
+        "text": "judgement"
+      },
+      {
+        "label": "C",
+        "text": "perception"
+      },
+      {
+        "label": "D",
+        "text": "intelligence"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Konsep Jabatan: Bedakan 3 istilah inti → Analisis jabatan (proses kumpulkan info), Deskripsi jabatan (daftar tugas/ringkasan kerja), Spesifikasi jabatan (syarat pendidikan, pengalaman, pengetahuan & sikap). Maka tepat: judgement."
+  },
+  {
+    "num": 47,
+    "q": "Isi dari spesifikasi jabatan adalah mengidentifikasi jabatan berupa ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "nama dan bagian"
+      },
+      {
+        "label": "B",
+        "text": "pendidikan dan pengalaman"
+      },
+      {
+        "label": "C",
+        "text": "usia dan persyaratan fisik"
+      },
+      {
+        "label": "D",
+        "text": "jenis kelamin dan kewarganegaraan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Konsep Jabatan: Bedakan 3 istilah inti → Analisis jabatan (proses kumpulkan info), Deskripsi jabatan (daftar tugas/ringkasan kerja), Spesifikasi jabatan (syarat pendidikan, pengalaman, pengetahuan & sikap). Maka tepat: pendidikan dan pengalaman."
+  },
+  {
+    "num": 48,
+    "q": "Berikut adalah hal-hal yang berkaitan dengan tahapan yang harus dilalui untuk menentukan secara statistik hubungan antara prediktor atau sifat manusia dan sejumlah indikator atau kriterium keefektifan jabatan, kecuali ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menganalisis jabatan dan memutuskan bagaimana mengukur kinerja jabatan"
+      },
+      {
+        "label": "B",
+        "text": "menyeleksi calon mengenai sifat-sifat tersebut"
+      },
+      {
+        "label": "C",
+        "text": "menilai kesungguhan kerja pegawai"
+      },
+      {
+        "label": "D",
+        "text": "memilih sifat-sifat personalia yang diyakini dapat memprediksi keberhasilan kinerja"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: menilai kesungguhan kerja pegawai."
+  },
+  {
+    "num": 49,
+    "q": "Salah satu rekomendasi manajemen ilmiah Taylor dalam pendekatan mekanistik adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "karyawan harus sering dimotivasi"
+      },
+      {
+        "label": "B",
+        "text": "pekerjaan harus dikaji secara ilmiah"
+      },
+      {
+        "label": "C",
+        "text": "pekerja yang dipilih untuk bekerja harus cocok dengan tuntutan jabatan"
+      },
+      {
+        "label": "D",
+        "text": "karyawan harus dilatih untuk melaksanakan jabatan secara ilmiah"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pekerjaan harus dikaji secara ilmiah."
+  },
+  {
+    "num": 50,
+    "q": "Mengidentifikasi bagaimana pekerjaan dilaksanakan secara tepat dan akurat merupakan proses desain jabatan pada fase ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kombinasi individu dalam jabatan khusus"
+      },
+      {
+        "label": "B",
+        "text": "spesifikasi tugas individu"
+      },
+      {
+        "label": "C",
+        "text": "spesifikasi metode pelaksanaan tugas khusus"
+      },
+      {
+        "label": "D",
+        "text": "kombinasi individu dalam tugas individu"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: spesifikasi metode pelaksanaan tugas khusus."
+  },
+  {
+    "num": 51,
+    "q": "Fase dalam desain jabatan yang mengidentifikasi jabatan dilaksanakan secara tepat dan akurat adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "spesifikasi tugas individu"
+      },
+      {
+        "label": "B",
+        "text": "kombinasi individu dalam jabatan khusus"
+      },
+      {
+        "label": "C",
+        "text": "spesifikasi metode pelaksanaan"
+      },
+      {
+        "label": "D",
+        "text": "kombinasi individu dengan kelompok"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: spesifikasi metode pelaksanaan."
+  },
+  {
+    "num": 52,
+    "q": "Usaha pencarian untuk melihat ketersediaan dan motivasi orang yang memiliki keahlian sesuai yang dibutuhkan oleh organisasi sebagai bagian dari analisis penawaran dan permintaan SDM merupakan kegiatan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "peramalan organisasi"
+      },
+      {
+        "label": "B",
+        "text": "analisis pasar"
+      },
+      {
+        "label": "C",
+        "text": "pengamatan terhadap lingkungan"
+      },
+      {
+        "label": "D",
+        "text": "perencanaan perusahaan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: analisis pasar."
+  },
+  {
+    "num": 53,
+    "q": "Menetapkan kondisi eksternal, ancaman, peluang serta kompetensi, kekuatan maupun kelemahan adalah formulasi dan implementasi perencanaan strategik tahap ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menentukan misi"
+      },
+      {
+        "label": "B",
+        "text": "menilai lingkungan"
+      },
+      {
+        "label": "C",
+        "text": "menetapkan sasaran"
+      },
+      {
+        "label": "D",
+        "text": "menetapkan strategi"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: menilai lingkungan."
+  },
+  {
+    "num": 54,
+    "q": "Analisis penawaran dan permintaan SDM mencakup .... WA",
+    "options": [
+      {
+        "label": "A",
+        "text": "analisis pasar tenaga kerja dan perencanaan suksesi"
+      },
+      {
+        "label": "B",
+        "text": "pengamatan terhadap lingkungan, peramalan, perencanaan suksesi"
+      },
+      {
+        "label": "C",
+        "text": "pengamatan eksternal, perencanaan perusahaan, dan target perusahaan"
+      },
+      {
+        "label": "D",
+        "text": "perencanaan internal, peramalan, perencanaan suksesi"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pengamatan terhadap lingkungan, peramalan, perencanaan suksesi."
+  },
+  {
+    "num": 55,
+    "q": "Hal yang tidak termasuk dalam cakupan pilihan strategik yang terkait dengan perencanaan Sumber Daya Manusia yang dikemukakan oleh Anthony, Kacmar, dan Perrewé (2002) adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "reaktif atau proaktif"
+      },
+      {
+        "label": "B",
+        "text": "sempit atau luas"
+      },
+      {
+        "label": "C",
+        "text": "jangka panjang atau jangka pendek"
+      },
+      {
+        "label": "D",
+        "text": "informal atau formal"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: sempit atau luas."
+  },
+  {
+    "num": 56,
+    "q": "Salah satu alat peramalan kebutuhan SDM yang melakukan analisis tentang keseluruhan sumber daya manusia adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pendekatan bawah atas"
+      },
+      {
+        "label": "B",
+        "text": "peramalan basis nol"
+      },
+      {
+        "label": "C",
+        "text": "model-model simulasi"
+      },
+      {
+        "label": "D",
+        "text": "korelasi volume penjualan dengan kebutuhan karyawan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: peramalan basis nol."
+  },
+  {
+    "num": 57,
+    "q": "Model untuk mendapatkan banyak pemikiran untuk permasalahan tertentu sebelum membuat keputusan secara nyata dalam peramalan ketersediaan SDM disebut ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pendekatan bawah atas"
+      },
+      {
+        "label": "B",
+        "text": "peramalan basis nol"
+      },
+      {
+        "label": "C",
+        "text": "model-model simulasi"
+      },
+      {
+        "label": "D",
+        "text": "menghubungkan volume penjualan dengan kebutuhan karyawan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: model-model simulasi."
+  },
+  {
+    "num": 58,
+    "q": "Hal yang tidak termasuk dalam tiga aspek area perekrutan yang dikemukakan oleh Noe et al. (2007) adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "sumber perekrutan"
+      },
+      {
+        "label": "B",
+        "text": "kebijakan-kebijakan personalia"
+      },
+      {
+        "label": "C",
+        "text": "ketersediaan dan tingkat kebutuhan"
+      },
+      {
+        "label": "D",
+        "text": "karakteristik serta perilaku perekrut"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: ketersediaan dan tingkat kebutuhan."
+  },
+  {
+    "num": 59,
+    "q": "Sifat dan perilaku perekrut yang dianggap memengaruhi program rekrutmen adalah menyangkut ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "karakteristik personal dan perilakunya"
+      },
+      {
+        "label": "B",
+        "text": "kondisi fisik perekrut"
+      },
+      {
+        "label": "C",
+        "text": "cara pandang dan pengetahuan perekrut"
+      },
+      {
+        "label": "D",
+        "text": "karakteristik manajerial dan organisasi"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: karakteristik personal dan perilakunya."
+  },
+  {
+    "num": 60,
+    "q": "Menurut Noe et al. (2007), ada beberapa langkah yang dapat dilakukan perusahaan dalam rangka meningkatkan efektivitas perekrut agar dapat meningkatkan dampak positif perekrut terhadap pilihan jabatan para pelamar, salah satunya adalah perekrut harus ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "memberikan umpan balik kepada calon secara tepat waktu"
+      },
+      {
+        "label": "B",
+        "text": "menunjukkan segi positif dari lowongan yang ditawarkan agar pelamar mau mengisi jabatan tersebut"
+      },
+      {
+        "label": "C",
+        "text": "lebih menonjolkan sisi beratnya tanggung jawab yang harus dilakukan oleh pemangku jabatan"
+      },
+      {
+        "label": "D",
+        "text": "berlaku adil kepada setiap pelamar"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: memberikan umpan balik kepada calon secara tepat waktu."
+  },
+  {
+    "num": 61,
+    "q": "Tes yang dapat mengetahui apakah pelamar memiliki kompetensi pada pekerjaan yang ditawarkan perusahaan adalah tes ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pengetahuan"
+      },
+      {
+        "label": "B",
+        "text": "pengetahuan pekerjaan dan kecakapan"
+      },
+      {
+        "label": "C",
+        "text": "kecerdasan"
+      },
+      {
+        "label": "D",
+        "text": "potensi akademik"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pengetahuan pekerjaan dan kecakapan."
+  },
+  {
+    "num": 62,
+    "q": "Untuk dapat melihat seberapa tinggi seseorang menyukai bidang pekerjaan tertentu dapat menggunakan tes ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "bakat"
+      },
+      {
+        "label": "B",
+        "text": "kepribadian"
+      },
+      {
+        "label": "C",
+        "text": "polygraph"
+      },
+      {
+        "label": "D",
+        "text": "minat"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: minat."
+  },
+  {
+    "num": 63,
+    "q": "Cara menilai pelamar pekerjaan agar lebih objektif dan meningkatkan akurasi proses seleksi adalah dengan melakukan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "tes"
+      },
+      {
+        "label": "B",
+        "text": "wawancara"
+      },
+      {
+        "label": "C",
+        "text": "penyaringan"
+      },
+      {
+        "label": "D",
+        "text": "orientasi"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: tes."
+  },
+  {
+    "num": 64,
+    "q": "Seorang karyawan mengundurkan diri dengan alasan perubahan karier merupakan pemutusan hubungan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "secara sepihak"
+      },
+      {
+        "label": "B",
+        "text": "secara sukarela"
+      },
+      {
+        "label": "C",
+        "text": "kesepakatan kedua pihak"
+      },
+      {
+        "label": "D",
+        "text": "menurut hukum"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Aturan Ketenagakerjaan & Kompensasi: Perhatikan ketentuan norma kerja/UU 13 Tahun 2003 serta klasifikasi PHK (sukarela vs pengusaha). Jawaban yang sesuai adalah: secara sukarela."
+  },
+  {
+    "num": 65,
+    "q": "Besaran uang pesangon yang harus diberikan pengusaha jika melakukan pemutusan hubungan kerja kepada karyawan yang telah memiliki masa kerja lebih dari lima tahun adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "2 bulan upah"
+      },
+      {
+        "label": "B",
+        "text": "4 bulan upah"
+      },
+      {
+        "label": "C",
+        "text": "3 bulan upah"
+      },
+      {
+        "label": "D",
+        "text": "9 bulan upah"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Aturan Ketenagakerjaan & Kompensasi: Perhatikan ketentuan norma kerja/UU 13 Tahun 2003 serta klasifikasi PHK (sukarela vs pengusaha). Jawaban yang sesuai adalah: 9 bulan upah."
+  },
+  {
+    "num": 66,
+    "q": "Pemutusan Hubungan Kerja (PHK) akibat restrukturisasi perusahaan adalah PHK yang diprakarsai oleh ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pemerintah"
+      },
+      {
+        "label": "B",
+        "text": "pengadilan"
+      },
+      {
+        "label": "C",
+        "text": "pekerja/buruh"
+      },
+      {
+        "label": "D",
+        "text": "pengusaha"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Aturan Ketenagakerjaan & Kompensasi: Perhatikan ketentuan norma kerja/UU 13 Tahun 2003 serta klasifikasi PHK (sukarela vs pengusaha). Jawaban yang sesuai adalah: pengusaha."
+  },
+  {
+    "num": 67,
+    "q": "Dapat menyediakan insentif adalah salah satu kriteria kompensasi yang efektif. Artinya, kompensasi harus ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "sesuai dengan usaha, kemampuan, dan keahlian mereka"
+      },
+      {
+        "label": "B",
+        "text": "memberikan suatu penghargaan yang masuk akal"
+      },
+      {
+        "label": "C",
+        "text": "memenuhi persyaratan minimum menurut pemerintah"
+      },
+      {
+        "label": "D",
+        "text": "dapat memotivasi keefektifan dan produktivitas kerja"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: dapat memotivasi keefektifan dan produktivitas kerja."
+  },
+  {
+    "num": 68,
+    "q": "Memenuhi persyaratan minimum menurut pemerintah, serikat pekerja, dan manajer merupakan salah satu kategori kriteria kompensasi yang disebut .... WA",
+    "options": [
+      {
+        "label": "A",
+        "text": "adil"
+      },
+      {
+        "label": "B",
+        "text": "layak"
+      },
+      {
+        "label": "C",
+        "text": "efektif"
+      },
+      {
+        "label": "D",
+        "text": "seimbang"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: layak."
+  },
+  {
+    "num": 69,
+    "q": "Komponen yang termasuk dalam kategori kompensasi finansial langsung adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "asuransi"
+      },
+      {
+        "label": "B",
+        "text": "uang pensiun"
+      },
+      {
+        "label": "C",
+        "text": "hadiah dari pimpinan"
+      },
+      {
+        "label": "D",
+        "text": "bonus"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: bonus."
+  },
+  {
+    "num": 70,
+    "q": "Seseorang yang berada pada suatu struktur jabatan yang tinggi dalam organisasi memperoleh penghasilan lebih tinggi dibandingkan dengan karyawan yang berada pada level di bawahnya. Hal tersebut mengacu pada level keadilan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "eksternal"
+      },
+      {
+        "label": "B",
+        "text": "pimpinan"
+      },
+      {
+        "label": "C",
+        "text": "individu"
+      },
+      {
+        "label": "D",
+        "text": "internal"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: internal."
+  },
+  {
+    "num": 71,
+    "q": "Panduan manajer sebelum membuat sistem kompensasi dasar adalah perlu menjawab sejumlah pertanyaan di antaranya adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "berapa upah terendah yang memikat karyawan berkualitas"
+      },
+      {
+        "label": "B",
+        "text": "bagaimana penghargaan yang akan dinilai karyawan"
+      },
+      {
+        "label": "C",
+        "text": "apakah karyawan telah dilatih dengan baik"
+      },
+      {
+        "label": "D",
+        "text": "apa hubungan kinerja dengan outcome"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: berapa upah terendah yang memikat karyawan berkualitas."
+  },
+  {
+    "num": 72,
+    "q": "Metode evaluasi jabatan yang mengurutkan jabatan dari yang paling sederhana hingga jabatan yang paling sulit untuk menentukan rentang upah disebut metode ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "klasifikasi"
+      },
+      {
+        "label": "B",
+        "text": "ranking"
+      },
+      {
+        "label": "C",
+        "text": "point"
+      },
+      {
+        "label": "D",
+        "text": "perbandingan faktor"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: ranking."
+  },
+  {
+    "num": 73,
+    "q": "Seorang karyawan yang tugas utamanya bekerja sebagai operator mesin, namun dituntut pula untuk mampu bertanggung jawab pada pemeliharaan mesin. Dari ilustrasi tersebut mengisyaratkan bahwa perusahaan menganut sistem upah berdasarkan .... WA",
+    "options": [
+      {
+        "label": "A",
+        "text": "kompetensi"
+      },
+      {
+        "label": "B",
+        "text": "keahlian"
+      },
+      {
+        "label": "C",
+        "text": "jabatan"
+      },
+      {
+        "label": "D",
+        "text": "pengetahuan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: keahlian."
+  },
+  {
+    "num": 74,
+    "q": "Cenderung ke arah birokrasi, menghambat perubahan serta bersifat statis merupakan kelemahan pendekatan pengupahan berdasarkan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kompetensi"
+      },
+      {
+        "label": "B",
+        "text": "keahlian"
+      },
+      {
+        "label": "C",
+        "text": "jabatan"
+      },
+      {
+        "label": "D",
+        "text": "pengalaman"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: jabatan."
+  },
+  {
+    "num": 75,
+    "q": "Bersifat statis dan kurang menghargai keinginan berperilaku merupakan kelemahan struktur upah berdasarkan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "keahlian"
+      },
+      {
+        "label": "B",
+        "text": "fungsi"
+      },
+      {
+        "label": "C",
+        "text": "jabatan"
+      },
+      {
+        "label": "D",
+        "text": "kompetensi"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: jabatan."
+  },
+  {
+    "num": 76,
+    "q": "Agar karyawan memiliki kontribusi lebih tinggi dalam pencapaian sasaran organisasi maka perlu sistem ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pengupahan fungsional"
+      },
+      {
+        "label": "B",
+        "text": "pengupahan eksternal"
+      },
+      {
+        "label": "C",
+        "text": "penetapan upah lateral"
+      },
+      {
+        "label": "D",
+        "text": "pengupahan individual"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pengupahan individual."
+  },
+  {
+    "num": 77,
+    "q": "Suatu program kompensasi yang memberi kompensasi kepada penjual berdasarkan proporsi langsung terhadap hasil yang terjual disebut ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "hadiah"
+      },
+      {
+        "label": "B",
+        "text": "upah langsung"
+      },
+      {
+        "label": "C",
+        "text": "komisi"
+      },
+      {
+        "label": "D",
+        "text": "tunjangan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: komisi."
+  },
+  {
+    "num": 78,
+    "q": "Pengupahan yang diberikan berdasarkan satuan waktu disebut ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "gaji"
+      },
+      {
+        "label": "B",
+        "text": "kontrak"
+      },
+      {
+        "label": "C",
+        "text": "upah langsung"
+      },
+      {
+        "label": "D",
+        "text": "komisi"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: gaji."
+  },
+  {
+    "num": 79,
+    "q": "Pak Indra seorang karyawan sebuah pabrik garmen, setiap pagi berangkat ke kantor dengan menggunakan bus karyawan yang disediakan oleh perusahaan mulai dari kompleks rumahnya menuju tempat kerja. Penyediaan bus karyawan merupakan salah satu bentuk tunjangan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pelayanan pribadi"
+      },
+      {
+        "label": "B",
+        "text": "pelayanan karyawan"
+      },
+      {
+        "label": "C",
+        "text": "subsidi keselamatan"
+      },
+      {
+        "label": "D",
+        "text": "subsidi kesehatan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: pelayanan karyawan."
+  },
+  {
+    "num": 80,
+    "q": "Usaha pencarian untuk melihat ketersediaan dan motivasi orang yang memiliki keahlian sesuai yang dibutuhkan oleh organisasi sebagai bagian dari analisis penawaran dan permintaan SDM merupakan kegiatan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "peramalan organisasi"
+      },
+      {
+        "label": "B",
+        "text": "analisis pasar"
+      },
+      {
+        "label": "C",
+        "text": "pengamatan terhadap lingkungan"
+      },
+      {
+        "label": "D",
+        "text": "perencanaan perusahaan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: analisis pasar."
+  },
+  {
+    "num": 81,
+    "q": "Menetapkan kondisi eksternal, ancaman, peluang serta kompetensi, kekuatan maupun kelemahan adalah formulasi dan implementasi perencanaan strategik tahap ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menentukan misi"
+      },
+      {
+        "label": "B",
+        "text": "menilai lingkungan"
+      },
+      {
+        "label": "C",
+        "text": "menetapkan sasaran"
+      },
+      {
+        "label": "D",
+        "text": "menetapkan strategi"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: menilai lingkungan."
+  },
+  {
+    "num": 82,
+    "q": "Analisis penawaran dan permintaan SDM mencakup .... WA",
+    "options": [
+      {
+        "label": "A",
+        "text": "analisis pasar tenaga kerja dan perencanaan suksesi"
+      },
+      {
+        "label": "B",
+        "text": "pengamatan terhadap lingkungan, peramalan, perencanaan suksesi"
+      },
+      {
+        "label": "C",
+        "text": "pengamatan eksternal, perencanaan perusahaan, dan target perusahaan"
+      },
+      {
+        "label": "D",
+        "text": "perencanaan internal, peramalan, perencanaan suksesi"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pengamatan terhadap lingkungan, peramalan, perencanaan suksesi."
+  },
+  {
+    "num": 83,
+    "q": "Hal yang tidak termasuk dalam cakupan pilihan strategik yang terkait dengan perencanaan Sumber Daya Manusia yang dikemukakan oleh Anthony, Kacmar, dan Perrewé (2002) adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "reaktif atau proaktif"
+      },
+      {
+        "label": "B",
+        "text": "sempit atau luas"
+      },
+      {
+        "label": "C",
+        "text": "jangka panjang atau jangka pendek"
+      },
+      {
+        "label": "D",
+        "text": "informal atau formal"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: sempit atau luas."
+  },
+  {
+    "num": 84,
+    "q": "Salah satu alat peramalan kebutuhan SDM yang melakukan analisis tentang keseluruhan sumber daya manusia adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pendekatan bawah atas"
+      },
+      {
+        "label": "B",
+        "text": "peramalan basis nol"
+      },
+      {
+        "label": "C",
+        "text": "model-model simulasi"
+      },
+      {
+        "label": "D",
+        "text": "korelasi volume penjualan dengan kebutuhan karyawan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: peramalan basis nol."
+  },
+  {
+    "num": 85,
+    "q": "Model untuk mendapatkan banyak pemikiran untuk permasalahan tertentu sebelum membuat keputusan secara nyata dalam peramalan ketersediaan SDM disebut ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pendekatan bawah atas"
+      },
+      {
+        "label": "B",
+        "text": "peramalan basis nol"
+      },
+      {
+        "label": "C",
+        "text": "model-model simulasi"
+      },
+      {
+        "label": "D",
+        "text": "menghubungkan volume penjualan dengan kebutuhan karyawan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: model-model simulasi."
+  },
+  {
+    "num": 86,
+    "q": "Hal yang tidak termasuk dalam tiga aspek area perekrutan yang dikemukakan oleh Noe et al. (2007) adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "sumber perekrutan"
+      },
+      {
+        "label": "B",
+        "text": "kebijakan-kebijakan personalia"
+      },
+      {
+        "label": "C",
+        "text": "ketersediaan dan tingkat kebutuhan"
+      },
+      {
+        "label": "D",
+        "text": "karakteristik serta perilaku perekrut"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: ketersediaan dan tingkat kebutuhan."
+  },
+  {
+    "num": 87,
+    "q": "Sifat dan perilaku perekrut yang dianggap memengaruhi program rekrutmen adalah menyangkut ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "karakteristik personal dan perilakunya"
+      },
+      {
+        "label": "B",
+        "text": "kondisi fisik perekrut"
+      },
+      {
+        "label": "C",
+        "text": "cara pandang dan pengetahuan perekrut"
+      },
+      {
+        "label": "D",
+        "text": "karakteristik manajerial dan organisasi"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: karakteristik personal dan perilakunya."
+  },
+  {
+    "num": 88,
+    "q": "Menurut Noe et al. (2007), ada beberapa langkah yang dapat dilakukan perusahaan dalam rangka meningkatkan efektivitas perekrut agar dapat meningkatkan dampak positif perekrut terhadap pilihan jabatan para pelamar, salah satunya adalah perekrut harus ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "memberikan umpan balik kepada calon secara tepat waktu"
+      },
+      {
+        "label": "B",
+        "text": "menunjukkan segi positif dari lowongan yang ditawarkan agar pelamar mau mengisi jabatan tersebut"
+      },
+      {
+        "label": "C",
+        "text": "lebih menonjolkan sisi beratnya tanggung jawab yang harus dilakukan oleh pemangku jabatan"
+      },
+      {
+        "label": "D",
+        "text": "berlaku adil kepada setiap pelamar"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: memberikan umpan balik kepada calon secara tepat waktu."
+  },
+  {
+    "num": 89,
+    "q": "Tes yang dapat mengetahui apakah pelamar memiliki kompetensi pada pekerjaan yang ditawarkan perusahaan adalah tes ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pengetahuan"
+      },
+      {
+        "label": "B",
+        "text": "pengetahuan pekerjaan dan kecakapan"
+      },
+      {
+        "label": "C",
+        "text": "kecerdasan"
+      },
+      {
+        "label": "D",
+        "text": "potensi akademik"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pengetahuan pekerjaan dan kecakapan."
+  },
+  {
+    "num": 90,
+    "q": "Untuk dapat melihat seberapa tinggi seseorang menyukai bidang pekerjaan tertentu dapat menggunakan tes ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "bakat"
+      },
+      {
+        "label": "B",
+        "text": "kepribadian"
+      },
+      {
+        "label": "C",
+        "text": "polygraph"
+      },
+      {
+        "label": "D",
+        "text": "minat"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: minat."
+  },
+  {
+    "num": 91,
+    "q": "Cara menilai pelamar pekerjaan agar lebih objektif dan meningkatkan akurasi proses seleksi adalah dengan melakukan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "tes"
+      },
+      {
+        "label": "B",
+        "text": "wawancara"
+      },
+      {
+        "label": "C",
+        "text": "penyaringan"
+      },
+      {
+        "label": "D",
+        "text": "orientasi"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: tes."
+  },
+  {
+    "num": 92,
+    "q": "Seorang karyawan mengundurkan diri dengan alasan perubahan karier merupakan pemutusan hubungan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "secara sepihak"
+      },
+      {
+        "label": "B",
+        "text": "secara sukarela"
+      },
+      {
+        "label": "C",
+        "text": "kesepakatan kedua pihak"
+      },
+      {
+        "label": "D",
+        "text": "menurut hukum"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Aturan Ketenagakerjaan & Kompensasi: Perhatikan ketentuan norma kerja/UU 13 Tahun 2003 serta klasifikasi PHK (sukarela vs pengusaha). Jawaban yang sesuai adalah: secara sukarela."
+  },
+  {
+    "num": 93,
+    "q": "Besaran uang pesangon yang harus diberikan pengusaha jika melakukan pemutusan hubungan kerja kepada karyawan yang telah memiliki masa kerja lebih dari lima tahun adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "2 bulan upah"
+      },
+      {
+        "label": "B",
+        "text": "4 bulan upah"
+      },
+      {
+        "label": "C",
+        "text": "3 bulan upah"
+      },
+      {
+        "label": "D",
+        "text": "9 bulan upah"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Aturan Ketenagakerjaan & Kompensasi: Perhatikan ketentuan norma kerja/UU 13 Tahun 2003 serta klasifikasi PHK (sukarela vs pengusaha). Jawaban yang sesuai adalah: 9 bulan upah."
+  },
+  {
+    "num": 94,
+    "q": "Pemutusan Hubungan Kerja (PHK) akibat restrukturisasi perusahaan adalah PHK yang diprakarsai oleh ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pemerintah"
+      },
+      {
+        "label": "B",
+        "text": "pengadilan"
+      },
+      {
+        "label": "C",
+        "text": "pekerja/buruh"
+      },
+      {
+        "label": "D",
+        "text": "pengusaha"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Aturan Ketenagakerjaan & Kompensasi: Perhatikan ketentuan norma kerja/UU 13 Tahun 2003 serta klasifikasi PHK (sukarela vs pengusaha). Jawaban yang sesuai adalah: pengusaha."
+  },
+  {
+    "num": 95,
+    "q": "Dapat menyediakan insentif adalah salah satu kriteria kompensasi yang efektif. Artinya, kompensasi harus ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "sesuai dengan usaha, kemampuan, dan keahlian mereka"
+      },
+      {
+        "label": "B",
+        "text": "memberikan suatu penghargaan yang masuk akal"
+      },
+      {
+        "label": "C",
+        "text": "memenuhi persyaratan minimum menurut pemerintah"
+      },
+      {
+        "label": "D",
+        "text": "dapat memotivasi keefektifan dan produktivitas kerja"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: dapat memotivasi keefektifan dan produktivitas kerja."
+  },
+  {
+    "num": 96,
+    "q": "Memenuhi persyaratan minimum menurut pemerintah, serikat pekerja, dan manajer merupakan salah satu kategori kriteria kompensasi yang disebut .... WA",
+    "options": [
+      {
+        "label": "A",
+        "text": "adil"
+      },
+      {
+        "label": "B",
+        "text": "layak"
+      },
+      {
+        "label": "C",
+        "text": "efektif"
+      },
+      {
+        "label": "D",
+        "text": "seimbang"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: layak."
+  },
+  {
+    "num": 97,
+    "q": "Komponen yang termasuk dalam kategori kompensasi finansial langsung adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "asuransi"
+      },
+      {
+        "label": "B",
+        "text": "uang pensiun"
+      },
+      {
+        "label": "C",
+        "text": "hadiah dari pimpinan"
+      },
+      {
+        "label": "D",
+        "text": "bonus"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: bonus."
+  },
+  {
+    "num": 98,
+    "q": "Seseorang yang berada pada suatu struktur jabatan yang tinggi dalam organisasi memperoleh penghasilan lebih tinggi dibandingkan dengan karyawan yang berada pada level di bawahnya. Hal tersebut mengacu pada level keadilan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "eksternal"
+      },
+      {
+        "label": "B",
+        "text": "pimpinan"
+      },
+      {
+        "label": "C",
+        "text": "individu"
+      },
+      {
+        "label": "D",
+        "text": "internal"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: internal."
+  },
+  {
+    "num": 99,
+    "q": "Panduan manajer sebelum membuat sistem kompensasi dasar adalah perlu menjawab sejumlah pertanyaan di antaranya adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "berapa upah terendah yang memikat karyawan berkualitas"
+      },
+      {
+        "label": "B",
+        "text": "bagaimana penghargaan yang akan dinilai karyawan"
+      },
+      {
+        "label": "C",
+        "text": "apakah karyawan telah dilatih dengan baik"
+      },
+      {
+        "label": "D",
+        "text": "apa hubungan kinerja dengan outcome"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: berapa upah terendah yang memikat karyawan berkualitas."
+  },
+  {
+    "num": 100,
+    "q": "Metode evaluasi jabatan yang mengurutkan jabatan dari yang paling sederhana hingga jabatan yang paling sulit untuk menentukan rentang upah disebut metode ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "klasifikasi"
+      },
+      {
+        "label": "B",
+        "text": "ranking"
+      },
+      {
+        "label": "C",
+        "text": "point"
+      },
+      {
+        "label": "D",
+        "text": "perbandingan faktor"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: ranking."
+  },
+  {
+    "num": 101,
+    "q": "Seorang karyawan yang tugas utamanya bekerja sebagai operator mesin, namun dituntut pula untuk mampu bertanggung jawab pada pemeliharaan mesin. Dari ilustrasi tersebut mengisyaratkan bahwa perusahaan menganut sistem upah berdasarkan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kompetensi"
+      },
+      {
+        "label": "B",
+        "text": "keahlian"
+      },
+      {
+        "label": "C",
+        "text": "jabatan"
+      },
+      {
+        "label": "D",
+        "text": "pengetahuan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: keahlian."
+  },
+  {
+    "num": 102,
+    "q": "Cenderung ke arah birokrasi, menghambat perubahan serta bersifat statis merupakan kelemahan pendekatan pengupahan berdasarkan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kompetensi"
+      },
+      {
+        "label": "B",
+        "text": "keahlian"
+      },
+      {
+        "label": "C",
+        "text": "jabatan"
+      },
+      {
+        "label": "D",
+        "text": "pengalaman"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: jabatan."
+  },
+  {
+    "num": 103,
+    "q": "Bersifat statis dan kurang menghargai keinginan berperilaku merupakan kelemahan struktur upah berdasarkan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "keahlian"
+      },
+      {
+        "label": "B",
+        "text": "fungsi"
+      },
+      {
+        "label": "C",
+        "text": "jabatan"
+      },
+      {
+        "label": "D",
+        "text": "kompetensi"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: jabatan."
+  },
+  {
+    "num": 104,
+    "q": "Agar karyawan memiliki kontribusi lebih tinggi dalam pencapaian sasaran organisasi maka perlu sistem ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pengupahan fungsional"
+      },
+      {
+        "label": "B",
+        "text": "pengupahan eksternal"
+      },
+      {
+        "label": "C",
+        "text": "penetapan upah lateral"
+      },
+      {
+        "label": "D",
+        "text": "pengupahan individual"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pengupahan individual."
+  },
+  {
+    "num": 105,
+    "q": "Suatu program kompensasi yang memberi kompensasi kepada penjual berdasarkan proporsi langsung terhadap hasil yang terjual disebut ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "hadiah"
+      },
+      {
+        "label": "B",
+        "text": "upah langsung"
+      },
+      {
+        "label": "C",
+        "text": "komisi"
+      },
+      {
+        "label": "D",
+        "text": "tunjangan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: komisi."
+  },
+  {
+    "num": 106,
+    "q": "Pengupahan yang diberikan berdasarkan satuan waktu disebut ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "gaji"
+      },
+      {
+        "label": "B",
+        "text": "kontrak"
+      },
+      {
+        "label": "C",
+        "text": "upah langsung"
+      },
+      {
+        "label": "D",
+        "text": "komisi"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: gaji."
+  },
+  {
+    "num": 107,
+    "q": "Pak Indra seorang karyawan sebuah pabrik garmen, setiap pagi berangkat ke kantor dengan menggunakan bus karyawan yang disediakan oleh perusahaan mulai dari kompleks rumahnya menuju tempat kerja. Penyediaan bus karyawan merupakan salah satu bentuk tunjangan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pelayanan pribadi"
+      },
+      {
+        "label": "B",
+        "text": "pelayanan karyawan"
+      },
+      {
+        "label": "C",
+        "text": "subsidi keselamatan"
+      },
+      {
+        "label": "D",
+        "text": "subsidi kesehatan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: pelayanan karyawan."
+  },
+  {
+    "num": 108,
+    "q": "Pendapatan yang diterima karyawan sebagai imbalan atas pekerjaannya yang dapat didasarkan atas jam kerja, mingguan, atau bulanan disebut ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "upah langsung"
+      },
+      {
+        "label": "B",
+        "text": "upah individu"
+      },
+      {
+        "label": "C",
+        "text": "kompensasi dasar"
+      },
+      {
+        "label": "D",
+        "text": "penghargaan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: kompensasi dasar."
+  },
+  {
+    "num": 109,
+    "q": "Kinerja Pak Adi beberapa bulan ini terlihat menurun. Setelah diteliti ternyata Pak Adi mempunyai masalah dalam rumah tangganya. Untuk mengatasi permasalahan ini, perusahaan hendaknya memberikan tunjangan pelayanan kepada karyawannya berupa program ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "coaching"
+      },
+      {
+        "label": "B",
+        "text": "bantuan insentif"
+      },
+      {
+        "label": "C",
+        "text": "konseling"
+      },
+      {
+        "label": "D",
+        "text": "credit union"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: konseling."
+  },
+  {
+    "num": 110,
+    "q": "Tujuan dari penilaian kinerja antara lain memberikan informasi kepada karyawan dan pimpinan sebagai dasar untuk mengambil keputusan berkaitan dengan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "memutasi karyawan yang kurang disiplin"
+      },
+      {
+        "label": "B",
+        "text": "mempromosikan pegawai yang telah senior"
+      },
+      {
+        "label": "C",
+        "text": "melatih karyawan yang kurang bergairah kerja"
+      },
+      {
+        "label": "D",
+        "text": "kinerja pekerjaan karyawan"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Penilaian & Penghargaan: 360° memakai banyak penilai; Komparatif membandingkan antar karyawan; Intrinsik muncul dari pekerjaan itu sendiri, sedangkan Ekstrinsik bersifat formal/tunjangan. Jawaban: kinerja pekerjaan karyawan."
+  },
+  {
+    "num": 111,
+    "q": "Tujuan dari penilaian kinerja antara lain sebagai alat untuk ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pengambilan keputusan dalam menentukan jabatan karyawan"
+      },
+      {
+        "label": "B",
+        "text": "mempromosikan karyawan yang sudah lama bekerja"
+      },
+      {
+        "label": "C",
+        "text": "pengambilan keputusan berkaitan dengan pekerjaan karyawan"
+      },
+      {
+        "label": "D",
+        "text": "memberi informasi bagi pimpinan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Penilaian & Penghargaan: 360° memakai banyak penilai; Komparatif membandingkan antar karyawan; Intrinsik muncul dari pekerjaan itu sendiri, sedangkan Ekstrinsik bersifat formal/tunjangan. Jawaban: pengambilan keputusan berkaitan dengan pekerjaan karyawan."
+  },
+  {
+    "num": 112,
+    "q": "Meningkatkan kinerja karyawan dengan cara membantu karyawan agar menyadari dan menggunakan seluruh potensinya demi terwujudnya tujuan organisasi merupakan tujuan dari ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "penilaian kinerja"
+      },
+      {
+        "label": "B",
+        "text": "evaluasi jabatan"
+      },
+      {
+        "label": "C",
+        "text": "perencanaan karier"
+      },
+      {
+        "label": "D",
+        "text": "pengembangan staf"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pengembangan staf."
+  },
+  {
+    "num": 113,
+    "q": "Suatu sistem penilaian kinerja yang efektif akan mendorong ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "relevansi sasaran kualitas organisasi"
+      },
+      {
+        "label": "B",
+        "text": "objektivitas penilaian kinerja"
+      },
+      {
+        "label": "C",
+        "text": "peningkatan kinerja organisasi"
+      },
+      {
+        "label": "D",
+        "text": "sensitivitas budaya kerja organisasi"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Penilaian & Penghargaan: 360° memakai banyak penilai; Komparatif membandingkan antar karyawan; Intrinsik muncul dari pekerjaan itu sendiri, sedangkan Ekstrinsik bersifat formal/tunjangan. Jawaban: peningkatan kinerja organisasi."
+  },
+  {
+    "num": 114,
+    "q": "Menggunakan dua atau lebih metode pendekatan penilai merupakan cara penilaian kinerja yang biasa dikenal dengan istilah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "penilaian kinerja 360°"
+      },
+      {
+        "label": "B",
+        "text": "kombinasi pendekatan"
+      },
+      {
+        "label": "C",
+        "text": "dinilai oleh suatu komite dari beberapa atasan"
+      },
+      {
+        "label": "D",
+        "text": "dinilai oleh teman kerja (peer)"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Penilaian & Penghargaan: 360° memakai banyak penilai; Komparatif membandingkan antar karyawan; Intrinsik muncul dari pekerjaan itu sendiri, sedangkan Ekstrinsik bersifat formal/tunjangan. Jawaban: penilaian kinerja 360°."
+  },
+  {
+    "num": 115,
+    "q": "Salah satu kriteria evaluator untuk mengevaluasi kinerja adalah relevan. Artinya, suatu pengukuran kinerja harus ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "dapat dipertanggungjawabkan"
+      },
+      {
+        "label": "B",
+        "text": "sesuai dengan output aktual"
+      },
+      {
+        "label": "C",
+        "text": "sensitivitasnya tinggi"
+      },
+      {
+        "label": "D",
+        "text": "praktis"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: sesuai dengan output aktual."
+  },
+  {
+    "num": 116,
+    "q": "Pendekatan yang memusatkan perhatian pada sejauh mana individu memiliki ciri sifat yang diperlukan untuk keberhasilan perusahaan disebut pendekatan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "karakteristik"
+      },
+      {
+        "label": "B",
+        "text": "atribut"
+      },
+      {
+        "label": "C",
+        "text": "keperilakuan"
+      },
+      {
+        "label": "D",
+        "text": "kepribadian"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: atribut."
+  },
+  {
+    "num": 117,
+    "q": "Salah satu hal terpenting yang harus diperhatikan dalam skala observasi berhubungan dengan perilaku (Behavioral Observation Scales/BOS) adalah .... WA",
+    "options": [
+      {
+        "label": "A",
+        "text": "tiap-tiap pekerjaan dimungkinkan untuk memiliki beberapa dimensi pekerjaan"
+      },
+      {
+        "label": "B",
+        "text": "harus menentukan arti dan pentingnya skor total bagi karyawan yang dinilai"
+      },
+      {
+        "label": "C",
+        "text": "mencatat cakupan perilaku kerja yang menggambarkan baik kinerja yang memuaskan maupun kinerja yang tidak memuaskan dari karyawan yang dinilai"
+      },
+      {
+        "label": "D",
+        "text": "menetapkan seperangkat sifat (seperti inisiatif, kepemimpinan, kemampuan bersaing, dan sebagainya) dan menilai individu pada sifat-sifat tersebut"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Penilaian & Penghargaan: 360° memakai banyak penilai; Komparatif membandingkan antar karyawan; Intrinsik muncul dari pekerjaan itu sendiri, sedangkan Ekstrinsik bersifat formal/tunjangan. Jawaban: mencatat cakupan perilaku kerja yang menggambarkan baik kinerja yang memuaskan maupun kinerja yang tidak memuaskan dari karyawan yang dinilai."
+  },
+  {
+    "num": 118,
+    "q": "Pendekatan penilaian kinerja yang membandingkan kerja individu dengan individu lain disebut ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "manajemen berdasarkan sasaran (MBO)"
+      },
+      {
+        "label": "B",
+        "text": "keperilakuan"
+      },
+      {
+        "label": "C",
+        "text": "komparatif"
+      },
+      {
+        "label": "D",
+        "text": "atribut"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Penilaian & Penghargaan: 360° memakai banyak penilai; Komparatif membandingkan antar karyawan; Intrinsik muncul dari pekerjaan itu sendiri, sedangkan Ekstrinsik bersifat formal/tunjangan. Jawaban: komparatif."
+  },
+  {
+    "num": 119,
+    "q": "Penghargaan formal dan tunjangan tambahan merupakan contoh jenis sistem penghargaan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "intrinsik"
+      },
+      {
+        "label": "B",
+        "text": "ekstrinsik"
+      },
+      {
+        "label": "C",
+        "text": "finansial"
+      },
+      {
+        "label": "D",
+        "text": "nonfinansial"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Sistem Kompensasi: Gaji = satuan waktu; Komisi = proporsi penjualan; Pelayanan karyawan = fasilitas penunjang (bus/konseling); Kriteria layak = penuhi aturan minimum. Jawaban tepat: ekstrinsik."
+  },
+  {
+    "num": 120,
+    "q": "Pendekatan yang menekankan pada sejauh mana ciri atau sifat yang diyakini diperlukan untuk keberhasilan organisasi disebut pendekatan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "keperilakuan"
+      },
+      {
+        "label": "B",
+        "text": "kinerja"
+      },
+      {
+        "label": "C",
+        "text": "atribut"
+      },
+      {
+        "label": "D",
+        "text": "kompensasi"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: atribut."
+  },
+  {
+    "num": 121,
+    "q": "Sistem penghargaan yang diperoleh dari transaksi antara individu dengan tugasnya tanpa unsur ketiga disebut penghargaan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "intrinsik"
+      },
+      {
+        "label": "B",
+        "text": "ekstrinsik"
+      },
+      {
+        "label": "C",
+        "text": "finansial"
+      },
+      {
+        "label": "D",
+        "text": "nonfinansial"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: intrinsik."
+  },
+  {
+    "num": 122,
+    "q": "Penilaian individu sebagai langkah dasar implementasi program pengembangan karier organisasi dapat memanfaatkan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "berbagai sumber daya yang ada di sekitarnya"
+      },
+      {
+        "label": "B",
+        "text": "pusat penilaian"
+      },
+      {
+        "label": "C",
+        "text": "catatan-catatan dari karyawan yang bersangkutan"
+      },
+      {
+        "label": "D",
+        "text": "penilaian dari atasan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pusat penilaian."
+  },
+  {
+    "num": 123,
+    "q": "Penilaian organisasi sebagai langkah dasar implementasi program pengembangan karier dapat memanfaatkan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "penilaian dari organisasi lain"
+      },
+      {
+        "label": "B",
+        "text": "pusat penilaian"
+      },
+      {
+        "label": "C",
+        "text": "catatan-catatan perusahaan yang merefleksikan informasi"
+      },
+      {
+        "label": "D",
+        "text": "penilaian karyawan perusahaan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: catatan-catatan perusahaan yang merefleksikan informasi."
+  },
+  {
+    "num": 124,
+    "q": "Hal yang tidak termasuk dalam alasan mengapa atasan langsung lebih disukai dalam bimbingan karier karena atasan langsung biasanya ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "lebih objektif karena berkaitan langsung dengan karyawan"
+      },
+      {
+        "label": "B",
+        "text": "memiliki keunggulan dalam hal pengalaman praktis"
+      },
+      {
+        "label": "C",
+        "text": "duduk dalam posisi untuk membuat suatu penilaian yang realistis mengenai peluang-peluang organisasional"
+      },
+      {
+        "label": "D",
+        "text": "lebih subjektif, karena biasanya atasan akan menolong bawahannya"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: lebih subjektif, karena biasanya atasan akan menolong bawahannya."
+  },
+  {
+    "num": 125,
+    "q": "Prinsip dalam pelatihan dan pengembangan idealnya dilakukan dalam proses perancangan suatu program pelatihan. Salah satu prinsip dari pelatihan dan pengembangan adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "metode pelatihan itu sendiri"
+      },
+      {
+        "label": "B",
+        "text": "pelatih yang kompeten"
+      },
+      {
+        "label": "C",
+        "text": "penilaian pelatihan"
+      },
+      {
+        "label": "D",
+        "text": "kelompok pelatihan"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: metode pelatihan itu sendiri."
+  },
+  {
+    "num": 126,
+    "q": "Proses pendidikan jangka pendek dan terencana untuk memfasilitasi pembelajaran yang berhubungan dengan pengetahuan, sikap, dan keahlian disebut ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pelatihan"
+      },
+      {
+        "label": "B",
+        "text": "pengembangan"
+      },
+      {
+        "label": "C",
+        "text": "pembelajaran"
+      },
+      {
+        "label": "D",
+        "text": "kursus"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pelatihan."
+  },
+  {
+    "num": 127,
+    "q": "Berikut adalah alasan mengapa perusahaan perlu segera melakukan program pelatihan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "meningkatnya keinginan karyawan untuk promosi jabatan"
+      },
+      {
+        "label": "B",
+        "text": "tingkat pemborosan yang tinggi (banyak bahan terbuang, produk cacat, dan sisa produksi banyak)"
+      },
+      {
+        "label": "C",
+        "text": "meningkatnya kebutuhan konsumsi atas suatu barang"
+      },
+      {
+        "label": "D",
+        "text": "meningkatnya tugas yang dibebankan kepada karyawan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: tingkat pemborosan yang tinggi (banyak bahan terbuang, produk cacat, dan sisa produksi banyak)."
+  },
+  {
+    "num": 128,
+    "q": "Metode yang memiliki fokus belajar pada pengembangan kerja sama dan kemampuan kepemimpinan termasuk dalam metode pelatihan .... WA",
+    "options": [
+      {
+        "label": "A",
+        "text": "model perilaku"
+      },
+      {
+        "label": "B",
+        "text": "belajar bertualang"
+      },
+      {
+        "label": "C",
+        "text": "pembangunan kelompok"
+      },
+      {
+        "label": "D",
+        "text": "belajar aksi"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: pembangunan kelompok."
+  },
+  {
+    "num": 129,
+    "q": "Model perilaku adalah salah satu metode pelatihan yang berupaya untuk menampilkan peniruan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "terhadap aktor dalam peran bisnis"
+      },
+      {
+        "label": "B",
+        "text": "kinerja dalam mencapai sukses"
+      },
+      {
+        "label": "C",
+        "text": "kinerja dari pemeran sandiwara"
+      },
+      {
+        "label": "D",
+        "text": "perilaku manajer dalam mengambil keputusan"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: perilaku manajer dalam mengambil keputusan."
+  },
+  {
+    "num": 130,
+    "q": "Metode pelatihan yang sesuai untuk menyampaikan fakta dan informasi baru adalah metode pelatihan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "video interaktif"
+      },
+      {
+        "label": "B",
+        "text": "model perilaku"
+      },
+      {
+        "label": "C",
+        "text": "pembelajaran dalam kelas"
+      },
+      {
+        "label": "D",
+        "text": "business games"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: pembelajaran dalam kelas."
+  },
+  {
+    "num": 131,
+    "q": "Evaluasi program pelatihan untuk melihat apakah peserta pelatihan terbiasa dengan prinsip, fakta, teknik, prosedur, atau proses merupakan tahapan evaluasi ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "psikomotorik"
+      },
+      {
+        "label": "B",
+        "text": "kognitif"
+      },
+      {
+        "label": "C",
+        "text": "afektif"
+      },
+      {
+        "label": "D",
+        "text": "asertif"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: kognitif."
+  },
+  {
+    "num": 132,
+    "q": "Tujuan yang tidak termasuk dalam alasan pelatihan harus dievaluasi adalah untuk ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mengidentifikasi kelebihan dan kekurangan program"
+      },
+      {
+        "label": "B",
+        "text": "menilai apakah isi, organisasi, dan administrasi program berkontribusi pada belajar dan penggunaan materi pelatihan dalam pekerjaan"
+      },
+      {
+        "label": "C",
+        "text": "mengontrol pengeluaran perusahaan"
+      },
+      {
+        "label": "D",
+        "text": "menentukan keuntungan finansial dan biaya yang dikeluarkan untuk program tersebut"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: mengontrol pengeluaran perusahaan."
+  },
+  {
+    "num": 133,
+    "q": "Hasil afektif merupakan salah satu hasil yang diidentifikasi dalam proses evaluasi pelatihan. Hal tersebut dapat dilakukan dengan cara ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menentukan tingkat di mana peserta pelatihan terbiasa dengan prinsip, fakta, teknik, prosedur, atau proses yang ditekankan dalam pelatihan"
+      },
+      {
+        "label": "B",
+        "text": "melihat reaksi peserta pelatihan melalui program pelatihan"
+      },
+      {
+        "label": "C",
+        "text": "melihat kemampuan teknis atau keahlian motorik dan perilaku termasuk kemahiran atau mempelajari suatu keahlian dan penggunaannya dalam pekerjaan"
+      },
+      {
+        "label": "D",
+        "text": "melihat perbandingan antara keuntungan finansial pelatihan dengan biaya yang dikeluarkan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: melihat reaksi peserta pelatihan melalui program pelatihan."
+  },
+  {
+    "num": 134,
+    "q": "Salah satu faktor yang harus dipertimbangkan dalam desain evaluasi program adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "biaya desain dan pengelolaan evaluasi"
+      },
+      {
+        "label": "B",
+        "text": "biaya penyelenggaraan evaluasi pelatihan"
+      },
+      {
+        "label": "C",
+        "text": "tujuan penyelenggaraan program"
+      },
+      {
+        "label": "D",
+        "text": "ketidakberlangsungan program"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: biaya desain dan pengelolaan evaluasi."
+  },
+  {
+    "num": 135,
+    "q": "Untuk mengetahui apakah suatu program pelatihan dapat membawa perubahan atau tidak, maka digunakan rancangan evaluasi ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "post test"
+      },
+      {
+        "label": "B",
+        "text": "pre test"
+      },
+      {
+        "label": "C",
+        "text": "post test kelompok pembanding"
+      },
+      {
+        "label": "D",
+        "text": "rangkaian antarwaktu"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: post test kelompok pembanding."
+  },
+  {
+    "num": 136,
+    "q": "Suatu metode evaluasi program pelatihan yang memungkinkan analisis kestabilan hasil pelatihan dari waktu ke waktu adalah metode ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "post test"
+      },
+      {
+        "label": "B",
+        "text": "pre test"
+      },
+      {
+        "label": "C",
+        "text": "cost and benefit"
+      },
+      {
+        "label": "D",
+        "text": "rangkaian waktu"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: rangkaian waktu."
+  },
+  {
+    "num": 137,
+    "q": "Salah satu kelebihan strategis pelatihan berbasis web adalah dalam konteks ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "peningkatan kompetensi karyawan"
+      },
+      {
+        "label": "B",
+        "text": "peluang pelatihan pada tenaga kerja baru"
+      },
+      {
+        "label": "C",
+        "text": "penyesuaian dengan keadaan"
+      },
+      {
+        "label": "D",
+        "text": "pemerataan dalam organisasi"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: pemerataan dalam organisasi."
+  },
+  {
+    "num": 138,
+    "q": "Salah satu alasan kelebihan strategis dari implementasi pelatihan berbasis web bagi para customer service adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "memberikan penjelasan produk secara merata"
+      },
+      {
+        "label": "B",
+        "text": "memungkinkan pelatihan dan keuntungan"
+      },
+      {
+        "label": "C",
+        "text": "meningkatkan produktivitas dan keuntungan"
+      },
+      {
+        "label": "D",
+        "text": "menyesuaikan dengan kebutuhan pegawai"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: memberikan penjelasan produk secara merata."
+  },
+  {
+    "num": 139,
+    "q": "Berikut adalah kelebihan taktis dari pelatihan berbasis web ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "memungkinkan pegawai untuk mengikuti pelatihan kapan pun mereka merasa butuh untuk mengambil mata pelatihan tersebut sehingga apa yang mereka pelajari menjadi lebih efektif"
+      },
+      {
+        "label": "B",
+        "text": "pelatihan berbasis web adalah media yang baik bagi pengembangan tenaga kerja global"
+      },
+      {
+        "label": "C",
+        "text": "pelatihan berbasis web merupakan alat yang paling baik ketika suatu perusahaan akan mengeluarkan suatu produk baru di berbagai belahan dunia secara bersamaan"
+      },
+      {
+        "label": "D",
+        "text": "pelatihan berbasis web memudahkan untuk melatih tenaga kerja baru maupun penguatan bagi pegawai yang lama"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: memungkinkan pegawai untuk mengikuti pelatihan kapan pun mereka merasa butuh untuk mengambil mata pelatihan tersebut sehingga apa yang mereka pelajari menjadi lebih efektif."
+  },
+  {
+    "num": 140,
+    "q": "Salah satu aspek penting yang harus diperhatikan dalam mendesain dan menyampaikan materi pelatihan berbasis web adalah aspek motivasi peserta pelatihan. Hal ini karena ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "sulitnya materi pelatihan"
+      },
+      {
+        "label": "B",
+        "text": "pelatihan dilakukan secara individual"
+      },
+      {
+        "label": "C",
+        "text": "rumitnya mendesain pelatihan"
+      },
+      {
+        "label": "D",
+        "text": "sulitnya akses ke internet"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: pelatihan dilakukan secara individual."
+  },
+  {
+    "num": 141,
+    "q": "Salah satu kekurangan pelatihan berbasis web adalah menyangkut kesulitan dalam mengunduh video, gambar, atau suara materi pelatihan. Hal itu disebabkan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "keterbatasan bandwidth"
+      },
+      {
+        "label": "B",
+        "text": "keterbatasan programmer"
+      },
+      {
+        "label": "C",
+        "text": "terbatasnya akses komputer"
+      },
+      {
+        "label": "D",
+        "text": "besarnya biaya untuk mengunduh"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: keterbatasan bandwidth."
+  },
+  {
+    "num": 142,
+    "q": "Yang termasuk dalam kelemahan pelatihan berbasis web adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menurunkan manfaat infrastruktur"
+      },
+      {
+        "label": "B",
+        "text": "meningkatkan pengeluaran akomodasi"
+      },
+      {
+        "label": "C",
+        "text": "manajemen sumber eksternal"
+      },
+      {
+        "label": "D",
+        "text": "pelatihan tenaga kerja tak terduga"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: manajemen sumber eksternal."
+  },
+  {
+    "num": 143,
+    "q": "Metode pengembangan manajemen memiliki kelebihan, yaitu peserta memperoleh pengalaman praktik dan dapat melihat hasil keputusannya adalah metode .... )",
+    "options": [
+      {
+        "label": "A",
+        "text": "job rotation"
+      },
+      {
+        "label": "B",
+        "text": "role-playing"
+      },
+      {
+        "label": "C",
+        "text": "in-basket technique"
+      },
+      {
+        "label": "D",
+        "text": "coaching"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: in-basket technique."
+  },
+  {
+    "num": 144,
+    "q": "Metode pengembangan manajemen pelatihan kelas dengan menggunakan teknik mensimulasikan situasi nyata dengan meminta setiap peserta pelatihan menjawab satu surat atau panggilan manajer. Metode ini biasa dikenal dengan istilah metode ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "coaching"
+      },
+      {
+        "label": "B",
+        "text": "in-basket technique"
+      },
+      {
+        "label": "C",
+        "text": "permainan bisnis"
+      },
+      {
+        "label": "D",
+        "text": "bermain peran (role-playing)"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: in-basket technique."
+  },
+  {
+    "num": 145,
+    "q": "Melalui program pelatihan ini peserta pelatihan diminta membaca dan menjawab pertanyaan materi pelatihan dalam bentuk teks. Hal itu merupakan karakteristik program pelatihan dalam bentuk ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Program CAI"
+      },
+      {
+        "label": "B",
+        "text": "Web Suplemen"
+      },
+      {
+        "label": "C",
+        "text": "Video Interaktif"
+      },
+      {
+        "label": "D",
+        "text": "In-basket technique"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: Program CAI."
+  },
+  {
+    "num": 146,
+    "q": "Strategi pengembangan organisasi dengan menggunakan metode merancang proses-proses organisasi secara radikal untuk mencapai kemajuan besar dalam faktor-faktor seperti penghematan waktu dan biaya serta peningkatan kualitas produk atau jasa dikenal dengan metode ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "survey feedback"
+      },
+      {
+        "label": "B",
+        "text": "team building"
+      },
+      {
+        "label": "C",
+        "text": "Total Quality Management (TQM)"
+      },
+      {
+        "label": "D",
+        "text": "reengineering"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: reengineering."
+  },
+  {
+    "num": 147,
+    "q": "Salah satu tipe model pengembangan organisasi adalah .... WA",
+    "options": [
+      {
+        "label": "A",
+        "text": "team building"
+      },
+      {
+        "label": "B",
+        "text": "survey feedback"
+      },
+      {
+        "label": "C",
+        "text": "aplikasi strategik"
+      },
+      {
+        "label": "D",
+        "text": "TQM"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: aplikasi strategik."
+  },
+  {
+    "num": 148,
+    "q": "Model pengembangan organisasi yang berfokus langsung pada peningkatan produktivitas dan efisiensi adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "aplikasi manajemen sumber daya manusia"
+      },
+      {
+        "label": "B",
+        "text": "aplikasi strategik"
+      },
+      {
+        "label": "C",
+        "text": "aplikasi proses manusia"
+      },
+      {
+        "label": "D",
+        "text": "intervensi secara teknostruktur"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: intervensi secara teknostruktur."
+  },
+  {
+    "num": 149,
+    "q": "Agar pedoman penerapan sistem manajemen K3 berhasil dengan baik maka dibutuhkan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "komitmen dan kebijakan K3"
+      },
+      {
+        "label": "B",
+        "text": "penerapan K3"
+      },
+      {
+        "label": "C",
+        "text": "perencanaan K3"
+      },
+      {
+        "label": "D",
+        "text": "pengukuran dan evaluasi K3"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: komitmen dan kebijakan K3."
+  },
+  {
+    "num": 150,
+    "q": "Komitmen dan usaha-usaha keselamatan kerja yang komprehensif yang dilakukan oleh perusahaan merupakan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "inti manajemen keselamatan kerja"
+      },
+      {
+        "label": "B",
+        "text": "asas manajemen kesehatan kerja"
+      },
+      {
+        "label": "C",
+        "text": "salah satu prinsip lingkungan kerja sehat"
+      },
+      {
+        "label": "D",
+        "text": "tujuan dari manajemen keselamatan kerja"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: inti manajemen keselamatan kerja."
+  },
+  {
+    "num": 151,
+    "q": "Hal yang tidak termasuk dalam unsur-unsur manajemen keselamatan kerja yang efektif adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "tanggung jawab dan komitmen perusahaan"
+      },
+      {
+        "label": "B",
+        "text": "kebijakan dan disiplin keselamatan kerja"
+      },
+      {
+        "label": "C",
+        "text": "sanksi dan reward"
+      },
+      {
+        "label": "D",
+        "text": "komunikasi dan pelatihan tenaga kerja"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: sanksi dan reward."
+  },
+  {
+    "num": 152,
+    "q": "Inti dari program keselamatan kerja organisasional adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pencegahan terhadap risiko pekerjaan"
+      },
+      {
+        "label": "B",
+        "text": "pengendalian terhadap dampak kecelakaan kerja"
+      },
+      {
+        "label": "C",
+        "text": "pencegahan terhadap kecelakaan kerja"
+      },
+      {
+        "label": "D",
+        "text": "pengendalian terhadap kekerasan kecelakaan kerja"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pencegahan terhadap kecelakaan kerja."
+  },
+  {
+    "num": 153,
+    "q": "Untuk menentukan seberapa sering kejadian yang menyebabkan karyawan luka atau cacat digunakan ukuran ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "tingkat kekerapan"
+      },
+      {
+        "label": "B",
+        "text": "tingkat keparahan"
+      },
+      {
+        "label": "C",
+        "text": "jumlah kerugian"
+      },
+      {
+        "label": "D",
+        "text": "tingkat perputaran karyawan"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: tingkat kekerapan."
+  },
+  {
+    "num": 154,
+    "q": "Faktor individual yang memengaruhi tingkat kecelakaan kerja adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pengetahuan karyawan"
+      },
+      {
+        "label": "B",
+        "text": "teknologi yang digunakan"
+      },
+      {
+        "label": "C",
+        "text": "manajemen yang diterapkan"
+      },
+      {
+        "label": "D",
+        "text": "sikap karyawan"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: sikap karyawan."
+  },
+  {
+    "num": 155,
+    "q": "Hal yang tidak termasuk cara untuk menghindari stres di tempat kerja adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menjalankan manajemen waktu"
+      },
+      {
+        "label": "B",
+        "text": "lebih tegas dalam berpendirian"
+      },
+      {
+        "label": "C",
+        "text": "mengurangi kecenderungan seseorang membesar-besarkan hal-hal yang dapat menyebabkan stres"
+      },
+      {
+        "label": "D",
+        "text": "santai dalam mengerjakan sesuatu"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: santai dalam mengerjakan sesuatu."
+  },
+  {
+    "num": 156,
+    "q": "Salah satu penyebab dari stres di tempat kerja adalah .... WA",
+    "options": [
+      {
+        "label": "A",
+        "text": "konflik peran dan ambiguitas"
+      },
+      {
+        "label": "B",
+        "text": "ketidaksesuaian person-lingkungan"
+      },
+      {
+        "label": "C",
+        "text": "karakteristik individu"
+      },
+      {
+        "label": "D",
+        "text": "adanya penyakit tekanan darah dan jantung koroner"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: konflik peran dan ambiguitas."
+  },
+  {
+    "num": 157,
+    "q": "Karyawan perlu juga dilatih agar lebih tegas dalam berpendirian. Hal tersebut bertujuan untuk ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "meningkatkan efektivitas organisasional"
+      },
+      {
+        "label": "B",
+        "text": "mengurangi stres kerja"
+      },
+      {
+        "label": "C",
+        "text": "mengurangi penyebab stres"
+      },
+      {
+        "label": "D",
+        "text": "meningkatkan keyakinan diri"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: mengurangi stres kerja."
+  },
+  {
+    "num": 158,
+    "q": "Salah satu cara pemimpin untuk dapat mendinamiskan kelompok adalah dengan cara ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "membangun struktur kelompok"
+      },
+      {
+        "label": "B",
+        "text": "membangun infrastruktur kelompok"
+      },
+      {
+        "label": "C",
+        "text": "melakukan evaluasi terhadap sikap anggota kelompok"
+      },
+      {
+        "label": "D",
+        "text": "memberi tenggang rasa kepada anggota kelompok"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: membangun struktur kelompok."
+  },
+  {
+    "num": 159,
+    "q": "Gaya kepemimpinan di mana pengambilan keputusan diserahkan kepada masing-masing anggota sistem sosial itu sendiri disebut gaya kepemimpinan .... WA",
+    "options": [
+      {
+        "label": "A",
+        "text": "sosialis"
+      },
+      {
+        "label": "B",
+        "text": "liberal"
+      },
+      {
+        "label": "C",
+        "text": "demokrasi"
+      },
+      {
+        "label": "D",
+        "text": "laissez faire"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: laissez faire."
+  },
+  {
+    "num": 160,
+    "q": "Gaya kepemimpinan di mana pengambilan keputusan sebagai keputusan bersama dari seluruh anggota sistem sosial adalah gaya kepemimpinan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "demokrasi"
+      },
+      {
+        "label": "B",
+        "text": "sosialis"
+      },
+      {
+        "label": "C",
+        "text": "liberal"
+      },
+      {
+        "label": "D",
+        "text": "laissez faire"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: demokrasi."
+  },
+  {
+    "num": 161,
+    "q": "Menurut Teori Managerial Grid, ada dua perilaku kepedulian yang diperlihatkan oleh seorang pemimpin, yaitu kepedulian pada kepentingan sumber daya manusia dan kepedulian pada ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "tujuan individual"
+      },
+      {
+        "label": "B",
+        "text": "tujuan organisasi"
+      },
+      {
+        "label": "C",
+        "text": "kepentingan karyawan"
+      },
+      {
+        "label": "D",
+        "text": "kepentingan pemangku kepentingan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: tujuan organisasi."
+  },
+  {
+    "num": 162,
+    "q": "Gaya kepemimpinan yang dibutuhkan guna meningkatkan produktivitas kerja bawahan yang memiliki kemauan juga kemampuan dalam bekerja merupakan gaya kepemimpinan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "konsultasi"
+      },
+      {
+        "label": "B",
+        "text": "partisipasi"
+      },
+      {
+        "label": "C",
+        "text": "instruksi"
+      },
+      {
+        "label": "D",
+        "text": "delegasi"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: delegasi."
+  },
+  {
+    "num": 163,
+    "q": "Teori kepemimpinan yang menyatakan bahwa kepemimpinan dibawa sejak lahir adalah teori ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "ekologis"
+      },
+      {
+        "label": "B",
+        "text": "keperilakuan"
+      },
+      {
+        "label": "C",
+        "text": "genetis"
+      },
+      {
+        "label": "D",
+        "text": "sosial"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Pelatihan, K3 & Kepemimpinan: Kognitif menguji pemahaman materi; Afektif mengukur reaksi; In-basket menyimulasikan surat/memo manajer; Inti K3 adalah pencegahan kecelakaan. Jawaban: genetis."
+  }
+]

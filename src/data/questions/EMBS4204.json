@@ -1,0 +1,2433 @@
+[
+  {
+    "num": 1,
+    "q": "Perkembangan hubungan industrial menunjukkan adanya perubahan dalam aspek....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kebijakan ekonomi makro dan sistem perpajakan nasional"
+      },
+      {
+        "label": "B",
+        "text": "Fundamental kerja serta dinamika peraturan ketenagakerjaan"
+      },
+      {
+        "label": "C",
+        "text": "Strategi ekspor-impor dan hubungan dagang internasional"
+      },
+      {
+        "label": "D",
+        "text": "Sistem pengawasan internal perusahaan terhadap kualitas produk"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Fundamental kerja serta dinamika peraturan ketenagakerjaan."
+  },
+  {
+    "num": 2,
+    "q": "Pengertian dari hubungan industrial adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hubungan yang terjadi antara pekerja, pengusaha, dan pemerintah dalam sistem ketenagakerjaan"
+      },
+      {
+        "label": "B",
+        "text": "Hubungan antara pekerja dan masyarakat dalam bidang sosial"
+      },
+      {
+        "label": "C",
+        "text": "Hubungan yang terbentuk dalam proses jual beli tenaga kerja"
+      },
+      {
+        "label": "D",
+        "text": "Hubungan antara serikat pekerja dan organisasi non-pemerintah (LSM)"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Hubungan yang terjadi antara pekerja, pengusaha, dan pemerintah dalam sistem ketenagakerjaan."
+  },
+  {
+    "num": 3,
+    "q": "Manajemen hubungan industrial adalah suatu keahlian yang dilakukan oleh manajer untuk....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mengawasi produksi dan distribusi barang di perusahaan"
+      },
+      {
+        "label": "B",
+        "text": "menyusun laporan keuangan dan administrasi perusahaan"
+      },
+      {
+        "label": "C",
+        "text": "menunjang kelancaran serta keberhasilan suatu industri atau organisasi"
+      },
+      {
+        "label": "D",
+        "text": "mengatur pemasaran produk dan layanan perusahaan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: menunjang kelancaran serta keberhasilan suatu industri atau organisasi."
+  },
+  {
+    "num": 4,
+    "q": "Sebelum adanya Pengadilan Hubungan Industrial (PHI), penyelesaian perselisihan perburuhan di Indonesia dilakukan oleh sistem yang dikenal....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dewan Tenaga Kerja Nasional"
+      },
+      {
+        "label": "B",
+        "text": "Lembaga Mediasi Ketenagakerjaan"
+      },
+      {
+        "label": "C",
+        "text": "Panitia Penyelesaian Perselisihan Perburuhan (P4)"
+      },
+      {
+        "label": "D",
+        "text": "Majelis Arbitrase Pekerja dan Pengusaha"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Mekanisme PPHI (UU 2/2004): Tahap awal selalu perundingan Bipartit (maks 30 hari kerja). Jika gagal lanjut ke Mediasi/Konsiliasi/Arbitrase (Arbitrase Hak vs Kepentingan), dan terakhir PHI di Pengadilan Negeri. Jawaban: Panitia Penyelesaian Perselisihan Perburuhan (P4)."
+  },
+  {
+    "num": 5,
+    "q": "Dalam menyelesaikan perselisihan, P4 daerah dapat diberi kewenangan untuk....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Membentuk panitia untuk menyelidiki perselisihan lebih lanjut dan melaporkan penyelesaian secara tertulis"
+      },
+      {
+        "label": "B",
+        "text": "Menghentikan aktivitas perusahaan tanpa batas waktu saat terjadi perselisihan"
+      },
+      {
+        "label": "C",
+        "text": "Mengganti seluruh manajemen perusahaan yang terlibat dalam perselisihan"
+      },
+      {
+        "label": "D",
+        "text": "Menetapkan sanksi pidana bagi pekerja yang melakukan mogok kerja"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Mekanisme PPHI (UU 2/2004): Tahap awal selalu perundingan Bipartit (maks 30 hari kerja). Jika gagal lanjut ke Mediasi/Konsiliasi/Arbitrase (Arbitrase Hak vs Kepentingan), dan terakhir PHI di Pengadilan Negeri. Jawaban: Membentuk panitia untuk menyelidiki perselisihan lebih lanjut dan melaporkan penyelesaian secara tertulis."
+  },
+  {
+    "num": 6,
+    "q": "Pengadilan Hubungan Industrial (PHI) dibentuk berdasarkan UU Nomor 2 Tahun 2004. Salah satu ciri utama dari PHI adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "berwenang menangani semua perkara perdata antara pengusaha dan pekerja tanpa batasan jenis sengketa"
+      },
+      {
+        "label": "B",
+        "text": "berkedudukan di setiap pengadilan negeri dan menangani perkara perselisihan hubungan industrial"
+      },
+      {
+        "label": "C",
+        "text": "memiliki hakim tetap dari kalangan pengusaha dan pekerja untuk memutus setiap perkara"
+      },
+      {
+        "label": "D",
+        "text": "menggantikan peran serikat pekerja dalam memperjuangkan hak-hak anggotanya di pengadilan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Mekanisme PPHI (UU 2/2004): Tahap awal selalu perundingan Bipartit (maks 30 hari kerja). Jika gagal lanjut ke Mediasi/Konsiliasi/Arbitrase (Arbitrase Hak vs Kepentingan), dan terakhir PHI di Pengadilan Negeri. Jawaban: berkedudukan di setiap pengadilan negeri dan menangani perkara perselisihan hubungan industrial."
+  },
+  {
+    "num": 7,
+    "q": "Salah satu prinsip utama dalam hubungan industrial di Indonesia adalah kemitraan antara pengusaha, pekerja, dan pemerintah. Prinsip ini menekankan pada....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pemerintah sebagai pihak yang mengatur sepenuhnya hubungan kerja demi efisiensi ekonomi"
+      },
+      {
+        "label": "B",
+        "text": "pengusaha dan pekerja saling bersaing untuk memperoleh keuntungan terbesar"
+      },
+      {
+        "label": "C",
+        "text": "kerja sama dan saling menghormati demi tercapainya kesejahteraan bersama"
+      },
+      {
+        "label": "D",
+        "text": "serikat pekerja menggantikan peran pemerintah dalam menentukan kebijakan ketenagakerjaan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: kerja sama dan saling menghormati demi tercapainya kesejahteraan bersama."
+  },
+  {
+    "num": 8,
+    "q": "Cakupan ruang lingkup pada hubungan industrial meliputi hubungan antara pekerja dan pengusaha yang didasarkan pada....",
+    "options": [
+      {
+        "label": "A",
+        "text": "hubungan kepercayaan sosial dan ikatan emosional"
+      },
+      {
+        "label": "B",
+        "text": "perjanjian kerja yang memiliki unsur upah, perintah, dan pekerjaan"
+      },
+      {
+        "label": "C",
+        "text": "izin usaha dan pembagian hasil produksi antara pekerja dan manajemen"
+      },
+      {
+        "label": "D",
+        "text": "sistem pengawasan internal dan audit keuangan perusahaan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: perjanjian kerja yang memiliki unsur upah, perintah, dan pekerjaan."
+  },
+  {
+    "num": 9,
+    "q": "Memberikan perlindungan kepada serikat pekerja dari kegiatan manajemen yang ilegal merupakan tugas dari....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Serikat Pekerja"
+      },
+      {
+        "label": "B",
+        "text": "Manajemen Perusahaan"
+      },
+      {
+        "label": "C",
+        "text": "Konsultan Sumber Daya Manusia"
+      },
+      {
+        "label": "D",
+        "text": "Pemerintah"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Serikat Pekerja & PKB: Serikat bebas & mandiri dilindungi UU 21/2000 & Konvensi ILO 87/98 serta wajib punya AD/ART. PKB dibuat tertulis antara pengusaha & serikat pekerja. Jawaban: Pemerintah."
+  },
+  {
+    "num": 10,
+    "q": "Untuk mencapai tujuan hubungan industrial yang berkelanjutan, unsur yang paling memfasilitasi keseimbangan antara kepentingan pekerja dan pengusaha adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sanksi administratif yang keras dari pemerintah"
+      },
+      {
+        "label": "B",
+        "text": "Afiliasi serikat pekerja dengan partai politik besar"
+      },
+      {
+        "label": "C",
+        "text": "Institusi perundingan tingkat perusahaan yang permanen dan representatif"
+      },
+      {
+        "label": "D",
+        "text": "Kebijakan outsourcing massal untuk mengurangi beban tenaga kerja tetap"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Institusi perundingan tingkat perusahaan yang permanen dan representatif."
+  },
+  {
+    "num": 11,
+    "q": "Suatu badan di tingkat usaha atau unit produksi yang dibentuk oleh pekerja dan pengusaha ialah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lembaga Kerja Sama Bipartit"
+      },
+      {
+        "label": "B",
+        "text": "Lembaga Kerja Sama Tripartit"
+      },
+      {
+        "label": "C",
+        "text": "Lembaga Swadaya Masyarakat"
+      },
+      {
+        "label": "D",
+        "text": "Pusat Pelatihan dan Pengembangan Pendidikan (P4) Daerah"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Lembaga Kerja Sama Bipartit."
+  },
+  {
+    "num": 12,
+    "q": "Salah satu bentuk sikap mental dan sosial yang mendukung hubungan industrial adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Memperlakukan pekerja sebagai mitra usaha dan memperlakukan pengusaha layaknya investor"
+      },
+      {
+        "label": "B",
+        "text": "Memperlakukan pengusaha sebagai satu-satunya penentu arah kerja perusahaan"
+      },
+      {
+        "label": "C",
+        "text": "Meningkatkan pengawasan terhadap pekerja agar patuh pada perintah atasan"
+      },
+      {
+        "label": "D",
+        "text": "Mewajibkan pekerja mengikuti semua keputusan tanpa diskusi"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Memperlakukan pekerja sebagai mitra usaha dan memperlakukan pengusaha layaknya investor."
+  },
+  {
+    "num": 13,
+    "q": "Hak berserikat bagi pekerja atau buruh di Indonesia mengacu pada....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Peraturan internal perusahaan yang disusun oleh manajemen"
+      },
+      {
+        "label": "B",
+        "text": "Konvensi ILO No. 87 dan No. 98 yang telah diratifikasi menjadi bagian hukum nasional"
+      },
+      {
+        "label": "C",
+        "text": "Undang-undang khusus tentang jam kerja dan upah minimum"
+      },
+      {
+        "label": "D",
+        "text": "Perjanjian kerja bersama yang disepakati di tiap sektor industri"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Konvensi ILO No. 87 dan No. 98 yang telah diratifikasi menjadi bagian hukum nasional."
+  },
+  {
+    "num": 14,
+    "q": "Dalam konteks hubungan industrial di Indonesia, fungsi utama serikat pekerja yang diakui secara hukum adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menggantikan peran pemerintah dalam mengatur pengupahan di semua sektor"
+      },
+      {
+        "label": "B",
+        "text": "menentukan standar produktivitas perusahaan secara sepihak"
+      },
+      {
+        "label": "C",
+        "text": "mengelola dana pensiun dan asuransi kesehatan untuk seluruh pekerja"
+      },
+      {
+        "label": "D",
+        "text": "melindungi, membela, dan memperjuangkan hak serta kepentingan pekerja, serta meningkatkan kesejahteraan pekerja dan keluarganya"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Serikat Pekerja & PKB: Serikat bebas & mandiri dilindungi UU 21/2000 & Konvensi ILO 87/98 serta wajib punya AD/ART. PKB dibuat tertulis antara pengusaha & serikat pekerja. Jawaban: melindungi, membela, dan memperjuangkan hak serta kepentingan pekerja, serta meningkatkan kesejahteraan pekerja dan keluarganya."
+  },
+  {
+    "num": 15,
+    "q": "Perkembangan serikat pekerja di Indonesia selama masa kolonial Belanda hingga tahun 1973 ditandai dengan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "hanya ada satu serikat pekerja yang beroperasi di seluruh Indonesia"
+      },
+      {
+        "label": "B",
+        "text": "pembentukan sistem multi-union yang memungkinkan lebih dari satu serikat pekerja dalam satu perusahaan"
+      },
+      {
+        "label": "C",
+        "text": "serikat pekerja yang hanya bergerak dalam bidang ekonomi tanpa memperhatikan perjuangan kebangsaan"
+      },
+      {
+        "label": "D",
+        "text": "tidak adanya kerja sama antar serikat pekerja hingga tahun 1973"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Serikat Pekerja & PKB: Serikat bebas & mandiri dilindungi UU 21/2000 & Konvensi ILO 87/98 serta wajib punya AD/ART. PKB dibuat tertulis antara pengusaha & serikat pekerja. Jawaban: pembentukan sistem multi-union yang memungkinkan lebih dari satu serikat pekerja dalam satu perusahaan."
+  },
+  {
+    "num": 16,
+    "q": "Perlunya membangun hubungan industrial berdasarkan kemitraan tercermin dalam....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dorongan untuk meningkatkan dominasi pengusaha atas pekerja"
+      },
+      {
+        "label": "B",
+        "text": "Pandangan bahwa hubungan kerja harus bersifat kompetitif dan saling mengalahkan"
+      },
+      {
+        "label": "C",
+        "text": "Upaya perusahaan dalam menerapkan sistem kontrol penuh terhadap serikat pekerja"
+      },
+      {
+        "label": "D",
+        "text": "Kesadaran bahwa pendekatan pertentangan kelas dapat merugikan kedua belah pihak"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Kesadaran bahwa pendekatan pertentangan kelas dapat merugikan kedua belah pihak."
+  },
+  {
+    "num": 17,
+    "q": "Dalam hukum ketenagakerjaan Indonesia, pemogokan kerja yang sah menurut UU No. 13 Tahun 2003 adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "dijalankan secara tertib, damai, setelah melalui perundingan yang gagal, dan diberitahukan secara tertulis kepada pengusaha serta instansi terkait"
+      },
+      {
+        "label": "B",
+        "text": "dilakukan spontan oleh pekerja sebagai bentuk protes terhadap kebijakan perusahaan"
+      },
+      {
+        "label": "C",
+        "text": "dijalankan tanpa pemberitahuan untuk mencegah pengusaha mengantisipasi tuntutan pekerja"
+      },
+      {
+        "label": "D",
+        "text": "dipimpin oleh pihak luar serikat pekerja agar lebih netral dalam negosiasi"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: dijalankan secara tertib, damai, setelah melalui perundingan yang gagal, dan diberitahukan secara tertulis kepada pengusaha serta instansi terkait."
+  },
+  {
+    "num": 18,
+    "q": "Kemitraan tripartit dalam hubungan industrial ialah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hubungan kompetitif antara pekerja dan pengusaha"
+      },
+      {
+        "label": "B",
+        "text": "Hubungan pemerintah dan pengusaha untuk membatasi hak pekerja"
+      },
+      {
+        "label": "C",
+        "text": "Kerja sama antara pekerja, pengusaha, dan pemerintah untuk meningkatkan kesejahteraan dan produktivitas"
+      },
+      {
+        "label": "D",
+        "text": "Hubungan antara serikat pekerja dan pengusaha yang berpihak pada pemerintah"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Mekanisme PPHI (UU 2/2004): Tahap awal selalu perundingan Bipartit (maks 30 hari kerja). Jika gagal lanjut ke Mediasi/Konsiliasi/Arbitrase (Arbitrase Hak vs Kepentingan), dan terakhir PHI di Pengadilan Negeri. Jawaban: Kerja sama antara pekerja, pengusaha, dan pemerintah untuk meningkatkan kesejahteraan dan produktivitas."
+  },
+  {
+    "num": 19,
+    "q": "Salah satu tujuan utama serikat pekerja adalah memperjuangkan kepentingan anggotanya. Dalam konteks UU Nomor 21 Tahun 2000, tujuan tersebut diwujudkan dengan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mengambil alih pengelolaan perusahaan untuk memastikan kesejahteraan pekerja"
+      },
+      {
+        "label": "B",
+        "text": "Menetapkan kebijakan ketenagakerjaan nasional tanpa melibatkan pemerintah"
+      },
+      {
+        "label": "C",
+        "text": "Meningkatkan kesejahteraan anggota melalui perlindungan, pembelaan hak, dan peningkatan kondisi kerja"
+      },
+      {
+        "label": "D",
+        "text": "Mengatur proses rekrutmen pekerja baru agar sesuai standar serikat"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Serikat Pekerja & PKB: Serikat bebas & mandiri dilindungi UU 21/2000 & Konvensi ILO 87/98 serta wajib punya AD/ART. PKB dibuat tertulis antara pengusaha & serikat pekerja. Jawaban: Meningkatkan kesejahteraan anggota melalui perlindungan, pembelaan hak, dan peningkatan kondisi kerja."
+  },
+  {
+    "num": 20,
+    "q": "Dasar filosofi utama dari gerakan serikat pekerja yang harus dijaga dalam menjalankan fungsi- fungsinya adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menekan pengusaha agar selalu tunduk pada keinginan pekerja"
+      },
+      {
+        "label": "B",
+        "text": "memperjuangkan kepemilikan saham di perusahaan sebagai tujuan utama"
+      },
+      {
+        "label": "C",
+        "text": "fokus pada keuntungan perusahaan agar dapat memberikan bonus kepada pekerja"
+      },
+      {
+        "label": "D",
+        "text": "demokrasi organisasi dan atmosfer harga diri sosial bagi seluruh pekerja pria dan wanita"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Serikat Pekerja & PKB: Serikat bebas & mandiri dilindungi UU 21/2000 & Konvensi ILO 87/98 serta wajib punya AD/ART. PKB dibuat tertulis antara pengusaha & serikat pekerja. Jawaban: demokrasi organisasi dan atmosfer harga diri sosial bagi seluruh pekerja pria dan wanita."
+  },
+  {
+    "num": 21,
+    "q": "Sifat dari serikat pekerja ditunjukkan oleh adanya....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kewajiban pekerja untuk mengikuti serikat yang ditunjuk perusahaan"
+      },
+      {
+        "label": "B",
+        "text": "kontrol penuh perusahaan terhadap arah serikat pekerja"
+      },
+      {
+        "label": "C",
+        "text": "kebebasan dan kemandirian dalam menentukan keanggotaan serikat"
+      },
+      {
+        "label": "D",
+        "text": "sistem rekrutmen tertutup yang dijalankan secara sepihak"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Serikat Pekerja & PKB: Serikat bebas & mandiri dilindungi UU 21/2000 & Konvensi ILO 87/98 serta wajib punya AD/ART. PKB dibuat tertulis antara pengusaha & serikat pekerja. Jawaban: kebebasan dan kemandirian dalam menentukan keanggotaan serikat."
+  },
+  {
+    "num": 22,
+    "q": "Persyaratan mutlak yang perlu dipenuhi dalam pembentukan serikat pekerja adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "serikat pekerja dapat dibentuk oleh sekurang-kurangnya lima orang pekerja"
+      },
+      {
+        "label": "B",
+        "text": "federasi serikat pekerja dapat dibentuk oleh sekurang-kurangnya tiga serikat pekerja"
+      },
+      {
+        "label": "C",
+        "text": "konfederasi serikat pekerja dapat dibentuk oleh sekurang-kurangnya dua federasi serikat pekerja"
+      },
+      {
+        "label": "D",
+        "text": "setiap serikat pekerja, federasi, dan konfederasi harus memiliki anggaran dasar (AD) dan anggaran rumah tangga (ART)"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Serikat Pekerja & PKB: Serikat bebas & mandiri dilindungi UU 21/2000 & Konvensi ILO 87/98 serta wajib punya AD/ART. PKB dibuat tertulis antara pengusaha & serikat pekerja. Jawaban: setiap serikat pekerja, federasi, dan konfederasi harus memiliki anggaran dasar (AD) dan anggaran rumah tangga (ART)."
+  },
+  {
+    "num": 23,
+    "q": "Salah satu hak dalam pembentukan serikat pekerja adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "setiap pekerja boleh membentuk atau mendirikan serikat pekerja"
+      },
+      {
+        "label": "B",
+        "text": "pemerintah wajib menetapkan serikat pekerja untuk tiap perusahaan"
+      },
+      {
+        "label": "C",
+        "text": "perusahaan berhak menentukan federasi serikat pekerja"
+      },
+      {
+        "label": "D",
+        "text": "serikat pekerja dibentuk melalui izin pengusaha"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Serikat Pekerja & PKB: Serikat bebas & mandiri dilindungi UU 21/2000 & Konvensi ILO 87/98 serta wajib punya AD/ART. PKB dibuat tertulis antara pengusaha & serikat pekerja. Jawaban: setiap pekerja boleh membentuk atau mendirikan serikat pekerja."
+  },
+  {
+    "num": 24,
+    "q": "Alasan utama pekerja membentuk serikat pekerja menurut UU No. 21 Tahun 2000 adalah untuk....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mempermudah perusahaan mengatur jadwal kerja dan pembagian tugas"
+      },
+      {
+        "label": "B",
+        "text": "Melindungi, membela, dan memperjuangkan hak serta kepentingan pekerja"
+      },
+      {
+        "label": "C",
+        "text": "Menjadi perantara resmi antara pengusaha dan pemerintah dalam menetapkan kebijakan industri"
+      },
+      {
+        "label": "D",
+        "text": "Meningkatkan citra perusahaan di mata publik melalui kerja sama pekerja"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Mekanisme PPHI (UU 2/2004): Tahap awal selalu perundingan Bipartit (maks 30 hari kerja). Jika gagal lanjut ke Mediasi/Konsiliasi/Arbitrase (Arbitrase Hak vs Kepentingan), dan terakhir PHI di Pengadilan Negeri. Jawaban: Melindungi, membela, dan memperjuangkan hak serta kepentingan pekerja."
+  },
+  {
+    "num": 25,
+    "q": "Ketentuan yang melarang persyaratan keanggotaan atau dukungan finansial terhadap serikat pekerja sebagai syarat kerja adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Undang-Undang Ketenagakerjaan Nasional"
+      },
+      {
+        "label": "B",
+        "text": "Peraturan Kerja Sama Tripartit"
+      },
+      {
+        "label": "C",
+        "text": "Hukum Hak Bekerja (Right-to-Work Laws)"
+      },
+      {
+        "label": "D",
+        "text": "Perjanjian Kerja Bersama"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Serikat Pekerja & PKB: Serikat bebas & mandiri dilindungi UU 21/2000 & Konvensi ILO 87/98 serta wajib punya AD/ART. PKB dibuat tertulis antara pengusaha & serikat pekerja. Jawaban: Hukum Hak Bekerja (Right-to-Work Laws)."
+  },
+  {
+    "num": 26,
+    "q": "Ketidakpuasan pekerja terhadap manajemen sering menjadi alasan bergabungnya mereka dengan serikat pekerja. Bentuk ketidakpuasan yang paling berkaitan dengan tujuan serikat pekerja adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kurangnya fasilitas parkir karyawan"
+      },
+      {
+        "label": "B",
+        "text": "tidak tersedianya seragam kerja gratis setiap tahun"
+      },
+      {
+        "label": "C",
+        "text": "terbatasnya kesempatan mengikuti kegiatan sosial perusahaan"
+      },
+      {
+        "label": "D",
+        "text": "adanya pelanggaran hak normatif seperti upah dan jam kerja"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Serikat Pekerja & PKB: Serikat bebas & mandiri dilindungi UU 21/2000 & Konvensi ILO 87/98 serta wajib punya AD/ART. PKB dibuat tertulis antara pengusaha & serikat pekerja. Jawaban: adanya pelanggaran hak normatif seperti upah dan jam kerja."
+  },
+  {
+    "num": 27,
+    "q": "Berdasarkan hukum hak bekerja (Right-to-Work Laws), pekerja memiliki hak untuk....",
+    "options": [
+      {
+        "label": "A",
+        "text": "wajib menjadi anggota serikat pekerja agar dapat diterima bekerja"
+      },
+      {
+        "label": "B",
+        "text": "memberikan dukungan finansial secara wajib kepada serikat pekerja"
+      },
+      {
+        "label": "C",
+        "text": "mengikuti keputusan manajemen terkait dengan keanggotaan serikat pekerja"
+      },
+      {
+        "label": "D",
+        "text": "menentukan sendiri apakah ingin bergabung atau tidak dengan serikat pekerja"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Serikat Pekerja & PKB: Serikat bebas & mandiri dilindungi UU 21/2000 & Konvensi ILO 87/98 serta wajib punya AD/ART. PKB dibuat tertulis antara pengusaha & serikat pekerja. Jawaban: menentukan sendiri apakah ingin bergabung atau tidak dengan serikat pekerja."
+  },
+  {
+    "num": 28,
+    "q": "Berikut yang termasuk faktor eksternal yang dapat memengaruhi kondisi serikat pekerja adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mangkirnya anggota dari rapat kerja"
+      },
+      {
+        "label": "B",
+        "text": "rendahnya kerja sama dan komunikasi manajemen terhadap hadirnya serikat pekerja"
+      },
+      {
+        "label": "C",
+        "text": "diskriminasi pada anggota perempuan"
+      },
+      {
+        "label": "D",
+        "text": "pimpinan serikat pekerja di bawah kendali manajemen perusahaan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Serikat Pekerja & PKB: Serikat bebas & mandiri dilindungi UU 21/2000 & Konvensi ILO 87/98 serta wajib punya AD/ART. PKB dibuat tertulis antara pengusaha & serikat pekerja. Jawaban: rendahnya kerja sama dan komunikasi manajemen terhadap hadirnya serikat pekerja."
+  },
+  {
+    "num": 29,
+    "q": "Berikut yang termasuk salah satu tantangan utama yang dihadapi serikat pekerja di Indonesia adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "peningkatan jumlah pekerja yang tergabung dalam serikat setiap tahun"
+      },
+      {
+        "label": "B",
+        "text": "adanya dukungan penuh dari semua pengusaha terhadap program serikat"
+      },
+      {
+        "label": "C",
+        "text": "rendahnya kesadaran pekerja akan pentingnya keanggotaan serikat"
+      },
+      {
+        "label": "D",
+        "text": "stabilitas ekonomi nasional yang selalu terjaga"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Serikat Pekerja & PKB: Serikat bebas & mandiri dilindungi UU 21/2000 & Konvensi ILO 87/98 serta wajib punya AD/ART. PKB dibuat tertulis antara pengusaha & serikat pekerja. Jawaban: rendahnya kesadaran pekerja akan pentingnya keanggotaan serikat."
+  },
+  {
+    "num": 30,
+    "q": "Salah satu penyebab utama lemahnya kondisi internal serikat pekerja yaitu....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kurangnya perlindungan hukum dari pemerintah terhadap serikat pekerja"
+      },
+      {
+        "label": "B",
+        "text": "Campur tangan manajemen dalam proses rekrutmen pekerja"
+      },
+      {
+        "label": "C",
+        "text": "Minimnya pengetahuan serta loyalitas anggota terhadap organisasi"
+      },
+      {
+        "label": "D",
+        "text": "Rendahnya minat buruh untuk bekerja di sektor formal"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Serikat Pekerja & PKB: Serikat bebas & mandiri dilindungi UU 21/2000 & Konvensi ILO 87/98 serta wajib punya AD/ART. PKB dibuat tertulis antara pengusaha & serikat pekerja. Jawaban: Minimnya pengetahuan serta loyalitas anggota terhadap organisasi."
+  },
+  {
+    "num": 31,
+    "q": "Perjanjian Kerja Bersama (PKB) adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Perjanjian tertulis antara pekerja dan pemerintah yang mengatur ketentuan upah minimum regional"
+      },
+      {
+        "label": "B",
+        "text": "Kesepakatan lisan antara pengusaha dan perwakilan pekerja mengenai kondisi kerja"
+      },
+      {
+        "label": "C",
+        "text": "Perjanjian tertulis antara pengusaha dan serikat pekerja yang memuat syarat kerja, hak, dan kewajiban kedua belah pihak"
+      },
+      {
+        "label": "D",
+        "text": "Surat edaran perusahaan yang menetapkan tata tertib kerja bagi seluruh karyawan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Serikat Pekerja & PKB: Serikat bebas & mandiri dilindungi UU 21/2000 & Konvensi ILO 87/98 serta wajib punya AD/ART. PKB dibuat tertulis antara pengusaha & serikat pekerja. Jawaban: Perjanjian tertulis antara pengusaha dan serikat pekerja yang memuat syarat kerja, hak, dan kewajiban kedua belah pihak."
+  },
+  {
+    "num": 32,
+    "q": "Latar belakang Perjanjian Kerja Bersama (PKB) antara pengusaha dan pekerja berdasarkan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kesepakatan lisan antara pekerja dan pengusaha"
+      },
+      {
+        "label": "B",
+        "text": "kebijakan pengusaha tanpa negosiasi"
+      },
+      {
+        "label": "C",
+        "text": "UU No. 13 Tahun 2003 Pasal 108"
+      },
+      {
+        "label": "D",
+        "text": "Konvensi ILO No. 78"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Serikat Pekerja & PKB: Serikat bebas & mandiri dilindungi UU 21/2000 & Konvensi ILO 87/98 serta wajib punya AD/ART. PKB dibuat tertulis antara pengusaha & serikat pekerja. Jawaban: UU No. 13 Tahun 2003 Pasal 108."
+  },
+  {
+    "num": 33,
+    "q": "Dokumen yang memuat syarat dan aturan kerja bagi pekerja serta menjadi dasar penyelesaian perselisihan antara pengusaha dan pekerja adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Surat keputusan direksi"
+      },
+      {
+        "label": "B",
+        "text": "Perjanjian kerja bersama"
+      },
+      {
+        "label": "C",
+        "text": "Tata tertib kerja"
+      },
+      {
+        "label": "D",
+        "text": "Kontrak kerja individu"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Mekanisme PPHI (UU 2/2004): Tahap awal selalu perundingan Bipartit (maks 30 hari kerja). Jika gagal lanjut ke Mediasi/Konsiliasi/Arbitrase (Arbitrase Hak vs Kepentingan), dan terakhir PHI di Pengadilan Negeri. Jawaban: Perjanjian kerja bersama."
+  },
+  {
+    "num": 34,
+    "q": "Tujuan dari penyelidikan yang dilakukan oleh NLRB setelah petisi diajukan adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menentukan kewenangan Dewan dan bukti keinginan karyawan untuk pemilihan"
+      },
+      {
+        "label": "B",
+        "text": "menunjukkan keabsahan kartu otorisasi"
+      },
+      {
+        "label": "C",
+        "text": "menentukan hasil akhir pemilihan"
+      },
+      {
+        "label": "D",
+        "text": "mengatur pelaksanaan perundingan bersama"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: menentukan kewenangan Dewan dan bukti keinginan karyawan untuk pemilihan."
+  },
+  {
+    "num": 35,
+    "q": "Dalam kampanye pemilihan serikat pekerja, tindakan yang sesuai aturan NLRB adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Menyampaikan pendapat kepada karyawan tanpa mengganggu kebebasan memilih"
+      },
+      {
+        "label": "B",
+        "text": "Memberikan bonus khusus hanya kepada karyawan yang menolak serikat"
+      },
+      {
+        "label": "C",
+        "text": "Mengancam akan menurunkan gaji jika karyawan memilih serikat"
+      },
+      {
+        "label": "D",
+        "text": "Membatasi serikat pekerja untuk mengadakan pertemuan dengan karyawan"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Serikat Pekerja & PKB: Serikat bebas & mandiri dilindungi UU 21/2000 & Konvensi ILO 87/98 serta wajib punya AD/ART. PKB dibuat tertulis antara pengusaha & serikat pekerja. Jawaban: Menyampaikan pendapat kepada karyawan tanpa mengganggu kebebasan memilih."
+  },
+  {
+    "num": 36,
+    "q": "Dalam membangun hubungan perundingan bersama yang efektif, langkah awal yang wajib dilakukan oleh serikat pekerja menurut prinsip hubungan industrial adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mengundang pihak pengusaha untuk melakukan negosiasi sebelum ada tuntutan yang jelas"
+      },
+      {
+        "label": "B",
+        "text": "menyusun daftar tuntutan secara tertulis dan mengirimkannya kepada pengusaha sebagai dasar perundingan"
+      },
+      {
+        "label": "C",
+        "text": "mengadakan aksi mogok sebagai sinyal awal agar pengusaha bersedia berunding"
+      },
+      {
+        "label": "D",
+        "text": "meminta mediator ketenagakerjaan hadir sebelum ada pembicaraan langsung dengan pengusaha"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Serikat Pekerja & PKB: Serikat bebas & mandiri dilindungi UU 21/2000 & Konvensi ILO 87/98 serta wajib punya AD/ART. PKB dibuat tertulis antara pengusaha & serikat pekerja. Jawaban: menyusun daftar tuntutan secara tertulis dan mengirimkannya kepada pengusaha sebagai dasar perundingan."
+  },
+  {
+    "num": 37,
+    "q": "Klausul perjanjian kerja yang mewajibkan karyawan menjadi anggota serikat pekerja sebelum dipekerjakan disebut....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Closed Shop"
+      },
+      {
+        "label": "B",
+        "text": "Agency Shop"
+      },
+      {
+        "label": "C",
+        "text": "Pemungutan Iuran"
+      },
+      {
+        "label": "D",
+        "text": "Open Shop"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Serikat Pekerja & PKB: Serikat bebas & mandiri dilindungi UU 21/2000 & Konvensi ILO 87/98 serta wajib punya AD/ART. PKB dibuat tertulis antara pengusaha & serikat pekerja. Jawaban: Closed Shop."
+  },
+  {
+    "num": 38,
+    "q": "Yang termasuk dalam hak-hak manajemen adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "keterbatasan dalam menentukan alokasi aset"
+      },
+      {
+        "label": "B",
+        "text": "hak karyawan untuk memperoleh pelatihan kerja"
+      },
+      {
+        "label": "C",
+        "text": "tidak boleh mengambil tindakan disiplin dengan alasan tertentu"
+      },
+      {
+        "label": "D",
+        "text": "kebebasan memilih tujuan bisnis perusahaan"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: kebebasan memilih tujuan bisnis perusahaan."
+  },
+  {
+    "num": 39,
+    "q": "Dalam proses perundingan perjanjian kerja bersama, isu-isu yang dibahas harus diidentifikasi secara cermat oleh kedua belah pihak. Salah satu hal penting yang harus diperhatikan dalam mengidentifikasi isu-isu perundingan adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Menentukan posisi tawar yang kuat dengan menyusun daftar tuntutan secara terperinci"
+      },
+      {
+        "label": "B",
+        "text": "Memahami isu-isu prioritas bersama yang menyentuh kepentingan pekerja dan pengusaha"
+      },
+      {
+        "label": "C",
+        "text": "Menghindari isu-isu yang berpotensi menimbulkan konflik agar perundingan berjalan lancar"
+      },
+      {
+        "label": "D",
+        "text": "Mengedepankan kepentingan unit kerja tertentu agar hasilnya lebih fokus dan efisien"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Memahami isu-isu prioritas bersama yang menyentuh kepentingan pekerja dan pengusaha."
+  },
+  {
+    "num": 40,
+    "q": "Dalam penyelesaian hambatan negosiasi perjanjian kerja bersama, intervensi pihak ketiga melalui mediasi dilakukan apabila....",
+    "options": [
+      {
+        "label": "A",
+        "text": "salah satu pihak meminta bantuan mediator sejak awal negosiasi tanpa upaya perundingan langsung"
+      },
+      {
+        "label": "B",
+        "text": "pihak pengusaha merasa negosiasi akan merugikan sehingga meminta penundaan"
+      },
+      {
+        "label": "C",
+        "text": "perundingan bipartit telah dilaksanakan namun gagal mencapai kesepakatan dalam jangka waktu yang ditentukan"
+      },
+      {
+        "label": "D",
+        "text": "salah satu pihak menolak kehadiran serikat pekerja dalam negosiasi"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Mekanisme PPHI (UU 2/2004): Tahap awal selalu perundingan Bipartit (maks 30 hari kerja). Jika gagal lanjut ke Mediasi/Konsiliasi/Arbitrase (Arbitrase Hak vs Kepentingan), dan terakhir PHI di Pengadilan Negeri. Jawaban: perundingan bipartit telah dilaksanakan namun gagal mencapai kesepakatan dalam jangka waktu yang ditentukan."
+  },
+  {
+    "num": 41,
+    "q": "Arbitrase yang berkenaan dengan perselisihan dalam hal penafsiran dan penerapan berbagai ketentuan dari kontrak yang ada yaitu....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Arbitrase kepentingan"
+      },
+      {
+        "label": "B",
+        "text": "Arbitrase hak"
+      },
+      {
+        "label": "C",
+        "text": "Arbitrase preventif"
+      },
+      {
+        "label": "D",
+        "text": "Arbitrase kebijakan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Mekanisme PPHI (UU 2/2004): Tahap awal selalu perundingan Bipartit (maks 30 hari kerja). Jika gagal lanjut ke Mediasi/Konsiliasi/Arbitrase (Arbitrase Hak vs Kepentingan), dan terakhir PHI di Pengadilan Negeri. Jawaban: Arbitrase hak."
+  },
+  {
+    "num": 42,
+    "q": "Arbitrase yang berkenaan dengan perselisihan terkait ketentuan dalam perjanjian perundingan bersama yang diusulkan dikenal dengan arbitrase....",
+    "options": [
+      {
+        "label": "A",
+        "text": "preventif"
+      },
+      {
+        "label": "B",
+        "text": "hak"
+      },
+      {
+        "label": "C",
+        "text": "kebijakan"
+      },
+      {
+        "label": "D",
+        "text": "kepentingan"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Mekanisme PPHI (UU 2/2004): Tahap awal selalu perundingan Bipartit (maks 30 hari kerja). Jika gagal lanjut ke Mediasi/Konsiliasi/Arbitrase (Arbitrase Hak vs Kepentingan), dan terakhir PHI di Pengadilan Negeri. Jawaban: kepentingan."
+  },
+  {
+    "num": 43,
+    "q": "Dalam hubungan ketenagakerjaan, perusahaan yang menyediakan jasa tenaga kerja untuk digunakan oleh perusahaan lain berdasarkan perjanjian tertentu dikenal dengan istilah perusahaan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "penyalur Tenaga Kerja Indonesia"
+      },
+      {
+        "label": "B",
+        "text": "perekrutan internal"
+      },
+      {
+        "label": "C",
+        "text": "penempatan tenaga sukarela"
+      },
+      {
+        "label": "D",
+        "text": "penyedia jasa outsourcing"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: penyedia jasa outsourcing."
+  },
+  {
+    "num": 44,
+    "q": "Perbedaan kepentingan menyebabkan persoalan hukum pada outsourcing, di mana yang memiliki kepentingan mengharapkan kualitas barang atau jasa yang tinggi dengan harga murah yaitu....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pemberi kerja"
+      },
+      {
+        "label": "B",
+        "text": "penerima kerja"
+      },
+      {
+        "label": "C",
+        "text": "pengusaha"
+      },
+      {
+        "label": "D",
+        "text": "pemerintahan"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Kontrak & Kompensasi Kerja: Outsourcing memakai kontrak PKWT (status kurang pasti dibanding PKWTT tetap); Mutasi bersifat horizontal, sedangkan Promosi menaikkan jenjang/gaji. Jawaban: pemberi kerja."
+  },
+  {
+    "num": 45,
+    "q": "Outsourcing dalam hubungan industrial adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Penunjukan langsung karyawan tetap oleh perusahaan induk tanpa perantara"
+      },
+      {
+        "label": "B",
+        "text": "Penyerahan seluruh tanggung jawab perusahaan kepada serikat pekerja"
+      },
+      {
+        "label": "C",
+        "text": "Sistem kerja di mana pekerja mengatur sendiri jadwal dan pekerjaan tanpa supervisi"
+      },
+      {
+        "label": "D",
+        "text": "Pengalihan sebagian pekerjaan kepada pihak ketiga yang menyediakan tenaga kerja secara kontrak"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Kontrak & Kompensasi Kerja: Outsourcing memakai kontrak PKWT (status kurang pasti dibanding PKWTT tetap); Mutasi bersifat horizontal, sedangkan Promosi menaikkan jenjang/gaji. Jawaban: Pengalihan sebagian pekerjaan kepada pihak ketiga yang menyediakan tenaga kerja secara kontrak."
+  },
+  {
+    "num": 46,
+    "q": "Perbedaan utama antara karyawan outsourcing dan karyawan tetap adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Karyawan outsourcing mendapatkan fasilitas kesejahteraan lebih banyak dari perusahaan induk"
+      },
+      {
+        "label": "B",
+        "text": "Karyawan outsourcing secara hukum bukan pegawai tetap perusahaan pengguna, tetapi pihak ketiga yang menyediakan tenaga kerja"
+      },
+      {
+        "label": "C",
+        "text": "Karyawan outsourcing berhak mengikuti semua pelatihan pengembangan karier di perusahaan pengguna"
+      },
+      {
+        "label": "D",
+        "text": "Karyawan outsourcing memiliki kontrak kerja tanpa batas waktu (permanen)"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Kontrak & Kompensasi Kerja: Outsourcing memakai kontrak PKWT (status kurang pasti dibanding PKWTT tetap); Mutasi bersifat horizontal, sedangkan Promosi menaikkan jenjang/gaji. Jawaban: Karyawan outsourcing secara hukum bukan pegawai tetap perusahaan pengguna, tetapi pihak ketiga yang menyediakan tenaga kerja."
+  },
+  {
+    "num": 47,
+    "q": "Dalam ketentuan umum outsourcing, hubungan kerja antara perusahaan dan karyawan kontrak secara hukum dituangkan dalam....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Perjanjian Kerja Waktu Tidak Tertentu (PKWTT)"
+      },
+      {
+        "label": "B",
+        "text": "Perjanjian Kerja Waktu Tertentu (PKWT)"
+      },
+      {
+        "label": "C",
+        "text": "Surat Perjanjian Magang"
+      },
+      {
+        "label": "D",
+        "text": "Surat Keputusan Direksi"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Kontrak & Kompensasi Kerja: Outsourcing memakai kontrak PKWT (status kurang pasti dibanding PKWTT tetap); Mutasi bersifat horizontal, sedangkan Promosi menaikkan jenjang/gaji. Jawaban: Perjanjian Kerja Waktu Tertentu (PKWT)."
+  },
+  {
+    "num": 48,
+    "q": "Salah satu hak karyawan tetap apabila terjadi pemutusan hubungan kerja tanpa pelanggaran berat adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kehilangan seluruh hak dan tunjangan yang pernah diterima"
+      },
+      {
+        "label": "B",
+        "text": "mendapatkan uang pesangon saja tanpa hak lainnya"
+      },
+      {
+        "label": "C",
+        "text": "mendapatkan uang penghargaan masa kerja saja"
+      },
+      {
+        "label": "D",
+        "text": "mendapatkan uang pesangon, uang penghargaan masa kerja, dan uang penggantian hak sesuai UU yang berlaku"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: mendapatkan uang pesangon, uang penghargaan masa kerja, dan uang penggantian hak sesuai UU yang berlaku."
+  },
+  {
+    "num": 49,
+    "q": "Salah satu kerugian karyawan outsourcing dibandingkan karyawan tetap yang sering tidak disadari adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mendapatkan jaminan pensiun yang lebih baik dari perusahaan induk"
+      },
+      {
+        "label": "B",
+        "text": "Memiliki hak cuti tahunan yang lebih banyak daripada karyawan tetap"
+      },
+      {
+        "label": "C",
+        "text": "Status kerja yang kurang pasti dan perlindungan hukum yang terbatas"
+      },
+      {
+        "label": "D",
+        "text": "Mendapatkan bonus tahunan lebih besar dari perusahaan pengguna"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Kontrak & Kompensasi Kerja: Outsourcing memakai kontrak PKWT (status kurang pasti dibanding PKWTT tetap); Mutasi bersifat horizontal, sedangkan Promosi menaikkan jenjang/gaji. Jawaban: Status kerja yang kurang pasti dan perlindungan hukum yang terbatas."
+  },
+  {
+    "num": 50,
+    "q": "Salah satu penyebab rendahnya kesejahteraan karyawan outsourcing dibanding karyawan tetap adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "adanya program pelatihan rutin"
+      },
+      {
+        "label": "B",
+        "text": "upah yang lebih kecil dan minim fasilitas tambahan"
+      },
+      {
+        "label": "C",
+        "text": "kepastian kontrak kerja jangka panjang"
+      },
+      {
+        "label": "D",
+        "text": "pemberian bonus tahunan secara konsisten"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Kontrak & Kompensasi Kerja: Outsourcing memakai kontrak PKWT (status kurang pasti dibanding PKWTT tetap); Mutasi bersifat horizontal, sedangkan Promosi menaikkan jenjang/gaji. Jawaban: upah yang lebih kecil dan minim fasilitas tambahan."
+  },
+  {
+    "num": 51,
+    "q": "Salah satu risiko menjadi karyawan outsourcing adalah masa kerja yang tidak pasti. Hal ini berarti....",
+    "options": [
+      {
+        "label": "A",
+        "text": "karyawan otomatis mendapatkan kenaikan gaji setiap tahun"
+      },
+      {
+        "label": "B",
+        "text": "karyawan memiliki masa kerja yang sama seperti pegawai tetap"
+      },
+      {
+        "label": "C",
+        "text": "karyawan akan mendapat kontrak kerja hingga pensiun"
+      },
+      {
+        "label": "D",
+        "text": "perusahaan dapat memutus hubungan kerja kapan saja sesuai perjanjian kontrak"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Kontrak & Kompensasi Kerja: Outsourcing memakai kontrak PKWT (status kurang pasti dibanding PKWTT tetap); Mutasi bersifat horizontal, sedangkan Promosi menaikkan jenjang/gaji. Jawaban: perusahaan dapat memutus hubungan kerja kapan saja sesuai perjanjian kontrak."
+  },
+  {
+    "num": 52,
+    "q": "Berikut ini yang termasuk kompensasi finansial tidak langsung yaitu....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bonus kinerja akhir tahun"
+      },
+      {
+        "label": "B",
+        "text": "Gaji pokok bulanan"
+      },
+      {
+        "label": "C",
+        "text": "Komisi penjualan"
+      },
+      {
+        "label": "D",
+        "text": "Jaminan sosial"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Kontrak & Kompensasi Kerja: Outsourcing memakai kontrak PKWT (status kurang pasti dibanding PKWTT tetap); Mutasi bersifat horizontal, sedangkan Promosi menaikkan jenjang/gaji. Jawaban: Jaminan sosial."
+  },
+  {
+    "num": 53,
+    "q": "Sebuah perusahaan memberikan bonus tahunan dan tunjangan tambahan dengan tujuan agar karyawan merasa betah bekerja dan termotivasi meningkatkan kinerja. Hal ini menunjukkan bahwa tujuan kompensasi adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mengatur jumlah cuti tahunan"
+      },
+      {
+        "label": "B",
+        "text": "mengurangi beban kerja karyawan"
+      },
+      {
+        "label": "C",
+        "text": "menarik, mempertahankan, dan memotivasi pekerja"
+      },
+      {
+        "label": "D",
+        "text": "menambah jam kerja lembur"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Kontrak & Kompensasi Kerja: Outsourcing memakai kontrak PKWT (status kurang pasti dibanding PKWTT tetap); Mutasi bersifat horizontal, sedangkan Promosi menaikkan jenjang/gaji. Jawaban: menarik, mempertahankan, dan memotivasi pekerja."
+  },
+  {
+    "num": 54,
+    "q": "Kompensasi dalam hubungan industrial sebaiknya dipahami bukan hanya sebagai pembayaran upah, tetapi juga mencakup aspek lain karena kompensasi.... WA",
+    "options": [
+      {
+        "label": "A",
+        "text": "meliputi semua bentuk penghargaan finansial dan nonfinansial yang diterima pekerja sebagai balasan atas kontribusi mereka"
+      },
+      {
+        "label": "B",
+        "text": "hanya berarti gaji pokok yang diterima pekerja setiap bulan tanpa tambahan lain"
+      },
+      {
+        "label": "C",
+        "text": "adalah bonus tahunan yang diberikan sesekali berdasarkan kebijakan perusahaan"
+      },
+      {
+        "label": "D",
+        "text": "berarti tunjangan makan dan transportasi saja, tidak termasuk gaji pokok"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Kontrak & Kompensasi Kerja: Outsourcing memakai kontrak PKWT (status kurang pasti dibanding PKWTT tetap); Mutasi bersifat horizontal, sedangkan Promosi menaikkan jenjang/gaji. Jawaban: meliputi semua bentuk penghargaan finansial dan nonfinansial yang diterima pekerja sebagai balasan atas kontribusi mereka."
+  },
+  {
+    "num": 55,
+    "q": "Evaluasi pekerjaan adalah proses menilai berbagai aspek pekerjaan untuk menentukan nilai relatifnya dalam organisasi. Proses ini penting agar pengupahan adil dan sesuai dengan tanggung jawab yang dimiliki. Dalam konteks ini, evaluasi pekerjaan bertujuan untuk....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menilai nilai pekerjaan berdasarkan kompleksitas dan tanggung jawab agar struktur pengupahan adil"
+      },
+      {
+        "label": "B",
+        "text": "menentukan gaji pokok berdasarkan lama bekerja dan produktivitas individu"
+      },
+      {
+        "label": "C",
+        "text": "mengukur tingkat kesulitan pekerjaan tanpa mempertimbangkan tanggung jawab dan lingkungan kerja"
+      },
+      {
+        "label": "D",
+        "text": "menilai nilai pekerjaan hanya dari sisi hasil akhir tanpa memperhitungkan proses kerja"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: menilai nilai pekerjaan berdasarkan kompleksitas dan tanggung jawab agar struktur pengupahan adil."
+  },
+  {
+    "num": 56,
+    "q": "Metode evaluasi pekerjaan yang dilakukan dengan mempelajari deskripsi tiap pekerjaan, lalu menyusunnya secara berurutan sesuai nilai pekerjaannya bagi perusahaan, disebut....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Point System"
+      },
+      {
+        "label": "B",
+        "text": "Classification"
+      },
+      {
+        "label": "C",
+        "text": "Peringkat"
+      },
+      {
+        "label": "D",
+        "text": "Factor Comparison"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Peringkat."
+  },
+  {
+    "num": 57,
+    "q": "Dalam sebuah perusahaan, supervisor bagian surat-menyurat menerima gaji lebih tinggi dari kepala akuntan. Untuk mengatasi ketidaksesuaian tersebut perusahaan melakukan evaluasi pekerjaan. Tujuan utama evaluasi pekerjaan adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menentukan gaji sesuai harga pasar"
+      },
+      {
+        "label": "B",
+        "text": "mengurangi biaya perusahaan"
+      },
+      {
+        "label": "C",
+        "text": "menghapus ketidakadilan bayaran internal dan menata hubungan antarpekerja"
+      },
+      {
+        "label": "D",
+        "text": "memberi insentif tambahan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: menghapus ketidakadilan bayaran internal dan menata hubungan antarpekerja."
+  },
+  {
+    "num": 58,
+    "q": "Berikut ini yang termasuk ke dalam kategori tunjangan tidak wajib (sukarela) adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "bayaran saat tidak bekerja, perawatan kesehatan, rancangan pensiun, rancangan opsi saham karyawan, serta layanan karyawan"
+      },
+      {
+        "label": "B",
+        "text": "tunjangan hari raya, cuti melahirkan, dan jaminan kecelakaan kerja"
+      },
+      {
+        "label": "C",
+        "text": "upah minimum regional, program jaminan pensiun nasional, dan asuransi kesehatan BPJS"
+      },
+      {
+        "label": "D",
+        "text": "penggantian biaya seragam, jaminan pensiun wajib, dan tunjangan kematian wajib"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Kontrak & Kompensasi Kerja: Outsourcing memakai kontrak PKWT (status kurang pasti dibanding PKWTT tetap); Mutasi bersifat horizontal, sedangkan Promosi menaikkan jenjang/gaji. Jawaban: bayaran saat tidak bekerja, perawatan kesehatan, rancangan pensiun, rancangan opsi saham karyawan, serta layanan karyawan."
+  },
+  {
+    "num": 59,
+    "q": "Tunjangan diberikan oleh perusahaan kepada karyawan sebagai bagian dari paket kompensasi. Berbeda dengan gaji pokok, tunjangan bertujuan mendukung kesejahteraan karyawan secara langsung maupun tidak langsung. Berdasarkan pengertian tersebut, tunjangan dapat diartikan sebagai....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pembayaran rutin yang diberikan kepada karyawan berdasarkan jumlah jam kerja"
+      },
+      {
+        "label": "B",
+        "text": "Fasilitas atau pembayaran tambahan di luar gaji pokok yang diberikan untuk meningkatkan kesejahteraan"
+      },
+      {
+        "label": "C",
+        "text": "Insentif finansial yang hanya diberikan jika karyawan mencapai target tertentu"
+      },
+      {
+        "label": "D",
+        "text": "Pemberian barang atau jasa yang bersifat sementara dan tidak memengaruhi kesejahteraan jangka panjang"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Kontrak & Kompensasi Kerja: Outsourcing memakai kontrak PKWT (status kurang pasti dibanding PKWTT tetap); Mutasi bersifat horizontal, sedangkan Promosi menaikkan jenjang/gaji. Jawaban: Fasilitas atau pembayaran tambahan di luar gaji pokok yang diberikan untuk meningkatkan kesejahteraan."
+  },
+  {
+    "num": 60,
+    "q": "Sebagian besar tunjangan diberikan perusahaan secara sukarela, namun ada yang diwajibkan oleh hukum. Contohnya meliputi jaminan sosial, ganti rugi karyawan, asuransi pengangguran, dan cuti keluarga. Berdasarkan uraian tersebut, tunjangan seperti ini disebut tunjangan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "wajib"
+      },
+      {
+        "label": "B",
+        "text": "sukarela"
+      },
+      {
+        "label": "C",
+        "text": "tambahan"
+      },
+      {
+        "label": "D",
+        "text": "khusus"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Kontrak & Kompensasi Kerja: Outsourcing memakai kontrak PKWT (status kurang pasti dibanding PKWTT tetap); Mutasi bersifat horizontal, sedangkan Promosi menaikkan jenjang/gaji. Jawaban: wajib."
+  },
+  {
+    "num": 61,
+    "q": "Dalam teori yang dikembangkan oleh J. Richard Hackman dan Greg Oldham, kepuasan kerja yang lebih tinggi dapat dicapai ketika pekerjaan memiliki lima dimensi inti, salah satunya adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Penilaian kinerja bulanan"
+      },
+      {
+        "label": "B",
+        "text": "Pembagian bonus tahunan"
+      },
+      {
+        "label": "C",
+        "text": "Variasi keterampilan"
+      },
+      {
+        "label": "D",
+        "text": "Jumlah jam kerja lembur"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Variasi keterampilan."
+  },
+  {
+    "num": 62,
+    "q": "Berbagai bentuk kompensasi tidak berwujud uang tetapi tetap berpengaruh terhadap kepuasan kerja karyawan, di antaranya....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tunjangan transportasi dan asuransi kesehatan"
+      },
+      {
+        "label": "B",
+        "text": "Bonus tahunan dan komisi penjualan"
+      },
+      {
+        "label": "C",
+        "text": "Gaji pokok dan tunjangan jabatan"
+      },
+      {
+        "label": "D",
+        "text": "Lingkungan kerja yang baik dan fleksibilitas jam kerja"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Kontrak & Kompensasi Kerja: Outsourcing memakai kontrak PKWT (status kurang pasti dibanding PKWTT tetap); Mutasi bersifat horizontal, sedangkan Promosi menaikkan jenjang/gaji. Jawaban: Lingkungan kerja yang baik dan fleksibilitas jam kerja."
+  },
+  {
+    "num": 63,
+    "q": "Sebuah perusahaan memberikan penghargaan berupa pengakuan prestasi, kesempatan promosi, dan suasana kerja yang nyaman. Hal ini termasuk dalam bentuk....",
+    "options": [
+      {
+        "label": "A",
+        "text": "insentif berbasis kinerja untuk menambah penghasilan"
+      },
+      {
+        "label": "B",
+        "text": "tunjangan yang diberikan dalam bentuk uang di luar gaji pokok"
+      },
+      {
+        "label": "C",
+        "text": "bonus akhir tahun yang diberikan kepada seluruh karyawan"
+      },
+      {
+        "label": "D",
+        "text": "bentuk kompensasi yang tidak berupa uang, melainkan pemenuhan kebutuhan psikologis dan lingkungan kerja"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Kontrak & Kompensasi Kerja: Outsourcing memakai kontrak PKWT (status kurang pasti dibanding PKWTT tetap); Mutasi bersifat horizontal, sedangkan Promosi menaikkan jenjang/gaji. Jawaban: bentuk kompensasi yang tidak berupa uang, melainkan pemenuhan kebutuhan psikologis dan lingkungan kerja."
+  },
+  {
+    "num": 64,
+    "q": "Dalam sebuah perusahaan rintisan, para karyawan kerap berdiskusi untuk mencari solusi atas masalah, saling membantu ketika ada kendala, serta berbagi informasi guna memperlancar pekerjaan. Situasi ini mencerminkan hubungan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "antar pekerja eksternal yang mendukung koordinasi organisasi"
+      },
+      {
+        "label": "B",
+        "text": "antar pekerja internal yang didasarkan pada koordinasi dan komunikasi efektif"
+      },
+      {
+        "label": "C",
+        "text": "antar pekerja berdasarkan kontrak kerja formal"
+      },
+      {
+        "label": "D",
+        "text": "antar pekerja yang fokus pada kompetisi untuk meningkatkan kinerja individu"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: antar pekerja internal yang didasarkan pada koordinasi dan komunikasi efektif."
+  },
+  {
+    "num": 65,
+    "q": "Menurut beberapa ahli, yang dimaksud dengan mutasi (transfer) dalam konteks ketenagakerjaan adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "perpindahan karyawan dari satu jabatan ke jabatan lain yang gaji dan tanggung jawabnya jauh lebih tinggi"
+      },
+      {
+        "label": "B",
+        "text": "perpindahan karyawan secara horizontal ke posisi lain dengan gaji, tanggung jawab, dan jenjang organisasional yang relatif sama"
+      },
+      {
+        "label": "C",
+        "text": "perpindahan karyawan yang selalu diikuti dengan kenaikan gaji dan promosi jabatan"
+      },
+      {
+        "label": "D",
+        "text": "perpindahan karyawan dari satu perusahaan ke perusahaan lain yang berbeda bidang usaha"
+      }
+    ],
+    "correct": [
+      1,
+      3
+    ],
+    "isMulti": true,
+    "cara": "Kontrak & Kompensasi Kerja: Outsourcing memakai kontrak PKWT (status kurang pasti dibanding PKWTT tetap); Mutasi bersifat horizontal, sedangkan Promosi menaikkan jenjang/gaji. Jawaban: perpindahan karyawan secara horizontal ke posisi lain dengan gaji, tanggung jawab, dan jenjang organisasional yang relatif sama • perpindahan karyawan dari satu perusahaan ke perusahaan lain yang berbeda bidang usaha."
+  },
+  {
+    "num": 66,
+    "q": "Promosi adalah perpindahan karyawan ke posisi yang lebih tinggi gaji, tanggung jawab, dan/atau jenjang organisasionalnya. Beberapa tujuan promosi antara lain.... WA",
+    "options": [
+      {
+        "label": "A",
+        "text": "memberikan hukuman kepada karyawan yang melanggar aturan"
+      },
+      {
+        "label": "B",
+        "text": "memberikan kesempatan bagi karyawan untuk berkembang dan memotivasi mereka bekerja lebih baik"
+      },
+      {
+        "label": "C",
+        "text": "menyederhanakan struktur organisasi dengan mengurangi jumlah karyawan"
+      },
+      {
+        "label": "D",
+        "text": "menekan biaya produksi melalui penurunan gaji"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Kontrak & Kompensasi Kerja: Outsourcing memakai kontrak PKWT (status kurang pasti dibanding PKWTT tetap); Mutasi bersifat horizontal, sedangkan Promosi menaikkan jenjang/gaji. Jawaban: memberikan kesempatan bagi karyawan untuk berkembang dan memotivasi mereka bekerja lebih baik."
+  },
+  {
+    "num": 67,
+    "q": "Berdasarkan faktor-faktor penyebab konflik di lingkungan kerja, perbedaan tujuan yang terdapat di antara satu bagian dengan bagian lainnya sering kali dikaitkan dengan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "masalah komunikasi"
+      },
+      {
+        "label": "B",
+        "text": "perbedaan persepsi atau pandangan"
+      },
+      {
+        "label": "C",
+        "text": "struktur organisasi"
+      },
+      {
+        "label": "D",
+        "text": "saling bergantungan dalam pekerjaan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: struktur organisasi."
+  },
+  {
+    "num": 68,
+    "q": "Dalam sudut pandang konflik, pandangan interaksi menganggap konflik sebagai....",
+    "options": [
+      {
+        "label": "A",
+        "text": "suatu peristiwa yang tidak dapat dihindari dan sangat diperlukan bagi pemimpin organisasi"
+      },
+      {
+        "label": "B",
+        "text": "sesuatu yang berbahaya dan harus dihilangkan dari organisasi"
+      },
+      {
+        "label": "C",
+        "text": "hal yang biasa terjadi di organisasi, dapat bermanfaat atau merugikan"
+      },
+      {
+        "label": "D",
+        "text": "situasi yang hanya muncul jika terjadi perbedaan tujuan antar individu"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: suatu peristiwa yang tidak dapat dihindari dan sangat diperlukan bagi pemimpin organisasi."
+  },
+  {
+    "num": 69,
+    "q": "Seorang karyawan merasa beban kerjanya terlalu berat dibanding rekan satu timnya, sedangkan rekan tersebut merasa pembagian kerja sudah adil. Perbedaan persepsi ini mulai menimbulkan ketegangan dan menghambat kerja sama. Situasi ini termasuk.... WA",
+    "options": [
+      {
+        "label": "A",
+        "text": "persaingan sehat antar pekerja untuk meningkatkan produktivitas"
+      },
+      {
+        "label": "B",
+        "text": "perbedaan gaya kerja yang tidak berpengaruh pada hubungan tim"
+      },
+      {
+        "label": "C",
+        "text": "proses penyesuaian diri karyawan terhadap lingkungan baru"
+      },
+      {
+        "label": "D",
+        "text": "konflik pada lingkungan kerja akibat perbedaan kepentingan atau persepsi"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: konflik pada lingkungan kerja akibat perbedaan kepentingan atau persepsi."
+  },
+  {
+    "num": 70,
+    "q": "Berdasarkan ketentuan penyelesaian perselisihan hubungan industrial, perundingan bipartit dinyatakan tidak berhasil apabila....",
+    "options": [
+      {
+        "label": "A",
+        "text": "salah satu pihak mengundurkan diri dari perundingan sebelum mencapai mufakat"
+      },
+      {
+        "label": "B",
+        "text": "pihak pekerja mengajukan keberatan tertulis kepada Dinas Ketenagakerjaan"
+      },
+      {
+        "label": "C",
+        "text": "risalah perundingan tidak ditandatangani oleh seluruh pihak yang terlibat"
+      },
+      {
+        "label": "D",
+        "text": "tidak tercapai solusi dan kesepakatan dalam waktu 30 hari kerja sejak perundingan dimulai"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Mekanisme PPHI (UU 2/2004): Tahap awal selalu perundingan Bipartit (maks 30 hari kerja). Jika gagal lanjut ke Mediasi/Konsiliasi/Arbitrase (Arbitrase Hak vs Kepentingan), dan terakhir PHI di Pengadilan Negeri. Jawaban: tidak tercapai solusi dan kesepakatan dalam waktu 30 hari kerja sejak perundingan dimulai."
+  },
+  {
+    "num": 71,
+    "q": "Sebuah perusahaan memutus hubungan kerja dengan sekelompok karyawan karena dianggap melakukan pelanggaran disiplin. Namun, para karyawan tersebut mengklaim pemutusan hubungan kerja dilakukan tanpa bukti yang sah dan melanggar perjanjian kerja bersama. Kedua pihak berdebat dan hubungan kerja menjadi tegang. Berdasarkan situasi tersebut, yang paling tepat menggambarkan kondisi yang terjadi adalah perselisihan.... WA",
+    "options": [
+      {
+        "label": "A",
+        "text": "kepentingan yang muncul karena belum ada kesepakatan baru antara pekerja dan pengusaha"
+      },
+      {
+        "label": "B",
+        "text": "hubungan industrial terkait pelaksanaan Perjanjian Kerja Bersama (PKB)"
+      },
+      {
+        "label": "C",
+        "text": "antar serikat pekerja dalam satu perusahaan"
+      },
+      {
+        "label": "D",
+        "text": "hak yang terjadi akibat interpretasi berbeda terhadap kontrak kerja individu"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Mekanisme PPHI (UU 2/2004): Tahap awal selalu perundingan Bipartit (maks 30 hari kerja). Jika gagal lanjut ke Mediasi/Konsiliasi/Arbitrase (Arbitrase Hak vs Kepentingan), dan terakhir PHI di Pengadilan Negeri. Jawaban: hak yang terjadi akibat interpretasi berbeda terhadap kontrak kerja individu."
+  },
+  {
+    "num": 72,
+    "q": "Dalam sebuah perusahaan, serikat pekerja menuntut agar perusahaan memberikan tunjangan tambahan untuk shift malam. Perusahaan menolak dengan alasan tuntutan tersebut tidak diatur dalam perjanjian kerja yang ada. Serikat pekerja berpendapat bahwa tuntutan ini wajar untuk menjamin kesejahteraan pekerja. Berdasarkan kasus ini, jenis perselisihan hubungan industrial yang paling tepat adalah perselisihan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kepentingan"
+      },
+      {
+        "label": "B",
+        "text": "hak"
+      },
+      {
+        "label": "C",
+        "text": "pemutusan hubungan kerja"
+      },
+      {
+        "label": "D",
+        "text": "antar serikat pekerja atau buruh dalam satu perusahaan"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Mekanisme PPHI (UU 2/2004): Tahap awal selalu perundingan Bipartit (maks 30 hari kerja). Jika gagal lanjut ke Mediasi/Konsiliasi/Arbitrase (Arbitrase Hak vs Kepentingan), dan terakhir PHI di Pengadilan Negeri. Jawaban: kepentingan."
+  },
+  {
+    "num": 73,
+    "q": "Seorang pekerja mengajukan keberatan karena jadwal kerja diubah tanpa persetujuan. Perusahaan mengundang pekerja untuk rapat resmi mencari kesepakatan, tanpa melibatkan pihak pemerintah atau mediator pihak ketiga. Setelah dua kali pertemuan, belum ada kesepakatan, tetapi proses ini masih sesuai tahap awal penyelesaian perselisihan dalam UU Ketenagakerjaan. Berdasarkan kasus tersebut, langkah yang sedang dilakukan termasuk....",
+    "options": [
+      {
+        "label": "A",
+        "text": "negosiasi tripartit"
+      },
+      {
+        "label": "B",
+        "text": "konsultasi internal antar karyawan"
+      },
+      {
+        "label": "C",
+        "text": "penyelesaian perselisihan secara bipartit"
+      },
+      {
+        "label": "D",
+        "text": "arbitrase"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Mekanisme PPHI (UU 2/2004): Tahap awal selalu perundingan Bipartit (maks 30 hari kerja). Jika gagal lanjut ke Mediasi/Konsiliasi/Arbitrase (Arbitrase Hak vs Kepentingan), dan terakhir PHI di Pengadilan Negeri. Jawaban: penyelesaian perselisihan secara bipartit."
+  },
+  {
+    "num": 74,
+    "q": "Dalam sengketa antara dua serikat pekerja di sebuah perusahaan, para pihak setuju melibatkan seorang penengah yang disepakati bersama. Penengah ini memfasilitasi pertemuan, menjaga netralitas, memberi ruang kepada masing-masing pihak untuk menyampaikan aspirasi, dan membantu menyusun alternatif solusi. Namun, penengah tidak memberikan keputusan akhir yang bersifat mengikat. Kesepakatan yang dihasilkan murni atas persetujuan para pihak. Metode penyelesaian yang digunakan adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "konsiliasi"
+      },
+      {
+        "label": "B",
+        "text": "mediasi"
+      },
+      {
+        "label": "C",
+        "text": "arbitrase"
+      },
+      {
+        "label": "D",
+        "text": "negosiasi langsung"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Serikat Pekerja & PKB: Serikat bebas & mandiri dilindungi UU 21/2000 & Konvensi ILO 87/98 serta wajib punya AD/ART. PKB dibuat tertulis antara pengusaha & serikat pekerja. Jawaban: konsiliasi."
+  },
+  {
+    "num": 75,
+    "q": "Terdapat beberapa tahapan yang bersifat sistematis dan formal pada konsiliasi. Tahapan awal proses konsiliasi yaitu....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Para pihak yang berselisih menyerahkan sengketa pada komisi konsiliasi, kemudian mendengarkan keterangan lisan atau tulisan berdasarkan bukti nyata yang telah diserahkan"
+      },
+      {
+        "label": "B",
+        "text": "Konsiliator langsung memberikan pendapat dan usulan tertulis kepada menteri tanpa mendengar keterangan para pihak"
+      },
+      {
+        "label": "C",
+        "text": "Para pihak memilih mediator yang telah ditetapkan Disnaker, lalu melakukan perundingan bipartit lanjutan"
+      },
+      {
+        "label": "D",
+        "text": "Komisi konsiliasi menyelesaikan sengketa maksimal 30 hari kerja sebagaimana berlaku pada mekanisme mediasi"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Mekanisme PPHI (UU 2/2004): Tahap awal selalu perundingan Bipartit (maks 30 hari kerja). Jika gagal lanjut ke Mediasi/Konsiliasi/Arbitrase (Arbitrase Hak vs Kepentingan), dan terakhir PHI di Pengadilan Negeri. Jawaban: Para pihak yang berselisih menyerahkan sengketa pada komisi konsiliasi, kemudian mendengarkan keterangan lisan atau tulisan berdasarkan bukti nyata yang telah diserahkan."
+  },
+  {
+    "num": 76,
+    "q": "Sebuah perusahaan tekstil di Jawa Barat sedang menghadapi penurunan produktivitas akibat meningkatnya ketidakhadiran karyawan dan munculnya perselisihan antara serikat pekerja dengan manajemen. Pihak pemerintah daerah melalui Dinas Ketenagakerjaan memanggil perwakilan buruh, pengusaha, dan pejabat pemerintah untuk membahas penyelesaian masalah tersebut. Dalam pertemuan tersebut, pemerintah menegaskan perannya dalam membuat kebijakan dan mengawasi pelaksanaannya, serikat pekerja menyampaikan aspirasi secara demokratis, sedangkan pengusaha berkomitmen untuk menciptakan kemitraan yang lebih baik. Berdasarkan studi kasus tersebut, subjek yang dimaksud dari segi subjektif hubungan industrial adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "buruh, pengusaha, dan masyarakat"
+      },
+      {
+        "label": "B",
+        "text": "buruh, pengusaha, dan pemerintah"
+      },
+      {
+        "label": "C",
+        "text": "pemerintah, pengusaha, dan LSM"
+      },
+      {
+        "label": "D",
+        "text": "buruh, serikat pekerja, dan kontraktor"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Mekanisme PPHI (UU 2/2004): Tahap awal selalu perundingan Bipartit (maks 30 hari kerja). Jika gagal lanjut ke Mediasi/Konsiliasi/Arbitrase (Arbitrase Hak vs Kepentingan), dan terakhir PHI di Pengadilan Negeri. Jawaban: buruh, pengusaha, dan pemerintah."
+  },
+  {
+    "num": 77,
+    "q": "Dalam proses hubungan industrial di Indonesia, pemerintah melalui Kementerian Ketenagakerjaan mengeluarkan kebijakan nasional tentang standar upah minimum, membentuk lembaga penyelesaian perselisihan, dan mengawasi pelaksanaan undang-undang ketenagakerjaan di perusahaan. Peran yang ditunjukkan pemerintah dalam narasi tersebut termasuk....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menetapkan regulasi dan kebijakan untuk menjamin terlaksananya hubungan industrial yang harmonis"
+      },
+      {
+        "label": "B",
+        "text": "menyusun perjanjian kerja bersama antara pekerja dan pengusaha"
+      },
+      {
+        "label": "C",
+        "text": "menentukan strategi produksi perusahaan agar sesuai dengan standar pasar"
+      },
+      {
+        "label": "D",
+        "text": "mengelola dan mengatur serikat pekerja secara langsung demi efisiensi"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Mekanisme PPHI (UU 2/2004): Tahap awal selalu perundingan Bipartit (maks 30 hari kerja). Jika gagal lanjut ke Mediasi/Konsiliasi/Arbitrase (Arbitrase Hak vs Kepentingan), dan terakhir PHI di Pengadilan Negeri. Jawaban: menetapkan regulasi dan kebijakan untuk menjamin terlaksananya hubungan industrial yang harmonis."
+  },
+  {
+    "num": 78,
+    "q": "Sebuah perusahaan menghadapi masalah penurunan produktivitas karena sering terjadi perselisihan antara manajemen dan pekerja mengenai jam kerja dan penerapan standar keselamatan kerja. Pemerintah daerah kemudian ikut terlibat untuk memfasilitasi dialog antara pengusaha, pekerja, dan perwakilan dinas tenaga kerja. Berdasarkan ruang lingkup hubungan industrial, permasalahan yang terjadi mencakup....",
+    "options": [
+      {
+        "label": "A",
+        "text": "jam kerja, keselamatan dan kesehatan kerja, serta bipartit-tripartit"
+      },
+      {
+        "label": "B",
+        "text": "jam kerja, kesepakatan kerja bersama, dan jaminan sosial"
+      },
+      {
+        "label": "C",
+        "text": "syarat kerja, organisasi pekerja, dan peraturan kerja"
+      },
+      {
+        "label": "D",
+        "text": "jam kerja, sikap perilaku, dan peningkatan nilai tukar"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Mekanisme PPHI (UU 2/2004): Tahap awal selalu perundingan Bipartit (maks 30 hari kerja). Jika gagal lanjut ke Mediasi/Konsiliasi/Arbitrase (Arbitrase Hak vs Kepentingan), dan terakhir PHI di Pengadilan Negeri. Jawaban: jam kerja, keselamatan dan kesehatan kerja, serta bipartit-tripartit."
+  },
+  {
+    "num": 79,
+    "q": "Sebuah organisasi dibentuk oleh para buruh pabrik untuk memperjuangkan hak-hak mereka. Organisasi ini dibentuk secara mandiri oleh para buruh, memiliki kepengurusan, dan terdaftar resmi sesuai ketentuan yang berlaku. Organisasi ini disebut....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Asosiasi Pengusaha Indonesia"
+      },
+      {
+        "label": "B",
+        "text": "Lembaga Kerja Sama Tripartit"
+      },
+      {
+        "label": "C",
+        "text": "Perusahaan Penyedia Tenaga Kerja (outsourcing)"
+      },
+      {
+        "label": "D",
+        "text": "Serikat pekerja atau serikat buruh"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Serikat pekerja atau serikat buruh."
+  },
+  {
+    "num": 80,
+    "q": "Dalam pelaksanaan hubungan industrial, forum yang menjadi wadah resmi untuk kerja sama dan komunikasi langsung antara pengusaha dan pekerja dalam membahas serta menyelesaikan masalah di perusahaan dikenal dengan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Serikat pekerja"
+      },
+      {
+        "label": "B",
+        "text": "Lembaga kerja sama bipartit"
+      },
+      {
+        "label": "C",
+        "text": "Perjanjian kerja bersama"
+      },
+      {
+        "label": "D",
+        "text": "Lembaga penyelesaian perselisihan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Lembaga kerja sama bipartit."
+  },
+  {
+    "num": 81,
+    "q": "Dalam sistem hubungan industrial di Indonesia, terdapat beberapa pihak yang menjadi subjek utama dan saling berinteraksi untuk menciptakan hubungan kerja yang harmonis. Berdasarkan hal tersebut, yang termasuk subjek hubungan industrial adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pemerintah, pengusaha, dan pemasok bahan baku"
+      },
+      {
+        "label": "B",
+        "text": "pengusaha, pekerja, dan konsumen"
+      },
+      {
+        "label": "C",
+        "text": "pemerintah, pengusaha, dan pekerja/serikat pekerja"
+      },
+      {
+        "label": "D",
+        "text": "serikat pekerja, investor, dan masyarakat umum"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pemerintah, pengusaha, dan pekerja/serikat pekerja."
+  },
+  {
+    "num": 82,
+    "q": "Dalam perundingan bipartit, suatu perselisihan dinyatakan gagal apabila....",
+    "options": [
+      {
+        "label": "A",
+        "text": "salah satu pihak mengundurkan diri dari perusahaan"
+      },
+      {
+        "label": "B",
+        "text": "perundingan telah dilakukan sesuai agenda dan jadwal yang disepakati, namun pihak-pihak yang berunding tidak mencapai kesepakatan atas masalah yang dibahas"
+      },
+      {
+        "label": "C",
+        "text": "pihak pengusaha langsung mengajukan keberatan ke pengadilan hubungan industrial"
+      },
+      {
+        "label": "D",
+        "text": "salah satu pihak menolak menandatangani risalah hasil perundingan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Mekanisme PPHI (UU 2/2004): Tahap awal selalu perundingan Bipartit (maks 30 hari kerja). Jika gagal lanjut ke Mediasi/Konsiliasi/Arbitrase (Arbitrase Hak vs Kepentingan), dan terakhir PHI di Pengadilan Negeri. Jawaban: perundingan telah dilakukan sesuai agenda dan jadwal yang disepakati, namun pihak-pihak yang berunding tidak mencapai kesepakatan atas masalah yang dibahas."
+  },
+  {
+    "num": 83,
+    "q": "Menurut UU No. 2 Tahun 2004, langkah pertama dalam penyelesaian perselisihan hubungan industrial adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pengadilan Hubungan Industrial"
+      },
+      {
+        "label": "B",
+        "text": "Penyelesaian di luar pengadilan seperti mediasi dan arbitrase"
+      },
+      {
+        "label": "C",
+        "text": "Perundingan bipartit"
+      },
+      {
+        "label": "D",
+        "text": "Konsiliasi"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Mekanisme PPHI (UU 2/2004): Tahap awal selalu perundingan Bipartit (maks 30 hari kerja). Jika gagal lanjut ke Mediasi/Konsiliasi/Arbitrase (Arbitrase Hak vs Kepentingan), dan terakhir PHI di Pengadilan Negeri. Jawaban: Perundingan bipartit."
+  },
+  {
+    "num": 84,
+    "q": "Seorang karyawan merasa di-PHK secara sepihak dan berupaya menyelesaikan masalahnya melalui lembaga resmi yang dibentuk berdasarkan undang-undang untuk menangani sengketa hubungan industrial. Lembaga yang dimaksud adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Badan Arbitrase Nasional Indonesia (BANI)"
+      },
+      {
+        "label": "B",
+        "text": "Dewan Pengupahan Nasional"
+      },
+      {
+        "label": "C",
+        "text": "Pengadilan Hubungan Industrial"
+      },
+      {
+        "label": "D",
+        "text": "Lembaga Mediasi Independen Swasta"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Pengadilan Hubungan Industrial."
+  },
+  {
+    "num": 85,
+    "q": "Data dari Bank Indonesia menunjukkan bahwa remitansi yang dikirim oleh Tenaga Kerja Indonesia (TKI) setiap tahun mencapai miliaran dolar AS. Dana ini banyak digunakan oleh keluarga penerima untuk memenuhi kebutuhan sehari-hari, membiayai pendidikan, hingga modal usaha. Kontribusi remitansi TKI terhadap perekonomian Indonesia secara umum adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mengurangi tingkat pengangguran di negara penempatan"
+      },
+      {
+        "label": "B",
+        "text": "Meningkatkan ekspor barang dan jasa nonmigas"
+      },
+      {
+        "label": "C",
+        "text": "Mengurangi beban subsidi pemerintah pada sektor pendidikan"
+      },
+      {
+        "label": "D",
+        "text": "Menambah devisa negara dan menggerakkan perekonomian daerah asal"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Menambah devisa negara dan menggerakkan perekonomian daerah asal."
+  },
+  {
+    "num": 86,
+    "q": "Berdasarkan kondisi ketenagakerjaan di era digital, ancaman yang dihadapi pekerja terkait pergantian sumber daya manusia dengan teknologi digital adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hilangnya pekerjaan yang memiliki fungsi repetitif karena digantikan algoritma atau mesin"
+      },
+      {
+        "label": "B",
+        "text": "Berkurangnya minat masyarakat terhadap teknologi digital"
+      },
+      {
+        "label": "C",
+        "text": "Peningkatan jumlah startup dan aplikasi digital di Indonesia"
+      },
+      {
+        "label": "D",
+        "text": "Meningkatnya jumlah tenaga kerja terampil di bidang teknologi"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Hilangnya pekerjaan yang memiliki fungsi repetitif karena digantikan algoritma atau mesin."
+  },
+  {
+    "num": 87,
+    "q": "Berdasarkan data ILO, sektor ketenagakerjaan terbesar di Indonesia adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "jasa"
+      },
+      {
+        "label": "B",
+        "text": "perdagangan"
+      },
+      {
+        "label": "C",
+        "text": "pertanian"
+      },
+      {
+        "label": "D",
+        "text": "industri manufaktur"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Serikat Pekerja & PKB: Serikat bebas & mandiri dilindungi UU 21/2000 & Konvensi ILO 87/98 serta wajib punya AD/ART. PKB dibuat tertulis antara pengusaha & serikat pekerja. Jawaban: pertanian."
+  },
+  {
+    "num": 88,
+    "q": "Seorang pengusaha berencana mempekerjakan pekerja kontrak untuk proyek jangka panjang yang berlangsung 5 tahun. Ia juga ingin mengatur jam kerja menjadi 50 jam per minggu agar target cepat tercapai. Seorang staf HR menolak rencana tersebut dengan alasan aturan dalam Undang- Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan. Berdasarkan UU tersebut, penolakan staf HR kemungkinan besar terkait....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Larangan mempekerjakan pekerja perempuan pada malam hari tanpa fasilitas khusus"
+      },
+      {
+        "label": "B",
+        "text": "Kewajiban memberikan cuti tahunan minimal 14 hari kerja"
+      },
+      {
+        "label": "C",
+        "text": "Ketentuan bahwa perjanjian kerja waktu tertentu (PKWT) hanya berlaku untuk pekerjaan tertentu dalam jangka waktu terbatas"
+      },
+      {
+        "label": "D",
+        "text": "Batas waktu kerja maksimum 40 jam per minggu dan pembatasan jangka waktu PKWT sesuai ketentuan undang-undang"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Batas waktu kerja maksimum 40 jam per minggu dan pembatasan jangka waktu PKWT sesuai ketentuan undang-undang."
+  },
+  {
+    "num": 89,
+    "q": "Salah satu prinsip yang harus diperhatikan dalam penempatan tenaga kerja adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mengutamakan keuntungan perusahaan di atas segalanya"
+      },
+      {
+        "label": "B",
+        "text": "menempatkan tenaga kerja sesuai keahlian, keterampilan, bakat, minat, dan kemampuan dengan tetap memperhatikan hak, martabat, harkat, dan perlindungan hukum"
+      },
+      {
+        "label": "C",
+        "text": "memilih tenaga kerja berdasarkan kedekatan personal dengan manajemen"
+      },
+      {
+        "label": "D",
+        "text": "mengarahkan semua tenaga kerja untuk bekerja di luar negeri"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: menempatkan tenaga kerja sesuai keahlian, keterampilan, bakat, minat, dan kemampuan dengan tetap memperhatikan hak, martabat, harkat, dan perlindungan hukum."
+  },
+  {
+    "num": 90,
+    "q": "Salah satu hal penting yang harus diperhatikan sebelum melaksanakan pelatihan kerja di Indonesia adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pelatihan diadakan tanpa memperhatikan kebutuhan pasar kerja"
+      },
+      {
+        "label": "B",
+        "text": "Pelatihan dilakukan tanpa standar kompetensi kerja agar lebih fleksibel"
+      },
+      {
+        "label": "C",
+        "text": "Pelatihan hanya untuk tenaga kerja yang sudah berpengalaman"
+      },
+      {
+        "label": "D",
+        "text": "Pelatihan harus mengacu pada standar kompetensi kerja"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Pelatihan harus mengacu pada standar kompetensi kerja."
+  }
+]

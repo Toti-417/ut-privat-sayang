@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  background-color: #0e0b16;
+  color: #f4ecff;
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  min-height: 100vh;
+  overflow-x: hidden;
+  background-image:
+    radial-gradient(circle at 12% 15%, rgba(255, 77, 141, 0.16) 0%, transparent 40%),
+    radial-gradient(circle at 88% 20%, rgba(255, 183, 3, 0.12) 0%, transparent 40%),
+    radial-gradient(circle at 50% 85%, rgba(139, 92, 246, 0.12) 0%, transparent 50%);
+}
+
+button {
+  font-family: inherit;
+}
+
+.font-mono {
+  font-family: 'Fira Code', ui-monospace, monospace;
+}
+
+.glass-panel {
+  background: rgba(25, 20, 39, 0.82);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.35);
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.04);
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 117, 140, 0.35);
+  border-radius: 999px;
+}

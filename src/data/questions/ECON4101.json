@@ -1,0 +1,3647 @@
+[
+  {
+    "num": 1,
+    "q": "Perihal yang selalu dihadapkan pada kehidupan sehari-hari dari masyarakat adalah mengenai....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pilihan hidup"
+      },
+      {
+        "label": "B",
+        "text": "cara memenuhi kebutuhan hidup"
+      },
+      {
+        "label": "C",
+        "text": "melakukan refreshing"
+      },
+      {
+        "label": "D",
+        "text": "hak memperoleh pendidikan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: cara memenuhi kebutuhan hidup."
+  },
+  {
+    "num": 2,
+    "q": "Pengambilan keputusan ekonomi oleh suatu perusahaan bertujuan untuk....",
+    "options": [
+      {
+        "label": "A",
+        "text": "meminimalkan biaya"
+      },
+      {
+        "label": "B",
+        "text": "memperbanyak pilihan"
+      },
+      {
+        "label": "C",
+        "text": "memaksimalkan utilitas (kepuasan)"
+      },
+      {
+        "label": "D",
+        "text": "memaksimalkan profit"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: memaksimalkan profit."
+  },
+  {
+    "num": 3,
+    "q": "Manusia memenuhi kebutuhannya dalam keadaan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kebutuhan hidup yang tidak terbatas dengan sumber daya terbatas"
+      },
+      {
+        "label": "B",
+        "text": "memenuhi kebutuhan hidup untuk memperoleh kenikmatan sementara"
+      },
+      {
+        "label": "C",
+        "text": "keputusan rasional manusia untuk memenuhi kebutuhannya"
+      },
+      {
+        "label": "D",
+        "text": "pemenuhan hak dalam kehidupannya"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: kebutuhan hidup yang tidak terbatas dengan sumber daya terbatas."
+  },
+  {
+    "num": 4,
+    "q": "Alasan ilmu ekonomi digolongkan sebagai ilmu sosial adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "perilaku manusia sebagai makhluk yang tidak dapat hidup sendiri"
+      },
+      {
+        "label": "B",
+        "text": "melihat cara memenuhi kebutuhan hidup"
+      },
+      {
+        "label": "C",
+        "text": "adanya kegiatan manusia dalam kehidupan"
+      },
+      {
+        "label": "D",
+        "text": "kegiatan manusia untuk memperoleh pendidikan"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: perilaku manusia sebagai makhluk yang tidak dapat hidup sendiri."
+  },
+  {
+    "num": 5,
+    "q": "Pernyataan normatif didasarkan pada nilai yang diyakini mengenai keadaan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "maju dan mundur"
+      },
+      {
+        "label": "B",
+        "text": "benar dan salah"
+      },
+      {
+        "label": "C",
+        "text": "objektif dan subjektif"
+      },
+      {
+        "label": "D",
+        "text": "ilmiah dan nonilmiah"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: benar dan salah."
+  },
+  {
+    "num": 6,
+    "q": "Pernyataan positif dari ilmu ekonomi berhubungan dengan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "bentuk pilihan hidup yang diambil oleh seseorang"
+      },
+      {
+        "label": "B",
+        "text": "keyakinan seseorang"
+      },
+      {
+        "label": "C",
+        "text": "fakta yang telah terjadi, sedang terjadi, dan akan terjadi"
+      },
+      {
+        "label": "D",
+        "text": "nilai kebenaran yang diyakini oleh seseorang"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: fakta yang telah terjadi, sedang terjadi, dan akan terjadi."
+  },
+  {
+    "num": 7,
+    "q": "Hal yang memegang peranan penting dalam pembentukan suatu teori adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "asumsi"
+      },
+      {
+        "label": "B",
+        "text": "model ekonomi"
+      },
+      {
+        "label": "C",
+        "text": "hipotesis"
+      },
+      {
+        "label": "D",
+        "text": "variabel endogen dan eksogen"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: asumsi."
+  },
+  {
+    "num": 8,
+    "q": "Variabel yang dipengaruhi oleh faktor lain dalam suatu sistem adalah variabel....",
+    "options": [
+      {
+        "label": "A",
+        "text": "penjelas"
+      },
+      {
+        "label": "B",
+        "text": "endogen"
+      },
+      {
+        "label": "C",
+        "text": "empiris"
+      },
+      {
+        "label": "D",
+        "text": "eksogen"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: endogen."
+  },
+  {
+    "num": 9,
+    "q": "Hal yang merupakan pernyataan formal dari sebuah teori adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "asumsi"
+      },
+      {
+        "label": "B",
+        "text": "model ekonomi"
+      },
+      {
+        "label": "C",
+        "text": "hipotesis"
+      },
+      {
+        "label": "D",
+        "text": "asumsi teoritik"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: model ekonomi."
+  },
+  {
+    "num": 10,
+    "q": "Dalam ekonomi makro, yang termasuk faktor dalam perhitungan pendapatan nasional adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "tingkat upah total"
+      },
+      {
+        "label": "B",
+        "text": "indeks harga konsumen"
+      },
+      {
+        "label": "C",
+        "text": "harga pelayanan kesehatan"
+      },
+      {
+        "label": "D",
+        "text": "tingkat pengangguran"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: tingkat upah total."
+  },
+  {
+    "num": 11,
+    "q": "Salah satu faktor yang mendorong suatu perusahaan luar negeri melakukan perekrutan jumlah tenaga kerja Indonesia secara besar-besaran adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "perkembangan pabrik yang luar biasa"
+      },
+      {
+        "label": "B",
+        "text": "tingkat upah di Indonesia yang masih rendah"
+      },
+      {
+        "label": "C",
+        "text": "permintaan barang kebutuhan masyarakat yang semakin besar"
+      },
+      {
+        "label": "D",
+        "text": "sifat hidup masyarakat Indonesia yang sangat konsumtif"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: tingkat upah di Indonesia yang masih rendah."
+  },
+  {
+    "num": 12,
+    "q": "Variabel yang berpengaruh pada tingkat pertumbuhan PDB adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "jumlah penduduk"
+      },
+      {
+        "label": "B",
+        "text": "tingkat disparitas suatu wilayah"
+      },
+      {
+        "label": "C",
+        "text": "jumlah pengangguran"
+      },
+      {
+        "label": "D",
+        "text": "alokasi anggaran pemerintah"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: jumlah penduduk."
+  },
+  {
+    "num": 13,
+    "q": "Peletak dasar konsep analisis marjinal Heinrich Gossen menjelaskan konsep marjinal tentang....",
+    "options": [
+      {
+        "label": "A",
+        "text": "keputusan konsumen dalam mengonsumsi suatu barang"
+      },
+      {
+        "label": "B",
+        "text": "tingkat disparitas suatu wilayah dan tingkat upah"
+      },
+      {
+        "label": "C",
+        "text": "jumlah pengangguran dalam suatu wilayah"
+      },
+      {
+        "label": "D",
+        "text": "alokasi anggaran pemerintah"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: keputusan konsumen dalam mengonsumsi suatu barang."
+  },
+  {
+    "num": 14,
+    "q": "Ekonom yang menuangkan seluruh pandangan ekonominya dalam Principle of Political Economy pada abad ke-19 adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "J.S. Mill"
+      },
+      {
+        "label": "B",
+        "text": "David Ricardo"
+      },
+      {
+        "label": "C",
+        "text": "Adam Smith"
+      },
+      {
+        "label": "D",
+        "text": "J.M. Keynes"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: J.S. Mill."
+  },
+  {
+    "num": 15,
+    "q": "Keynes dalam pemikirannya menganalisis perekonomian yang dipengaruhi oleh....",
+    "options": [
+      {
+        "label": "A",
+        "text": "tingkat upah dan campur tangan pemerintah"
+      },
+      {
+        "label": "B",
+        "text": "pengangguran dan campur tangan pemerintah"
+      },
+      {
+        "label": "C",
+        "text": "harga pelayanan kesehatan dan jumlah penduduk"
+      },
+      {
+        "label": "D",
+        "text": "tingkat pengangguran dan indeks harga konsumen"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pengangguran dan campur tangan pemerintah."
+  },
+  {
+    "num": 16,
+    "q": "Faktor yang diperlukan dalam pengukuran untuk menghindari double counting adalah adanya....",
+    "options": [
+      {
+        "label": "A",
+        "text": "penghitungan berdasarkan jumlah barang"
+      },
+      {
+        "label": "B",
+        "text": "penyamaan satuan"
+      },
+      {
+        "label": "C",
+        "text": "jumlah pengangguran dalam satu periode"
+      },
+      {
+        "label": "D",
+        "text": "penghitungan dengan melihat nilai pasar"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: penghitungan dengan melihat nilai pasar."
+  },
+  {
+    "num": 17,
+    "q": "Menurut frasa \"barang dan jasa\" menunjukkan bahwa PDB dihitung dengan memasukkan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "barang nyata dan tidak nyata"
+      },
+      {
+        "label": "B",
+        "text": "barang jadi dan setengah jadi"
+      },
+      {
+        "label": "C",
+        "text": "total produksi dan bahan baku"
+      },
+      {
+        "label": "D",
+        "text": "total produksi dan barang tidak nyata"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: barang nyata dan tidak nyata."
+  },
+  {
+    "num": 18,
+    "q": "Pengertian Produk Domestik Bruto (PDB) jika merujuk pada frasa nilai pasar maka akan melihat nilai dari segi....",
+    "options": [
+      {
+        "label": "A",
+        "text": "nilai uang"
+      },
+      {
+        "label": "B",
+        "text": "bahan baku"
+      },
+      {
+        "label": "C",
+        "text": "nilai barang"
+      },
+      {
+        "label": "D",
+        "text": "total produksi"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: nilai uang."
+  },
+  {
+    "num": 19,
+    "q": "Melalui pendekatan pendapatan, PDB dapat dipandang sebagai....",
+    "options": [
+      {
+        "label": "A",
+        "text": "total pengeluaran yang dilakukan dalam perekonomian untuk memperoleh barang dan jasa"
+      },
+      {
+        "label": "B",
+        "text": "permintaan akan tenaga kerja dan jumlah output yang dihasilkan"
+      },
+      {
+        "label": "C",
+        "text": "total pendapatan yang diperoleh setiap individu di dalam perekonomian"
+      },
+      {
+        "label": "D",
+        "text": "total biaya yang dihasilkan dibandingkan dengan total pendapatan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: total pendapatan yang diperoleh setiap individu di dalam perekonomian."
+  },
+  {
+    "num": 20,
+    "q": "Pendapatan yang diperoleh oleh suatu perusahaan digunakan untuk....",
+    "options": [
+      {
+        "label": "A",
+        "text": "investasi"
+      },
+      {
+        "label": "B",
+        "text": "membayar upah pekerjanya"
+      },
+      {
+        "label": "C",
+        "text": "mengadopsi teknologi baru"
+      },
+      {
+        "label": "D",
+        "text": "pembayaran utang perusahaan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: membayar upah pekerjanya."
+  },
+  {
+    "num": 21,
+    "q": "Dari gambar di bawah, fungsi dari rumah tangga bagi perusahaan adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "sumber pendapatan"
+      },
+      {
+        "label": "B",
+        "text": "penyedia sektor tenaga kerja"
+      },
+      {
+        "label": "C",
+        "text": "sumber pengeluaran"
+      },
+      {
+        "label": "D",
+        "text": "penyedia kebutuhan akan barang/jasa"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Dalam diagram aliran melingkar (circular flow), Rumah Tangga adalah pemilik faktor produksi yang memasok Tenaga Kerja kepada Perusahaan."
+  },
+  {
+    "num": 22,
+    "q": "Komponen yang termasuk dalam pengeluaran pemerintah adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pemberian raskin"
+      },
+      {
+        "label": "B",
+        "text": "kompensasi kenaikan BBM"
+      },
+      {
+        "label": "C",
+        "text": "pemberian BLT (Bantuan Langsung Tunai)"
+      },
+      {
+        "label": "D",
+        "text": "pembangunan jalan dan pembelian peralatan militer"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pembangunan jalan dan pembelian peralatan militer."
+  },
+  {
+    "num": 23,
+    "q": "Penjualan barang hasil produksi di dalam negeri ke luar negeri disebut sebagai....",
+    "options": [
+      {
+        "label": "A",
+        "text": "investasi"
+      },
+      {
+        "label": "B",
+        "text": "ekspor"
+      },
+      {
+        "label": "C",
+        "text": "impor"
+      },
+      {
+        "label": "D",
+        "text": "net export"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: ekspor."
+  },
+  {
+    "num": 24,
+    "q": "Tindakan pemerintah yang tergolong sebagai transfer kepada individu adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pemberian BLT (Bantuan Langsung Tunai)"
+      },
+      {
+        "label": "B",
+        "text": "pembangunan jalan tol"
+      },
+      {
+        "label": "C",
+        "text": "pemberian peralatan militer"
+      },
+      {
+        "label": "D",
+        "text": "pembangunan pembangkit listrik baru"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pemberian BLT (Bantuan Langsung Tunai)."
+  },
+  {
+    "num": 25,
+    "q": "Komponen net ekspor dihitung dengan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menjumlahkan total ekspor dalam suatu periode waktu tertentu"
+      },
+      {
+        "label": "B",
+        "text": "total keuntungan perusahaan dikurangi modal yang dikeluarkan"
+      },
+      {
+        "label": "C",
+        "text": "menghitung transaksi perdagangan suatu negara dengan negara lain"
+      },
+      {
+        "label": "D",
+        "text": "mengurangkan nilai ekspor dengan nilai impor"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Rumus Net Ekspor (NX) = Nilai Ekspor (X) - Nilai Impor (M)."
+  },
+  {
+    "num": 26,
+    "q": "Balas jasa faktor produksi keahlian dalam bentuk....",
+    "options": [
+      {
+        "label": "A",
+        "text": "laba usaha"
+      },
+      {
+        "label": "B",
+        "text": "upah"
+      },
+      {
+        "label": "C",
+        "text": "bunga modal"
+      },
+      {
+        "label": "D",
+        "text": "sewa"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: laba usaha."
+  },
+  {
+    "num": 27,
+    "q": "Balas jasa terhadap tenaga kerja diberikan dalam bentuk....",
+    "options": [
+      {
+        "label": "A",
+        "text": "bunga modal"
+      },
+      {
+        "label": "B",
+        "text": "laba usaha"
+      },
+      {
+        "label": "C",
+        "text": "sewa"
+      },
+      {
+        "label": "D",
+        "text": "upah"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: upah."
+  },
+  {
+    "num": 28,
+    "q": "Nilai tambah dalam pendapatan nasional dihitung dengan mengurangi nilai jual dengan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "upah"
+      },
+      {
+        "label": "B",
+        "text": "biaya bahan mentah"
+      },
+      {
+        "label": "C",
+        "text": "bunga modal"
+      },
+      {
+        "label": "D",
+        "text": "laba usaha"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Nilai Tambah (Value Added) = Nilai Jual Output - Biaya Bahan Mentah (input antara), agar tidak terjadi penghitungan ganda (double counting)."
+  },
+  {
+    "num": 29,
+    "q": "Nilai tambah dari ekspor komoditas dalam bentuk bahan mentah seperti kayu gelondongan dinikmati oleh....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pengusaha dalam negeri"
+      },
+      {
+        "label": "B",
+        "text": "pengusaha luar negeri"
+      },
+      {
+        "label": "C",
+        "text": "pemerintah"
+      },
+      {
+        "label": "D",
+        "text": "masyarakat/petani"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Ekonomi Terbuka: Devaluasi disengaja agar harga barang impor mahal sehingga impor turun; surplus aliran modal membuat mata uang terapresiasi. Jawaban: pengusaha luar negeri."
+  },
+  {
+    "num": 30,
+    "q": "Pendapatan nasional jika dihitung berdasarkan nilai tambah adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "biaya produksi ditambah modal"
+      },
+      {
+        "label": "B",
+        "text": "net ekspor dikurangi net impor"
+      },
+      {
+        "label": "C",
+        "text": "modal dikurangi pengeluaran"
+      },
+      {
+        "label": "D",
+        "text": "nilai jual dikurangi biaya bahan mentah"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: nilai jual dikurangi biaya bahan mentah."
+  },
+  {
+    "num": 31,
+    "q": "Ekonom yang memperkenalkan disposable income adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "J.M. Keynes"
+      },
+      {
+        "label": "B",
+        "text": "Malthus"
+      },
+      {
+        "label": "C",
+        "text": "David Ricardo"
+      },
+      {
+        "label": "D",
+        "text": "Karl Marx"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: J.M. Keynes."
+  },
+  {
+    "num": 32,
+    "q": "Kondisi Break Even Point (BEP) terjadi dalam keadaan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "utang = total produksi"
+      },
+      {
+        "label": "B",
+        "text": "pengeluaran = pendapatan"
+      },
+      {
+        "label": "C",
+        "text": "laba = modal"
+      },
+      {
+        "label": "D",
+        "text": "impor = ekspor"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pengeluaran = pendapatan."
+  },
+  {
+    "num": 33,
+    "q": "Untuk mengatasi kelebihan konsumsi dapat ditutup dengan melakukan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "efisiensi"
+      },
+      {
+        "label": "B",
+        "text": "utang"
+      },
+      {
+        "label": "C",
+        "text": "menambah modal"
+      },
+      {
+        "label": "D",
+        "text": "investasi"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: utang."
+  },
+  {
+    "num": 34,
+    "q": "Keadaan di mana jumlah pendapatan masyarakat lebih besar daripada jumlah pengeluarannya, maka yang terjadi adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "disaving"
+      },
+      {
+        "label": "B",
+        "text": "tabungan masyarakat bertambah"
+      },
+      {
+        "label": "C",
+        "text": "utang"
+      },
+      {
+        "label": "D",
+        "text": "net saving"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: tabungan masyarakat bertambah."
+  },
+  {
+    "num": 35,
+    "q": "Pembagian setiap tambahan rupiah dari pendapatan yang masuk ke dalam tabungan tambahan disebut sebagai....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Marginal Propensity to Consume"
+      },
+      {
+        "label": "B",
+        "text": "Opportunity Cost"
+      },
+      {
+        "label": "C",
+        "text": "Marginal Propensity to Save"
+      },
+      {
+        "label": "D",
+        "text": "Profit disposable"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Marginal Propensity to Save."
+  },
+  {
+    "num": 36,
+    "q": "Apabila fungsi tabungan dari masyarakat berada di bawah sumbu horizontal yaitu pada titik D, menunjukkan bahwa masyarakat ada dalam keadaan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "dissaving"
+      },
+      {
+        "label": "B",
+        "text": "efisien"
+      },
+      {
+        "label": "C",
+        "text": "menguntungkan"
+      },
+      {
+        "label": "D",
+        "text": "pailit"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Kurva tabungan (S) di bawah sumbu horizontal berarti tabungan bernilai negatif (pengeluaran > pendapatan), disebut dissaving."
+  },
+  {
+    "num": 37,
+    "q": "Tingkat pengeluaran konsumsi seseorang selain dipengaruhi oleh tingkat pendapatan juga dipengaruhi oleh....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kenaikan harga barang kebutuhan"
+      },
+      {
+        "label": "B",
+        "text": "utang"
+      },
+      {
+        "label": "C",
+        "text": "pendapatan disposabel dan kekayaan"
+      },
+      {
+        "label": "D",
+        "text": "investasi dan suku bunga"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pendapatan disposabel dan kekayaan."
+  },
+  {
+    "num": 38,
+    "q": "Faktor yang mempengaruhi tingkat konsumsi adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "net saving"
+      },
+      {
+        "label": "B",
+        "text": "total kebutuhan"
+      },
+      {
+        "label": "C",
+        "text": "tingkat kekayaan"
+      },
+      {
+        "label": "D",
+        "text": "utang"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: tingkat kekayaan."
+  },
+  {
+    "num": 39,
+    "q": "Contoh dari perubahan pendapatan yang terjadi secara permanen adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "bonus"
+      },
+      {
+        "label": "B",
+        "text": "pemutihan tingkat utang"
+      },
+      {
+        "label": "C",
+        "text": "kenaikan gaji"
+      },
+      {
+        "label": "D",
+        "text": "tunjangan hari raya"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: kenaikan gaji."
+  },
+  {
+    "num": 40,
+    "q": "Kebijakan pemerintah untuk mempengaruhi investasi dari sisi moneter bisa dilakukan dengan jalan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menaikkan suku bunga"
+      },
+      {
+        "label": "B",
+        "text": "memberlakukan bea masuk"
+      },
+      {
+        "label": "C",
+        "text": "melakukan politik dumping"
+      },
+      {
+        "label": "D",
+        "text": "mengeluarkan SBI"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: menaikkan suku bunga."
+  },
+  {
+    "num": 41,
+    "q": "Kebijakan yang termasuk dalam komponen kebijakan moneter adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menaikkan suku bunga"
+      },
+      {
+        "label": "B",
+        "text": "memberlakukan bea masuk"
+      },
+      {
+        "label": "C",
+        "text": "melakukan politik dumping"
+      },
+      {
+        "label": "D",
+        "text": "mengeluarkan SBI"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: menaikkan suku bunga."
+  },
+  {
+    "num": 42,
+    "q": "Komponen yang memengaruhi permintaan agregat adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "tingkat konsumsi"
+      },
+      {
+        "label": "B",
+        "text": "utang luar negeri"
+      },
+      {
+        "label": "C",
+        "text": "tingkat kekayaan"
+      },
+      {
+        "label": "D",
+        "text": "ekspor"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: tingkat konsumsi."
+  },
+  {
+    "num": 43,
+    "q": "Dengan adanya pengalihan jumlah uang tunai dari rumah tangga ke dalam bentuk tabungan, maka rumah tangga akan menikmati tambahan pendapatan dalam bentuk....",
+    "options": [
+      {
+        "label": "A",
+        "text": "penurunan harga barang"
+      },
+      {
+        "label": "B",
+        "text": "pinjaman"
+      },
+      {
+        "label": "C",
+        "text": "bunga"
+      },
+      {
+        "label": "D",
+        "text": "diskonto"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: bunga."
+  },
+  {
+    "num": 44,
+    "q": "Akibat dari pengalihan produk investasi di dalam negeri ke luar negeri akan menyebabkan terjadinya....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kenaikan ekspor"
+      },
+      {
+        "label": "B",
+        "text": "perbaikan situasi investasi di dalam negeri"
+      },
+      {
+        "label": "C",
+        "text": "penurunan tingkat suku bunga"
+      },
+      {
+        "label": "D",
+        "text": "peningkatan penawaran rupiah di pasar valuta asing"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: peningkatan penawaran rupiah di pasar valuta asing."
+  },
+  {
+    "num": 45,
+    "q": "Uang mempunyai dua nilai, yaitu nilai....",
+    "options": [
+      {
+        "label": "A",
+        "text": "nominal dan baku"
+      },
+      {
+        "label": "B",
+        "text": "intrinsik dan nominal"
+      },
+      {
+        "label": "C",
+        "text": "jual dan baku"
+      },
+      {
+        "label": "D",
+        "text": "riil dan jual"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: intrinsik dan nominal."
+  },
+  {
+    "num": 46,
+    "q": "Contoh terjadinya perubahan konsumsi masyarakat adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pengeluaran pemerintah yang semakin besar"
+      },
+      {
+        "label": "B",
+        "text": "membengkaknya utang luar negeri"
+      },
+      {
+        "label": "C",
+        "text": "perubahan kesadaran masyarakat untuk menabung"
+      },
+      {
+        "label": "D",
+        "text": "terapresiasinya nilai tukar rupiah"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: perubahan kesadaran masyarakat untuk menabung."
+  },
+  {
+    "num": 47,
+    "q": "Perhatikan kurva permintaan agregat AD1 berikut. Penurunan permintaan agregat ditunjukkan oleh ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "P – P*"
+      },
+      {
+        "label": "B",
+        "text": "AD₂ → AD₁"
+      },
+      {
+        "label": "C",
+        "text": "AD₀ → AD₂"
+      },
+      {
+        "label": "D",
+        "text": "AD₁ → AD₀"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Pergeseran kurva ke kiri (dari AD₁ ke AD₀) menunjukkan penurunan permintaan agregat."
+  },
+  {
+    "num": 48,
+    "q": "Salah satu penyebab pergeseran kurva permintaan agregat adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pengeluaran pemerintah yang semakin besar"
+      },
+      {
+        "label": "B",
+        "text": "membengkaknya utang luar negeri"
+      },
+      {
+        "label": "C",
+        "text": "perubahan tingkat ekspor netto"
+      },
+      {
+        "label": "D",
+        "text": "terapresiasinya nilai tukar rupiah"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pengeluaran pemerintah yang semakin besar."
+  },
+  {
+    "num": 49,
+    "q": "Dari gambar di bawah, surplus anggaran ditunjukkan oleh.... WA",
+    "options": [
+      {
+        "label": "A",
+        "text": "PNB – PNB*"
+      },
+      {
+        "label": "B",
+        "text": "S₀ – S*"
+      },
+      {
+        "label": "C",
+        "text": "PNB – PNB*"
+      },
+      {
+        "label": "D",
+        "text": "Q* – S"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Surplus anggaran pada grafik ditunjukkan oleh selisih vertikal di atas titik keseimbangan tabungan/anggaran yaitu S₀ - S*."
+  },
+  {
+    "num": 50,
+    "q": "Penyebab dari defisit yang dialami oleh suatu negara adalah.... WA",
+    "options": [
+      {
+        "label": "A",
+        "text": "surplus ekspor dibandingkan dengan impor"
+      },
+      {
+        "label": "B",
+        "text": "krisis ekonomi"
+      },
+      {
+        "label": "C",
+        "text": "penurunan tingkat impor"
+      },
+      {
+        "label": "D",
+        "text": "konsumsi lebih besar daripada anggaran perekonomian"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Kebijakan Fiskal: Dikelola pemerintah melalui pajak dan belanja negara (misal saat depresi belanja dinaikkan & pajak diturunkan; saat inflasi pajak dinaikkan). Jawaban: konsumsi lebih besar daripada anggaran perekonomian."
+  },
+  {
+    "num": 51,
+    "q": "Angka yang dipergunakan untuk menjelaskan bagaimana terjadinya perubahan output dalam jangka pendek adalah angka....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pengganda"
+      },
+      {
+        "label": "B",
+        "text": "konstanta"
+      },
+      {
+        "label": "C",
+        "text": "baku"
+      },
+      {
+        "label": "D",
+        "text": "sementara"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pengganda."
+  },
+  {
+    "num": 52,
+    "q": "Rumus perhitungan angka pengganda investasi adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "( 1 / MPS )"
+      },
+      {
+        "label": "B",
+        "text": "( 1 / MPC )"
+      },
+      {
+        "label": "C",
+        "text": "( 1 / (MPS - 1) )"
+      },
+      {
+        "label": "D",
+        "text": "( 1 / (1 - MPS) )"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Rumus Angka Pengganda Investasi (Multiplier): k = 1 / MPS = 1 / (1 - MPC)."
+  },
+  {
+    "num": 53,
+    "q": "Rumus untuk menghitung perubahan output adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "1 / (1 - MPS) × perubahan modal"
+      },
+      {
+        "label": "B",
+        "text": "1 / MPC × perubahan investasi"
+      },
+      {
+        "label": "C",
+        "text": "1 / (MPS - 1) × tingkat bunga"
+      },
+      {
+        "label": "D",
+        "text": "1 / MPS × perubahan investasi"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Perubahan output (ΔY) = Angka Pengganda × Perubahan Investasi = (1 / MPS) × ΔI."
+  },
+  {
+    "num": 54,
+    "q": "Peningkatan PDB karena efek pengganda ditunjukkan oleh pergeseran kurva permintaan dari....",
+    "options": [
+      {
+        "label": "A",
+        "text": "AD' – AD*"
+      },
+      {
+        "label": "B",
+        "text": "P₀ – P*"
+      },
+      {
+        "label": "C",
+        "text": "AD – AD'"
+      },
+      {
+        "label": "D",
+        "text": "Y – Y'"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Efek pengganda memperbesar permintaan agregat sehingga kurva bergeser ke kanan (AD' ke AD* sesuai notasi grafik UT)."
+  },
+  {
+    "num": 55,
+    "q": "Dalam perekonomian diketahui data sebagai berikut: MPG = 2/3, perubahan pengeluaran pemerintah = 100 juta, maka perubahan konsumsi yang terjadi adalah sebesar....",
+    "options": [
+      {
+        "label": "A",
+        "text": "44,4 juta"
+      },
+      {
+        "label": "B",
+        "text": "33,3 juta"
+      },
+      {
+        "label": "C",
+        "text": "55,5 juta"
+      },
+      {
+        "label": "D",
+        "text": "66,6 juta"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Perubahan Konsumsi ΔC = MPC × ΔY/ΔG = (2/3) × 100 juta = 66,67 juta ≈ 66,6 juta (D)!"
+  },
+  {
+    "num": 56,
+    "q": "Dalam perekonomian diketahui MPC = 2/3. Rumus perubahan output = [1 / (1 - MPC)] × perubahan pengeluaran pemerintah. Jika perubahan pengeluaran pemerintah (G) sebesar Rp100 juta, maka perubahan output adalah sebesar ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "250 juta"
+      },
+      {
+        "label": "B",
+        "text": "300 juta"
+      },
+      {
+        "label": "C",
+        "text": "500 juta"
+      },
+      {
+        "label": "D",
+        "text": "200 juta"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Angka Pengganda k = 1 / (1 - 2/3) = 1 / (1/3) = 3.\nPerubahan Output = 3 × Rp100 juta = 300 juta (B)!"
+  },
+  {
+    "num": 57,
+    "q": "Dalam perekonomian diketahui MPC = 1/3. Rumus perubahan output = [1 / (1 - MPC)] × perubahan pengeluaran pemerintah. Jika perubahan pengeluaran pemerintah sebesar Rp5 juta, maka perubahan output yang terjadi adalah sebesar ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "25 juta"
+      },
+      {
+        "label": "B",
+        "text": "7,5 juta"
+      },
+      {
+        "label": "C",
+        "text": "5,5 juta"
+      },
+      {
+        "label": "D",
+        "text": "20 juta"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Angka Pengganda k = 1 / (1 - 1/3) = 1 / (2/3) = 1,5.\nPerubahan Output = 1,5 × Rp5 juta = 7,5 juta (B)!"
+  },
+  {
+    "num": 58,
+    "q": "Salah satu syarat suatu barang bisa disebut uang adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mudah dibawa"
+      },
+      {
+        "label": "B",
+        "text": "bentuknya menarik"
+      },
+      {
+        "label": "C",
+        "text": "jumlahnya sangat banyak dan mudah ditemui"
+      },
+      {
+        "label": "D",
+        "text": "menunjukkan sifat khas suatu daerah"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: mudah dibawa."
+  },
+  {
+    "num": 59,
+    "q": "Bank Indonesia sebagai otoritas moneter di Indonesia mengganti uang yang beredar di Indonesia dalam jangka waktu tertentu, ini memenuhi syarat uang dalam hal....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mudah diterima"
+      },
+      {
+        "label": "B",
+        "text": "bentuknya menarik dan berubah sesuai perkembangan yang terjadi"
+      },
+      {
+        "label": "C",
+        "text": "jumlahnya banyak"
+      },
+      {
+        "label": "D",
+        "text": "tahan lama"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: tahan lama."
+  },
+  {
+    "num": 60,
+    "q": "Uang dikatakan sebagai alat tukar yang dapat diterima secara umum, adalah pengertian uang secara....",
+    "options": [
+      {
+        "label": "A",
+        "text": "tradisional"
+      },
+      {
+        "label": "B",
+        "text": "umum"
+      },
+      {
+        "label": "C",
+        "text": "modern"
+      },
+      {
+        "label": "D",
+        "text": "hirarki"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: tradisional."
+  },
+  {
+    "num": 61,
+    "q": "Uang sebagai alat satuan hitung dapat menunjukkan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "besar kecilnya pinjaman"
+      },
+      {
+        "label": "B",
+        "text": "nilai riil dari suatu barang"
+      },
+      {
+        "label": "C",
+        "text": "satuan hitung yang berlaku"
+      },
+      {
+        "label": "D",
+        "text": "alat pembayaran yang bisa digunakan dan diterima umum"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: nilai riil dari suatu barang."
+  },
+  {
+    "num": 62,
+    "q": "Dalam transaksi yang dilakukan masyarakat, mereka menukarkan barang yang dibeli dengan sejumlah uang. Di sini terlihat fungsi uang sebagai....",
+    "options": [
+      {
+        "label": "A",
+        "text": "satuan hitung"
+      },
+      {
+        "label": "B",
+        "text": "penyimpanan nilai"
+      },
+      {
+        "label": "C",
+        "text": "penimbunan kekayaan"
+      },
+      {
+        "label": "D",
+        "text": "alat pembayaran tunai"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: alat pembayaran tunai."
+  },
+  {
+    "num": 63,
+    "q": "Keadaan di mana sejumlah uang yang dibelanjakan akan tetap memperoleh barang yang sama banyaknya dan sama mutunya dari waktu ke waktu menunjukkan bahwa uang tersebut....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mempunyai nilai jual"
+      },
+      {
+        "label": "B",
+        "text": "mudah ditemui"
+      },
+      {
+        "label": "C",
+        "text": "mempunyai nilai uang yang stabil"
+      },
+      {
+        "label": "D",
+        "text": "merupakan benda yang mempunyai mutu sama"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: mempunyai nilai uang yang stabil."
+  },
+  {
+    "num": 64,
+    "q": "Uang dapat dibedakan atas dua jenis, yaitu uang....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kertas dan logam"
+      },
+      {
+        "label": "B",
+        "text": "koin dan plastik"
+      },
+      {
+        "label": "C",
+        "text": "komoditas dan fiat"
+      },
+      {
+        "label": "D",
+        "text": "emas dan nikel"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: komoditas dan fiat."
+  },
+  {
+    "num": 65,
+    "q": "Hak untuk menciptakan uang disebut hak....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mutu"
+      },
+      {
+        "label": "B",
+        "text": "baku"
+      },
+      {
+        "label": "C",
+        "text": "otroi"
+      },
+      {
+        "label": "D",
+        "text": "sah"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: otroi."
+  },
+  {
+    "num": 66,
+    "q": "Uang kertas juga disebut sebagai uang fiat, yaitu uang yang tidak memiliki nilai....",
+    "options": [
+      {
+        "label": "A",
+        "text": "satuan hitung"
+      },
+      {
+        "label": "B",
+        "text": "intrinsik"
+      },
+      {
+        "label": "C",
+        "text": "nominal"
+      },
+      {
+        "label": "D",
+        "text": "jual"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: intrinsik."
+  },
+  {
+    "num": 67,
+    "q": "Pada tahun 1971, bagian uang yang paling penting dalam kehidupan masyarakat adalah uang....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kartal"
+      },
+      {
+        "label": "B",
+        "text": "giral"
+      },
+      {
+        "label": "C",
+        "text": "Surat Utang Negara (SUN)"
+      },
+      {
+        "label": "D",
+        "text": "saham"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: kartal."
+  },
+  {
+    "num": 68,
+    "q": "Peningkatan Net Other Items terutama disebabkan oleh....",
+    "options": [
+      {
+        "label": "A",
+        "text": "peningkatan ekspor"
+      },
+      {
+        "label": "B",
+        "text": "meningkatnya kebutuhan masyarakat akan uang"
+      },
+      {
+        "label": "C",
+        "text": "situasi politik dan keamanan yang membaik"
+      },
+      {
+        "label": "D",
+        "text": "penerimaan migas dan penarikan utang luar negeri lebih besar dari pembayaran utang"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: penerimaan migas dan penarikan utang luar negeri lebih besar dari pembayaran utang."
+  },
+  {
+    "num": 69,
+    "q": "Salah satu penyebab pertumbuhan kebutuhan masyarakat akan uang tunai menurun adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pertumbuhan kartu debit dan ATM"
+      },
+      {
+        "label": "B",
+        "text": "perkembangan sosial politik dan keamanan yang memburuk"
+      },
+      {
+        "label": "C",
+        "text": "meningkatnya kebutuhan untuk berjaga-jaga dari masyarakat"
+      },
+      {
+        "label": "D",
+        "text": "bank konvensional yang semakin berkembang sampai ke daerah pelosok"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: pertumbuhan kartu debit dan ATM."
+  },
+  {
+    "num": 70,
+    "q": "Faktor yang menjadi sumber ekspansi uang primer yang dominan adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "ekspansi rupiah pemerintah (fiskal) dan biaya pengendalian moneter"
+      },
+      {
+        "label": "B",
+        "text": "perkembangan sosial politik dan keamanan yang memburuk"
+      },
+      {
+        "label": "C",
+        "text": "meningkatnya kebutuhan untuk berjaga-jaga dari masyarakat"
+      },
+      {
+        "label": "D",
+        "text": "bank konvensional yang semakin berkembang sampai ke daerah pelosok"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: ekspansi rupiah pemerintah (fiskal) dan biaya pengendalian moneter."
+  },
+  {
+    "num": 71,
+    "q": "Selama tahun 2003, Angka Penggandaan Uang (APU) cenderung menurun, faktor yang menyebabkannya adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "suku bunga yang merangkak naik"
+      },
+      {
+        "label": "B",
+        "text": "krisis ekonomi sehingga perekonomian kolaps"
+      },
+      {
+        "label": "C",
+        "text": "nilai tukar rupiah yang menurun"
+      },
+      {
+        "label": "D",
+        "text": "laju penggunaan uang kartal masih tinggi"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: laju penggunaan uang kartal masih tinggi."
+  },
+  {
+    "num": 72,
+    "q": "Komponen yang memberi kontribusi pada peningkatan uang M2 selain meningkatnya uang M1 juga bersumber dari....",
+    "options": [
+      {
+        "label": "A",
+        "text": "peningkatan uang kuasi"
+      },
+      {
+        "label": "B",
+        "text": "perkembangan sosial politik dan keamanan yang memburuk"
+      },
+      {
+        "label": "C",
+        "text": "meningkatnya kebutuhan untuk berjaga-jaga dari masyarakat"
+      },
+      {
+        "label": "D",
+        "text": "bank konvensional yang semakin berkembang sampai ke daerah pelosok"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: peningkatan uang kuasi."
+  },
+  {
+    "num": 73,
+    "q": "Kelemahan dari tabungan dan deposito sebagai kekayaan berlikuiditas tinggi adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "jangka waktu berlakunya tidak tetap"
+      },
+      {
+        "label": "B",
+        "text": "tidak dapat dengan serta merta untuk membeli barang dan jasa"
+      },
+      {
+        "label": "C",
+        "text": "nilainya tidak tetap"
+      },
+      {
+        "label": "D",
+        "text": "kurang bisa diterima oleh khalayak banyak"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: tidak dapat dengan serta merta untuk membeli barang dan jasa."
+  },
+  {
+    "num": 74,
+    "q": "Berbagai kekayaan yang dapat ditukarkan dengan barang atau uang dalam waktu cepat tanpa mengalami kerugian adalah pengertian....",
+    "options": [
+      {
+        "label": "A",
+        "text": "nilai operasional uang"
+      },
+      {
+        "label": "B",
+        "text": "kekayaan berlikuiditas tinggi"
+      },
+      {
+        "label": "C",
+        "text": "daya jual dan beli barang berharga"
+      },
+      {
+        "label": "D",
+        "text": "uang kuasi berlikuiditas tinggi"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: kekayaan berlikuiditas tinggi."
+  },
+  {
+    "num": 75,
+    "q": "Terdapat beberapa kekayaan yang bersifat uang tetapi tidak dapat digunakan begitu saja untuk memperoleh barang, kekayaan tersebut adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "tabungan dan deposito"
+      },
+      {
+        "label": "B",
+        "text": "kartu kredit dan emas"
+      },
+      {
+        "label": "C",
+        "text": "deposito dan emas"
+      },
+      {
+        "label": "D",
+        "text": "tabungan dan kartu kredit"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: tabungan dan deposito."
+  },
+  {
+    "num": 76,
+    "q": "Faktor yang memengaruhi tindakan penggunaan uang untuk tujuan berjaga-jaga adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pendapatan yang semakin tinggi"
+      },
+      {
+        "label": "B",
+        "text": "tinggi rendahnya tingkat suku bunga"
+      },
+      {
+        "label": "C",
+        "text": "masa depan yang tidak bisa diprediksi"
+      },
+      {
+        "label": "D",
+        "text": "nilai uang yang tidak tahan lama"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: masa depan yang tidak bisa diprediksi."
+  },
+  {
+    "num": 77,
+    "q": "Gambar di bawah adalah kurva permintaan uang untuk tujuan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menurunkan suku bunga"
+      },
+      {
+        "label": "B",
+        "text": "memperoleh keuntungan"
+      },
+      {
+        "label": "C",
+        "text": "transaksi dan berjaga-jaga"
+      },
+      {
+        "label": "D",
+        "text": "spekulasi"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: transaksi dan berjaga-jaga."
+  },
+  {
+    "num": 78,
+    "q": "Faktor yang memengaruhi permintaan akan uang untuk tujuan transaksi adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pendapatan yang semakin tinggi"
+      },
+      {
+        "label": "B",
+        "text": "tinggi rendahnya tingkat suku bunga"
+      },
+      {
+        "label": "C",
+        "text": "masa depan yang tidak bisa diprediksi"
+      },
+      {
+        "label": "D",
+        "text": "nilai uang yang tidak tahan lama"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: pendapatan yang semakin tinggi."
+  },
+  {
+    "num": 79,
+    "q": "Untuk proses penciptaan uang oleh bank-bank umum, jika jumlah rasio cadangan yang ditetapkan adalah 10%, maka jumlah uang yang tercipta....",
+    "options": [
+      {
+        "label": "A",
+        "text": "10 kali"
+      },
+      {
+        "label": "B",
+        "text": "20 kali"
+      },
+      {
+        "label": "C",
+        "text": "50 kali"
+      },
+      {
+        "label": "D",
+        "text": "100 kali"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Rumus Pengganda Uang Bank = 1 / Rasio Cadangan = 1 / 10% = 1 / 0,1 = 10 kali (A)!"
+  },
+  {
+    "num": 80,
+    "q": "Perubahan terhadap penawaran uang akan menimbulkan perubahan yang sama persentasenya terhadap....",
+    "options": [
+      {
+        "label": "A",
+        "text": "suku bunga"
+      },
+      {
+        "label": "B",
+        "text": "persentase bunga"
+      },
+      {
+        "label": "C",
+        "text": "harga baku"
+      },
+      {
+        "label": "D",
+        "text": "tingkat harga"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: tingkat harga."
+  },
+  {
+    "num": 81,
+    "q": "Dalam perhitungan teori kuantitas uang, variabel P (tingkat harga) adalah harga dalam bentuk....",
+    "options": [
+      {
+        "label": "A",
+        "text": "harga sesungguhnya"
+      },
+      {
+        "label": "B",
+        "text": "persentase"
+      },
+      {
+        "label": "C",
+        "text": "harga baku"
+      },
+      {
+        "label": "D",
+        "text": "indeks harga"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: indeks harga."
+  },
+  {
+    "num": 82,
+    "q": "Peran pemerintah menurut Richard Musgrave adalah peran....",
+    "options": [
+      {
+        "label": "A",
+        "text": "stabilitas, redistribusi pendapatan, alokasi sumber daya"
+      },
+      {
+        "label": "B",
+        "text": "inovasi, stabilitasi, dan konsolidasi"
+      },
+      {
+        "label": "C",
+        "text": "redistribusi pendapatan, alokasi sumber daya, dan inovasi"
+      },
+      {
+        "label": "D",
+        "text": "alokasi sumber daya, konsolidasi, dan stabilitasi"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Kebijakan Fiskal: Dikelola pemerintah melalui pajak dan belanja negara (misal saat depresi belanja dinaikkan & pajak diturunkan; saat inflasi pajak dinaikkan). Jawaban: stabilitas, redistribusi pendapatan, alokasi sumber daya."
+  },
+  {
+    "num": 83,
+    "q": "Dampak dari tindakan orang lain yang berupa sesuatu yang menguntungkan, disebut sebagai eksternalitas....",
+    "options": [
+      {
+        "label": "A",
+        "text": "positif"
+      },
+      {
+        "label": "B",
+        "text": "negatif"
+      },
+      {
+        "label": "C",
+        "text": "seimbang"
+      },
+      {
+        "label": "D",
+        "text": "setara"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: positif."
+  },
+  {
+    "num": 84,
+    "q": "Penyebab kegagalan pasar karena adanya barang publik adalah kesulitan dalam hal....",
+    "options": [
+      {
+        "label": "A",
+        "text": "penentuan jenis pelayanan umum"
+      },
+      {
+        "label": "B",
+        "text": "jumlah produksi"
+      },
+      {
+        "label": "C",
+        "text": "penentuan siapa yang berhak memanfaatkannya"
+      },
+      {
+        "label": "D",
+        "text": "penentuan tingkat harga"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: penentuan tingkat harga."
+  },
+  {
+    "num": 85,
+    "q": "Dalam pengelolaan anggaran pada masa depresi yang akan dilakukan oleh pemerintah adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "meningkatkan pengeluaran dan mengurangi pendapatan dari pajak"
+      },
+      {
+        "label": "B",
+        "text": "menambah utang luar negeri"
+      },
+      {
+        "label": "C",
+        "text": "menaikkan suku bunga deposito"
+      },
+      {
+        "label": "D",
+        "text": "menerbitkan SBI"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Kebijakan Fiskal: Dikelola pemerintah melalui pajak dan belanja negara (misal saat depresi belanja dinaikkan & pajak diturunkan; saat inflasi pajak dinaikkan). Jawaban: meningkatkan pengeluaran dan mengurangi pendapatan dari pajak."
+  },
+  {
+    "num": 86,
+    "q": "Dengan stabilitas otomatis, pengeluaran pemerintah akan ditentukan berdasarkan atas....",
+    "options": [
+      {
+        "label": "A",
+        "text": "naiknya harga barang kebutuhan pokok"
+      },
+      {
+        "label": "B",
+        "text": "perkiraan manfaat dan biaya relatif dari berbagai macam program dan pengenaan pajak"
+      },
+      {
+        "label": "C",
+        "text": "bertambahnya utang luar negeri Indonesia"
+      },
+      {
+        "label": "D",
+        "text": "hilangnya tingkat kepercayaan masyarakat terhadap pemerintah"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: perkiraan manfaat dan biaya relatif dari berbagai macam program dan pengenaan pajak."
+  },
+  {
+    "num": 87,
+    "q": "Tokoh dari kebijakan fiskal dari sisi pembiayaan fungsional (functional finance) adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Keynes"
+      },
+      {
+        "label": "B",
+        "text": "Alvin Hansen"
+      },
+      {
+        "label": "C",
+        "text": "Myrdal"
+      },
+      {
+        "label": "D",
+        "text": "A.P. Lerner"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Kebijakan Fiskal: Dikelola pemerintah melalui pajak dan belanja negara (misal saat depresi belanja dinaikkan & pajak diturunkan; saat inflasi pajak dinaikkan). Jawaban: A.P. Lerner."
+  },
+  {
+    "num": 88,
+    "q": "Kebijakan untuk menurunkan kecenderungan pembelanjaan marjinal dan pendapatan pajak dapat dilakukan dengan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "peningkatan pengeluaran pemerintah"
+      },
+      {
+        "label": "B",
+        "text": "penurunan suku bunga bank"
+      },
+      {
+        "label": "C",
+        "text": "peningkatan tarif pajak"
+      },
+      {
+        "label": "D",
+        "text": "penentuan tingkat harga yang berlaku di pasar"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Kebijakan Fiskal: Dikelola pemerintah melalui pajak dan belanja negara (misal saat depresi belanja dinaikkan & pajak diturunkan; saat inflasi pajak dinaikkan). Jawaban: peningkatan tarif pajak."
+  },
+  {
+    "num": 89,
+    "q": "Perangkat stabilisator utama dalam kebijakan fiskal otomatik adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pajak, pengeluaran pemerintah, pembayaran transfer pemerintah"
+      },
+      {
+        "label": "B",
+        "text": "tingkat diskonto, pajak, retribusi"
+      },
+      {
+        "label": "C",
+        "text": "suku bunga, surat utang negara, pajak"
+      },
+      {
+        "label": "D",
+        "text": "uang beredar, pengeluaran pemerintah, pendapatan pemerintah"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Kebijakan Fiskal: Dikelola pemerintah melalui pajak dan belanja negara (misal saat depresi belanja dinaikkan & pajak diturunkan; saat inflasi pajak dinaikkan). Jawaban: pajak, pengeluaran pemerintah, pembayaran transfer pemerintah."
+  },
+  {
+    "num": 90,
+    "q": "Kebijakan untuk menurunkan kecenderungan membelanjakan marjinal dari pendapatan nasional sehingga angka multiplier turun disebut sebagai kebijakan fiskal....",
+    "options": [
+      {
+        "label": "A",
+        "text": "fungsional"
+      },
+      {
+        "label": "B",
+        "text": "diskresioner"
+      },
+      {
+        "label": "C",
+        "text": "proporsional"
+      },
+      {
+        "label": "D",
+        "text": "otomatik (stabilisator terpasang)"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Kebijakan Fiskal: Dikelola pemerintah melalui pajak dan belanja negara (misal saat depresi belanja dinaikkan & pajak diturunkan; saat inflasi pajak dinaikkan). Jawaban: otomatik (stabilisator terpasang)."
+  },
+  {
+    "num": 91,
+    "q": "Peningkatan stok modal dalam perekonomian, baik fisik maupun modal manusia akan berakibat pada....",
+    "options": [
+      {
+        "label": "A",
+        "text": "meningkatnya anggaran belanja pemerintah"
+      },
+      {
+        "label": "B",
+        "text": "membaiknya produktivitas perekonomian, sehingga output perekonomian akan naik"
+      },
+      {
+        "label": "C",
+        "text": "membaiknya tingkat lapangan pekerjaan"
+      },
+      {
+        "label": "D",
+        "text": "besar jurang defisit dan inflasi akan menurun"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Ekonomi Terbuka: Devaluasi disengaja agar harga barang impor mahal sehingga impor turun; surplus aliran modal membuat mata uang terapresiasi. Jawaban: membaiknya produktivitas perekonomian, sehingga output perekonomian akan naik."
+  },
+  {
+    "num": 92,
+    "q": "Dampak negatif dari kebijakan fiskal defisit terbanyak adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mengurangi jumlah pengangguran"
+      },
+      {
+        "label": "B",
+        "text": "pendapatan nasional riil yang meningkat dan kestabilan ekonomi"
+      },
+      {
+        "label": "C",
+        "text": "bertambahnya utang luar negeri Indonesia"
+      },
+      {
+        "label": "D",
+        "text": "menghilangkan tingkat kepercayaan masyarakat terhadap pemerintah"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Kebijakan Fiskal: Dikelola pemerintah melalui pajak dan belanja negara (misal saat depresi belanja dinaikkan & pajak diturunkan; saat inflasi pajak dinaikkan). Jawaban: bertambahnya utang luar negeri Indonesia."
+  },
+  {
+    "num": 93,
+    "q": "Faktor yang mempengaruhi penawaran agregat dalam jangka pendek adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "ekspektasi tingkat harga"
+      },
+      {
+        "label": "B",
+        "text": "perubahan tenaga kerja"
+      },
+      {
+        "label": "C",
+        "text": "pemakaian teknologi"
+      },
+      {
+        "label": "D",
+        "text": "perubahan sumber daya modal"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: ekspektasi tingkat harga."
+  },
+  {
+    "num": 94,
+    "q": "Dalam kurva keseimbangan makro, output dan tingkat harga dalam jangka panjang ditentukan oleh perpotongan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "peningkatan pendapatan pemerintah dan peningkatan alokasi belanja"
+      },
+      {
+        "label": "B",
+        "text": "penurunan jumlah pengangguran dan peningkatan pendapatan masyarakat"
+      },
+      {
+        "label": "C",
+        "text": "kurva permintaan dan penawaran jangka panjang"
+      },
+      {
+        "label": "D",
+        "text": "kestabilan harga dan pendapatan nasional riil"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: kurva permintaan dan penawaran jangka panjang."
+  },
+  {
+    "num": 95,
+    "q": "Pemerintah sering menggunakan kemampuan memengaruhi kurva permintaan agregat melalui....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mengurangi jumlah pengangguran"
+      },
+      {
+        "label": "B",
+        "text": "meningkatkan pendapatan nasional riil dan kestabilan ekonomi"
+      },
+      {
+        "label": "C",
+        "text": "menambah utang luar negeri Indonesia"
+      },
+      {
+        "label": "D",
+        "text": "kebijakan fiskal dan moneter"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: kebijakan fiskal dan moneter."
+  },
+  {
+    "num": 96,
+    "q": "Kondisi keseimbangan yang menimbulkan stagflasi akan ikut memengaruhi....",
+    "options": [
+      {
+        "label": "A",
+        "text": "peningkatan pendapatan pemerintah dan peningkatan alokasi belanja"
+      },
+      {
+        "label": "B",
+        "text": "penurunan jumlah pengangguran dan peningkatan pendapatan masyarakat"
+      },
+      {
+        "label": "C",
+        "text": "penentuan tingkat upah pekerja"
+      },
+      {
+        "label": "D",
+        "text": "kestabilan harga dan pendapatan nasional riil"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: kestabilan harga dan pendapatan nasional riil."
+  },
+  {
+    "num": 97,
+    "q": "Tingkat PDB riil per kapita hanya tumbuh jika pertumbuhan PDB riilnya....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menggunakan bahan baku secara efisien"
+      },
+      {
+        "label": "B",
+        "text": "tingkat gaji pegawai naik"
+      },
+      {
+        "label": "C",
+        "text": "jumlah jam kerja dapat terserap"
+      },
+      {
+        "label": "D",
+        "text": "melebihi pertumbuhan populasi"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: melebihi pertumbuhan populasi."
+  },
+  {
+    "num": 98,
+    "q": "Pertumbuhan produktivitas tenaga kerja dipengaruhi oleh....",
+    "options": [
+      {
+        "label": "A",
+        "text": "jumlah bahan baku"
+      },
+      {
+        "label": "B",
+        "text": "tingkat gaji pegawai"
+      },
+      {
+        "label": "C",
+        "text": "jumlah jam kerja"
+      },
+      {
+        "label": "D",
+        "text": "pertumbuhan modal fisik"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pertumbuhan modal fisik."
+  },
+  {
+    "num": 99,
+    "q": "Teori pertumbuhan ekonomi klasik menempatkan teknologi sebagai faktor....",
+    "options": [
+      {
+        "label": "A",
+        "text": "eksogen"
+      },
+      {
+        "label": "B",
+        "text": "inti"
+      },
+      {
+        "label": "C",
+        "text": "endogen"
+      },
+      {
+        "label": "D",
+        "text": "penghambat"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: eksogen."
+  },
+  {
+    "num": 100,
+    "q": "Menurut Teori Pertumbuhan Neo-Klasik, perekonomian akan mencapai tingkat output dan modal jangka panjang pada kondisi....",
+    "options": [
+      {
+        "label": "A",
+        "text": "growth economics"
+      },
+      {
+        "label": "B",
+        "text": "stationary state"
+      },
+      {
+        "label": "C",
+        "text": "Nash equilibrium"
+      },
+      {
+        "label": "D",
+        "text": "steady state"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Ekonomi Terbuka: Devaluasi disengaja agar harga barang impor mahal sehingga impor turun; surplus aliran modal membuat mata uang terapresiasi. Jawaban: steady state."
+  },
+  {
+    "num": 101,
+    "q": "Ciri dari proses pertumbuhan ekonomi yang bisa ditemui pada negara maju menurut Kuznets adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "tingkat kenaikan produktivitas faktor total rendah"
+      },
+      {
+        "label": "B",
+        "text": "adanya transformasi sosial dan ideologi yang tinggi"
+      },
+      {
+        "label": "C",
+        "text": "tingkat transformasi struktural ekonomi rendah"
+      },
+      {
+        "label": "D",
+        "text": "penyebaran penduduk yang merata"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: adanya transformasi sosial dan ideologi yang tinggi."
+  },
+  {
+    "num": 102,
+    "q": "Teori yang menjelaskan keterkaitan antara pendapatan per kapita dengan jumlah penduduk, menurut Teori Pertumbuhan Klasik dikenal sebagai teori....",
+    "options": [
+      {
+        "label": "A",
+        "text": "keterkaitan ekonomi"
+      },
+      {
+        "label": "B",
+        "text": "penduduk optimum"
+      },
+      {
+        "label": "C",
+        "text": "pertumbuhan ekonomi"
+      },
+      {
+        "label": "D",
+        "text": "keteguhan perekonomian"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: penduduk optimum."
+  },
+  {
+    "num": 103,
+    "q": "Kenaikan harga secara umum disebut sebagai....",
+    "options": [
+      {
+        "label": "A",
+        "text": "inflasi"
+      },
+      {
+        "label": "B",
+        "text": "gejolak ekonomi"
+      },
+      {
+        "label": "C",
+        "text": "resesi"
+      },
+      {
+        "label": "D",
+        "text": "deflasi"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: inflasi."
+  },
+  {
+    "num": 104,
+    "q": "Kenaikan harga satu jenis barang/jasa dapat menyebabkan inflasi apabila kenaikan yang terjadi mendorong....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kenaikan harga barang/jasa lain"
+      },
+      {
+        "label": "B",
+        "text": "kelangkaan barang kebutuhan pokok"
+      },
+      {
+        "label": "C",
+        "text": "terciptanya kemiskinan"
+      },
+      {
+        "label": "D",
+        "text": "penurunan kesejahteraan masyarakat"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Inflasi & Pengangguran: Moderat (4-10%), Tinggi (10-100%), Hiperinflasi hilangkan kepercayaan pada mata uang; Musiman terjadi di sektor pertanian. Jawaban: kenaikan harga barang/jasa lain."
+  },
+  {
+    "num": 105,
+    "q": "Indeks yang mengukur harga rata-rata dari barang yang dibutuhkan produsen untuk melakukan proses produksi adalah indeks....",
+    "options": [
+      {
+        "label": "A",
+        "text": "harga konsumen (IHK)"
+      },
+      {
+        "label": "B",
+        "text": "deflator PDB"
+      },
+      {
+        "label": "C",
+        "text": "harga produsen (IHP)"
+      },
+      {
+        "label": "D",
+        "text": "harga perdagangan besar (HPB)"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Inflasi & Pengangguran: Moderat (4-10%), Tinggi (10-100%), Hiperinflasi hilangkan kepercayaan pada mata uang; Musiman terjadi di sektor pertanian. Jawaban: harga produsen (IHP)."
+  },
+  {
+    "num": 106,
+    "q": "Inflasi moderat adalah inflasi yang terjadi pada kisaran....",
+    "options": [
+      {
+        "label": "A",
+        "text": "4 sampai 10 persen"
+      },
+      {
+        "label": "B",
+        "text": "2 sampai 3 persen"
+      },
+      {
+        "label": "C",
+        "text": "10 sampai 100 persen"
+      },
+      {
+        "label": "D",
+        "text": "di atas 100 persen"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Inflasi & Pengangguran: Moderat (4-10%), Tinggi (10-100%), Hiperinflasi hilangkan kepercayaan pada mata uang; Musiman terjadi di sektor pertanian. Jawaban: 4 sampai 10 persen."
+  },
+  {
+    "num": 107,
+    "q": "Hilangnya kepercayaan masyarakat terhadap mata uang merupakan penyebab utama dari....",
+    "options": [
+      {
+        "label": "A",
+        "text": "terjadinya krisis ekonomi"
+      },
+      {
+        "label": "B",
+        "text": "penurunan suku bunga"
+      },
+      {
+        "label": "C",
+        "text": "demand pull inflation"
+      },
+      {
+        "label": "D",
+        "text": "risiko kondisi hiperinflasi"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: risiko kondisi hiperinflasi."
+  },
+  {
+    "num": 108,
+    "q": "Besaran yang dapat digunakan sebagai indikator terjadinya inflasi tinggi dalam satu tahun adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "4 – 10 persen"
+      },
+      {
+        "label": "B",
+        "text": "10 – 100 persen"
+      },
+      {
+        "label": "C",
+        "text": "2 – 3 persen"
+      },
+      {
+        "label": "D",
+        "text": "di atas 100 persen"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Inflasi & Pengangguran: Moderat (4-10%), Tinggi (10-100%), Hiperinflasi hilangkan kepercayaan pada mata uang; Musiman terjadi di sektor pertanian. Jawaban: 10 – 100 persen."
+  },
+  {
+    "num": 109,
+    "q": "Jika inflasi dapat diekspektasikan dengan sempurna maka yang terjadi adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "terjadinya krisis ekonomi"
+      },
+      {
+        "label": "B",
+        "text": "penurunan suku bunga"
+      },
+      {
+        "label": "C",
+        "text": "fluktuasi PDB riil karena tekanan permintaan dan dorongan biaya tidak akan terjadi"
+      },
+      {
+        "label": "D",
+        "text": "risiko kondisi hiperinflasi dapat ditekan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Inflasi & Pengangguran: Moderat (4-10%), Tinggi (10-100%), Hiperinflasi hilangkan kepercayaan pada mata uang; Musiman terjadi di sektor pertanian. Jawaban: fluktuasi PDB riil karena tekanan permintaan dan dorongan biaya tidak akan terjadi."
+  },
+  {
+    "num": 110,
+    "q": "Faktor yang berkontribusi terhadap peningkatan permintaan agregat yang berakibat terjadinya inflasi adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "peningkatan gaji karyawan"
+      },
+      {
+        "label": "B",
+        "text": "pemotongan tingkat suku bunga"
+      },
+      {
+        "label": "C",
+        "text": "PHK (Pemutusan Hubungan Kerja) secara besar-besaran"
+      },
+      {
+        "label": "D",
+        "text": "penurunan ekspor"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Inflasi & Pengangguran: Moderat (4-10%), Tinggi (10-100%), Hiperinflasi hilangkan kepercayaan pada mata uang; Musiman terjadi di sektor pertanian. Jawaban: pemotongan tingkat suku bunga."
+  },
+  {
+    "num": 111,
+    "q": "Ekonom yang menyatakan bahwa inflasi itu pasti selalu ada dan merupakan fenomena moneter serta diatasi dengan mengontrol penawaran uang adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Milton Friedman"
+      },
+      {
+        "label": "B",
+        "text": "J.S. Mill"
+      },
+      {
+        "label": "C",
+        "text": "J.M. Keynes"
+      },
+      {
+        "label": "D",
+        "text": "M. Bishop"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: Milton Friedman."
+  },
+  {
+    "num": 112,
+    "q": "Akibat yang ditimbulkan karena tingginya jumlah uang beredar dalam masyarakat adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "penawaran uang meningkat"
+      },
+      {
+        "label": "B",
+        "text": "nilai mata uang sebagai alat ukur menjadi turun"
+      },
+      {
+        "label": "C",
+        "text": "harga barang kebutuhan menjadi turun"
+      },
+      {
+        "label": "D",
+        "text": "terapresiasinya nilai tukar rupiah"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: nilai mata uang sebagai alat ukur menjadi turun."
+  },
+  {
+    "num": 113,
+    "q": "Prediksi untuk mengantisipasi inflasi yang didasarkan pada semua informasi yang relevan disebut sebagai....",
+    "options": [
+      {
+        "label": "A",
+        "text": "rasionalisasi perekonomian"
+      },
+      {
+        "label": "B",
+        "text": "ekspektasi rasional"
+      },
+      {
+        "label": "C",
+        "text": "peramalan usaha dalam perekonomian"
+      },
+      {
+        "label": "D",
+        "text": "kebijakan ekspektasi fiskal"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Inflasi & Pengangguran: Moderat (4-10%), Tinggi (10-100%), Hiperinflasi hilangkan kepercayaan pada mata uang; Musiman terjadi di sektor pertanian. Jawaban: ekspektasi rasional."
+  },
+  {
+    "num": 114,
+    "q": "Masalah inflasi dapat diatasi dengan kebijakan fiskal dengan cara....",
+    "options": [
+      {
+        "label": "A",
+        "text": "penambahan pajak"
+      },
+      {
+        "label": "B",
+        "text": "pemotongan tingkat suku bunga"
+      },
+      {
+        "label": "C",
+        "text": "PHK (Pemutusan Hubungan Kerja) secara besar-besaran"
+      },
+      {
+        "label": "D",
+        "text": "penurunan ekspor"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Kebijakan Fiskal: Dikelola pemerintah melalui pajak dan belanja negara (misal saat depresi belanja dinaikkan & pajak diturunkan; saat inflasi pajak dinaikkan). Jawaban: penambahan pajak."
+  },
+  {
+    "num": 115,
+    "q": "Keadaan di mana pertambahan lapangan kerja lebih rendah dibanding dengan pertambahan tenaga kerja yang muncul adalah pengangguran....",
+    "options": [
+      {
+        "label": "A",
+        "text": "terselubung"
+      },
+      {
+        "label": "B",
+        "text": "setengah menganggur"
+      },
+      {
+        "label": "C",
+        "text": "terbuka"
+      },
+      {
+        "label": "D",
+        "text": "friksional"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Inflasi & Pengangguran: Moderat (4-10%), Tinggi (10-100%), Hiperinflasi hilangkan kepercayaan pada mata uang; Musiman terjadi di sektor pertanian. Jawaban: terbuka."
+  },
+  {
+    "num": 116,
+    "q": "Pengangguran terselubung terjadi akibat adanya....",
+    "options": [
+      {
+        "label": "A",
+        "text": "permintaan yang tinggi pada sektor tenaga kerja"
+      },
+      {
+        "label": "B",
+        "text": "urbanisasi yang pesat pada negara berkembang"
+      },
+      {
+        "label": "C",
+        "text": "penurunan tingkat upah"
+      },
+      {
+        "label": "D",
+        "text": "pergantian musim"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Inflasi & Pengangguran: Moderat (4-10%), Tinggi (10-100%), Hiperinflasi hilangkan kepercayaan pada mata uang; Musiman terjadi di sektor pertanian. Jawaban: urbanisasi yang pesat pada negara berkembang."
+  },
+  {
+    "num": 117,
+    "q": "Jenis pengangguran seasonal (musiman) biasanya terjadi pada sektor....",
+    "options": [
+      {
+        "label": "A",
+        "text": "industri"
+      },
+      {
+        "label": "B",
+        "text": "pertanian"
+      },
+      {
+        "label": "C",
+        "text": "formal"
+      },
+      {
+        "label": "D",
+        "text": "perhubungan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Inflasi & Pengangguran: Moderat (4-10%), Tinggi (10-100%), Hiperinflasi hilangkan kepercayaan pada mata uang; Musiman terjadi di sektor pertanian. Jawaban: pertanian."
+  },
+  {
+    "num": 118,
+    "q": "Salah satu faktor penting yang mampu berpengaruh terhadap aliran modal keluar dari suatu negara adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kondisi ekonomi dan risiko politik dari memegang aset luar negeri"
+      },
+      {
+        "label": "B",
+        "text": "nilai tukar rupiah suatu negara"
+      },
+      {
+        "label": "C",
+        "text": "jenis barang/jasa yang diperdagangkan"
+      },
+      {
+        "label": "D",
+        "text": "kemampuan modal di antara negara dalam perekonomian terbuka"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Ekonomi Terbuka: Devaluasi disengaja agar harga barang impor mahal sehingga impor turun; surplus aliran modal membuat mata uang terapresiasi. Jawaban: kondisi ekonomi dan risiko politik dari memegang aset luar negeri."
+  },
+  {
+    "num": 119,
+    "q": "Perekonomian yang bersifat terbuka akan selalu bersinggungan dengan adanya....",
+    "options": [
+      {
+        "label": "A",
+        "text": "perbedaan nilai tukar mata uang"
+      },
+      {
+        "label": "B",
+        "text": "kemampuan daya beli masyarakatnya"
+      },
+      {
+        "label": "C",
+        "text": "aliran barang dan modal antar negara"
+      },
+      {
+        "label": "D",
+        "text": "surat obligasi antar negara"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: aliran barang dan modal antar negara."
+  },
+  {
+    "num": 120,
+    "q": "Variabel penting yang memengaruhi aliran modal keluar dari suatu negara, yaitu....",
+    "options": [
+      {
+        "label": "A",
+        "text": "tingkat suku bunga riil yang dibayarkan terhadap aset luar negeri"
+      },
+      {
+        "label": "B",
+        "text": "nilai tukar rupiah suatu negara"
+      },
+      {
+        "label": "C",
+        "text": "jenis barang/jasa yang diperdagangkan"
+      },
+      {
+        "label": "D",
+        "text": "kemampuan modal di antara negara dalam perekonomian terbuka"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Ekonomi Terbuka: Devaluasi disengaja agar harga barang impor mahal sehingga impor turun; surplus aliran modal membuat mata uang terapresiasi. Jawaban: tingkat suku bunga riil yang dibayarkan terhadap aset luar negeri."
+  },
+  {
+    "num": 121,
+    "q": "Nilai mata uang dapat diartikan oleh kemajuan ekonomi yang dipengaruhi oleh....",
+    "options": [
+      {
+        "label": "A",
+        "text": "penanaman modal bagi pengusaha dalam negeri"
+      },
+      {
+        "label": "B",
+        "text": "pertumbuhan ekonomi yang berlaku"
+      },
+      {
+        "label": "C",
+        "text": "pembayaran utang luar negeri"
+      },
+      {
+        "label": "D",
+        "text": "pemberian dana pinjaman oleh Bank Dunia"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: pertumbuhan ekonomi yang berlaku."
+  },
+  {
+    "num": 122,
+    "q": "Jika lebih banyak modal yang mengalir ke suatu negara, maka permintaan terhadap mata uang naik, sehingga....",
+    "options": [
+      {
+        "label": "A",
+        "text": "penanaman investasi luar negeri oleh pengusaha dalam negeri meningkat"
+      },
+      {
+        "label": "B",
+        "text": "nilai mata uang akan terapresiasi"
+      },
+      {
+        "label": "C",
+        "text": "investasi portofolio asing menurun"
+      },
+      {
+        "label": "D",
+        "text": "pembelian barang oleh luar negeri membaik"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: nilai mata uang akan terapresiasi."
+  },
+  {
+    "num": 123,
+    "q": "Konsep ekonomi yang diakomodasi untuk mewujudkan transaksi ekonomi antar negara dalam hal kesetaraan nilai mata uang disebut sebagai....",
+    "options": [
+      {
+        "label": "A",
+        "text": "suku bunga"
+      },
+      {
+        "label": "B",
+        "text": "harga jual"
+      },
+      {
+        "label": "C",
+        "text": "nilai tukar"
+      },
+      {
+        "label": "D",
+        "text": "harga beli"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: nilai tukar."
+  },
+  {
+    "num": 124,
+    "q": "Kondisi di mana suku bunga riil berada di atas tingkat suku bunga keseimbangan dan jumlah penawaran dana di atas permintaan dana akan menyebabkan terjadinya....",
+    "options": [
+      {
+        "label": "A",
+        "text": "penanaman investasi luar negeri oleh pengusaha dalam negeri meningkat"
+      },
+      {
+        "label": "B",
+        "text": "nilai mata uang akan membaik"
+      },
+      {
+        "label": "C",
+        "text": "kelebihan penawaran dari dana pinjaman (excess supply)"
+      },
+      {
+        "label": "D",
+        "text": "pembelian barang oleh luar negeri membaik"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: kelebihan penawaran dari dana pinjaman (excess supply)."
+  },
+  {
+    "num": 125,
+    "q": "Keseimbangan pasar valuta asing terjadi jika terdapat keseimbangan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "aliran modal keluar bruto dan aliran modal masuk neto"
+      },
+      {
+        "label": "B",
+        "text": "ekspor neto dan impor neto"
+      },
+      {
+        "label": "C",
+        "text": "pendapatan dan pengeluaran"
+      },
+      {
+        "label": "D",
+        "text": "permintaan valuta asing dan penawaran valuta asing"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Ekonomi Terbuka: Devaluasi disengaja agar harga barang impor mahal sehingga impor turun; surplus aliran modal membuat mata uang terapresiasi. Jawaban: permintaan valuta asing dan penawaran valuta asing."
+  },
+  {
+    "num": 126,
+    "q": "Pembentukan titik keseimbangan antara permintaan dan penawaran dana pinjaman dilakukan oleh pergerakan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "penanaman modal dan tabungan nasional"
+      },
+      {
+        "label": "B",
+        "text": "tingkat suku bunga riil"
+      },
+      {
+        "label": "C",
+        "text": "pembayaran utang luar negeri"
+      },
+      {
+        "label": "D",
+        "text": "pemberian dana pinjaman oleh Bank Dunia"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: tingkat suku bunga riil."
+  },
+  {
+    "num": 127,
+    "q": "Modal resmi yang merupakan pinjaman dan pembayaran antara badan pemerintah atau swasta merupakan aliran modal jangka....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pendek"
+      },
+      {
+        "label": "B",
+        "text": "panjang"
+      },
+      {
+        "label": "C",
+        "text": "sedang"
+      },
+      {
+        "label": "D",
+        "text": "menengah"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Ekonomi Terbuka: Devaluasi disengaja agar harga barang impor mahal sehingga impor turun; surplus aliran modal membuat mata uang terapresiasi. Jawaban: panjang."
+  },
+  {
+    "num": 128,
+    "q": "Neraca modal terdapat dua golongan transaksi, yaitu....",
+    "options": [
+      {
+        "label": "A",
+        "text": "aliran uang masuk dan keluar"
+      },
+      {
+        "label": "B",
+        "text": "aliran modal jangka panjang dan aliran modal keuangan swasta"
+      },
+      {
+        "label": "C",
+        "text": "tingkat suku bunga dan neraca pembayaran"
+      },
+      {
+        "label": "D",
+        "text": "tabungan dan transaksi keuangan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Ekonomi Terbuka: Devaluasi disengaja agar harga barang impor mahal sehingga impor turun; surplus aliran modal membuat mata uang terapresiasi. Jawaban: aliran modal jangka panjang dan aliran modal keuangan swasta."
+  },
+  {
+    "num": 129,
+    "q": "Aliran modal dalam bentuk tabungan atau investasi yang dapat dengan cepat ditukarkan dalam bentuk valuta asing adalah pengertian dari....",
+    "options": [
+      {
+        "label": "A",
+        "text": "aliran modal jangka pendek"
+      },
+      {
+        "label": "B",
+        "text": "keseimbangan neraca total"
+      },
+      {
+        "label": "C",
+        "text": "aliran modal keuangan swasta"
+      },
+      {
+        "label": "D",
+        "text": "keseimbangan neraca berjalan"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Ekonomi Terbuka: Devaluasi disengaja agar harga barang impor mahal sehingga impor turun; surplus aliran modal membuat mata uang terapresiasi. Jawaban: aliran modal jangka pendek."
+  },
+  {
+    "num": 130,
+    "q": "Kebijakan untuk mengatasi masalah pengangguran dan defisit dalam neraca pembayaran biasanya berbentuk kebijakan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menstabilkan nilai tukar rupiah"
+      },
+      {
+        "label": "B",
+        "text": "penciptaan lapangan pekerjaan"
+      },
+      {
+        "label": "C",
+        "text": "memindahkan perbelanjaan"
+      },
+      {
+        "label": "D",
+        "text": "mengurangi pengeluaran"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Kebijakan Fiskal: Dikelola pemerintah melalui pajak dan belanja negara (misal saat depresi belanja dinaikkan & pajak diturunkan; saat inflasi pajak dinaikkan). Jawaban: memindahkan perbelanjaan."
+  },
+  {
+    "num": 131,
+    "q": "Terjadinya defisit neraca pembayaran akan berdampak buruk pada....",
+    "options": [
+      {
+        "label": "A",
+        "text": "aliran uang masuk dan keluar"
+      },
+      {
+        "label": "B",
+        "text": "kestabilan nilai tukar"
+      },
+      {
+        "label": "C",
+        "text": "tingkat suku bunga dan neraca pembayaran"
+      },
+      {
+        "label": "D",
+        "text": "tabungan dan transaksi keuangan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Kebijakan Fiskal: Dikelola pemerintah melalui pajak dan belanja negara (misal saat depresi belanja dinaikkan & pajak diturunkan; saat inflasi pajak dinaikkan). Jawaban: kestabilan nilai tukar."
+  },
+  {
+    "num": 132,
+    "q": "Kebijakan mengurangi pembelanjaan adalah kebijakan yang diambil oleh pemerintah untuk mengatasi masalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menstabilkan nilai tukar rupiah"
+      },
+      {
+        "label": "B",
+        "text": "penciptaan lapangan pekerjaan"
+      },
+      {
+        "label": "C",
+        "text": "memindahkan pembelanjaan"
+      },
+      {
+        "label": "D",
+        "text": "inflasi dan defisit dalam neraca pembayaran"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: inflasi dan defisit dalam neraca pembayaran."
+  },
+  {
+    "num": 133,
+    "q": "Kebijakan yang mempengaruhi jumlah tabungan nasional adalah kebijakan....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menstabilkan nilai tukar rupiah"
+      },
+      {
+        "label": "B",
+        "text": "penciptaan lapangan pekerjaan"
+      },
+      {
+        "label": "C",
+        "text": "anggaran defisit"
+      },
+      {
+        "label": "D",
+        "text": "mengurangi pembelanjaan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: anggaran defisit."
+  },
+  {
+    "num": 134,
+    "q": "Alasan adanya penurunan nilai mata uang (devaluasi) adalah....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menstabilkan nilai tukar rupiah"
+      },
+      {
+        "label": "B",
+        "text": "penciptaan lapangan pekerjaan"
+      },
+      {
+        "label": "C",
+        "text": "memindahkan perbelanjaan"
+      },
+      {
+        "label": "D",
+        "text": "mengurangi impor karena harganya menjadi mahal"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Uang & Kebijakan Moneter: Uang fiat tidak punya nilai intrinsik; hak mencetak uang disebut hak otroi; M2 mencakup M1 + uang kuasi (tabungan/deposito). Jawaban: mengurangi impor karena harganya menjadi mahal."
+  },
+  {
+    "num": 135,
+    "q": "Kebijakan pengurangan belanja dapat dilaksanakan dengan cara....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menaikkan pajak pendapatan"
+      },
+      {
+        "label": "B",
+        "text": "menstabilkan harga"
+      },
+      {
+        "label": "C",
+        "text": "menurunkan nilai valuta"
+      },
+      {
+        "label": "D",
+        "text": "mewujudkan kestabilan upah dan harga"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: menaikkan pajak pendapatan."
+  }
+]

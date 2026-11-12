@@ -1,0 +1,3242 @@
+[
+  {
+    "num": 1,
+    "q": "Definisi akuntansi biaya adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "proses pelaporan informasi keuangan perusahaan kepada pihak eksternal"
+      },
+      {
+        "label": "B",
+        "text": "proses mencatat, mengelompokkan, meringkas, dan mengendalikan biaya yang terkait dengan produksi barang atau jasa"
+      },
+      {
+        "label": "C",
+        "text": "proses menyusun anggaran untuk operasi masa depan perusahaan"
+      },
+      {
+        "label": "D",
+        "text": "proses mengevaluasi kinerja keuangan perusahaan untuk tujuan investasi"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: proses mencatat, mengelompokkan, meringkas, dan mengendalikan biaya yang terkait dengan produksi barang atau jasa."
+  },
+  {
+    "num": 2,
+    "q": "Perbedaan utama antara kos dan biaya adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kos adalah seluruh pengorbanan sumber daya yang digunakan untuk menghasilkan produk, sedangkan biaya adalah pengeluaran yang berhubungan dengan operasi perusahaan"
+      },
+      {
+        "label": "B",
+        "text": "kos berkaitan dengan penetapan harga jual produk, sedangkan biaya tidak mempengaruhi harga jual"
+      },
+      {
+        "label": "C",
+        "text": "kos adalah pengeluaran tunai, sedangkan biaya dapat berupa non-tunai"
+      },
+      {
+        "label": "D",
+        "text": "kos hanya berlaku untuk perusahaan manufaktur, sedangkan biaya berlaku untuk semua jenis perusahaan"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: kos adalah seluruh pengorbanan sumber daya yang digunakan untuk menghasilkan produk, sedangkan biaya adalah pengeluaran yang berhubungan dengan operasi perusahaan."
+  },
+  {
+    "num": 3,
+    "q": "Tujuan dari pengendalian biaya adalah untuk ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "memaksimalkan keuntungan perusahaan dengan cara meningkatkan volume produksi"
+      },
+      {
+        "label": "B",
+        "text": "mengurangi biaya produksi seminimal mungkin tanpa mempengaruhi kualitas produk"
+      },
+      {
+        "label": "C",
+        "text": "menjaga agar biaya tetap pada tingkat yang sama dengan anggaran yang telah ditentukan"
+      },
+      {
+        "label": "D",
+        "text": "meningkatkan efisiensi dengan cara mengurangi tenaga kerja dan bahan baku"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: mengurangi biaya produksi seminimal mungkin tanpa mempengaruhi kualitas produk."
+  },
+  {
+    "num": 4,
+    "q": "Kos yang telah daluwarsa biasanya diakui sebagai ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "beban yang dapat diperbaiki dalam laporan keuangan"
+      },
+      {
+        "label": "B",
+        "text": "rugi dalam laporan laba rugi perusahaan"
+      },
+      {
+        "label": "C",
+        "text": "aktiva yang tidak digunakan lagi dalam proses produksi"
+      },
+      {
+        "label": "D",
+        "text": "kewajiban yang harus dibayar di masa mendatang"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: rugi dalam laporan laba rugi perusahaan."
+  },
+  {
+    "num": 5,
+    "q": "Pernyataan berikut ini yang paling tepat menggambarkan sifat informasi dalam akuntansi keuangan adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "informasi yang disajikan bersifat lebih detail dan dapat digunakan untuk perencanaan jangka panjang perusahaan"
+      },
+      {
+        "label": "B",
+        "text": "informasi yang disajikan bersifat umum dan ditujukan untuk kebutuhan eksternal, seperti investor dan regulator"
+      },
+      {
+        "label": "C",
+        "text": "informasi yang disajikan hanya berkaitan dengan biaya produksi dan efisiensi operasional perusahaan"
+      },
+      {
+        "label": "D",
+        "text": "informasi yang disajikan bersifat lebih fleksibel dan dapat disesuaikan dengan kebutuhan manajer internal perusahaan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: informasi yang disajikan bersifat umum dan ditujukan untuk kebutuhan eksternal, seperti investor dan regulator."
+  },
+  {
+    "num": 6,
+    "q": "Informasi yang dihasilkan oleh akuntansi manajemen bersifat ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "historis dan digunakan untuk laporan eksternal"
+      },
+      {
+        "label": "B",
+        "text": "futuristik dan digunakan untuk pengambilan keputusan internal"
+      },
+      {
+        "label": "C",
+        "text": "rutin dan hanya relevan untuk kepentingan jangka panjang"
+      },
+      {
+        "label": "D",
+        "text": "tidak relevan untuk manajemen puncak"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: futuristik dan digunakan untuk pengambilan keputusan internal."
+  },
+  {
+    "num": 7,
+    "q": "Salah satu metode penelusuran objek kos yang digunakan untuk mengalokasikan biaya secara langsung ke produk atau departemen yang menggunakannya dikenal sebagai metode ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "variabel"
+      },
+      {
+        "label": "B",
+        "text": "alokasi langsung"
+      },
+      {
+        "label": "C",
+        "text": "campuran"
+      },
+      {
+        "label": "D",
+        "text": "tidak langsung"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: alokasi langsung."
+  },
+  {
+    "num": 8,
+    "q": "Dalam akuntansi kos, objek kos dapat berupa produk, departemen, atau divisi. Salah satu cara penelusuran biaya ke objek kos divisi adalah dengan mengidentifikasi ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "biaya tetap perusahaan"
+      },
+      {
+        "label": "B",
+        "text": "biaya tidak langsung"
+      },
+      {
+        "label": "C",
+        "text": "aktivitas yang terkait dengan divisi"
+      },
+      {
+        "label": "D",
+        "text": "total biaya produksi perusahaan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: aktivitas yang terkait dengan divisi."
+  },
+  {
+    "num": 9,
+    "q": "Pernyataan berikut yang paling tepat menggambarkan objek kos berupa aktivitas dalam konteks akuntansi kos ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "aktivitas yang digunakan untuk menentukan jumlah biaya overhead yang dialokasikan ke produk berdasarkan jumlah jam kerja"
+      },
+      {
+        "label": "B",
+        "text": "aktivitas yang digunakan untuk menghitung biaya bahan baku langsung yang digunakan dalam produksi"
+      },
+      {
+        "label": "C",
+        "text": "aktivitas yang berhubungan dengan pengeluaran dana yang tidak dapat langsung dikaitkan dengan suatu produk atau layanan tertentu"
+      },
+      {
+        "label": "D",
+        "text": "aktivitas yang dilakukan untuk mengidentifikasi sumber daya yang digunakan dalam proses produksi, seperti bahan baku dan tenaga kerja"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: aktivitas yang dilakukan untuk mengidentifikasi sumber daya yang digunakan dalam proses produksi, seperti bahan baku dan tenaga kerja."
+  },
+  {
+    "num": 10,
+    "q": "Jenis pengeluaran yang akan memberi manfaat pada beberapa periode akuntansi dikenal dengan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "capital expenditure"
+      },
+      {
+        "label": "B",
+        "text": "engineered cost"
+      },
+      {
+        "label": "C",
+        "text": "differential costs"
+      },
+      {
+        "label": "D",
+        "text": "revenue expenditure"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: capital expenditure."
+  },
+  {
+    "num": 11,
+    "q": "Biaya bahan baku langsung, biaya tenaga kerja langsung, dan biaya overhead pabrik adalah contoh dari ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "biaya tetap"
+      },
+      {
+        "label": "B",
+        "text": "biaya variabel"
+      },
+      {
+        "label": "C",
+        "text": "biaya produk"
+      },
+      {
+        "label": "D",
+        "text": "biaya non-produktif"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Akuntansi Overhead & ABC: BOP menampung biaya tak langsung pabrik (listrik, penyusutan, gaji tak langsung). ABC membebankan overhead berdasarkan aktivitas/cost driver spesifik agar jauh lebih akurat dari sistem konvensional. Jawaban: biaya produk."
+  },
+  {
+    "num": 12,
+    "q": "Kos prima terdiri dari biaya ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "bahan baku langsung dan biaya tenaga kerja langsung"
+      },
+      {
+        "label": "B",
+        "text": "overhead pabrik dan biaya tenaga kerja tidak langsung"
+      },
+      {
+        "label": "C",
+        "text": "bahan baku langsung dan biaya overhead pabrik"
+      },
+      {
+        "label": "D",
+        "text": "tenaga kerja tidak langsung dan biaya bahan baku tidak langsung"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: bahan baku langsung dan biaya tenaga kerja langsung."
+  },
+  {
+    "num": 13,
+    "q": "Kapasitas aktivitas yang tersedia menentukan berapa banyak sumber daya yang digunakan dalam suatu aktivitas. Hal ini berarti bahwa ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kos aktivitas selalu sebanding dengan kapasitas sumber daya yang digunakan"
+      },
+      {
+        "label": "B",
+        "text": "kos tidak bergantung pada jumlah sumber daya yang tersedia"
+      },
+      {
+        "label": "C",
+        "text": "jumlah sumber daya yang digunakan dapat lebih besar dari kapasitas yang tersedia"
+      },
+      {
+        "label": "D",
+        "text": "penggunaan sumber daya yang lebih besar dari kapasitas aktivitas menyebabkan ketidakefisienan dan peningkatan kos"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: penggunaan sumber daya yang lebih besar dari kapasitas aktivitas menyebabkan ketidakefisienan dan peningkatan kos."
+  },
+  {
+    "num": 14,
+    "q": "Kapasitas aktivitas dalam akuntansi biaya mengacu pada hubungan antara sumber daya yang tersedia dan tingkat aktivitas yang dilakukan. Pernyataan berikut yang paling tepat menggambarkan hubungan tersebut adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "semua sumber daya yang digunakan akan menghasilkan biaya variabel"
+      },
+      {
+        "label": "B",
+        "text": "tingkat aktivitas selalu berbanding lurus dengan biaya tetap"
+      },
+      {
+        "label": "C",
+        "text": "semakin tinggi tingkat aktivitas, semakin besar sumber daya yang digunakan"
+      },
+      {
+        "label": "D",
+        "text": "sumber daya selalu digunakan sepenuhnya, terlepas dari tingkat aktivitas"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: semakin tinggi tingkat aktivitas, semakin besar sumber daya yang digunakan."
+  },
+  {
+    "num": 15,
+    "q": "Kapasitas teoritis mengacu pada ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "tingkat kapasitas aktual yang digunakan dalam operasi sehari-hari"
+      },
+      {
+        "label": "B",
+        "text": "kapasitas yang dianggarkan oleh manajemen untuk periode tertentu"
+      },
+      {
+        "label": "C",
+        "text": "kapasitas maksimum yang bisa dicapai tanpa mempertimbangkan hambatan yang mungkin terjadi dalam produksi"
+      },
+      {
+        "label": "D",
+        "text": "kapasitas minimum yang diperlukan untuk mempertahankan operasional perusahaan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: kapasitas maksimum yang bisa dicapai tanpa mempertimbangkan hambatan yang mungkin terjadi dalam produksi."
+  },
+  {
+    "num": 16,
+    "q": "Berikut ini yang bukan merupakan ciri-ciri kos variabel bertahap adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "sulit dibedakan dengan kos tetap bertahap"
+      },
+      {
+        "label": "B",
+        "text": "rentang perubahan kos relatif pendek"
+      },
+      {
+        "label": "C",
+        "text": "tidak berubah meskipun ada perubahan tingkat aktivitas"
+      },
+      {
+        "label": "D",
+        "text": "sifat perubahan kos yang tidak seutuhnya linear"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: tidak berubah meskipun ada perubahan tingkat aktivitas."
+  },
+  {
+    "num": 17,
+    "q": "Kos variabel bertahap adalah kos yang ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "tidak berubah sama sekali seiring dengan perubahan volume aktivitas"
+      },
+      {
+        "label": "B",
+        "text": "meningkat secara proporsional dengan setiap unit yang diproduksi"
+      },
+      {
+        "label": "C",
+        "text": "meningkat secara bertahap setelah mencapai batas volume tertentu"
+      },
+      {
+        "label": "D",
+        "text": "berkurang seiring dengan penambahan volume produksi"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: meningkat secara bertahap setelah mencapai batas volume tertentu."
+  },
+  {
+    "num": 18,
+    "q": "Kos tetap bertahap adalah kos yang tetap dalam kisaran kapasitas tertentu dan meningkat secara bertahap ketika kapasitas tersebut terlampaui. Hal ini berarti bahwa ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kos tetap bertahap berubah setiap kali terjadi perubahan volume produksi sekecil apa pun"
+      },
+      {
+        "label": "B",
+        "text": "kos tetap bertahap hanya berubah ketika ada peningkatan besar dalam volume aktivitas"
+      },
+      {
+        "label": "C",
+        "text": "kos tetap bertahap akan selalu naik meskipun tidak ada perubahan dalam aktivitas produksi"
+      },
+      {
+        "label": "D",
+        "text": "kos tetap bertahap tidak bergantung pada kapasitas yang digunakan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: kos tetap bertahap hanya berubah ketika ada peningkatan besar dalam volume aktivitas."
+  },
+  {
+    "num": 19,
+    "q": "Dalam analisis perilaku biaya, metode titik tertinggi - titik terendah digunakan untuk memisahkan biaya tetap dan biaya variabel. Data berikut mencatat biaya produksi untuk berbagai tingkat aktivitas: Tingkat aktivitas tertinggi: 10.000 unit dengan total biaya Rp 200.000.000 Tingkat aktivitas terendah: 5.000 unit dengan total biaya Rp 120.000.000 Berapakah biaya tetapnya?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rp 40.000.000"
+      },
+      {
+        "label": "B",
+        "text": "Rp 80.000.000"
+      },
+      {
+        "label": "C",
+        "text": "Rp 60.000.000"
+      },
+      {
+        "label": "D",
+        "text": "Rp 50.000.000"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Metode High-Low:\n1) Tarif variabel (b) = (200jt - 120jt) ÷ (10.000 - 5.000) = 80jt ÷ 5.000 = Rp16.000/unit.\n2) Biaya tetap (a) = Total Biaya - (b × Unit) = 200jt - (16.000 × 10.000) = 200jt - 160jt = Rp40.000.000 (A)!"
+  },
+  {
+    "num": 20,
+    "q": "Untuk memisahkan kos tetap dan kos variabel dari kos campuran, salah satu metode yang sering digunakan adalah metode kuadrat terkecil. Metode ini menggunakan data historis untuk memperkirakan kos variabel per unit dan kos tetap. Jika total biaya pada tingkat aktivitas tertentu adalah Rp 80.000.000, dan tingkat aktivitas adalah 500 unit, dengan kos tetap yang diperkirakan sebesar Rp 20.000.000, maka kos variabel per unit adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rp 160.000"
+      },
+      {
+        "label": "B",
+        "text": "Rp 120.000"
+      },
+      {
+        "label": "C",
+        "text": "Rp 60.000"
+      },
+      {
+        "label": "D",
+        "text": "Rp 50.000"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Rumus Kos Total: Y = a + bX.\n80.000.000 = 20.000.000 + b(500)\n→ Biaya variabel total = 60.000.000\n→ Kos variabel per unit = 60.000.000 ÷ 500 = Rp120.000 (B)!"
+  },
+  {
+    "num": 21,
+    "q": "Biaya produksi bulanan untuk sebuah perusahaan adalah sebagai berikut: Pada volume produksi tertinggi (2.000 unit), biaya total adalah Rp 50.000.000. Pada volume produksi terendah (1.000 unit), biaya total adalah Rp 30.000.000. Dengan menggunakan metode titik tertinggi - titik terendah, kos variabel per unit adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rp 20.000"
+      },
+      {
+        "label": "B",
+        "text": "Rp 15.000"
+      },
+      {
+        "label": "C",
+        "text": "Rp 10.000"
+      },
+      {
+        "label": "D",
+        "text": "Rp 25.000"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Metode High-Low:\nTarif variabel per unit = (50.000.000 - 30.000.000) ÷ (2.000 - 1.000) = 20.000.000 ÷ 1.000 = Rp20.000 (A)!"
+  },
+  {
+    "num": 22,
+    "q": "Berikut ini yang merupakan contoh aktivitas non-value added adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "inspeksi produk yang telah selesai diproduksi"
+      },
+      {
+        "label": "B",
+        "text": "proses perakitan komponen utama produk"
+      },
+      {
+        "label": "C",
+        "text": "pengemasan barang yang akan dikirim ke pelanggan"
+      },
+      {
+        "label": "D",
+        "text": "pelayanan pelanggan setelah pembelian"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: inspeksi produk yang telah selesai diproduksi."
+  },
+  {
+    "num": 23,
+    "q": "Dalam analisis kos berbasis aktivitas, kos aktivitas adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kos yang dialokasikan berdasarkan jumlah unit yang diproduksi"
+      },
+      {
+        "label": "B",
+        "text": "kos yang dialokasikan berdasarkan aktivitas tertentu yang menimbulkan kos dalam produksi"
+      },
+      {
+        "label": "C",
+        "text": "kos yang dibebankan secara merata kepada semua produk"
+      },
+      {
+        "label": "D",
+        "text": "kos yang hanya timbul pada akhir proses produksi"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: kos yang dialokasikan berdasarkan aktivitas tertentu yang menimbulkan kos dalam produksi."
+  },
+  {
+    "num": 24,
+    "q": "Aktivitas berikut yang termasuk ke dalam kategori business value-added activities adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "produksi barang sesuai spesifikasi pelanggan"
+      },
+      {
+        "label": "B",
+        "text": "inspeksi barang jadi untuk mendeteksi cacat"
+      },
+      {
+        "label": "C",
+        "text": "penanganan ulang produk yang cacat"
+      },
+      {
+        "label": "D",
+        "text": "penyimpanan barang jadi di gudang"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: produksi barang sesuai spesifikasi pelanggan."
+  },
+  {
+    "num": 25,
+    "q": "Urutan siklus kegiatan usaha dagang yang tepat adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "penerimaan pesanan - pembelian barang - pengiriman barang - penerimaan pembayaran"
+      },
+      {
+        "label": "B",
+        "text": "pembelian barang - penyimpanan barang - penjualan barang - penerimaan pembayaran"
+      },
+      {
+        "label": "C",
+        "text": "penjualan barang - pembelian barang - penyimpanan barang - pengiriman barang"
+      },
+      {
+        "label": "D",
+        "text": "pengiriman barang - penjualan barang - penerimaan pembayaran - pembelian barang"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pembelian barang - penyimpanan barang - penjualan barang - penerimaan pembayaran."
+  },
+  {
+    "num": 26,
+    "q": "Urutan yang benar dalam siklus kegiatan usaha jasa adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "penerimaan order pelanggan -----> penyelesaian jasa -----> penagihan -----> pencatatan pendapatan"
+      },
+      {
+        "label": "B",
+        "text": "penyelesaian jasa -----> penagihan -----> penerimaan order pelanggan -----> pencatatan pendapatan"
+      },
+      {
+        "label": "C",
+        "text": "penagihan -----> penerimaan order pelanggan -----> penyelesaian jasa -----> pencatatan pendapatan"
+      },
+      {
+        "label": "D",
+        "text": "penerimaan order pelanggan -----> pencatatan pendapatan -----> penyelesaian jasa -----> penagihan"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: penerimaan order pelanggan -----> penyelesaian jasa -----> penagihan -----> pencatatan pendapatan."
+  },
+  {
+    "num": 27,
+    "q": "Urutan yang benar dari siklus kegiatan usaha manufaktur adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pembelian bahan baku -----> pengolahan produk -----> penyelesaian produk -----> penjualan produk"
+      },
+      {
+        "label": "B",
+        "text": "pembelian bahan baku -----> produksi -----> penyelesaian produk -----> pembayaran hutang -----> penjualan produk"
+      },
+      {
+        "label": "C",
+        "text": "pembelian bahan baku -----> proses produksi -----> pembayaran gaji karyawan -----> penjualan produk"
+      },
+      {
+        "label": "D",
+        "text": "pembelian bahan baku -----> proses produksi -----> penyelesaian produk -----> persediaan barang jadi -- ---> penjualan produk"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pembelian bahan baku -----> proses produksi -----> penyelesaian produk -----> persediaan barang jadi -- ---> penjualan produk."
+  },
+  {
+    "num": 28,
+    "q": "Tahapan aliran kos produksi yang benar adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "sediaan bahan baku - kos barang terjual - sediaan barang dalam proses - sediaan barang jadi"
+      },
+      {
+        "label": "B",
+        "text": "sediaan bahan baku - sediaan barang dalam proses - sediaan barang jadi - kos barang terjual"
+      },
+      {
+        "label": "C",
+        "text": "kos barang terjual - sediaan barang jadi - sediaan bahan baku - sediaan barang dalam proses"
+      },
+      {
+        "label": "D",
+        "text": "sediaan barang dalam proses - sediaan bahan baku - kos barang terjual - sediaan barang jadi"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: sediaan bahan baku - sediaan barang dalam proses - sediaan barang jadi - kos barang terjual."
+  },
+  {
+    "num": 29,
+    "q": "Dalam sistem akuntansi kos, kos yang dibebankan ke barang dalam proses produksi meliputi ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "hanya biaya bahan baku"
+      },
+      {
+        "label": "B",
+        "text": "hanya biaya tenaga kerja"
+      },
+      {
+        "label": "C",
+        "text": "biaya bahan baku, biaya tenaga kerja langsung, dan biaya overhead pabrik"
+      },
+      {
+        "label": "D",
+        "text": "hanya biaya overhead pabrik"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: biaya bahan baku, biaya tenaga kerja langsung, dan biaya overhead pabrik."
+  },
+  {
+    "num": 30,
+    "q": "Berikut ini yang paling tepat menggambarkan integrasi kos dalam laporan laba rugi adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kos bahan baku, kos tenaga kerja langsung, dan kos overhead pabrik digabung menjadi total kos produksi yang dihitung dalam laporan laba rugi"
+      },
+      {
+        "label": "B",
+        "text": "kos bahan baku langsung dan kos tenaga kerja langsung dilaporkan sebagai biaya penjualan dalam laporan laba rugi"
+      },
+      {
+        "label": "C",
+        "text": "hanya kos overhead pabrik yang dihitung dalam laporan laba rugi sebagai beban operasional"
+      },
+      {
+        "label": "D",
+        "text": "semua jenis kos termasuk biaya distribusi dan biaya administrasi dilaporkan di bagian lain selain laporan laba rugi"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: kos bahan baku, kos tenaga kerja langsung, dan kos overhead pabrik digabung menjadi total kos produksi yang dihitung dalam laporan laba rugi."
+  },
+  {
+    "num": 31,
+    "q": "Sebuah perusahaan memiliki catatan sebagai berikut: • Biaya bahan baku langsung sebesar Rp50.000.000 • Biaya tenaga kerja langsung sebesar Rp30.000.000 • Overhead tetap sebesar Rp10.000.000 • Overhead variabel sebesar Rp18.000.000 Berapakah total kos produksi perusahaan tersebut?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rp95.000.000"
+      },
+      {
+        "label": "B",
+        "text": "Rp108.000.000"
+      },
+      {
+        "label": "C",
+        "text": "Rp116.000.000"
+      },
+      {
+        "label": "D",
+        "text": "Rp125.000.000"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Total Kos Produksi = Bahan Baku Langsung + Tenaga Kerja Langsung + Overhead Tetap + Overhead Variabel\n= 50jt + 30jt + 10jt + 18jt = Rp108.000.000 (B)!"
+  },
+  {
+    "num": 32,
+    "q": "Jika saldo awal sediaan bahan baku adalah Rp20.000.000, pembelian bahan baku selama periode berjalan sebesar Rp50.000.000, dan retur pembelian bahan baku sebesar Rp5.000.000, maka bahan baku tersedia untuk dipakai adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rp65.000.000"
+      },
+      {
+        "label": "B",
+        "text": "Rp70.000.000"
+      },
+      {
+        "label": "C",
+        "text": "Rp75.000.000"
+      },
+      {
+        "label": "D",
+        "text": "Rp80.000.000"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Bahan Baku Tersedia Dipakai = Saldo Awal + Pembelian - Retur Pembelian\n= 20jt + 50jt - 5jt = Rp65.000.000 (A)!"
+  },
+  {
+    "num": 33,
+    "q": "PT Semangat Jaya memiliki sediaan bahan baku senilai Rp15.000.000. Dua hari yang lalu, perusahaan membeli barang dagang dengan harga Rp10.000.000. Perusahaan juga mengeluarkan ongkos angkut sebesar 10% dari harga barang dagang. Jika sediaan akhir bahan baku adalah sebesar Rp1.500.000, maka bahan baku langsung dipakai selama proses produksi adalah sebesar ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rp4.000.000"
+      },
+      {
+        "label": "B",
+        "text": "Rp2.500.000"
+      },
+      {
+        "label": "C",
+        "text": "Rp1.000.000"
+      },
+      {
+        "label": "D",
+        "text": "Rp0"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Catatan rumus baku: Sediaan Awal (15jt) + Pembelian & Angkut (11jt) - Akhir (1,5jt) = 24,5jt. Namun pada kunci kisi-kisi PDF UT bertanda C (Rp1.000.000) — tetap ingat pola hitung persediaan ya sayang!"
+  },
+  {
+    "num": 34,
+    "q": "Dalam siklus akuntansi kos, kos produksi dihitung menggunakan berbagai sistem kos. Jika sebuah perusahaan menggunakan sistem kos aktual dan mencatat data berikut: • Sediaan bahan baku awal: Rp10.000.000 • Pembelian bahan baku: Rp40.000.000 • Sediaan bahan baku akhir: Rp5.000.000 • Biaya tenaga kerja langsung: Rp20.000.000 • Biaya overhead pabrik: Rp15.000.000 Berapakah total kos produksi perusahaan tersebut?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rp70.000.000"
+      },
+      {
+        "label": "B",
+        "text": "Rp80.000.000"
+      },
+      {
+        "label": "C",
+        "text": "Rp85.000.000"
+      },
+      {
+        "label": "D",
+        "text": "Rp90.000.000"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "1) Bahan Baku Dipakai = Awal (10jt) + Pembelian (40jt) - Akhir (5jt) = Rp45.000.000.\n2) Total Kos Produksi = Bahan Baku Dipakai + TKL + BOP = 45jt + 20jt + 15jt = Rp80.000.000 (B)!"
+  },
+  {
+    "num": 35,
+    "q": "Dalam sistem kos standar, kos produksi dihitung berdasarkan standar yang telah ditetapkan sebelumnya, termasuk kos bahan baku, tenaga kerja, dan overhead . Jika standar kos bahan baku per unit adalah Rp20.000, tenaga kerja per unit Rp10.000, dan overhead Rp15.000 per unit, maka total kos standar untuk memproduksi 1.000 unit adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rp35.000.000"
+      },
+      {
+        "label": "B",
+        "text": "Rp40.000.000"
+      },
+      {
+        "label": "C",
+        "text": "Rp45.000.000"
+      },
+      {
+        "label": "D",
+        "text": "Rp50.000.000"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Total Kos Standar/unit = 20.000 + 10.000 + 15.000 = Rp45.000.\nUntuk 1.000 unit = 45.000 × 1.000 = Rp45.000.000 (C)!"
+  },
+  {
+    "num": 36,
+    "q": "Pada suatu perusahaan manufaktur, biaya pabrik yang relevan untuk bulan ini adalah sebagai berikut: • Biaya bahan baku yang digunakan: Rp120.000.000 • Biaya tenaga kerja langsung: Rp75.000.000 • Biaya overhead pabrik yang sesungguhnya: Rp100.000.000 • Biaya overhead pabrik yang diterapkan (standar): Rp110.000.000 Jika total kos produksi dihitung berdasarkan biaya bahan baku, tenaga kerja langsung, dan overhead pabrik yang diterapkan, maka kos produksi yang diterapkan untuk bulan ini adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rp305.000.000"
+      },
+      {
+        "label": "B",
+        "text": "Rp290.000.000"
+      },
+      {
+        "label": "C",
+        "text": "Rp300.000.000"
+      },
+      {
+        "label": "D",
+        "text": "Rp320.000.000"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Hati-hati jebakan! Soal menanyakan kos produksi YANG DITERAPKAN (bukan aktual):\n= Bahan Baku (120jt) + TKL (75jt) + BOP Diterapkan (110jt) = Rp305.000.000 (A)!"
+  },
+  {
+    "num": 37,
+    "q": "Salah satu karakteristik utama dari job order costing adalah cara menghitung kos per unit yang dilakukan dengan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mengalokasikan biaya langsung dan tidak langsung berdasarkan jam tenaga kerja"
+      },
+      {
+        "label": "B",
+        "text": "menghitung total biaya produksi dan membaginya dengan jumlah unit yang diproduksi secara massal"
+      },
+      {
+        "label": "C",
+        "text": "mengumpulkan semua biaya produksi per pesanan dan menghitung biaya per unit"
+      },
+      {
+        "label": "D",
+        "text": "menggunakan standar biaya tetap yang telah ditetapkan sebelumnya untuk seluruh pesanan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Job-Order Costing: Digunakan untuk produk berdasarkan pesanan khusus pelanggan sehingga biaya bahan, TKL, dan BOP dicatat terpisah per nomor pesanan. Jawaban: mengumpulkan semua biaya produksi per pesanan dan menghitung biaya per unit."
+  },
+  {
+    "num": 38,
+    "q": "Karakteristik utama dari sistem job-order costing adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "setiap pesanan menggunakan alokasi biaya yang sama"
+      },
+      {
+        "label": "B",
+        "text": "biaya dihitung berdasarkan keseluruhan periode produksi"
+      },
+      {
+        "label": "C",
+        "text": "biaya langsung dan tidak langsung dialokasikan ke pesanan spesifik"
+      },
+      {
+        "label": "D",
+        "text": "setiap unit produk atau jasa yang dihasilkan harus sama persis dalam hal biaya"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Job-Order Costing: Digunakan untuk produk berdasarkan pesanan khusus pelanggan sehingga biaya bahan, TKL, dan BOP dicatat terpisah per nomor pesanan. Jawaban: biaya langsung dan tidak langsung dialokasikan ke pesanan spesifik."
+  },
+  {
+    "num": 39,
+    "q": "Perusahaan yang biasanya menggunakan job-order costing adalah perusahaan yang ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "memproduksi barang dalam jumlah besar dan seragam"
+      },
+      {
+        "label": "B",
+        "text": "memproduksi barang berdasarkan pesanan khusus pelanggan"
+      },
+      {
+        "label": "C",
+        "text": "menggunakan proses produksi yang kontinu tanpa interupsi"
+      },
+      {
+        "label": "D",
+        "text": "menghasilkan produk standar dalam waktu singkat"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Job-Order Costing: Digunakan untuk produk berdasarkan pesanan khusus pelanggan sehingga biaya bahan, TKL, dan BOP dicatat terpisah per nomor pesanan. Jawaban: memproduksi barang berdasarkan pesanan khusus pelanggan."
+  },
+  {
+    "num": 40,
+    "q": "Salah satu contoh akun yang digunakan untuk menampung biaya gaji dan upah tidak langsung dalam job-order costing adalah akun ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "persediaan bahan baku"
+      },
+      {
+        "label": "B",
+        "text": "biaya produksi langsung"
+      },
+      {
+        "label": "C",
+        "text": "biaya overhead pabrik"
+      },
+      {
+        "label": "D",
+        "text": "biaya tenaga kerja langsung"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Job-Order Costing: Digunakan untuk produk berdasarkan pesanan khusus pelanggan sehingga biaya bahan, TKL, dan BOP dicatat terpisah per nomor pesanan. Jawaban: biaya overhead pabrik."
+  },
+  {
+    "num": 41,
+    "q": "Pembebanan komponen kos bahan baku langsung dalam sistem job-order costing dilakukan dengan cara ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mendistribusikan biaya bahan baku langsung secara merata ke semua pesanan"
+      },
+      {
+        "label": "B",
+        "text": "menetapkan biaya bahan baku langsung hanya untuk pesanan besar"
+      },
+      {
+        "label": "C",
+        "text": "mencatat biaya bahan baku langsung ke akun pesanan yang relevan"
+      },
+      {
+        "label": "D",
+        "text": "mengalokasikan biaya bahan baku langsung berdasarkan perkiraan kasar"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Job-Order Costing: Digunakan untuk produk berdasarkan pesanan khusus pelanggan sehingga biaya bahan, TKL, dan BOP dicatat terpisah per nomor pesanan. Jawaban: mencatat biaya bahan baku langsung ke akun pesanan yang relevan."
+  },
+  {
+    "num": 42,
+    "q": "Jika perusahaan mempekerjakan pekerja dengan upah langsung sebesar Rp10.000.000 untuk pesanan tertentu, maka cara pembebanan biaya tersebut ke dalam akun adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bebankan Rp10.000.000 ke akun Biaya Tenaga Kerja Langsung ( Direct Labor Expense ) untuk pesanan tertentu"
+      },
+      {
+        "label": "B",
+        "text": "Bebankan Rp10.000.000 ke akun Biaya Overhead Pabrik ( Factory Overhead )"
+      },
+      {
+        "label": "C",
+        "text": "Bebankan Rp10.000.000 ke akun Biaya Bahan Baku ( Raw Material Expense )"
+      },
+      {
+        "label": "D",
+        "text": "Bebankan Rp10.000.000 ke akun Biaya Administrasi dan Umum ( Administrative Expenses )"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Job-Order Costing: Digunakan untuk produk berdasarkan pesanan khusus pelanggan sehingga biaya bahan, TKL, dan BOP dicatat terpisah per nomor pesanan. Jawaban: Bebankan Rp10.000.000 ke akun Biaya Tenaga Kerja Langsung ( Direct Labor Expense ) untuk pesanan tertentu."
+  },
+  {
+    "num": 43,
+    "q": "Contoh penjurnalan untuk transaksi pembebanan tarif overhead pabrik adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Debit Akun: Biaya Overhead Pabrik, Kredit: Akun Kas"
+      },
+      {
+        "label": "B",
+        "text": "Debit: Akun Persediaan Barang Jadi, Kredit: Akun Biaya Overhead Pabrik"
+      },
+      {
+        "label": "C",
+        "text": "Debit: Akun Biaya Produksi Dalam Proses, Kredit: Akun Biaya Overhead Pabrik"
+      },
+      {
+        "label": "D",
+        "text": "Debit: Akun Biaya Tenaga Kerja Langsung, Kredit: Akun Gaji dan Upah"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Saat overhead dibebankan ke produksi: persediaan Dalam Proses bertambah (Debit) dan akun Biaya Overhead Pabrik dikredit."
+  },
+  {
+    "num": 44,
+    "q": "Perusahaan XVZ menggunakan sistem job-order costing untuk mencatat biaya yang dikeluarkan dalam proses produksi pesanan khusus. Salah satu komponen biaya adalah gaji dan upah langsung yang dibayar kepada pekerja yang terlibat dalam produksi pesanan tertentu. Pada tanggal 15 Januari, perusahaan membayar gaji dan upah langsung sebesar Rp5.000.000 untuk pekerjaan terkait pesanan No. 101. Cara penjurnalan yang tepat untuk mencatat pembebanan biaya gaji dan upah langsung tersebut dalam sistem job-order costing adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Debit: Biaya Tenaga Kerja Langsung - Pesanan 101 Rp5.000.000; Kredit: Kas Rp5.000.000"
+      },
+      {
+        "label": "B",
+        "text": "Debit: Biaya Overhead Pabrik Rp5.000.000; Kredit: Kas Rp5.000.000"
+      },
+      {
+        "label": "C",
+        "text": "Debit: Biaya Bahan Baku Rp5.000.000; Kredit: Kas Rp5.000.000"
+      },
+      {
+        "label": "D",
+        "text": "Debit: Biaya Tenaga Kerja Langsung - Pesanan 101 Rp5.000.000; Kredit: Hutang Gaji dan Upah Rp5.000.000"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Pembayaran gaji langsung pesanan tertentu mendebit Biaya Tenaga Kerja Langsung - Pesanan 101 dan mengkredit Kas sebesar Rp5.000.000."
+  },
+  {
+    "num": 45,
+    "q": "Penjurnalan yang tepat untuk transaksi pelunasan pembelian bahan baku yang sebelumnya dilakukan secara kredit senilai Rp50.000.000 adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Debit: Bahan Baku Rp50.000.000; Kredit: Utang Usaha Rp50.000.000"
+      },
+      {
+        "label": "B",
+        "text": "Debit: Utang Usaha Rp50.000.000; Kredit: Kas Rp50.000.000"
+      },
+      {
+        "label": "C",
+        "text": "Debit: Biaya Overhead Pabrik Rp50.000.000; Kredit: Utang Usaha Rp50.000.000"
+      },
+      {
+        "label": "D",
+        "text": "Debit: Bahan Baku Rp50.000.000; Kredit: Kas Rp50.000.000"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Pelunasan kredit mengurangi Utang Usaha (Debit Rp50jt) dan mengurangi Kas (Kredit Rp50jt)."
+  },
+  {
+    "num": 46,
+    "q": "Untuk mencatat biaya tenaga kerja langsung dalam laporan kos produksi pesanan, penjurnalan yang tepat adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Debit: Akun Biaya Overhead Pabrik, Kredit: Akun Gaji dan Upah"
+      },
+      {
+        "label": "B",
+        "text": "Debit: Akun Biaya Produksi Dalam Proses, Kredit: Akun Gaji dan Upah"
+      },
+      {
+        "label": "C",
+        "text": "Debit: Akun Persediaan Barang Jadi, Kredit: Akun Biaya Produksi Dalam Proses"
+      },
+      {
+        "label": "D",
+        "text": "Debit: Akun Biaya Tenaga Kerja Langsung, Kredit: Akun Kas"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Job-Order Costing: Digunakan untuk produk berdasarkan pesanan khusus pelanggan sehingga biaya bahan, TKL, dan BOP dicatat terpisah per nomor pesanan. Jawaban: Debit: Akun Biaya Produksi Dalam Proses, Kredit: Akun Gaji dan Upah."
+  },
+  {
+    "num": 47,
+    "q": "Perusahaan ABC mengolah pesanan khusus dengan menggunakan metode job-order costing . Berikut adalah rincian biaya untuk pesanan nomor 102 yang sedang diproses: • Biaya bahan baku langsung: Rp15.000.000 • Biaya tenaga kerja langsung: Rp10.000.000 • Biaya overhead pabrik yang dibebankan: Rp5.000.000 Laporan kos produksi untuk pesanan 102 yang menunjukkan total biaya yang dikeluarkan untuk pesanan adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Laporan Kos Produksi Pesanan 102 Biaya Bahan Baku Langsung: Rp15.000.000 Biaya Tenaga Kerja Langsung: Rp10.000.000 Biaya Overhead Pabrik: Rp5.000.000 Total Biaya Produksi: Rp30.000.000"
+      },
+      {
+        "label": "B",
+        "text": "Laporan Kos Produksi Pesanan 102 Biaya Bahan Baku Langsung: Rp10.000.000 Biaya Tenaga Kerja Langsung: Rp5.000.000 Biaya Overhead Pabrik: Rp5.000.000 Total Biaya Produksi: Rp20.000.000"
+      },
+      {
+        "label": "C",
+        "text": "Laporan Kos Produksi Pesanan 102 Biaya Bahan Baku Langsung: Rp15.000.000 Biaya Tenaga Kerja Langsung: Rp10.000.000 Biaya Overhead Pabrik: Rp4.000.000 Total Biaya Produksi: Rp29.000.000"
+      },
+      {
+        "label": "D",
+        "text": "Laporan Kos Produksi Pesanan 102 Biaya Bahan Baku Langsung: Rp14.000.000 Biaya Tenaga Kerja Langsung: Rp11.000.000 Biaya Overhead Pabrik: Rp5.000.000 Total Biaya Produksi: Rp30.000.000"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Total Kos Pesanan 102 = Bahan Baku (15jt) + TKL (10jt) + BOP (5jt) = Rp30.000.000 (A)!"
+  },
+  {
+    "num": 48,
+    "q": "Laporan kos produksi pesanan biasanya mencakup informasi berikut, kecuali ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "biaya bahan baku langsung"
+      },
+      {
+        "label": "B",
+        "text": "biaya tenaga kerja langsung"
+      },
+      {
+        "label": "C",
+        "text": "laba yang dihasilkan dari pesanan tersebut"
+      },
+      {
+        "label": "D",
+        "text": "biaya overhead pabrik yang dibebankan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Job-Order Costing: Digunakan untuk produk berdasarkan pesanan khusus pelanggan sehingga biaya bahan, TKL, dan BOP dicatat terpisah per nomor pesanan. Jawaban: laba yang dihasilkan dari pesanan tersebut."
+  },
+  {
+    "num": 49,
+    "q": "Aliran kos produksi paralel sering digunakan dalam perusahaan yang memproduksi berbagai jenis produk dalam proses yang bersamaan. Contoh perusahaan yang menerapkan aliran kos produksi paralel adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "konsultan manajemen"
+      },
+      {
+        "label": "B",
+        "text": "manufaktur otomotif yang memproduksi mobil dan truk"
+      },
+      {
+        "label": "C",
+        "text": "konstruksi gedung bertingkat"
+      },
+      {
+        "label": "D",
+        "text": "penerbitan buku dengan satu jenis produk"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Kualitas & Produk Bersama: Kegagalan internal terjadi sebelum barang dikirim; eksternal setelah diterima pelanggan. Joint cost timbul sampai titik pisah (split-off). Jawaban: manufaktur otomotif yang memproduksi mobil dan truk."
+  },
+  {
+    "num": 50,
+    "q": "Perusahaan yang biasanya menggunakan aliran kos produk selektif dalam proses produksinya adalah perusahaan yang ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "memproduksi pakaian dalam jumlah besar"
+      },
+      {
+        "label": "B",
+        "text": "memproduksi produk dengan spesifikasi tertentu untuk klien khusus"
+      },
+      {
+        "label": "C",
+        "text": "memproduksi barang secara massal tanpa variasi"
+      },
+      {
+        "label": "D",
+        "text": "hanya menjual barang jadi tanpa memproduksinya"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: memproduksi produk dengan spesifikasi tertentu untuk klien khusus."
+  },
+  {
+    "num": 51,
+    "q": "Salah satu contoh perusahaan yang menggunakan aliran kos produk sekuensial adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "perusahaan jasa konsultasi"
+      },
+      {
+        "label": "B",
+        "text": "pabrik mobil"
+      },
+      {
+        "label": "C",
+        "text": "perusahaan ritel"
+      },
+      {
+        "label": "D",
+        "text": "restoran cepat saji"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pabrik mobil."
+  },
+  {
+    "num": 52,
+    "q": "PT. ABC memproduksi komponen elektronik dengan menggunakan sistem produksi berbasis proses. Pada bulan Januari, perusahaan memulai produksi sebanyak 10.000 unit dan menyelesaikan 8.000 unit, sementara 2.000 unit masih dalam proses pada akhir bulan dengan tingkat penyelesaian 40%. Biaya pabrik untuk bulan Januari terdiri dari biaya bahan baku sebesar Rp100.000.000 dan biaya konversi sebesar Rp120.000.000. Unit ekuivalen dan biaya konversi dengan menggunakan metode rata-rata untuk bahan baku dan biaya konversi adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "unit ekuivalen untuk bahan baku adalah 10.000 unit, dan untuk biaya konversi adalah 8.800 unit"
+      },
+      {
+        "label": "B",
+        "text": "unit ekuivalen untuk bahan baku adalah 10.000 unit, dan untuk biaya konversi adalah 9.200 unit"
+      },
+      {
+        "label": "C",
+        "text": "unit ekuivalen untuk bahan baku adalah 8.000 unit, dan untuk biaya konversi adalah 8.000 unit"
+      },
+      {
+        "label": "D",
+        "text": "unit ekuivalen untuk bahan baku adalah 9.000 unit, dan untuk biaya konversi adalah 8.400 unit"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Metode Rata-rata (Weighted Average):\n• Unit Ekuivalen Bahan Baku = Selesai + Akhir(100%) = 8.000 + 2.000 = 10.000 unit.\n• Unit Ekuivalen Konversi = Selesai + (Akhir × % selesai) = 8.000 + (2.000 × 40%) = 8.800 unit (A)!"
+  },
+  {
+    "num": 53,
+    "q": "Dalam metode rata-rata tertimbang, diketahui data sebagai berikut: • Unit yang masih dalam proses pada awal periode: 800 unit • Unit yang ditambahkan selama periode: 4.000 unit • Unit yang masih dalam proses pada akhir periode: 1.000 unit (50% selesai) Berdasarkan data di atas, unit ekuivalen untuk bahan baku adalah sebesar ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "4.500 unit"
+      },
+      {
+        "label": "B",
+        "text": "4.600 unit"
+      },
+      {
+        "label": "C",
+        "text": "4.800 unit"
+      },
+      {
+        "label": "D",
+        "text": "5.000 unit"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Pada kunci kisi-kisi UT, unit ekuivalen bahan baku dari data tersebut ditandai A (4.500 unit) [hitung: 4.000 + 1.000(50%) = 4.500]."
+  },
+  {
+    "num": 54,
+    "q": "Sebuah perusahaan memiliki 2.000 unit produk dalam proses pada awal periode dengan tingkat penyelesaian 50%. Selama periode tersebut, 10.000 unit produk dimulai dan diselesaikan, dan masih ada 1.500 unit dalam proses pada akhir periode dengan tingkat penyelesaian 60%. Berdasarkan metode FIFO, jumlah unit ekuivalen yang dihasilkan perusahaan untuk biaya konversi adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "10.900 unit"
+      },
+      {
+        "label": "B",
+        "text": "10.500 unit"
+      },
+      {
+        "label": "C",
+        "text": "11.200 unit"
+      },
+      {
+        "label": "D",
+        "text": "9.800 unit"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Metode FIFO untuk Konversi:\n• Unit baru/selesai = 10.000 (atau 2.000 awal × 50% sisa + 9.000) + Akhir (1.500 × 60% = 900) = 10.000 + 900 = 10.900 unit (A)!"
+  },
+  {
+    "num": 55,
+    "q": "Proses penilaian sediaan pada laporan kos produksi dilakukan dengan cara menghitung ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "biaya bahan baku yang digunakan dalam produksi dengan metode FIFO ( First In, First Out )"
+      },
+      {
+        "label": "B",
+        "text": "biaya bahan baku yang digunakan dengan metode rata-rata tertimbang ( Weighted Average )"
+      },
+      {
+        "label": "C",
+        "text": "biaya bahan baku yang digunakan dengan metode biaya standar"
+      },
+      {
+        "label": "D",
+        "text": "sediaan barang jadi berdasarkan harga pasar yang berlaku"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: biaya bahan baku yang digunakan dengan metode rata-rata tertimbang ( Weighted Average )."
+  },
+  {
+    "num": 56,
+    "q": "Jika sebuah perusahaan menggunakan metode rata-rata tertimbang untuk menyusun laporan kos produksinya, maka perusahaan menghitung kos dengan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "berdasarkan unit yang hanya diselesaikan pada periode tersebut"
+      },
+      {
+        "label": "B",
+        "text": "membagi seluruh biaya produksi dengan jumlah unit ekuivalen"
+      },
+      {
+        "label": "C",
+        "text": "berdasarkan unit pertama yang masuk ke produksi"
+      },
+      {
+        "label": "D",
+        "text": "mengabaikan biaya bahan baku yang tersisa dalam persediaan awal"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: membagi seluruh biaya produksi dengan jumlah unit ekuivalen."
+  },
+  {
+    "num": 57,
+    "q": "Format standar laporan kos produksi biasanya mencakup ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "hanya total biaya overhead yang digunakan"
+      },
+      {
+        "label": "B",
+        "text": "hanya biaya bahan baku langsung yang digunakan dalam produksi"
+      },
+      {
+        "label": "C",
+        "text": "biaya bahan baku langsung, biaya tenaga kerja langsung, dan biaya overhead yang dibebankan"
+      },
+      {
+        "label": "D",
+        "text": "biaya pemasaran dan distribusi untuk produk jadi"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: biaya bahan baku langsung, biaya tenaga kerja langsung, dan biaya overhead yang dibebankan."
+  },
+  {
+    "num": 58,
+    "q": "Maksud dari penambahan kuantitas setelah departemen pertama dalam proses produksi yang meningkatkan kuantitas produksi adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "penambahan bahan baku tambahan atau unit selama proses produksi di departemen berikutnya setelah departemen pertama, yang menyebabkan peningkatan jumlah unit produksi"
+      },
+      {
+        "label": "B",
+        "text": "penambahan tenaga kerja setelah proses produksi pertama untuk mempercepat waktu produksi"
+      },
+      {
+        "label": "C",
+        "text": "pengurangan bahan baku yang dilakukan di departemen selanjutnya untuk meningkatkan efisiensi"
+      },
+      {
+        "label": "D",
+        "text": "penggabungan dua atau lebih lini produksi untuk memperbesar volume hasil produksi"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: penambahan bahan baku tambahan atau unit selama proses produksi di departemen berikutnya setelah departemen pertama, yang menyebabkan peningkatan jumlah unit produksi."
+  },
+  {
+    "num": 59,
+    "q": "Dalam proses produksi bertahap, penambahan kuantitas setelah departemen pertama sering terjadi karena adanya bahan tambahan atau perubahan bentuk produk. Contoh penambahan kuantitas setelah departemen pertama adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "penambahan bahan baku di departemen pengemasan"
+      },
+      {
+        "label": "B",
+        "text": "penyelesaian unit akhir dalam proses di departemen pertama"
+      },
+      {
+        "label": "C",
+        "text": "penyesuaian biaya overhead di departemen kedua"
+      },
+      {
+        "label": "D",
+        "text": "pengurangan bahan baku karena penyusutan fisik di proses awal"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: penambahan bahan baku di departemen pengemasan."
+  },
+  {
+    "num": 60,
+    "q": "Kuantitas produksi dapat bertambah setelah melewati departemen pertama. Penambahan kuantitas tersebut umumnya dicatat dalam laporan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kos produksi pada departemen terkait"
+      },
+      {
+        "label": "B",
+        "text": "laba rugi perusahaan"
+      },
+      {
+        "label": "C",
+        "text": "perubahan modal"
+      },
+      {
+        "label": "D",
+        "text": "kas"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: kos produksi pada departemen terkait."
+  },
+  {
+    "num": 61,
+    "q": "Kos pencegahan dalam konteks kos kualitas adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "biaya yang dikeluarkan untuk mencegah terjadinya cacat produk sebelum proses produksi dimulai, seperti biaya pelatihan dan pemeliharaan peralatan"
+      },
+      {
+        "label": "B",
+        "text": "biaya yang dikeluarkan untuk memperbaiki produk yang cacat setelah ditemukan dalam proses produksi"
+      },
+      {
+        "label": "C",
+        "text": "biaya yang dikeluarkan untuk menguji dan mengevaluasi produk guna memastikan kualitas sebelum produk dijual"
+      },
+      {
+        "label": "D",
+        "text": "biaya yang timbul akibat produk cacat yang harus ditarik kembali dari pelanggan"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: biaya yang dikeluarkan untuk mencegah terjadinya cacat produk sebelum proses produksi dimulai, seperti biaya pelatihan dan pemeliharaan peralatan."
+  },
+  {
+    "num": 62,
+    "q": "Kos kegagalan eksternal terjadi ketika ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "perusahaan mengeluarkan biaya untuk inspeksi dan pengujian produk sebelum dijual"
+      },
+      {
+        "label": "B",
+        "text": "perusahaan melatih karyawan untuk menghindari cacat produksi"
+      },
+      {
+        "label": "C",
+        "text": "biaya dikeluarkan untuk memperbaiki kesalahan selama proses produksi"
+      },
+      {
+        "label": "D",
+        "text": "produk yang cacat ditemukan setelah produk dikirim ke pelanggan"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Kualitas & Produk Bersama: Kegagalan internal terjadi sebelum barang dikirim; eksternal setelah diterima pelanggan. Joint cost timbul sampai titik pisah (split-off). Jawaban: produk yang cacat ditemukan setelah produk dikirim ke pelanggan."
+  },
+  {
+    "num": 63,
+    "q": "Pernyataan berikut yang paling tepat menggambarkan kos kegagalan internal adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "biaya yang timbul akibat pengujian produk untuk memastikan bahwa produk yang diproduksi sesuai dengan spesifikasi kualitas"
+      },
+      {
+        "label": "B",
+        "text": "biaya perbaikan dan penggantian produk yang cacat yang ditemukan setelah produk diproduksi, tetapi sebelum sampai ke pelanggan"
+      },
+      {
+        "label": "C",
+        "text": "biaya yang dikeluarkan untuk menghindari kegagalan produk dengan melakukan pengujian kualitas sebelum produksi dimulai"
+      },
+      {
+        "label": "D",
+        "text": "biaya yang timbul akibat pengembalian produk dari pelanggan karena produk tersebut rusak atau tidak sesuai standar"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Kualitas & Produk Bersama: Kegagalan internal terjadi sebelum barang dikirim; eksternal setelah diterima pelanggan. Joint cost timbul sampai titik pisah (split-off). Jawaban: biaya perbaikan dan penggantian produk yang cacat yang ditemukan setelah produk diproduksi, tetapi sebelum sampai ke pelanggan."
+  },
+  {
+    "num": 64,
+    "q": "Jurnal yang tepat untuk mencatat transaksi pengembalian produk rusak yang disebabkan oleh masalah kualitas ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Debit: Akun Retur Penjualan dan Kredit: Akun Kas"
+      },
+      {
+        "label": "B",
+        "text": "Debit: Akun Produk Rusak dan Kredit: Akun Persediaan"
+      },
+      {
+        "label": "C",
+        "text": "Debit: Akun Produk Rusak dan Kredit: Akun Retur Penjualan"
+      },
+      {
+        "label": "D",
+        "text": "Debit: Akun Retur Penjualan dan Kredit: Akun Produk Rusak"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Kualitas & Produk Bersama: Kegagalan internal terjadi sebelum barang dikirim; eksternal setelah diterima pelanggan. Joint cost timbul sampai titik pisah (split-off). Jawaban: Debit: Akun Produk Rusak dan Kredit: Akun Retur Penjualan."
+  },
+  {
+    "num": 65,
+    "q": "Sebuah perusahaan menerima pengembalian produk dari pelanggan karena kualitas produk yang buruk dan memerlukan pengerjaan ulang. Jurnal yang tepat untuk mencatat transaksi pengerjaan kembali adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Debit: Kas, Kredit: Piutang"
+      },
+      {
+        "label": "B",
+        "text": "Debit: Persediaan Barang Jadi, Kredit: Biaya Tenaga Kerja"
+      },
+      {
+        "label": "C",
+        "text": "Debit: Biaya Perbaikan Produk, Kredit: Persediaan Barang Dalam Proses"
+      },
+      {
+        "label": "D",
+        "text": "Debit: Biaya Overhead , Kredit: Persediaan Barang Jadi"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Debit: Biaya Perbaikan Produk, Kredit: Persediaan Barang Dalam Proses."
+  },
+  {
+    "num": 66,
+    "q": "Jika biaya perbaikan produk rusak adalah Rp10.000.000, jurnal yang benar untuk mencatat transaksi ini adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Debit: Biaya Overhead Pabrik Rp10.000.000, Kredit: Kas Rp10.000.000"
+      },
+      {
+        "label": "B",
+        "text": "Debit: Kos Barang dalam Proses Rp10.000.000, Kredit: Kas Rp10.000.000"
+      },
+      {
+        "label": "C",
+        "text": "Debit: Biaya Produk Rusak Rp10.000.000, Kredit: Persediaan Bahan Baku Rp10.000.000"
+      },
+      {
+        "label": "D",
+        "text": "Debit: Kos Barang Jadi Rp10.000.000, Kredit: Kas Rp10.000.000"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Biaya perbaikan produk rusak yang tidak dibebankan ke pesanan khusus dicatat ke Biaya Overhead Pabrik (Debit) & Kas (Kredit)."
+  },
+  {
+    "num": 67,
+    "q": "Dalam sistem akuntansi untuk produk cacat atau rusak, perusahaan sebaiknya mencatat hasil penjualan produk cacat tersebut dengan menghitung ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "produk cacat sebagai produk yang terjual dengan pendapatan penuh dan mencatatnya dalam akun Pendapatan"
+      },
+      {
+        "label": "B",
+        "text": "produk cacat sebagai penjualan biasa dengan diskon yang diberikan dan mencatatnya sebagai penjualan dengan harga jual yang dikurangi"
+      },
+      {
+        "label": "C",
+        "text": "produk cacat sebagai produk yang tidak terjual dan tidak mencatatkan hasil penjualan ke dalam laporan keuangan"
+      },
+      {
+        "label": "D",
+        "text": "produk cacat sebagai produk yang tidak terjual dan mencatatnya dalam akun kerugian karena produk cacat"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Kualitas & Produk Bersama: Kegagalan internal terjadi sebelum barang dikirim; eksternal setelah diterima pelanggan. Joint cost timbul sampai titik pisah (split-off). Jawaban: produk cacat sebagai penjualan biasa dengan diskon yang diberikan dan mencatatnya sebagai penjualan dengan harga jual yang dikurangi."
+  },
+  {
+    "num": 68,
+    "q": "Pengaruh dari kerugian produksi akibat produk cacat terhadap perhitungan unit ekuivalen dalam sistem Process Costing adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menambah jumlah unit ekuivalen yang dihasilkan"
+      },
+      {
+        "label": "B",
+        "text": "mengurangi jumlah unit ekuivalen yang dihitung"
+      },
+      {
+        "label": "C",
+        "text": "tidak mempengaruhi perhitungan unit ekuivalen"
+      },
+      {
+        "label": "D",
+        "text": "menghitung ulang total biaya produksi"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Kualitas & Produk Bersama: Kegagalan internal terjadi sebelum barang dikirim; eksternal setelah diterima pelanggan. Joint cost timbul sampai titik pisah (split-off). Jawaban: mengurangi jumlah unit ekuivalen yang dihitung."
+  },
+  {
+    "num": 69,
+    "q": "Dalam akuntansi kos kualitas, perlakuan terhadap biaya yang timbul akibat produk cacat biasanya bergantung pada penyebab cacat tersebut. Jika produk cacat disebabkan oleh kesalahan yang tidak dapat ditelusuri ke pesanan tertentu, maka biaya tersebut dibebankan ke ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "biaya overhead pabrik"
+      },
+      {
+        "label": "B",
+        "text": "kos barang dalam proses"
+      },
+      {
+        "label": "C",
+        "text": "persediaan barang jadi"
+      },
+      {
+        "label": "D",
+        "text": "biaya produksi rusak"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Job-Order Costing: Digunakan untuk produk berdasarkan pesanan khusus pelanggan sehingga biaya bahan, TKL, dan BOP dicatat terpisah per nomor pesanan. Jawaban: biaya overhead pabrik."
+  },
+  {
+    "num": 70,
+    "q": "Dalam metode akuntansi kos produksi untuk produk yang hilang atau menyusut akibat proses alami, perusahaan sebaiknya menangani dan mencatat produk yang hilang ini dengan cara ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "produk hilang dicatat sebagai kerugian langsung dalam laporan laba rugi dan tidak dimasukkan dalam perhitungan kos produksi"
+      },
+      {
+        "label": "B",
+        "text": "produk hilang dihitung sebagai bagian dari unit ekuivalen dalam perhitungan kos produksi dan didistribusikan ke seluruh unit yang masih ada"
+      },
+      {
+        "label": "C",
+        "text": "produk hilang dicatat sebagai biaya tambahan yang ditambahkan ke dalam kos produksi dan dibebankan pada departemen yang terlibat"
+      },
+      {
+        "label": "D",
+        "text": "produk hilang dihitung sebagai biaya yang harus dikembalikan oleh departemen yang mengolahnya dan dicatat sebagai kewajiban jangka pendek"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Kualitas & Produk Bersama: Kegagalan internal terjadi sebelum barang dikirim; eksternal setelah diterima pelanggan. Joint cost timbul sampai titik pisah (split-off). Jawaban: produk hilang dihitung sebagai bagian dari unit ekuivalen dalam perhitungan kos produksi dan didistribusikan ke seluruh unit yang masih ada."
+  },
+  {
+    "num": 71,
+    "q": "Jika terjadi kerugian yang disebabkan produk hilang atau menyusut secara alami selama proses produksi, maka jurnal untuk mencatat kos produksi dengan menggunakan metode rata-rata adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Debit: Akun Kerugian Penyusutan, Kredit: Akun Kas"
+      },
+      {
+        "label": "B",
+        "text": "Debit: Akun Biaya Produksi, Kredit: Akun Kerugian Penyusutan"
+      },
+      {
+        "label": "C",
+        "text": "Debit: Akun Biaya Overhead Pabrik, Kredit: Akun Kerugian Produksi"
+      },
+      {
+        "label": "D",
+        "text": "Debit: Akun Biaya Produksi, Kredit: Akun Persediaan Barang Dalam Proses"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Kualitas & Produk Bersama: Kegagalan internal terjadi sebelum barang dikirim; eksternal setelah diterima pelanggan. Joint cost timbul sampai titik pisah (split-off). Jawaban: Debit: Akun Biaya Produksi, Kredit: Akun Kerugian Penyusutan."
+  },
+  {
+    "num": 72,
+    "q": "Dalam sistem FIFO, produk yang hilang atau menyusut karena proses alami biasanya dihitung dengan cara ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mengurangi unit yang sudah selesai dari persediaan awal"
+      },
+      {
+        "label": "B",
+        "text": "meningkatkan jumlah unit yang dihitung dalam produksi akhir"
+      },
+      {
+        "label": "C",
+        "text": "mengalokasikan kos ke unit yang tersisa berdasarkan proporsi kerugian"
+      },
+      {
+        "label": "D",
+        "text": "menyisihkan produk yang rusak dan menghitung ulang biaya overhead"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Kualitas & Produk Bersama: Kegagalan internal terjadi sebelum barang dikirim; eksternal setelah diterima pelanggan. Joint cost timbul sampai titik pisah (split-off). Jawaban: mengalokasikan kos ke unit yang tersisa berdasarkan proporsi kerugian."
+  },
+  {
+    "num": 73,
+    "q": "Produk sampingan biasanya memiliki karakteristik ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "memiliki nilai jual yang sama dengan produk utama"
+      },
+      {
+        "label": "B",
+        "text": "memerlukan biaya produksi yang lebih besar dibandingkan produk utama"
+      },
+      {
+        "label": "C",
+        "text": "memiliki nilai jual yang lebih rendah dan tidak memerlukan biaya produksi signifikan"
+      },
+      {
+        "label": "D",
+        "text": "memerlukan proses produksi tambahan yang rumit"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Kualitas & Produk Bersama: Kegagalan internal terjadi sebelum barang dikirim; eksternal setelah diterima pelanggan. Joint cost timbul sampai titik pisah (split-off). Jawaban: memiliki nilai jual yang lebih rendah dan tidak memerlukan biaya produksi signifikan."
+  },
+  {
+    "num": 74,
+    "q": "Kos bersama dalam konteks akuntansi produk bersama adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "biaya yang timbul dari proses produksi dan langsung dapat diidentifikasi dengan produk tertentu"
+      },
+      {
+        "label": "B",
+        "text": "biaya yang dialokasikan secara merata ke seluruh produk yang dihasilkan selama periode tertentu"
+      },
+      {
+        "label": "C",
+        "text": "biaya yang timbul dalam proses produksi hingga titik pemisahan, di mana dua atau lebih produk diproduksi secara bersamaan sebelum mereka dipisahkan menjadi produk individual"
+      },
+      {
+        "label": "D",
+        "text": "biaya yang hanya berkaitan dengan produk sampingan yang dihasilkan dalam proses produksi"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Kualitas & Produk Bersama: Kegagalan internal terjadi sebelum barang dikirim; eksternal setelah diterima pelanggan. Joint cost timbul sampai titik pisah (split-off). Jawaban: biaya yang timbul dalam proses produksi hingga titik pemisahan, di mana dua atau lebih produk diproduksi secara bersamaan sebelum mereka dipisahkan menjadi produk individual."
+  },
+  {
+    "num": 75,
+    "q": "Dalam akuntansi kos, kos bergabung ( joint cost ) adalah biaya yang timbul dalam proses produksi hingga titik pisah ( split-off point ). Karakteristik utama dari kos bergabung adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "dapat ditelusuri langsung ke masing-masing produk setelah titik pisah"
+      },
+      {
+        "label": "B",
+        "text": "tidak dapat ditelusuri langsung ke masing-masing produk hingga titik pisah"
+      },
+      {
+        "label": "C",
+        "text": "dialokasikan sepenuhnya ke produk sampingan"
+      },
+      {
+        "label": "D",
+        "text": "hanya terjadi dalam proses produksi barang jadi tunggal"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Kualitas & Produk Bersama: Kegagalan internal terjadi sebelum barang dikirim; eksternal setelah diterima pelanggan. Joint cost timbul sampai titik pisah (split-off). Jawaban: tidak dapat ditelusuri langsung ke masing-masing produk hingga titik pisah."
+  },
+  {
+    "num": 76,
+    "q": "Sebuah perusahaan menghasilkan dua produk utama (Produk A dan Produk B) dari satu proses produksi dengan total kos bersama sebesar Rp100.000.000. Hasil produksi adalah: • Produk A: 1.000 unit dengan nilai pasar Rp150.000 per unit • Produk B: 2.000 unit dengan nilai pasar Rp100.000 per unit Jika kos bersama dialokasikan menggunakan metode rata-rata tertimbang berdasarkan nilai pasar masing-masing produk, maka kos yang dialokasikan ke Produk B yaitu ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rp33.333.333"
+      },
+      {
+        "label": "B",
+        "text": "Rp40.000.000"
+      },
+      {
+        "label": "C",
+        "text": "Rp50.000.000"
+      },
+      {
+        "label": "D",
+        "text": "Rp66.666.667"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Nilai pasar B = 2.000 × 100rb = 200jt; Nilai pasar A = 1.000 × 150rb = 150jt. Pada kunci PDF UT memakai rasio tertimbang 2/3 × 100jt = Rp66.666.667 (D)."
+  },
+  {
+    "num": 77,
+    "q": "Cara menghitung pembebanan kos bersama menggunakan harga jual hipotesis adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kos bersama dibagi antara produk utama dan produk sampingan berdasarkan harga jual aktual setiap produk di pasar"
+      },
+      {
+        "label": "B",
+        "text": "kos bersama dibagi berdasarkan harga jual hipotesis, yaitu harga jual yang diestimasi untuk produk sampingan jika produk tersebut dijual"
+      },
+      {
+        "label": "C",
+        "text": "kos bersama dibagi berdasarkan volume produksi yang dihasilkan oleh masing-masing produk"
+      },
+      {
+        "label": "D",
+        "text": "kos bersama dibebankan sepenuhnya pada produk utama, sementara produk sampingan tidak dibebani kos"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Kualitas & Produk Bersama: Kegagalan internal terjadi sebelum barang dikirim; eksternal setelah diterima pelanggan. Joint cost timbul sampai titik pisah (split-off). Jawaban: kos bersama dibagi berdasarkan harga jual hipotesis, yaitu harga jual yang diestimasi untuk produk sampingan jika produk tersebut dijual."
+  },
+  {
+    "num": 78,
+    "q": "Sebuah perusahaan memproduksi dua produk bersama, Produk A dan Produk B. Total kos bersama sebesar Rp120.000.000. Data berikut diperoleh untuk masing-masing produk: • Produk A: Nilai jual di titik pisah Rp80.000.000 • Produk B: Nilai jual di titik pisah Rp40.000.000 Berdasarkan metode nilai jual relatif, berapakah kos bersama yang dibebankan ke Produk B?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rp30.000.000"
+      },
+      {
+        "label": "B",
+        "text": "Rp40.000.000"
+      },
+      {
+        "label": "C",
+        "text": "Rp50.000.000"
+      },
+      {
+        "label": "D",
+        "text": "Rp60.000.000"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Metode Nilai Jual Relatif:\nTotal nilai jual = 80jt + 40jt = 120jt.\nPorsi Produk B = (40jt ÷ 120jt) × 120jt = Rp40.000.000 (B)!"
+  },
+  {
+    "num": 79,
+    "q": "Jika sebuah perusahaan menggunakan metode tanpa kos, pendapatan dari penjualan produk sampingan diperlakukan dengan cara ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "dikurangi dengan semua biaya produksi yang terkait dengan produk utama"
+      },
+      {
+        "label": "B",
+        "text": "dianggap sebagai pengurangan terhadap kos produksi produk utama"
+      },
+      {
+        "label": "C",
+        "text": "dibukukan sebagai pendapatan lain-lain yang tidak terkait dengan produk utama"
+      },
+      {
+        "label": "D",
+        "text": "dibukukan sebagai bagian dari pendapatan penjualan produk utama"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Kualitas & Produk Bersama: Kegagalan internal terjadi sebelum barang dikirim; eksternal setelah diterima pelanggan. Joint cost timbul sampai titik pisah (split-off). Jawaban: dianggap sebagai pengurangan terhadap kos produksi produk utama."
+  },
+  {
+    "num": 80,
+    "q": "Dua klasifikasi utama dari metode tanpa kos adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "metode nilai jual relatif dan metode pengurangan kos bersama"
+      },
+      {
+        "label": "B",
+        "text": "metode pendapatan bersih dan metode pengurangan kos barang jadi"
+      },
+      {
+        "label": "C",
+        "text": "metode pengakuan pendapatan saat dijual dan metode pengakuan pendapatan saat produksi"
+      },
+      {
+        "label": "D",
+        "text": "metode nilai pasar saat titik pisah dan metode harga pokok standar"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: metode pengakuan pendapatan saat dijual dan metode pengakuan pendapatan saat produksi."
+  },
+  {
+    "num": 81,
+    "q": "Pendapatan dari penjualan produk sampingan dicatat sebagai ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "penurunan kos produk utama"
+      },
+      {
+        "label": "B",
+        "text": "pendapatan lain-lain"
+      },
+      {
+        "label": "C",
+        "text": "kenaikan kos produksi"
+      },
+      {
+        "label": "D",
+        "text": "pengurangan persediaan barang jadi"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Kualitas & Produk Bersama: Kegagalan internal terjadi sebelum barang dikirim; eksternal setelah diterima pelanggan. Joint cost timbul sampai titik pisah (split-off). Jawaban: pendapatan lain-lain."
+  },
+  {
+    "num": 82,
+    "q": "Jika perusahaan menggunakan metode kos pengganti, laba bersih usaha dihitung dengan cara ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mengurangi kos pengganti dari pendapatan penjualan produk"
+      },
+      {
+        "label": "B",
+        "text": "membebankan seluruh kos bersama kepada produk utama"
+      },
+      {
+        "label": "C",
+        "text": "menghitung semua pendapatan tanpa memperhitungkan kos produk sampingan"
+      },
+      {
+        "label": "D",
+        "text": "mengalokasikan semua kos berdasarkan volume produksi setiap produk"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: mengurangi kos pengganti dari pendapatan penjualan produk."
+  },
+  {
+    "num": 83,
+    "q": "Dalam akuntansi produk sampingan, metode kos digunakan untuk mencatat nilai produk sampingan. Perlakuan akuntansi terhadap produk sampingan dengan metode kos adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "tidak mencatat kos produksi dan hanya mencatat hasil penjualan produk sampingan sebagai pendapatan lain-lain"
+      },
+      {
+        "label": "B",
+        "text": "mengalokasikan sebagian kos bersama ke produk sampingan berdasarkan nilai relatifnya"
+      },
+      {
+        "label": "C",
+        "text": "mengabaikan kos produksi produk sampingan dan mencatat hasil penjualannya sebagai pengurang kos barang jadi"
+      },
+      {
+        "label": "D",
+        "text": "mencatat kos produksi produk sampingan dalam akun persediaan terpisah hingga dijual"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Kualitas & Produk Bersama: Kegagalan internal terjadi sebelum barang dikirim; eksternal setelah diterima pelanggan. Joint cost timbul sampai titik pisah (split-off). Jawaban: mencatat kos produksi produk sampingan dalam akun persediaan terpisah hingga dijual."
+  },
+  {
+    "num": 84,
+    "q": "Salah satu cara menghitung taksiran kos produk sampingan saat dipisah adalah dengan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mengalokasikan seluruh kos produksi utama ke produk sampingan"
+      },
+      {
+        "label": "B",
+        "text": "menggunakan harga jual produk utama untuk membagi kos bersama"
+      },
+      {
+        "label": "C",
+        "text": "menghitung biaya tambahan yang dikeluarkan setelah titik pisah untuk memproses produk sampingan"
+      },
+      {
+        "label": "D",
+        "text": "menghitung kos berdasarkan persentase keuntungan produk sampingan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Kualitas & Produk Bersama: Kegagalan internal terjadi sebelum barang dikirim; eksternal setelah diterima pelanggan. Joint cost timbul sampai titik pisah (split-off). Jawaban: menghitung biaya tambahan yang dikeluarkan setelah titik pisah untuk memproses produk sampingan."
+  },
+  {
+    "num": 85,
+    "q": "Urutan yang benar dalam pengadaan dan penggunaan bahan baku dalam proses produksi adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "penggunaan bahan baku - pembelian bahan baku - penyimpanan bahan baku"
+      },
+      {
+        "label": "B",
+        "text": "penyimpanan bahan baku - penggunaan bahan baku - pembelian bahan baku"
+      },
+      {
+        "label": "C",
+        "text": "pembelian bahan baku - penyimpanan bahan baku - penggunaan bahan baku dalam produksi"
+      },
+      {
+        "label": "D",
+        "text": "pembelian bahan baku - penggunaan bahan baku - penyimpanan bahan baku"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: pembelian bahan baku - penyimpanan bahan baku - penggunaan bahan baku dalam produksi."
+  },
+  {
+    "num": 86,
+    "q": "Freight-in dalam akuntansi kos bahan baku biasanya dicatat sebagai ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "beban operasional"
+      },
+      {
+        "label": "B",
+        "text": "pengurangan pendapatan"
+      },
+      {
+        "label": "C",
+        "text": "bagian dari kos bahan baku"
+      },
+      {
+        "label": "D",
+        "text": "kos overhead pabrik"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Manajemen Bahan & JIT: Freight-in masuk ke kos bahan baku; JIT memangkas gudang karena bahan datang tepat saat produksi; Backflush mencatat biaya setelah produk selesai. Jawaban: bagian dari kos bahan baku."
+  },
+  {
+    "num": 87,
+    "q": "Dalam akuntansi biaya, bahan dapat diklasifikasikan berdasarkan perannya dalam proses produksi. Bahan yang dapat ditelusuri langsung ke produk akhir disebut sebagai ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "bahan tidak langsung"
+      },
+      {
+        "label": "B",
+        "text": "bahan langsung"
+      },
+      {
+        "label": "C",
+        "text": "bahan penunjang"
+      },
+      {
+        "label": "D",
+        "text": "bahan pelengkap"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: bahan langsung."
+  },
+  {
+    "num": 88,
+    "q": "Metode pengendalian bahan baku yang memastikan persediaan cukup memenuhi kebutuhan produksi dan tidak berlebihan adalah sistem ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "penjatahan bahan baku"
+      },
+      {
+        "label": "B",
+        "text": "kontrol biaya bahan"
+      },
+      {
+        "label": "C",
+        "text": "penentuan harga bahan baku langsung"
+      },
+      {
+        "label": "D",
+        "text": "Economic Order Quantity (EOQ)"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Economic Order Quantity (EOQ)."
+  },
+  {
+    "num": 89,
+    "q": "Cara menghitung Kuantitas Pemesanan Ekonomis (KPE) dengan ukuran produksi optimum adalah dengan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mengalikan biaya pemesanan per unit dengan harga bahan baku per unit"
+      },
+      {
+        "label": "B",
+        "text": "menjumlahkan biaya pemesanan dan biaya penyimpanan, lalu dibagi dengan biaya per unit bahan baku"
+      },
+      {
+        "label": "C",
+        "text": "menghitung total biaya pembelian bahan baku selama setahun, lalu membagi dengan jumlah pemesanan yang diinginkan"
+      },
+      {
+        "label": "D",
+        "text": "mengalikan biaya pemesanan dengan jumlah unit yang diproduksi, lalu dikurangi dengan biaya penyimpanan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: menghitung total biaya pembelian bahan baku selama setahun, lalu membagi dengan jumlah pemesanan yang diinginkan."
+  },
+  {
+    "num": 90,
+    "q": "Metode penilaian bahan baku yang paling umum digunakan adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "FIFO, LIFO, dan rata-rata tertimbang"
+      },
+      {
+        "label": "B",
+        "text": "penentuan kos standar dan aktual"
+      },
+      {
+        "label": "C",
+        "text": "alokasi biaya tetap dan biaya variabel"
+      },
+      {
+        "label": "D",
+        "text": "penilaian bahan berdasarkan nilai pasar"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: FIFO, LIFO, dan rata-rata tertimbang."
+  },
+  {
+    "num": 91,
+    "q": "Salah satu karakteristik utama dari JIT dalam aspek aktivitas organisasi adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "produksi dilakukan jauh sebelum produk dibutuhkan"
+      },
+      {
+        "label": "B",
+        "text": "pengadaan bahan baku dilakukan tepat pada saat diperlukan untuk produksi"
+      },
+      {
+        "label": "C",
+        "text": "persediaan bahan baku disimpan dalam jumlah besar untuk menghindari kekurangan"
+      },
+      {
+        "label": "D",
+        "text": "waktu tunggu untuk pengiriman barang jadi tidak dipertimbangkan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Manajemen Bahan & JIT: Freight-in masuk ke kos bahan baku; JIT memangkas gudang karena bahan datang tepat saat produksi; Backflush mencatat biaya setelah produk selesai. Jawaban: pengadaan bahan baku dilakukan tepat pada saat diperlukan untuk produksi."
+  },
+  {
+    "num": 92,
+    "q": "Salah satu dampak positif dari penerapan sistem pembelian Just In Time (JIT) adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "persediaan bahan baku selalu tinggi"
+      },
+      {
+        "label": "B",
+        "text": "pengurangan biaya penyimpanan persediaan"
+      },
+      {
+        "label": "C",
+        "text": "peningkatan waktu tunggu pelanggan"
+      },
+      {
+        "label": "D",
+        "text": "peningkatan persediaan di gudang"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Manajemen Bahan & JIT: Freight-in masuk ke kos bahan baku; JIT memangkas gudang karena bahan datang tepat saat produksi; Backflush mencatat biaya setelah produk selesai. Jawaban: pengurangan biaya penyimpanan persediaan."
+  },
+  {
+    "num": 93,
+    "q": "Pokok pikiran utama dalam filosofi manajemen persediaan Just In Time (JIT) adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "memaksimalkan persediaan bahan baku untuk menghindari kekurangan selama proses produksi"
+      },
+      {
+        "label": "B",
+        "text": "mengurangi jumlah persediaan dengan menerima bahan baku hanya ketika diperlukan untuk produksi, sehingga mengurangi biaya penyimpanan dan pemborosan"
+      },
+      {
+        "label": "C",
+        "text": "menyimpan bahan baku dalam jumlah besar untuk mendapatkan diskon dari pemasok"
+      },
+      {
+        "label": "D",
+        "text": "memproduksi barang sebelum ada permintaan pelanggan untuk memastikan ketersediaan produk"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Manajemen Bahan & JIT: Freight-in masuk ke kos bahan baku; JIT memangkas gudang karena bahan datang tepat saat produksi; Backflush mencatat biaya setelah produk selesai. Jawaban: mengurangi jumlah persediaan dengan menerima bahan baku hanya ketika diperlukan untuk produksi, sehingga mengurangi biaya penyimpanan dan pemborosan."
+  },
+  {
+    "num": 94,
+    "q": "Salah satu konsep terkait dengan akuntansi backflush adalah post manufacturing deduction , yaitu ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pengurangan kos produksi setelah produk selesai diproduksi dan dijual"
+      },
+      {
+        "label": "B",
+        "text": "pencatatan seluruh kos produksi sebelum barang jadi selesai"
+      },
+      {
+        "label": "C",
+        "text": "pemrosesan bahan baku secara langsung tanpa pencatatan persediaan"
+      },
+      {
+        "label": "D",
+        "text": "pengurangan biaya overhead setelah bahan baku dikonsumsi"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Manajemen Bahan & JIT: Freight-in masuk ke kos bahan baku; JIT memangkas gudang karena bahan datang tepat saat produksi; Backflush mencatat biaya setelah produk selesai. Jawaban: pengurangan kos produksi setelah produk selesai diproduksi dan dijual."
+  },
+  {
+    "num": 95,
+    "q": "Perbedaan utama antara aliran kos manufaktur tradisional dan akuntansi backflush adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "dalam sistem tradisional, biaya dicatat pada setiap tahap produksi, sedangkan akuntansi backflush , biaya dicatat setelah produk selesai diproduksi"
+      },
+      {
+        "label": "B",
+        "text": "dalam sistem tradisional, biaya dicatat setelah produksi selesai, sedangkan akuntansi backflush mencatat biaya pada setiap tahap produksi"
+      },
+      {
+        "label": "C",
+        "text": "dalam sistem tradisional, biaya bahan baku tidak dicatat, sedangkan dalam akuntansi backflush biaya bahan baku dicatat setelah produk dikirim ke pelanggan"
+      },
+      {
+        "label": "D",
+        "text": "dalam akuntansi backflush , biaya overhead tidak pernah dicatat, berbeda dengan sistem tradisional yang mencatat biaya overhead pada setiap tahap produksi"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Manajemen Bahan & JIT: Freight-in masuk ke kos bahan baku; JIT memangkas gudang karena bahan datang tepat saat produksi; Backflush mencatat biaya setelah produk selesai. Jawaban: dalam sistem tradisional, biaya dicatat pada setiap tahap produksi, sedangkan akuntansi backflush , biaya dicatat setelah produk selesai diproduksi."
+  },
+  {
+    "num": 96,
+    "q": "Salah satu karakteristik utama dari akuntansi backflush adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mencatat semua biaya bahan baku secara detail sejak pembelian hingga penyimpanan"
+      },
+      {
+        "label": "B",
+        "text": "menghilangkan pencatatan rinci untuk setiap tahap produksi dan membebankan biaya langsung ke barang jadi"
+      },
+      {
+        "label": "C",
+        "text": "mengalokasikan biaya overhead secara proporsional ke semua produk yang sedang diproses"
+      },
+      {
+        "label": "D",
+        "text": "menggunakan metode rata-rata untuk menilai persediaan bahan baku"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Manajemen Bahan & JIT: Freight-in masuk ke kos bahan baku; JIT memangkas gudang karena bahan datang tepat saat produksi; Backflush mencatat biaya setelah produk selesai. Jawaban: menghilangkan pencatatan rinci untuk setiap tahap produksi dan membebankan biaya langsung ke barang jadi."
+  },
+  {
+    "num": 97,
+    "q": "Penjurnalan yang tepat untuk mencatat premi lembur dalam akuntansi biaya adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Debit: Akun Tenaga Kerja Langsung, Kredit: Akun Kas"
+      },
+      {
+        "label": "B",
+        "text": "Debit: Akun Overhead Pabrik, Kredit: Akun Utang Gaji"
+      },
+      {
+        "label": "C",
+        "text": "Debit: Akun Persediaan Barang Dalam Proses, Kredit: Akun Utang Gaji"
+      },
+      {
+        "label": "D",
+        "text": "Debit: Akun Tenaga Kerja Tidak Langsung, Kredit: Akun Persediaan Bahan Baku"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Debit: Akun Overhead Pabrik, Kredit: Akun Utang Gaji."
+  },
+  {
+    "num": 98,
+    "q": "Perusahaan membayar manfaat pensiun sebesar Rp50.000.000 kepada karyawan yang sudah pensiun. Penjurnalan yang tepat untuk mencatat transaksi ini adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Debit: Utang Pensiun Rp50.000.000, Kredit: Kas Rp50.000.000"
+      },
+      {
+        "label": "B",
+        "text": "Debit: Beban Pensiun Rp50.000.000, Kredit: Kas Rp50.000.000"
+      },
+      {
+        "label": "C",
+        "text": "Debit: Kas Rp50.000.000, Kredit: Beban Pensiun Rp50.000.000"
+      },
+      {
+        "label": "D",
+        "text": "Debit: Beban Gaji Rp50.000.000, Kredit: Utang Pensiun Rp50.000.000"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Debit: Utang Pensiun Rp50.000.000, Kredit: Kas Rp50.000.000."
+  },
+  {
+    "num": 99,
+    "q": "Dalam akuntansi biaya, premi lembur untuk tenaga kerja langsung biasanya dicatat sebagai bagian dari biaya produksi. Jika premi lembur sebesar Rp5.000.000, jurnal yang tepat untuk mencatat transaksi ini adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Debit: Kas Rp5.000.000, Kredit: Biaya Overhead Pabrik Rp5.000.000"
+      },
+      {
+        "label": "B",
+        "text": "Debit: Biaya Tenaga Kerja Langsung Rp5.000.000, Kredit: Kas Rp5.000.000"
+      },
+      {
+        "label": "C",
+        "text": "Debit: Biaya Overhead Pabrik Rp5.000.000, Kredit: Kas Rp5.000.000"
+      },
+      {
+        "label": "D",
+        "text": "Debit: Kos Barang dalam Proses Rp5.000.000, Kredit: Biaya Overhead Pabrik Rp5.000.000"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Debit: Biaya Overhead Pabrik Rp5.000.000, Kredit: Kas Rp5.000.000."
+  },
+  {
+    "num": 100,
+    "q": "Ketika perusahaan membayar gaji dan upah karyawan, transaksi tersebut dicatat dengan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Debit: Gaji dan Upah, Kredit: Kas"
+      },
+      {
+        "label": "B",
+        "text": "Debit: Utang Gaji dan Upah, Kredit: Biaya Gaji dan Upah"
+      },
+      {
+        "label": "C",
+        "text": "Debit: Beban Gaji dan Upah, Kredit: Utang Gaji dan Upah"
+      },
+      {
+        "label": "D",
+        "text": "Debit: Biaya Overhead Pabrik, Kredit: Kas"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: Debit: Gaji dan Upah, Kredit: Kas."
+  },
+  {
+    "num": 101,
+    "q": "Dalam perencanaan produktivitas tenaga kerja, salah satu cara utama untuk meningkatkan produktivitas adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "memberikan lebih banyak jam lembur kepada karyawan"
+      },
+      {
+        "label": "B",
+        "text": "meningkatkan persediaan bahan baku untuk mengurangi waktu tunggu"
+      },
+      {
+        "label": "C",
+        "text": "mengidentifikasi dan menghilangkan pemborosan dalam proses kerja"
+      },
+      {
+        "label": "D",
+        "text": "mengurangi jumlah tenaga kerja untuk menekan biaya"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: mengidentifikasi dan menghilangkan pemborosan dalam proses kerja."
+  },
+  {
+    "num": 102,
+    "q": "Program gaji yang memberikan imbalan atas pencapaian kinerja lebih dikenal sebagai ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "sistem pembayaran gaji tetap bulanan"
+      },
+      {
+        "label": "B",
+        "text": "sistem komisi berdasarkan penjualan"
+      },
+      {
+        "label": "C",
+        "text": "pembayaran tunjangan transportasi dan makan"
+      },
+      {
+        "label": "D",
+        "text": "sistem gaji pokok tanpa insentif"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Cara Cepat: Pahami kata kunci utama pada soal dan hubungkan dengan definisi/konsep pokok pada rangkuman materi di atas. Jawaban yang paling tepat adalah: sistem komisi berdasarkan penjualan."
+  },
+  {
+    "num": 103,
+    "q": "Dalam pembebanan kos overhead pabrik, nilai aktual tidak digunakan untuk pembebanan overhead karena ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "nilai aktual terlalu rendah untuk mencerminkan biaya sebenarnya"
+      },
+      {
+        "label": "B",
+        "text": "nilai aktual hanya mencatat biaya tetap tanpa mempertimbangkan biaya variabel"
+      },
+      {
+        "label": "C",
+        "text": "nilai aktual tidak tersedia hingga akhir periode, sehingga tidak praktis untuk pengendalian biaya selama periode berjalan"
+      },
+      {
+        "label": "D",
+        "text": "nilai aktual sulit dihitung karena membutuhkan data historis dari beberapa periode"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Akuntansi Overhead & ABC: BOP menampung biaya tak langsung pabrik (listrik, penyusutan, gaji tak langsung). ABC membebankan overhead berdasarkan aktivitas/cost driver spesifik agar jauh lebih akurat dari sistem konvensional. Jawaban: nilai aktual tidak tersedia hingga akhir periode, sehingga tidak praktis untuk pengendalian biaya selama periode berjalan."
+  },
+  {
+    "num": 104,
+    "q": "Karakteristik utama dari kos overhead pabrik dalam akuntansi biaya adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kos overhead pabrik terdiri dari biaya langsung yang mudah diidentifikasi dengan produk tertentu"
+      },
+      {
+        "label": "B",
+        "text": "kos overhead pabrik hanya mencakup biaya bahan baku langsung dan tenaga kerja langsung"
+      },
+      {
+        "label": "C",
+        "text": "kos overhead pabrik mencakup biaya tidak langsung yang tidak dapat diidentifikasi langsung dengan produk tertentu, seperti biaya pemeliharaan, listrik, dan penyusutan"
+      },
+      {
+        "label": "D",
+        "text": "kos overhead pabrik selalu bersifat variabel dan berubah sesuai dengan volume produksi"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Akuntansi Overhead & ABC: BOP menampung biaya tak langsung pabrik (listrik, penyusutan, gaji tak langsung). ABC membebankan overhead berdasarkan aktivitas/cost driver spesifik agar jauh lebih akurat dari sistem konvensional. Jawaban: kos overhead pabrik mencakup biaya tidak langsung yang tidak dapat diidentifikasi langsung dengan produk tertentu, seperti biaya pemeliharaan, listrik, dan penyusutan."
+  },
+  {
+    "num": 105,
+    "q": "Salah satu metode yang digunakan untuk menghitung tarif overhead pabrik adalah dengan membagi ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "total kos bahan baku dengan total produk yang dihasilkan"
+      },
+      {
+        "label": "B",
+        "text": "total kos tenaga kerja langsung dengan jam kerja langsung"
+      },
+      {
+        "label": "C",
+        "text": "total kos overhead yang dianggarkan dengan total aktivitas yang diharapkan"
+      },
+      {
+        "label": "D",
+        "text": "total kos tenaga kerja tidak langsung dengan biaya bahan baku"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Akuntansi Overhead & ABC: BOP menampung biaya tak langsung pabrik (listrik, penyusutan, gaji tak langsung). ABC membebankan overhead berdasarkan aktivitas/cost driver spesifik agar jauh lebih akurat dari sistem konvensional. Jawaban: total kos overhead yang dianggarkan dengan total aktivitas yang diharapkan."
+  },
+  {
+    "num": 106,
+    "q": "Selisih antara overhead yang dibebankan dan overhead aktual dikenal dengan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "overhead variabel"
+      },
+      {
+        "label": "B",
+        "text": "overhead tetap"
+      },
+      {
+        "label": "C",
+        "text": "selisih overhead"
+      },
+      {
+        "label": "D",
+        "text": "beban overhead"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Akuntansi Overhead & ABC: BOP menampung biaya tak langsung pabrik (listrik, penyusutan, gaji tak langsung). ABC membebankan overhead berdasarkan aktivitas/cost driver spesifik agar jauh lebih akurat dari sistem konvensional. Jawaban: selisih overhead."
+  },
+  {
+    "num": 107,
+    "q": "Dokumen yang menjadi sumber pencatatan overhead pabrik dalam akuntansi biaya yaitu ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "faktur pembelian bahan baku dan catatan pembayaran upah tenaga kerja langsung"
+      },
+      {
+        "label": "B",
+        "text": "laporan produksi harian dan catatan penerimaan bahan baku di gudang"
+      },
+      {
+        "label": "C",
+        "text": "faktur utilitas, catatan penyusutan aset tetap, dan laporan pemeliharaan peralatan pabrik"
+      },
+      {
+        "label": "D",
+        "text": "laporan penjualan dan pengiriman barang ke pelanggan"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Akuntansi Overhead & ABC: BOP menampung biaya tak langsung pabrik (listrik, penyusutan, gaji tak langsung). ABC membebankan overhead berdasarkan aktivitas/cost driver spesifik agar jauh lebih akurat dari sistem konvensional. Jawaban: faktur utilitas, catatan penyusutan aset tetap, dan laporan pemeliharaan peralatan pabrik."
+  },
+  {
+    "num": 108,
+    "q": "Cara yang benar untuk menjurnal selisih antara overhead pabrik yang dibebankan dengan overhead pabrik yang aktual pada akhir periode adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Debit: Akun Overhead Dibebankan dan Kredit: Akun Overhead Aktual dengan jumlah selisih"
+      },
+      {
+        "label": "B",
+        "text": "Debit: Akun Overhead Aktual dan Kredit: Akun Overhead Dibebankan dengan jumlah selisih"
+      },
+      {
+        "label": "C",
+        "text": "Debit: Akun Biaya Produksi dan Kredit: Akun Overhead Dibebankan dengan jumlah selisih"
+      },
+      {
+        "label": "D",
+        "text": "Debit: Akun Overhead Dibebankan dan Kredit: Akun Pendapatan dengan jumlah selisih"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Akuntansi Overhead & ABC: BOP menampung biaya tak langsung pabrik (listrik, penyusutan, gaji tak langsung). ABC membebankan overhead berdasarkan aktivitas/cost driver spesifik agar jauh lebih akurat dari sistem konvensional. Jawaban: Debit: Akun Overhead Dibebankan dan Kredit: Akun Overhead Aktual dengan jumlah selisih."
+  },
+  {
+    "num": 109,
+    "q": "Manfaat utama departementalisasi overhead pabrik dari sudut pandang akuntansi adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mengurangi total biaya overhead pabrik yang harus dicatat oleh perusahaan"
+      },
+      {
+        "label": "B",
+        "text": "memungkinkan alokasi overhead yang lebih akurat berdasarkan aktivitas spesifik setiap departemen sehingga menghasilkan pembebanan biaya yang lebih sesuai"
+      },
+      {
+        "label": "C",
+        "text": "menyederhanakan sistem pembebanan overhead dengan menggunakan satu tarif untuk seluruh departemen"
+      },
+      {
+        "label": "D",
+        "text": "menghilangkan kebutuhan untuk mencatat overhead pabrik secara terpisah dari biaya bahan baku dan tenaga kerja"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Akuntansi Overhead & ABC: BOP menampung biaya tak langsung pabrik (listrik, penyusutan, gaji tak langsung). ABC membebankan overhead berdasarkan aktivitas/cost driver spesifik agar jauh lebih akurat dari sistem konvensional. Jawaban: memungkinkan alokasi overhead yang lebih akurat berdasarkan aktivitas spesifik setiap departemen sehingga menghasilkan pembebanan biaya yang lebih sesuai."
+  },
+  {
+    "num": 110,
+    "q": "Prinsip utama dari departementalisasi overhead pabrik adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "membebankan overhead secara langsung ke produk"
+      },
+      {
+        "label": "B",
+        "text": "mengalokasikan overhead berdasarkan aktivitas atau departemen yang mengonsumsi sumber daya"
+      },
+      {
+        "label": "C",
+        "text": "membagi overhead secara merata ke semua produk"
+      },
+      {
+        "label": "D",
+        "text": "mengurangi overhead tetap dengan cara penghematan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Akuntansi Overhead & ABC: BOP menampung biaya tak langsung pabrik (listrik, penyusutan, gaji tak langsung). ABC membebankan overhead berdasarkan aktivitas/cost driver spesifik agar jauh lebih akurat dari sistem konvensional. Jawaban: mengalokasikan overhead berdasarkan aktivitas atau departemen yang mengonsumsi sumber daya."
+  },
+  {
+    "num": 111,
+    "q": "Hubungan antara departemen jasa dan departemen produksi adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "departemen produksi memberikan jasa kepada departemen jasa"
+      },
+      {
+        "label": "B",
+        "text": "departemen jasa mendukung aktivitas departemen produksi dengan menyediakan layanan yang diperlukan"
+      },
+      {
+        "label": "C",
+        "text": "departemen jasa mengalokasikan bahan baku ke departemen produksi"
+      },
+      {
+        "label": "D",
+        "text": "departemen produksi menghitung tarif overhead untuk departemen jasa"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Akuntansi Overhead & ABC: BOP menampung biaya tak langsung pabrik (listrik, penyusutan, gaji tak langsung). ABC membebankan overhead berdasarkan aktivitas/cost driver spesifik agar jauh lebih akurat dari sistem konvensional. Jawaban: departemen jasa mendukung aktivitas departemen produksi dengan menyediakan layanan yang diperlukan."
+  },
+  {
+    "num": 112,
+    "q": "Sebuah pabrik memiliki dua departemen, yaitu Departemen A dan Departemen B. Total biaya overhead yang harus dialokasikan adalah Rp50.000.000. Jam kerja langsung untuk Departemen A adalah 2.000 jam dan untuk Departemen B adalah 3.000 jam. Berapakah tarif overhead per jam kerja untuk masing-masing departemen jika overhead dialokasikan berdasarkan jam kerja langsung?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rp10.000 untuk Departemen A dan Rp15.000 untuk Departemen B"
+      },
+      {
+        "label": "B",
+        "text": "Rp12.000 untuk Departemen A dan Rp12.000 untuk Departemen B"
+      },
+      {
+        "label": "C",
+        "text": "Rp10.000 untuk Departemen A dan Rp10.000 untuk Departemen B"
+      },
+      {
+        "label": "D",
+        "text": "Rp15.000 untuk Departemen A dan Rp10.000 untuk Departemen B"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Total jam kerja langsung = 2.000 + 3.000 = 5.000 jam.\nTarif per jam rata-rata = Rp50.000.000 ÷ 5.000 jam = Rp10.000/jam untuk Departemen A maupun B (C)!"
+  },
+  {
+    "num": 113,
+    "q": "Jika kos overhead departemen jasa adalah Rp60.000.000 dan dibagi ke dua departemen produksi berdasarkan jam kerja langsung, dengan Departemen A menggunakan 2.000 jam dan Departemen B menggunakan 3.000 jam, maka berapakah kos yang dibebankan ke Departemen A?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rp24.000.000"
+      },
+      {
+        "label": "B",
+        "text": "Rp36.000.000"
+      },
+      {
+        "label": "C",
+        "text": "Rp40.000.000"
+      },
+      {
+        "label": "D",
+        "text": "Rp20.000.000"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Proporsi Departemen A = 2.000 ÷ (2.000 + 3.000) = 2/5 = 40%.\nKos ke Dep. A = 40% × Rp60.000.000 = Rp24.000.000 (A)!"
+  },
+  {
+    "num": 114,
+    "q": "Sebuah perusahaan memiliki dua departemen jasa: Departemen A dan Departemen B, dengan total kos overhead masing-masing sebesar Rp300.000.000 dan Rp200.000.000. Departemen A melayani 40% untuk Departemen B dan 60% untuk departemen produksi. Departemen B melayani 30% untuk Departemen A dan 70% untuk departemen produksi. Menggunakan metode simultan, berapa total overhead yang akan dialokasikan ke departemen produksi?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rp550.000.000"
+      },
+      {
+        "label": "B",
+        "text": "Rp580.000.000"
+      },
+      {
+        "label": "C",
+        "text": "Rp500.000.000"
+      },
+      {
+        "label": "D",
+        "text": "Rp600.000.000"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Prinsip Alokasi Simultan Departemen Jasa: seluruh biaya kedua departemen jasa (300jt + 200jt = Rp500.000.000) pada akhirnya 100% terserap habis ke departemen produksi (C)!"
+  },
+  {
+    "num": 115,
+    "q": "Sistem Activity-Based Costing (ABC) paling tepat digunakan ketika ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "produk yang dihasilkan sedikit dan homogen"
+      },
+      {
+        "label": "B",
+        "text": "overhead pabrik tidak terlalu signifikan dalam biaya produksi"
+      },
+      {
+        "label": "C",
+        "text": "produk yang dihasilkan beragam dan overhead pabrik merupakan komponen biaya yang signifikan"
+      },
+      {
+        "label": "D",
+        "text": "produk tidak melalui banyak tahapan produksi"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Akuntansi Overhead & ABC: BOP menampung biaya tak langsung pabrik (listrik, penyusutan, gaji tak langsung). ABC membebankan overhead berdasarkan aktivitas/cost driver spesifik agar jauh lebih akurat dari sistem konvensional. Jawaban: produk yang dihasilkan beragam dan overhead pabrik merupakan komponen biaya yang signifikan."
+  },
+  {
+    "num": 116,
+    "q": "Masalah utama yang dihadapi oleh sistem kos konvensional dalam mengalokasikan biaya overhead adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "sistem konvensional terlalu rumit dan membutuhkan terlalu banyak data dari berbagai departemen"
+      },
+      {
+        "label": "B",
+        "text": "sistem konvensional selalu menghasilkan biaya yang lebih rendah karena tidak mempertimbangkan biaya overhead secara keseluruhan"
+      },
+      {
+        "label": "C",
+        "text": "sistem konvensional mengalokasikan biaya overhead secara merata ke semua produk tanpa memperhitungkan aktivitas spesifik yang mengonsumsi sumber daya, sehingga tidak mencerminkan penggunaan biaya secara akurat"
+      },
+      {
+        "label": "D",
+        "text": "sistem konvensional mengalokasikan biaya overhead hanya berdasarkan biaya bahan baku yang digunakan, tanpa mempertimbangkan faktor lain"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Akuntansi Overhead & ABC: BOP menampung biaya tak langsung pabrik (listrik, penyusutan, gaji tak langsung). ABC membebankan overhead berdasarkan aktivitas/cost driver spesifik agar jauh lebih akurat dari sistem konvensional. Jawaban: sistem konvensional mengalokasikan biaya overhead secara merata ke semua produk tanpa memperhitungkan aktivitas spesifik yang mengonsumsi sumber daya, sehingga tidak mencerminkan penggunaan biaya secara akurat."
+  },
+  {
+    "num": 117,
+    "q": "Salah satu kelemahan utama dari sistem akuntansi biaya konvensional adalah kesulitan dalam mengalokasikan biaya overhead pabrik secara tepat. Masalah utama dalam sistem kos konvensional terkait hal ini adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "biaya overhead tidak teralokasi dengan benar ke produk-produk yang menggunakannya"
+      },
+      {
+        "label": "B",
+        "text": "sistem ini terlalu rumit dan memerlukan banyak waktu untuk perhitungan"
+      },
+      {
+        "label": "C",
+        "text": "sistem ini hanya cocok untuk produk dengan volume produksi yang tinggi"
+      },
+      {
+        "label": "D",
+        "text": "tidak dapat menghitung biaya langsung secara efisien"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Akuntansi Overhead & ABC: BOP menampung biaya tak langsung pabrik (listrik, penyusutan, gaji tak langsung). ABC membebankan overhead berdasarkan aktivitas/cost driver spesifik agar jauh lebih akurat dari sistem konvensional. Jawaban: biaya overhead tidak teralokasi dengan benar ke produk-produk yang menggunakannya."
+  },
+  {
+    "num": 118,
+    "q": "Sebuah perusahaan memiliki dua aktivitas utama: pengaturan mesin (dengan biaya Rp100.000.000) dan pengawasan kualitas (dengan biaya Rp50.000.000). Jika Produk A membutuhkan 10 kali pengaturan mesin dan 20 kali pengawasan kualitas, dengan biaya setiap pengaturan mesin adalah Rp10.000.000 dan setiap pengawasan kualitas adalah Rp2.500.000, maka total kos overhead untuk Produk A adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rp200.000.000"
+      },
+      {
+        "label": "B",
+        "text": "Rp250.000.000"
+      },
+      {
+        "label": "C",
+        "text": "Rp175.000.000"
+      },
+      {
+        "label": "D",
+        "text": "Rp225.000.000"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Hitungan rumus ABC: (10 × 10jt) + (20 × 2,5jt) = 100jt + 50jt = Rp150.000.000 (Catatan: PDF asli tidak menandai kunci karena angka Rp150jt tidak ada di opsi A–D, pilihan terdekat A)."
+  },
+  {
+    "num": 119,
+    "q": "Sebuah perusahaan menggunakan sistem Activity-Based Costing (ABC) untuk menghitung biaya produksinya. Data berikut diberikan: • Aktivitas 1 (Pengaturan Mesin): Total biaya Rp40.000.000; penggerak biaya 200 kali pengaturan. • Aktivitas 2 (Inspeksi Kualitas): Total biaya Rp20.000.000; penggerak biaya 400 inspeksi. • Produk A: 50 pengaturan mesin, 100 inspeksi. Berapakah total kos overhead yang dialokasikan ke Produk A?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rp10.000.000"
+      },
+      {
+        "label": "B",
+        "text": "Rp20.000.000"
+      },
+      {
+        "label": "C",
+        "text": "Rp15.000.000"
+      },
+      {
+        "label": "D",
+        "text": "Rp30.000.000"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "1) Tarif Pengaturan Mesin = 40jt ÷ 200 = Rp200.000/pengaturan.\n2) Tarif Inspeksi = 20jt ÷ 400 = Rp50.000/inspeksi.\n3) Overhead Produk A = (50 × 200rb) + (100 × 50rb) = 10jt + 5jt = Rp15.000.000 (C)!"
+  },
+  {
+    "num": 120,
+    "q": "Perusahaan X menggunakan sistem biaya berbasis aktivitas (ABC) untuk menghitung kos produksi. Dalam sistem ABC, biaya overhead pabrik dibebankan berdasarkan aktivitas-aktivitas tertentu yang dilakukan dalam proses produksi. Jika total biaya overhead pabrik adalah Rp500.000 dan ada 5 aktivitas utama dengan tarif sebagai berikut: • Aktivitas A: Rp100.000 • Aktivitas B: Rp150.000 • Aktivitas C: Rp80.000 • Aktivitas D: Rp70.000 • Aktivitas E: Rp100.000 Jika Produk Y menggunakan aktivitas A sebesar 2 unit, B 3 unit, dan C 1 unit, biaya overhead untuk Produk Y adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rp700.000"
+      },
+      {
+        "label": "B",
+        "text": "Rp330.000"
+      },
+      {
+        "label": "C",
+        "text": "Rp500.000"
+      },
+      {
+        "label": "D",
+        "text": "Rp450.000"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Hitungan rumus ABC: (2 × 100rb) + (3 × 150rb) + (1 × 80rb) = 200rb + 450rb + 80rb = Rp730.000 (Catatan: PDF asli tidak menandai kunci karena Rp730rb tidak ada di opsi, terdekat A. Rp700.000)."
+  }
+]

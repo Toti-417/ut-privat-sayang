@@ -1,0 +1,3483 @@
+[
+  {
+    "num": 1,
+    "q": "Beberapa ahli komunikasi memberikan definisi sesuai perspektif masing-masing, salah satunya adalah definisi komunikasi merupakan transmisi berupa ide, emosi, keterampilan dengan menggunakan simbol, kata-kata, gambar, dan grafis. Definisi ini merupakan pendapat dari ahli ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Steven (1950)"
+      },
+      {
+        "label": "B",
+        "text": "Berelson dan Steiner (1964)"
+      },
+      {
+        "label": "C",
+        "text": "Cronkhite (1976)"
+      },
+      {
+        "label": "D",
+        "text": "Berlo (1995)"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: Berelson dan Steiner (1964)."
+  },
+  {
+    "num": 2,
+    "q": "Kehadiran bidang Komunikasi Bisnis semakin dibutuhkan suatu organisasi bisnis atau perusahaan. Kebutuhan tersebut dipengaruhi oleh ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "dinamika organisasi/perusahaan semakin besar dan berkembang"
+      },
+      {
+        "label": "2",
+        "text": "adanya persaingan antara organisasi/perusahaan semakin ketat"
+      },
+      {
+        "label": "3",
+        "text": "tuntutan, keinginan, dan harapan publik (masyarakat) terhadap pemenuhan kebutuhan informasi semakin tinggi"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (dinamika organisasi/perusahaan semakin besar dan berkembang • adanya persaingan antara organisasi/perusahaan semakin ketat • tuntutan, keinginan, dan harapan publik (masyarakat) terhadap pemenuhan kebutuhan informasi semakin tinggi)."
+  },
+  {
+    "num": 3,
+    "q": "Komunikasi bisnis merupakan satu kegiatan yang memerlukan sarana antara lain ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "teknologi komunikasi"
+      },
+      {
+        "label": "2",
+        "text": "media komunikasi"
+      },
+      {
+        "label": "3",
+        "text": "kemampuan secara konseptual"
+      }
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2 (teknologi komunikasi • media komunikasi)."
+  },
+  {
+    "num": 4,
+    "q": "Proses-proses sosial dan perubahan sosial berakibat juga pada perubahan nilai yang terjadi dalam mengelola komunikasi bisnis. Salah satu tantangan di era globalisasi adalah perlunya mengantisipasi segera perubahan tersebut dengan menggunakan strategi komunikasi bisnis yang bersifat ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "efektif"
+      },
+      {
+        "label": "B",
+        "text": "persuasif"
+      },
+      {
+        "label": "C",
+        "text": "aktif"
+      },
+      {
+        "label": "D",
+        "text": "pasif"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: efektif."
+  },
+  {
+    "num": 5,
+    "q": "Fungsi komunikasi dalam dunia bisnis adalah ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "menginformasikan"
+      },
+      {
+        "label": "2",
+        "text": "mengontrol"
+      },
+      {
+        "label": "3",
+        "text": "membujuk dan mengkoordinasikan"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (menginformasikan • mengontrol • membujuk dan mengkoordinasikan)."
+  },
+  {
+    "num": 6,
+    "q": "Komunikasi yang efektif bagi organisasi bermanfaat untuk memberikan citra positif pada pihak luar, memperbaiki morale pegawai, dan meningkatkan produktivitas pegawai. Pandangan tersebut di atas merupakan pandangan dari ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quible, Johnson dan Mott, 1996"
+      },
+      {
+        "label": "B",
+        "text": "Wilbur Schramm, 1996"
+      },
+      {
+        "label": "C",
+        "text": "Steven, 1950"
+      },
+      {
+        "label": "D",
+        "text": "Berelson dan Steiner, 1976"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: Quible, Johnson dan Mott, 1996."
+  },
+  {
+    "num": 7,
+    "q": "Joseph DeVito (1997) mengemukakan tiga definisi komunikasi antarpribadi, salah satunya relational dyadic yang maksudnya adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "komunikasi antarpesona dengan mengamati komponen-komponen utama"
+      },
+      {
+        "label": "B",
+        "text": "penyampaian pesan oleh satu orang dan penerima pesan orang lain"
+      },
+      {
+        "label": "C",
+        "text": "komunikasi yang berlangsung antara dua orang yang memiliki hubungan yang mantap"
+      },
+      {
+        "label": "D",
+        "text": "penyampaian pesan oleh satu orang dan penerima pesan orang lain atau sekelompok kecil orang dengan berbagai dampaknya"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: komunikasi yang berlangsung antara dua orang yang memiliki hubungan yang mantap."
+  },
+  {
+    "num": 8,
+    "q": "Kegiatan komunikasi bisnis berlangsung dalam berbagai label kegiatan komunikasi, yakni komunikasi interpersonal, komunikasi kelompok, dan komunikasi massa. Bila seorang manajer suatu perusahaan memanggil seorang bawahan ke ruangnya, maka konteks komunikasi berada pada level ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "interpersonal"
+      },
+      {
+        "label": "B",
+        "text": "kelompok"
+      },
+      {
+        "label": "C",
+        "text": "komunikasi massa"
+      },
+      {
+        "label": "D",
+        "text": "intrapersonal"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: interpersonal."
+  },
+  {
+    "num": 9,
+    "q": "Tiga definisi komunikasi antarpersona atau komunikasi antarpribadi berdasarkan componential, relational dyadic, developmental dikemukakan oleh ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bovee dan Thill (1986)"
+      },
+      {
+        "label": "B",
+        "text": "Joseph A. DeVito (1997)"
+      },
+      {
+        "label": "C",
+        "text": "Tortoriello (1978)"
+      },
+      {
+        "label": "D",
+        "text": "Quible, Johnson dan Mott"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: Joseph A. DeVito (1997)."
+  },
+  {
+    "num": 10,
+    "q": "Saat seorang karyawan diminta menghadap atasannya untuk mempertanggungjawabkan pekerjaan yang dibebankan kepadanya adalah merupakan contoh komunikasi ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "diadik"
+      },
+      {
+        "label": "B",
+        "text": "antarpersona"
+      },
+      {
+        "label": "C",
+        "text": "efektif"
+      },
+      {
+        "label": "D",
+        "text": "bisnis"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: diadik."
+  },
+  {
+    "num": 11,
+    "q": "Berikut adalah beberapa karakteristik komunikasi antarpersonal ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "dapat terjadi kapan saja dan di mana saja"
+      },
+      {
+        "label": "2",
+        "text": "menghasilkan hubungan timbal balik"
+      },
+      {
+        "label": "3",
+        "text": "dapat dimulai dengan melakukan kesalahan"
+      }
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2 (dapat terjadi kapan saja dan di mana saja • menghasilkan hubungan timbal balik)."
+  },
+  {
+    "num": 12,
+    "q": "Liliweri dalam Fardiah (2002) mengemukakan karakteristik komunikasi antarpersona. Salah satu di antaranya adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "terjadi di mana dan kapan saja"
+      },
+      {
+        "label": "B",
+        "text": "merupakan proses yang tidak berkesinambungan"
+      },
+      {
+        "label": "C",
+        "text": "tidak mempunyai tujuan tertentu"
+      },
+      {
+        "label": "D",
+        "text": "belum dapat meramalkan sesuatu harapan"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: terjadi di mana dan kapan saja."
+  },
+  {
+    "num": 13,
+    "q": "Faktor psikologis sangat penting dipelajari dalam komunikasi bisnis. Implementasinya sangat terlihat dari aspek berikut ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "gesture"
+      },
+      {
+        "label": "B",
+        "text": "sign"
+      },
+      {
+        "label": "C",
+        "text": "lisan"
+      },
+      {
+        "label": "D",
+        "text": "personality"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: personality."
+  },
+  {
+    "num": 14,
+    "q": "Secara budaya kita telah mengembangkan suatu bentuk komunikasi tanpa bicara seperti raut wajah atau gerakan kepala, misalnya sudah mempunyai arti tersendiri. Komunikasi demikian disebut komunikasi ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "gesture"
+      },
+      {
+        "label": "B",
+        "text": "sign"
+      },
+      {
+        "label": "C",
+        "text": "lisan"
+      },
+      {
+        "label": "D",
+        "text": "tulisan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: sign."
+  },
+  {
+    "num": 15,
+    "q": "Lingkup pokok komunikasi bisnis dalam implementasinya terlihat dalam bentuk komunikasi, seperti ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "signal communication"
+      },
+      {
+        "label": "B",
+        "text": "personality"
+      },
+      {
+        "label": "C",
+        "text": "appearance"
+      },
+      {
+        "label": "D",
+        "text": "dressing"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: appearance."
+  },
+  {
+    "num": 16,
+    "q": "Iklan televisi yang menarik menyebabkan seseorang untuk membeli. Ini merupakan sebuah contoh komunikasi bisnis dalam variabel ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "sumber"
+      },
+      {
+        "label": "B",
+        "text": "konteks"
+      },
+      {
+        "label": "C",
+        "text": "efek"
+      },
+      {
+        "label": "D",
+        "text": "saluran"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: efek."
+  },
+  {
+    "num": 17,
+    "q": "Kredibilitas adalah salah satu contoh dari variabel sumber dalam kaitannya dengan komunikasi bisnis. Kredibilitas dapat dilihat melalui komponen expertness, contohnya adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "seseorang yang bersifat pasif"
+      },
+      {
+        "label": "B",
+        "text": "pengusaha besar yang menawarkan bisnis milyaran rupiah"
+      },
+      {
+        "label": "C",
+        "text": "seorang tukang parkir menawarkan bisnis milyaran rupiah"
+      },
+      {
+        "label": "D",
+        "text": "seorang guru menawarkan bisnis milyaran rupiah"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: pengusaha besar yang menawarkan bisnis milyaran rupiah."
+  },
+  {
+    "num": 18,
+    "q": "Salah satu variabel komunikasi bisnis menurut Rosenblatt et al. (1977) yaitu konteks. Contoh variabel konteks dalam kegiatan bisnis adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "berkomunikasi dengan penerima"
+      },
+      {
+        "label": "B",
+        "text": "sesuatu yang berupa gagasan"
+      },
+      {
+        "label": "C",
+        "text": "berkaitan dengan kekuasaan"
+      },
+      {
+        "label": "D",
+        "text": "melakukan lobi dalam suatu pertemuan makan siang"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: melakukan lobi dalam suatu pertemuan makan siang."
+  },
+  {
+    "num": 19,
+    "q": "Permasalahan komunikasi bisnis akan semakin kompleks dalam era pasar bebas, hal ini disebabkan antara lain ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kebutuhan karyawan tidak pernah berubah"
+      },
+      {
+        "label": "B",
+        "text": "pertumbuhan bisnis tidak berkembang dengan baik"
+      },
+      {
+        "label": "C",
+        "text": "organisasi semakin sederhana karena kemajuan teknologi"
+      },
+      {
+        "label": "D",
+        "text": "organisasi bisnis semakin mengglobal"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: organisasi bisnis semakin mengglobal."
+  },
+  {
+    "num": 20,
+    "q": "Komunikasi dalam organisasi penting dilakukan untuk kegiatan bisnis, antara lain ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "memberi instruksi kerja"
+      },
+      {
+        "label": "2",
+        "text": "presentasi bisnis"
+      },
+      {
+        "label": "3",
+        "text": "wawancara"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (memberi instruksi kerja • presentasi bisnis • wawancara)."
+  },
+  {
+    "num": 21,
+    "q": "Komunikasi tulisan digunakan apabila kondisi komunikasi mempunyai karakteristik berikut ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "pesan kompleks"
+      },
+      {
+        "label": "2",
+        "text": "jumlah khalayak cukup besar"
+      },
+      {
+        "label": "3",
+        "text": "bentuk komunikasi disampaikan secara vertikal"
+      }
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2 (pesan kompleks • jumlah khalayak cukup besar)."
+  },
+  {
+    "num": 22,
+    "q": "Komunikasi tatap muka, tertulis, memo, laporan, fax, video conferencing adalah salah satu contoh komunikasi ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "efektif"
+      },
+      {
+        "label": "B",
+        "text": "eksternal"
+      },
+      {
+        "label": "C",
+        "text": "internal"
+      },
+      {
+        "label": "D",
+        "text": "efisien dan efektif"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: internal."
+  },
+  {
+    "num": 23,
+    "q": "Pesan-pesan komunikasi visual setiap hari menerpa kita sejak kita bangun sampai tidur, sebagian besar merupakan bagian dari komunikasi bisnis dalam bentuk iklan komersil. Bentuk komunikasi visual dipilih karena beberapa pertimbangan berikut ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "menarik perhatian"
+      },
+      {
+        "label": "2",
+        "text": "memudahkan pemahaman"
+      },
+      {
+        "label": "3",
+        "text": "memudahkan pemberian interpretasi pada data"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (menarik perhatian • memudahkan pemahaman • memudahkan pemberian interpretasi pada data)."
+  },
+  {
+    "num": 24,
+    "q": "Komunikasi antara pemilik perusahaan dengan manajer, manajer dengan karyawan, merupakan jenis komunikasi ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "internal"
+      },
+      {
+        "label": "B",
+        "text": "eksternal"
+      },
+      {
+        "label": "C",
+        "text": "formal"
+      },
+      {
+        "label": "D",
+        "text": "informal"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: internal."
+  },
+  {
+    "num": 25,
+    "q": "Komunikasi antara orang yang ada dalam suatu organisasi tetapi tidak direncanakan atau tidak ditentukan dalam struktur organisasi, merupakan definisi komunikasi ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "internal"
+      },
+      {
+        "label": "B",
+        "text": "eksternal"
+      },
+      {
+        "label": "C",
+        "text": "informal"
+      },
+      {
+        "label": "D",
+        "text": "formal"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: informal."
+  },
+  {
+    "num": 26,
+    "q": "Komunikasi dianggap efektif bila menghasilkan kondisi yang di antaranya adalah ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "pengertian cermat dari isi pesan seperti yang dimaksud oleh pemberi/sumber pesan"
+      },
+      {
+        "label": "2",
+        "text": "hubungan makin hangat dan menyenangkan"
+      },
+      {
+        "label": "3",
+        "text": "pengaruh pada sikap komunikasi persuasif"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (pengertian cermat dari isi pesan seperti yang dimaksud oleh pemberi/sumber pesan • hubungan makin hangat dan menyenangkan • pengaruh pada sikap komunikasi persuasif)."
+  },
+  {
+    "num": 27,
+    "q": "Komunikasi yang berhubungan dengan hubungan pribadi biasanya merupakan contoh dari jenis komunikasi ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "formal"
+      },
+      {
+        "label": "B",
+        "text": "internal"
+      },
+      {
+        "label": "C",
+        "text": "nonformal"
+      },
+      {
+        "label": "D",
+        "text": "efektif"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: nonformal."
+  },
+  {
+    "num": 28,
+    "q": "Aktivitas komunikasi yang berfungsi informatif digunakan untuk keperluan berikut ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "untuk merubah domain kognitif khalayak sebatas perubahan pengetahuan"
+      },
+      {
+        "label": "2",
+        "text": "memberikan pilihan-pilihan terhadap produk atau jasa yang ditawarkan"
+      },
+      {
+        "label": "3",
+        "text": "menambah ketidakpastian"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": true,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: untuk merubah domain kognitif khalayak sebatas perubahan pengetahuan."
+  },
+  {
+    "num": 29,
+    "q": "Salah satu fungsi komunikasi mengubah domain kognitif khalayak untuk perubahan pengetahuan. Hal ini merupakan fungsi komunikasi yang bersifat ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "informatif"
+      },
+      {
+        "label": "B",
+        "text": "persuasif"
+      },
+      {
+        "label": "C",
+        "text": "kontrol"
+      },
+      {
+        "label": "D",
+        "text": "emotif"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: informatif."
+  },
+  {
+    "num": 30,
+    "q": "Kualitas informasi yang dibutuhkan untuk pengambilan keputusan dalam organisasi bisnis adalah merupakan fungsi komunikasi berikut ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "informatif"
+      },
+      {
+        "label": "B",
+        "text": "persuasif"
+      },
+      {
+        "label": "C",
+        "text": "kontrol"
+      },
+      {
+        "label": "D",
+        "text": "emotif"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: informatif."
+  },
+  {
+    "num": 31,
+    "q": "Fungsi informatif dalam konteks berkomunikasi dengan lingkungan internal biasanya dilakukan dengan menggunakan sarana komunikasi berikut ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "surat dan memo"
+      },
+      {
+        "label": "2",
+        "text": "rapat staf"
+      },
+      {
+        "label": "3",
+        "text": "konferensi dan wawancara"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (surat dan memo • rapat staf • konferensi dan wawancara)."
+  },
+  {
+    "num": 32,
+    "q": "Aktivitas membuat jadwal kerja dan merumuskan tujuan dan sasaran organisasi secara kolektif merupakan implementasi dari komunikasi sebagai fungsi ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "instruksi"
+      },
+      {
+        "label": "B",
+        "text": "kontrol"
+      },
+      {
+        "label": "C",
+        "text": "koordinasi"
+      },
+      {
+        "label": "D",
+        "text": "informatif"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: koordinasi."
+  },
+  {
+    "num": 33,
+    "q": "Fungsi informatif dalam konteks berkomunikasi dengan lingkungan internal dapat dilakukan untuk ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "menjelaskan kebijakan organisasi"
+      },
+      {
+        "label": "2",
+        "text": "menjelaskan visi dan misi organisasi pada staf dan karyawan"
+      },
+      {
+        "label": "3",
+        "text": "menunjukkan keberhasilan suatu organisasi, misalnya memperoleh penghargaan seperti social responsibility award"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (menjelaskan kebijakan organisasi • menjelaskan visi dan misi organisasi pada staf dan karyawan • menunjukkan keberhasilan suatu organisasi, misalnya memperoleh penghargaan seperti social responsibility award)."
+  },
+  {
+    "num": 34,
+    "q": "Prinsip persuasi menurut Bettinghaus & Cody (1987), Littlejohn & Jabusch (1987), Smith (1982), salah satunya adalah prinsip partisipasi khalayak, yang mempunyai ciri berikut ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "mengikhtisarkan apa yang disampaikan"
+      },
+      {
+        "label": "2",
+        "text": "pendengar akan secara aktif menghindari informasi yang bertentangan dengan opini, kepercayaan, sikap, nilai, dan perilaku mereka sekarang"
+      },
+      {
+        "label": "3",
+        "text": "khalayak berpartisipasi secara aktif dalam presentasi"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": true,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: khalayak berpartisipasi secara aktif dalam presentasi."
+  },
+  {
+    "num": 35,
+    "q": "Prinsip persuasi menurut Bettinghaus & Cody (1987) salah satunya adalah prinsip paparan selektif, maksudnya adalah ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "pendengar akan secara aktif mencari informasi yang mendukung opini, kepercayaan, nilai, keputusan, dan perilaku mereka"
+      },
+      {
+        "label": "2",
+        "text": "pendengar akan secara aktif menghindari informasi yang bertentangan dengan opini, kepercayaan, sikap, nilai, dan perilaku mereka sekarang"
+      },
+      {
+        "label": "3",
+        "text": "khalayak berpartisipasi secara aktif dalam presentasi"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": true,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: pendengar akan secara aktif mencari informasi yang mendukung opini, kepercayaan, nilai, keputusan, dan perilaku mereka."
+  },
+  {
+    "num": 36,
+    "q": "Fungsi persuasif/motivatif dalam komunikasi mempunyai tujuan ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "memberikan pesan agar orang lain merubah sikap, pendapat, dan perilakunya"
+      },
+      {
+        "label": "2",
+        "text": "menyampaikan informasi agar orang lain sekadar memperoleh pengetahuan baru"
+      },
+      {
+        "label": "3",
+        "text": "memberikan pesan untuk merangsang tindakan pada orang lain"
+      }
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 3 (memberikan pesan agar orang lain merubah sikap, pendapat, dan perilakunya • memberikan pesan untuk merangsang tindakan pada orang lain)."
+  },
+  {
+    "num": 37,
+    "q": "Dalam kaitannya dengan fungsi kontrol dalam komunikasi bisnis, Reed Sanderlin (1982) mengemukakan tiga jenis umpan balik, yakni umpan balik ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "informasional"
+      },
+      {
+        "label": "2",
+        "text": "korektif"
+      },
+      {
+        "label": "3",
+        "text": "peneguhan"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (informasional • korektif • peneguhan)."
+  },
+  {
+    "num": 38,
+    "q": "Ekspresi wajah, bahasa tubuh, nada suara, bahkan perilaku, dapat menunjukkan suasana emosi ketika berkomunikasi. Fenomena ini merupakan fungsi komunikasi sebagai ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "informasi"
+      },
+      {
+        "label": "B",
+        "text": "persuasi"
+      },
+      {
+        "label": "C",
+        "text": "kontrol"
+      },
+      {
+        "label": "D",
+        "text": "emotif"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: emotif."
+  },
+  {
+    "num": 39,
+    "q": "Gaya komunikasi lebih berorientasi pada orang dan lebih sensitif terhadap perasaan orang lain yaitu gaya komunikasi terbuka yang didasarkan pada kejujuran, saling percaya, terbuka, dan penuh rasa hormat merupakan komunikasi yang memanfaatkan fungsi ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "informasi"
+      },
+      {
+        "label": "B",
+        "text": "persuasi"
+      },
+      {
+        "label": "C",
+        "text": "kontrol"
+      },
+      {
+        "label": "D",
+        "text": "emotif"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: emotif."
+  },
+  {
+    "num": 40,
+    "q": "Menurut Rao, terdapat 7 dimensi saluran, salah satunya adalah channel credibility, yang maksudnya adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "derajat kecanggihan dan tingkat dipercaya saluran tersebut"
+      },
+      {
+        "label": "B",
+        "text": "saluran yang memberikan kesempatan kepada penerima untuk memberi respon"
+      },
+      {
+        "label": "C",
+        "text": "luas saluran mungkin digunakan untuk menjangkau audiens yang lebih banyak"
+      },
+      {
+        "label": "D",
+        "text": "saluran memiliki potensial yang relatif untuk meliput dan wilayah geografi yang luas"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: derajat kecanggihan dan tingkat dipercaya saluran tersebut."
+  },
+  {
+    "num": 41,
+    "q": "Salah satu karakteristik komunikasi massa adalah pesan dapat diterima oleh sebanyak-banyaknya khalayak yang tersebar di berbagai tempat, karena pesan tersebut penting untuk diketahui atau menarik bagi khalayak pada umumnya. Dalam komunikasi dikenal dengan istilah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "publisitas"
+      },
+      {
+        "label": "B",
+        "text": "periodesitas"
+      },
+      {
+        "label": "C",
+        "text": "universalitas"
+      },
+      {
+        "label": "D",
+        "text": "aktualitas"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: universalitas."
+  },
+  {
+    "num": 42,
+    "q": "Media dan saluran dalam komunikasi bisnis memiliki arti, yakni ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "cara penyandian ( encoding ) dan penyandian balik ( decoding ) yang nampak dalam mekanisme berbicara, pendengaran, dan penglihatan"
+      },
+      {
+        "label": "2",
+        "text": "penyalur pesan, berupa suara, gerak tangan, radio, televisi, surat kabar, majalah, dan lain-lain"
+      },
+      {
+        "label": "3",
+        "text": "pembawa saluran"
+      }
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2 (cara penyandian ( encoding ) dan penyandian balik ( decoding ) yang nampak dalam mekanisme berbicara, pendengaran, dan penglihatan • penyalur pesan, berupa suara, gerak tangan, radio, televisi, surat kabar, majalah, dan lain-lain)."
+  },
+  {
+    "num": 43,
+    "q": "Media umum adalah media yang dapat digunakan untuk menunjang atau bersama-sama dengan kegiatan komunikasi antarpersona, kelompok, maupun media massa. Contoh media umum adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "surat-menyurat, telegram, telex, telepon, fax, dan internet"
+      },
+      {
+        "label": "B",
+        "text": "televisi, radio, dan surat kabar"
+      },
+      {
+        "label": "C",
+        "text": "leaflet, brosur"
+      },
+      {
+        "label": "D",
+        "text": "A, B, C benar"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: A, B, C benar."
+  },
+  {
+    "num": 44,
+    "q": "“Keep it simple, keep it short, keep it conversational” (Newsom, 1985:107) adalah rumus -rumus penulisan berita dari media berikut ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "televisi"
+      },
+      {
+        "label": "B",
+        "text": "surat kabar"
+      },
+      {
+        "label": "C",
+        "text": "majalah"
+      },
+      {
+        "label": "D",
+        "text": "radio"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: radio."
+  },
+  {
+    "num": 45,
+    "q": "Meskipun sama-sama sebagai media cetak, majalah tetap dapat dibedakan dengan surat kabar karena majalah memiliki karakteristik tersendiri, yaitu ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "penyajian lebih dalam"
+      },
+      {
+        "label": "2",
+        "text": "nilai aktualisasi lebih dalam"
+      },
+      {
+        "label": "3",
+        "text": "gambar dan foto dapat dibuat banyak"
+      }
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 3 (penyajian lebih dalam • gambar dan foto dapat dibuat banyak)."
+  },
+  {
+    "num": 46,
+    "q": "Penggunaan teknologi komunikasi baru dapat mengatasi masalah-masalah yang mendasar dalam bisnis sebagaimana dikatakan Bisen dan Priya (2009:39) karena alasan berikut ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "akurasi, biaya, kecepatan"
+      },
+      {
+        "label": "2",
+        "text": "kualitas dan bisnis"
+      },
+      {
+        "label": "3",
+        "text": "kuantitas dalam operasional"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": true,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: akurasi, biaya, kecepatan."
+  },
+  {
+    "num": 47,
+    "q": "Pendayagunaan teknologi internet dalam komunikasi massa saat ini telah membawa banyak perubahan pada fungsi dan sistem media massa konvensional. Secara garis besar aktivitas bisnis utama yang dapat dikomunikasikan lewat internet adalah ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "membangun produk"
+      },
+      {
+        "label": "2",
+        "text": "aktivitas operasional"
+      },
+      {
+        "label": "3",
+        "text": "pelayanan jasa"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (membangun produk • aktivitas operasional • pelayanan jasa)."
+  },
+  {
+    "num": 48,
+    "q": "Interaksi bisnis melalui Facebook memungkinkan terjadinya hal berikut ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "viral communications (komunikasi berantai) antar pengguna Facebook"
+      },
+      {
+        "label": "2",
+        "text": "komunikasi antar konsumen dan konsumen dengan produsen"
+      },
+      {
+        "label": "3",
+        "text": "analisis pasar untuk menunjang penjualan produk atau penciptaan merek produk"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (viral communications (komunikasi berantai) antar pengguna Facebook • komunikasi antar konsumen dan konsumen dengan produsen • analisis pasar untuk menunjang penjualan produk atau penciptaan merek produk)."
+  },
+  {
+    "num": 49,
+    "q": "Komunikator aktif menyampaikan pesan, komunikan pun aktif menerima pesan, namun di antara keduanya tidak dapat melakukan dialog sebagaimana halnya komunikasi antarpersonal. Komunikasi massa dengan karakteristik tersebut adalah komunikasi ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "bersifat satu arah"
+      },
+      {
+        "label": "B",
+        "text": "bersifat dua arah"
+      },
+      {
+        "label": "C",
+        "text": "tidak memiliki arah"
+      },
+      {
+        "label": "D",
+        "text": "bersifat umum"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: bersifat satu arah."
+  },
+  {
+    "num": 50,
+    "q": "Pakar komunikasi Dominick (dalam Ardianto, Komala, 2009:14) mengemukakan fungsi komunikasi massa salah satunya surveillance (pengawasan). Sebagai surveillance maksudnya adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pengawasan peringatan dan pengawasan instrumental"
+      },
+      {
+        "label": "B",
+        "text": "memasok fakta dan data juga memberikan penafsiran terhadap kejadian-kejadian penting"
+      },
+      {
+        "label": "C",
+        "text": "menyatukan anggota masyarakat yang beragam"
+      },
+      {
+        "label": "D",
+        "text": "menghibur tiada lain tujuannya adalah untuk mengurangi ketegangan pikiran khalayak"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: pengawasan peringatan dan pengawasan instrumental."
+  },
+  {
+    "num": 51,
+    "q": "Kelebihan komunikasi massa dibandingkan dengan komunikasi lainnya, adalah karena alasan berikut ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "komunikasi yang dicapainya relatif banyak dan tidak terbatas"
+      },
+      {
+        "label": "2",
+        "text": "memperoleh pesan yang berbeda"
+      },
+      {
+        "label": "3",
+        "text": "khalayak satu sama lainnya berada dalam keadaan terpisah"
+      }
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 3 (komunikasi yang dicapainya relatif banyak dan tidak terbatas • khalayak satu sama lainnya berada dalam keadaan terpisah)."
+  },
+  {
+    "num": 52,
+    "q": "Salah satu tujuan komunikasi interpersonal adalah menemukan personal atau pribadi. Bila kita terlibat dalam pertemuan interpersonal dengan orang lain kita belajar banyak sekali tentang diri kita maupun orang lain tentu saja dalam rangka bisnis. Keefektifan komunikasi interpersonal perlu dipertimbangkan karena akan melibatkan kualitas empati baik secara verbal maupun nonverbal, caranya dengan memperlihatkan ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "keterlibatan aktif dengan orang itu melalui ekspresi wajah dan gerak-gerik yang sesuai"
+      },
+      {
+        "label": "2",
+        "text": "konsentrasi terpusat meliputi kontak mata, postur tubuh yang penuh perhatian, dan kedekatan fisik"
+      },
+      {
+        "label": "3",
+        "text": "sentuhan atau belaian yang sepantasnya"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (keterlibatan aktif dengan orang itu melalui ekspresi wajah dan gerak-gerik yang sesuai • konsentrasi terpusat meliputi kontak mata, postur tubuh yang penuh perhatian, dan kedekatan fisik • sentuhan atau belaian yang sepantasnya)."
+  },
+  {
+    "num": 53,
+    "q": "Salah satu klasifikasi komunikasi interpersonal menurut Redding adalah interogasi atau pemeriksaan. Contoh dari interogasi adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "dua orang atau lebih bersama-sama dan berbicara tentang perhatian, minat di luar organisasi seperti isu politik, teknologi, dan lain sebagainya"
+      },
+      {
+        "label": "B",
+        "text": "seorang karyawan dituduh mengambil barang-barang organisasi, maka atasannya akan memeriksa untuk mengetahui kebenarannya"
+      },
+      {
+        "label": "C",
+        "text": "atasan yang mewawancarai bawahannya untuk mencari informasi mengenai suatu pekerjaannya"
+      },
+      {
+        "label": "D",
+        "text": "orang-orang yang sudah mempunyai ikatan emosional yang kuat"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: seorang karyawan dituduh mengambil barang-barang organisasi, maka atasannya akan memeriksa untuk mengetahui kebenarannya."
+  },
+  {
+    "num": 54,
+    "q": "Komunikasi interpersonal efektif antara lain dengan cara berempati. Empati dalam hal ini dapat dilakukan dengan cara ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "verbal"
+      },
+      {
+        "label": "2",
+        "text": "nonverbal"
+      },
+      {
+        "label": "3",
+        "text": "sikap positif"
+      }
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2 (verbal • nonverbal)."
+  },
+  {
+    "num": 55,
+    "q": "Pemahaman terhadap karakteristik kelompok diharapkan dapat terjalin kerja sama ataupun komunikasi yang efektif di dalam kelompok. Efektivitas di dalam kelompok menurut Ruch dapat dilihat dari suasana kelompok atau atmosphere, maksudnya adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menyangkut ketenteraman anggota untuk tinggal di dalam kelompoknya"
+      },
+      {
+        "label": "B",
+        "text": "rasa tanggung jawab yang besar terhadap kelompok secara keseluruhan baik pada saat menjadi pemimpin maupun sebagai anggota"
+      },
+      {
+        "label": "C",
+        "text": "tujuan individu masing-masing"
+      },
+      {
+        "label": "D",
+        "text": "situasi yang mengakibatkan tiap kelompok merasa senang tinggal di kelompok tersebut"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: situasi yang mengakibatkan tiap kelompok merasa senang tinggal di kelompok tersebut."
+  },
+  {
+    "num": 56,
+    "q": "Organisasi bisnis adalah sebuah sistem yang di dalamnya terdapat kelompok-kelompok kerja atau bisa disebut dengan tim kerja untuk melaksanakan tugas pokok dan fungsi demi keberlangsungan operasi perusahaan. Dari sudut sosiologi menurut Lindgren (1973), pada dasarnya kelompok itu memiliki klasifikasi, salah satunya membership group. Contoh kelompok ini adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kelompok pada suatu unit sosial di mana orang-orang secara nyata benar-benar termasuk dalam unit sosial"
+      },
+      {
+        "label": "B",
+        "text": "kelompok individu yang memiliki minat dan latar belakang yang sama"
+      },
+      {
+        "label": "C",
+        "text": "suatu unit sosial di mana kita termasuk salah satu atau memihak dengannya"
+      },
+      {
+        "label": "D",
+        "text": "kelompok yang terbentuk karena tertarik berdasarkan akan kebutuhan bersama atau juga karena adanya kesamaan tertentu dari anggotanya"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: suatu unit sosial di mana kita termasuk salah satu atau memihak dengannya."
+  },
+  {
+    "num": 57,
+    "q": "Kelompok eksklusif cenderung terbentuk karena kondisi berikut ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "kelompok individu yang memiliki minat dan latar belakang yang sama"
+      },
+      {
+        "label": "2",
+        "text": "anggotanya dibatasi sesuai dengan kualitas yang dituntut oleh kelompok tersebut"
+      },
+      {
+        "label": "3",
+        "text": "egalitarian yang anggotanya lebih banyak dan luas"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": true,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: anggotanya dibatasi sesuai dengan kualitas yang dituntut oleh kelompok tersebut."
+  },
+  {
+    "num": 58,
+    "q": "Kelemahan internet didapat berdasarkan survei yang dilakukan di berbagai perusahaan Amerika dan di negara kita atau di tempat kita berbisnis yaitu .... WA",
+    "options": [
+      {
+        "label": "1",
+        "text": "sebagian pegawai di perusahaan menggunakan internet pada jam kerja untuk surfing di suatu situs entertainment sehingga merugikan perusahaan"
+      },
+      {
+        "label": "2",
+        "text": "terbatasnya bandwidth yang disediakan ISP dan banyak pelanggan mengakses pada waktu bersamaan"
+      },
+      {
+        "label": "3",
+        "text": "sumber informasi melalui internet mudah berubah"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (sebagian pegawai di perusahaan menggunakan internet pada jam kerja untuk surfing di suatu situs entertainment sehingga merugikan perusahaan • terbatasnya bandwidth yang disediakan ISP dan banyak pelanggan mengakses pada waktu bersamaan • sumber informasi melalui internet mudah berubah)."
+  },
+  {
+    "num": 59,
+    "q": "Internet dalam komunikasi bisnis sangat diperlukan dan dianggap sangat efektif terutama pada kegiatan public relations, karena dapat menciptakan hubungan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "one to many"
+      },
+      {
+        "label": "B",
+        "text": "one to all"
+      },
+      {
+        "label": "C",
+        "text": "one to one"
+      },
+      {
+        "label": "D",
+        "text": "one way"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: one to many."
+  },
+  {
+    "num": 60,
+    "q": "Definisi internet dapat disimpulkan sebagai kumpulan komputer yang terkoneksi melalui suatu jaringan yang tercipta melalui saluran telekomunikasi yang menjangkau jutaan orang di seluruh dunia. Beberapa keunggulan internet adalah sebagai berikut ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "kecepatan transfer data antarbagian, surat-menyurat elektronik dan pencarian data-data informasi yang diperlukan perusahaan atau lembaga"
+      },
+      {
+        "label": "2",
+        "text": "mengatasi jarak dan waktu, serta menyediakan sumber informasi yang hampir tanpa batas"
+      },
+      {
+        "label": "3",
+        "text": "memungkinkan pula terjadinya kerja sama dan interaksi pribadi antar pelaku termasuk bisnis"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (kecepatan transfer data antarbagian, surat-menyurat elektronik dan pencarian data-data informasi yang diperlukan perusahaan atau lembaga • mengatasi jarak dan waktu, serta menyediakan sumber informasi yang hampir tanpa batas • memungkinkan pula terjadinya kerja sama dan interaksi pribadi antar pelaku termasuk bisnis)."
+  },
+  {
+    "num": 61,
+    "q": "Bahasa dalam komunikasi bisnis merupakan kode, atau sistem simbol, yang digunakan untuk membentuk pesan verbal. Hanya saja bahasa memiliki ciri-ciri berikut ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "rapidly fading"
+      },
+      {
+        "label": "2",
+        "text": "arbitrary"
+      },
+      {
+        "label": "3",
+        "text": "culturally transmitted"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (rapidly fading • arbitrary • culturally transmitted)."
+  },
+  {
+    "num": 62,
+    "q": "Komunikasi verbal yang baik dapat menyebabkan iklim kerja lebih kondusif, produktivitas meningkat, turn over karyawan menurun, kedisiplinan dan ethos kerja meningkat. Hal ini mungkin terjadi karena melakukan pekerjaan tersebut untuk beberapa alasan, yaitu ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "instruksi yang diberikan cukup jelas"
+      },
+      {
+        "label": "2",
+        "text": "pekerjaan tersebut memang bagian dari pekerjaannya"
+      },
+      {
+        "label": "3",
+        "text": "merasa senang dengan cara pimpinan memberikan instruksi yang terdengar akrab dan bersahabat"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (instruksi yang diberikan cukup jelas • pekerjaan tersebut memang bagian dari pekerjaannya • merasa senang dengan cara pimpinan memberikan instruksi yang terdengar akrab dan bersahabat)."
+  },
+  {
+    "num": 63,
+    "q": "Bentuk komunikasi bisnis yang pertama dan paling sering digunakan terutama dalam kontak personal adalah bentuk komunikasi verbal yakni proses penyampaian pesan dengan menggunakan lambang-lambang verbal, maknanya secara kultur disepakati bersama. Bahasa dapat dibayangkan sebagai kode, atau sistem simbol, yang kita gunakan untuk membentuk pesan-pesan verbal. Hanya saja bahasa sebagai sistem produktif yang dapat dialihkan dan terdiri atas simbol-simbol yang cepat lenyap ( rapidly fading), bermakna bebas ( arbitrary). Dalam dunia bisnis penggunaan komunikasi verbal hendaknya ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "memberikan instruksi yang diberikan cukup jelas"
+      },
+      {
+        "label": "2",
+        "text": "pekerjaan tersebut memang bagian dari pekerjaannya"
+      },
+      {
+        "label": "3",
+        "text": "merasa senang dengan cara pimpinan memberikan instruksi yang terdengar akrab dan bersahabat"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (memberikan instruksi yang diberikan cukup jelas • pekerjaan tersebut memang bagian dari pekerjaannya • merasa senang dengan cara pimpinan memberikan instruksi yang terdengar akrab dan bersahabat)."
+  },
+  {
+    "num": 64,
+    "q": "Komunikasi nonverbal sangat erat kaitannya dengan kegiatan observasi. Sebagai observer, penerima komunikasi hendaknya dalam posisi ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "untuk melihat, mendengar, dan bahkan merasa komunikator"
+      },
+      {
+        "label": "2",
+        "text": "untuk melihat dengan jelas wajah, sikap, nada, gaun, penampilan dan mendengar suara komunikator"
+      },
+      {
+        "label": "3",
+        "text": "untuk menunjukkan sebuah kontak oral dan bukti lisan"
+      }
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2 (untuk melihat, mendengar, dan bahkan merasa komunikator • untuk melihat dengan jelas wajah, sikap, nada, gaun, penampilan dan mendengar suara komunikator)."
+  },
+  {
+    "num": 65,
+    "q": "Isyarat nonverbal biasanya lebih berpengaruh daripada pesan verbal. Umumnya, bila kita sebagai penerima menangkap dua pesan yang tidak sesuai, kita lebih condong mempercayai pesan nonverbal. Salah satu alasannya adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "bahwa isyarat verbal memberi informasi mengenai tujuan dan respon emosional kita."
+      },
+      {
+        "label": "B",
+        "text": "bahwa isyarat nonverbal memberi informasi mengenai tujuan dan respon emosional kita"
+      },
+      {
+        "label": "C",
+        "text": "pesan verbal berpengaruh lebih besar adalah kepercayaan umum bahwa gerakan tubuh, ekspresi wajah, kualitas vokal, dan isyarat nonverbal lainnya"
+      },
+      {
+        "label": "D",
+        "text": "bahwa isyarat nonverbal tidak memberi informasi mengenai tujuan dan respon emosional kita"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: bahwa isyarat nonverbal memberi informasi mengenai tujuan dan respon emosional kita."
+  },
+  {
+    "num": 66,
+    "q": "Umumnya, bila kita sebagai penerima menangkap dua pesan yang tidak sesuai, kita lebih condong mempercayai pesan nonverbal. Alasannya adalah ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "isyarat nonverbal memberi informasi mengenai tujuan dan respon emosional kita"
+      },
+      {
+        "label": "2",
+        "text": "isyarat verbal memberi informasi mengenai tujuan dan respon emosional kita"
+      },
+      {
+        "label": "3",
+        "text": "gerakan tubuh, ekspresi wajah, kualitas vokal, dan isyarat nonverbal lainnya, tidak dapat dibuat-buat oleh orang yang bukan ahlinya"
+      }
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 3 (isyarat nonverbal memberi informasi mengenai tujuan dan respon emosional kita • gerakan tubuh, ekspresi wajah, kualitas vokal, dan isyarat nonverbal lainnya, tidak dapat dibuat-buat oleh orang yang bukan ahlinya)."
+  },
+  {
+    "num": 67,
+    "q": "Desainer komunikasi visual berusaha untuk mempengaruhi sekelompok pengamat. Oleh karena itu desain komunikasi visual harus komunikatif, dapat dikenal, dibaca dan dimengerti oleh target group tersebut. Dengan demikian komunikasi visual memiliki fungsi sarana identifikasi maksudnya adalah ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "seseorang dapat mengatakan tentang siapa orang itu, atau dari mana asalnya"
+      },
+      {
+        "label": "2",
+        "text": "jika suatu benda atau produk, mempunyai identitas akan dapat mencerminkan kualitas produk itu dan mudah dikenali, baik oleh produsennya maupun konsumennya"
+      },
+      {
+        "label": "3",
+        "text": "sebagai sarana informasi dan instruksi, desain komunikasi visual bertujuan menunjukkan hubungan antara suatu hal dengan hal yang lain dalam petunjuk, arah, posisi dan skala"
+      }
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2 (seseorang dapat mengatakan tentang siapa orang itu, atau dari mana asalnya • jika suatu benda atau produk, mempunyai identitas akan dapat mencerminkan kualitas produk itu dan mudah dikenali, baik oleh produsennya maupun konsumennya)."
+  },
+  {
+    "num": 68,
+    "q": "Berikut contoh dari visual information, yaitu ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "logo"
+      },
+      {
+        "label": "B",
+        "text": "graphic standard manual"
+      },
+      {
+        "label": "C",
+        "text": "filter, website"
+      },
+      {
+        "label": "D",
+        "text": "lambaian tangan, senyum, baju baru"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: logo."
+  },
+  {
+    "num": 69,
+    "q": "Desain komunikasi visual harus komunikatif, dapat dikenal, dibaca dan dimengerti oleh target group tersebut. Sehingga desain komunikasi visual berfungsi dasar sebagai sarana ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "identifikasi"
+      },
+      {
+        "label": "2",
+        "text": "informasi dan instruksi"
+      },
+      {
+        "label": "3",
+        "text": "presentasi dan promosi"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (identifikasi • informasi dan instruksi • presentasi dan promosi)."
+  },
+  {
+    "num": 70,
+    "q": "Freeman dalam publikasi terbarunya mendefinisikan stakeholders sebagai ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "kelompok yang memiliki peran penting dalam kesuksesan sebuah korporasi"
+      },
+      {
+        "label": "2",
+        "text": "pengelolaan perusahaan"
+      },
+      {
+        "label": "3",
+        "text": "stakeholders dimungkinkan membawa sebuah tindakan yang akan melawan pimpinan"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": true,
+    "cara": "Teori Stakeholders (Clarkson): Stakeholder Primer = vital langsung (pemegang saham, pekerja, pelanggan, pemasok); Sekunder = media/komunitas; Regulator (pemerintah) termasuk eksternal. Jawaban: kelompok yang memiliki peran penting dalam kesuksesan sebuah korporasi."
+  },
+  {
+    "num": 71,
+    "q": "Pelanggan, penyalur, agen, regulator dan pemasok dalam komunikasi bisnis merupakan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "stakeholder internal"
+      },
+      {
+        "label": "B",
+        "text": "stakeholder eksternal"
+      },
+      {
+        "label": "C",
+        "text": "kompetitor"
+      },
+      {
+        "label": "D",
+        "text": "rival"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: stakeholder eksternal."
+  },
+  {
+    "num": 72,
+    "q": "Clarkson membagi stakeholders menjadi dua yaitu stakeholders primer dan stakeholders sekunder. Contoh stakeholders sekunder adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "saham, investor"
+      },
+      {
+        "label": "B",
+        "text": "pekerja"
+      },
+      {
+        "label": "C",
+        "text": "media"
+      },
+      {
+        "label": "D",
+        "text": "pelanggan dan pemasok"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Teori Stakeholders (Clarkson): Stakeholder Primer = vital langsung (pemegang saham, pekerja, pelanggan, pemasok); Sekunder = media/komunitas; Regulator (pemerintah) termasuk eksternal. Jawaban: media."
+  },
+  {
+    "num": 73,
+    "q": "Pemegang saham, investor, pekerja, pelanggan, dan pemasok menurut Clarkson adalah stakeholder jenis berikut ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "primer"
+      },
+      {
+        "label": "B",
+        "text": "sekunder"
+      },
+      {
+        "label": "C",
+        "text": "internal"
+      },
+      {
+        "label": "D",
+        "text": "eksternal"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Teori Stakeholders (Clarkson): Stakeholder Primer = vital langsung (pemegang saham, pekerja, pelanggan, pemasok); Sekunder = media/komunitas; Regulator (pemerintah) termasuk eksternal. Jawaban: primer."
+  },
+  {
+    "num": 74,
+    "q": "Ruang lingkup stakeholder internal dalam komunikasi bisnis mencakup unsur ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pemilik, manajemen, dan karyawan"
+      },
+      {
+        "label": "B",
+        "text": "media dan pelanggan"
+      },
+      {
+        "label": "C",
+        "text": "penyalur dan pemasok"
+      },
+      {
+        "label": "D",
+        "text": "karyawan dan penyalur"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Teori Stakeholders (Clarkson): Stakeholder Primer = vital langsung (pemegang saham, pekerja, pelanggan, pemasok); Sekunder = media/komunitas; Regulator (pemerintah) termasuk eksternal. Jawaban: pemilik, manajemen, dan karyawan."
+  },
+  {
+    "num": 75,
+    "q": "Berkomunikasi dengan stakeholders (publik) internal harus dilakukan karena mampu menunjang pencapaian tujuan organisasi. Kepada pemilik saham sebagai stakeholders (publik) internal fungsi komunikasi yang dijalankan adalah fungsi ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kontrol"
+      },
+      {
+        "label": "B",
+        "text": "informatif"
+      },
+      {
+        "label": "C",
+        "text": "persuasif"
+      },
+      {
+        "label": "D",
+        "text": "persuasif dan kontrol"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Teori Stakeholders (Clarkson): Stakeholder Primer = vital langsung (pemegang saham, pekerja, pelanggan, pemasok); Sekunder = media/komunitas; Regulator (pemerintah) termasuk eksternal. Jawaban: persuasif dan kontrol."
+  },
+  {
+    "num": 76,
+    "q": "Ruang lingkup stakeholders eksternal dalam komunikasi bisnis adalah ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "memiliki kepentingan serta yang ikut menentukan keberhasilan bisnis"
+      },
+      {
+        "label": "2",
+        "text": "merupakan khalayak sasaran dalam komunikasi eksternal dalam komunikasi bisnis"
+      },
+      {
+        "label": "3",
+        "text": "tidak ikut serta dalam menentukan keberhasilan bisnis"
+      }
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2 (memiliki kepentingan serta yang ikut menentukan keberhasilan bisnis • merupakan khalayak sasaran dalam komunikasi eksternal dalam komunikasi bisnis)."
+  },
+  {
+    "num": 77,
+    "q": "Stakeholders eksternal adalah lingkungan yang berada di luar organisasi saling mempertukarkan sumber dayanya dengan organisasi tersebut dan tergantung satu sama lain. Salah satu divisi yang melakukan komunikasi eksternal adalah Public Relations merupakan upaya komunikasi menyeluruh dari suatu perusahaan untuk ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "mempengaruhi persepsi"
+      },
+      {
+        "label": "2",
+        "text": "pembentukan opini"
+      },
+      {
+        "label": "3",
+        "text": "keyakinan, dan sikap berbagai kelompok terhadap perusahaan tersebut"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (mempengaruhi persepsi • pembentukan opini • keyakinan, dan sikap berbagai kelompok terhadap perusahaan tersebut)."
+  },
+  {
+    "num": 78,
+    "q": "Tugas pelaku komunikasi bisnis adalah memantau dan memberikan masukan dan rekomendasi ke perusahaan. Salah satu komunikasi yang dibangun adalah antara bawahan-atasan ( upward communication ), namun komunikasi bawahan-atasan tersebut memiliki kelemahan di antaranya adalah ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "karyawan takut bahwa kritik mereka dapat ditafsirkan sebagai tanda kelemahan pribadi mereka"
+      },
+      {
+        "label": "2",
+        "text": "atasan yang dilewati merasa terhina yang menyebabkan perbedaan antara hubungan antara atasan dan karyawan"
+      },
+      {
+        "label": "3",
+        "text": "besar kemungkinan distorsi pesan"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (karyawan takut bahwa kritik mereka dapat ditafsirkan sebagai tanda kelemahan pribadi mereka • atasan yang dilewati merasa terhina yang menyebabkan perbedaan antara hubungan antara atasan dan karyawan • besar kemungkinan distorsi pesan)."
+  },
+  {
+    "num": 79,
+    "q": "Berikut ini adalah stakeholders internal perusahaan, kecuali ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "karyawan"
+      },
+      {
+        "label": "B",
+        "text": "media"
+      },
+      {
+        "label": "C",
+        "text": "manajer"
+      },
+      {
+        "label": "D",
+        "text": "pemilik"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Teori Stakeholders (Clarkson): Stakeholder Primer = vital langsung (pemegang saham, pekerja, pelanggan, pemasok); Sekunder = media/komunitas; Regulator (pemerintah) termasuk eksternal. Jawaban: media."
+  },
+  {
+    "num": 80,
+    "q": "Regulator atau pemerintah adalah lembaga yang menentukan peraturan perundang-undangan yang menuntut adanya kepatuhan dari organisasi/lembaga bisnis. Pemerintah dalam hal ini merupakan ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "stakeholder internal"
+      },
+      {
+        "label": "B",
+        "text": "stakeholder eksternal"
+      },
+      {
+        "label": "C",
+        "text": "kompetitor"
+      },
+      {
+        "label": "D",
+        "text": "penyalur"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: stakeholder eksternal."
+  },
+  {
+    "num": 81,
+    "q": "Dalam konteks komunikasi bisnis, hubungan dengan regulator mesti dijaga atas dasar kepercayaan. Sebab regulator adalah lembaga yang ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "menentukan peraturan perundang-undangan"
+      },
+      {
+        "label": "2",
+        "text": "berfungsi seperti gatekeeper namun berada di luar institusi"
+      },
+      {
+        "label": "3",
+        "text": "memiliki kewenangan untuk mengatur negara, tetapi juga berkewajiban melindungi kepentingan dan kegiatan bisnis"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (menentukan peraturan perundang-undangan • berfungsi seperti gatekeeper namun berada di luar institusi • memiliki kewenangan untuk mengatur negara, tetapi juga berkewajiban melindungi kepentingan dan kegiatan bisnis)."
+  },
+  {
+    "num": 82,
+    "q": "Pola hubungan antara organisasi/lembaga bisnis dan pemasok menggunakan pola ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "hubungan bisnis"
+      },
+      {
+        "label": "B",
+        "text": "kemitraan"
+      },
+      {
+        "label": "C",
+        "text": "kekeluargaan"
+      },
+      {
+        "label": "D",
+        "text": "formal"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: kemitraan."
+  },
+  {
+    "num": 83,
+    "q": "Regulator berfungsi seperti gatekeeper namun berada di luar institusi media yang menghasilkan berita, sehingga regulator dapat ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "menghentikan aliran berita dan menghapus suatu informasi"
+      },
+      {
+        "label": "2",
+        "text": "menambah atau memulai suatu informasi"
+      },
+      {
+        "label": "3",
+        "text": "menyensor informasi"
+      }
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 3 (menghentikan aliran berita dan menghapus suatu informasi • menyensor informasi)."
+  },
+  {
+    "num": 84,
+    "q": "Metode yang efektif dalam berkomunikasi dengan penyalur dan pemasok yang dijalankan organisasi/lembaga bisnis adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "komunikasi interpersonal"
+      },
+      {
+        "label": "B",
+        "text": "komunikasi kelompok"
+      },
+      {
+        "label": "C",
+        "text": "komunikasi massa"
+      },
+      {
+        "label": "D",
+        "text": "ketiga jawaban di atas benar"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: komunikasi interpersonal."
+  },
+  {
+    "num": 85,
+    "q": "Untuk memudahkan pengidentifikasian khalayak dibuat kategori-kategori khalayak. Identifikasi khalayak secara demografi mencakup ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "budaya, tempat tinggal, usia, jenis kelamin, status keluarga, tingkat pendidikan, pekerjaan/jabatan, tingkat pendapatan, agama, ras dan etnis"
+      },
+      {
+        "label": "B",
+        "text": "usia, jenis kelamin, status keluarga, tingkat pendidikan, pekerjaan/jabatan, tingkat pendapatan, agama, ras dan etnis"
+      },
+      {
+        "label": "C",
+        "text": "budaya, tempat tinggal, kebiasaan, motivasi dan kebutuhan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": true,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: usia, jenis kelamin, status keluarga, tingkat pendidikan, pekerjaan/jabatan, tingkat pendapatan, agama, ras dan etnis."
+  },
+  {
+    "num": 86,
+    "q": "Dalam mengomunikasikan pesan bisnis, penting untuk mengetahui siapa khalayak komunikasi kita. Pengidentifikasian khalayak perlu dilakukan agar ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "memudahkan komunikasi"
+      },
+      {
+        "label": "B",
+        "text": "memudahkan presentasi"
+      },
+      {
+        "label": "C",
+        "text": "memudahkan perancangan pesan"
+      },
+      {
+        "label": "D",
+        "text": "ketiga jawaban di atas salah"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: memudahkan perancangan pesan."
+  },
+  {
+    "num": 87,
+    "q": "Identifikasi khalayak berdasarkan faktor psikografis dapat dilakukan melalui aspek berikut ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "tingkat pendidikan dan pekerjaan"
+      },
+      {
+        "label": "B",
+        "text": "tempat tinggal dan budaya"
+      },
+      {
+        "label": "C",
+        "text": "agama dan ras"
+      },
+      {
+        "label": "D",
+        "text": "persepsi dan motivasi"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: persepsi dan motivasi."
+  },
+  {
+    "num": 88,
+    "q": "Pada saat melakukan analisis khalayak dalam komunikasi bisnis, pembicara harus ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "mengamati dan mengajukan pertanyaan"
+      },
+      {
+        "label": "2",
+        "text": "melakukan survei khalayak"
+      },
+      {
+        "label": "3",
+        "text": "mempertimbangkan karakteristik insani"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (mengamati dan mengajukan pertanyaan • melakukan survei khalayak • mempertimbangkan karakteristik insani)."
+  },
+  {
+    "num": 89,
+    "q": "Identifikasi khalayak dapat juga dilakukan dengan pendekatan psikososial. Proses ini dimulai dari komponen-komponen sosio-psikologis manusia, yakni komponen yang berkaitan dengan ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "perasaan (afektif)"
+      },
+      {
+        "label": "2",
+        "text": "pengetahuan (kognitif)"
+      },
+      {
+        "label": "3",
+        "text": "dunia tindakan manusia (konatif)"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (perasaan (afektif) • pengetahuan (kognitif) • dunia tindakan manusia (konatif))."
+  },
+  {
+    "num": 90,
+    "q": "Mengidentifikasi khalayak dalam kaitannya dengan komunikasi bisnis diperlukan agar ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mempermudah dalam menentukan strategi komunikasi"
+      },
+      {
+        "label": "B",
+        "text": "isi pesan yang sesuai dengan khalayak"
+      },
+      {
+        "label": "C",
+        "text": "taktik berkomunikasi yang tepat"
+      },
+      {
+        "label": "D",
+        "text": "ketiga jawaban di atas benar"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: ketiga jawaban di atas benar."
+  },
+  {
+    "num": 91,
+    "q": "Langkah yang biasanya dilakukan pelobi adalah ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "memberikan informasi kepada pihak yang dilobi"
+      },
+      {
+        "label": "2",
+        "text": "meyakinkan sasaran agar mau mendukung pelobi"
+      },
+      {
+        "label": "3",
+        "text": "menyamakan pendapat"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (memberikan informasi kepada pihak yang dilobi • meyakinkan sasaran agar mau mendukung pelobi • menyamakan pendapat)."
+  },
+  {
+    "num": 92,
+    "q": "Banyak mantan pejabat dijadikan anggota dewan komisaris perusahaan. Tujuannya untuk membantu dalam lobi pemerintah. Jenis lobi seperti ini disebut lobi ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "tradisional"
+      },
+      {
+        "label": "B",
+        "text": "akar rumput"
+      },
+      {
+        "label": "C",
+        "text": "komite aksi politik"
+      },
+      {
+        "label": "D",
+        "text": "lobi parlemen"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Lobi & Negosiasi Bisnis: Lobi tradisional pakai tokoh/mantan pejabat; Negosiasi integratif cari menang-menang (win-win); Piggyback = teknik saling mendukung. Jawaban: tradisional."
+  },
+  {
+    "num": 93,
+    "q": "Di bawah ini fungsi lobi, kecuali ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "mempengaruhi pengambil keputusan"
+      },
+      {
+        "label": "B",
+        "text": "menafsirkan opini pejabat"
+      },
+      {
+        "label": "C",
+        "text": "memprediksi apa yang akan terjadi"
+      },
+      {
+        "label": "D",
+        "text": "mencari proyek"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Lobi & Negosiasi Bisnis: Lobi tradisional pakai tokoh/mantan pejabat; Negosiasi integratif cari menang-menang (win-win); Piggyback = teknik saling mendukung. Jawaban: mencari proyek."
+  },
+  {
+    "num": 94,
+    "q": "Lobi adalah aktivitas atau praktik komunikasi untuk memengaruhi pihak atau orang lain agar sealiran, sependapat, seagenda. Salah satu jenis lobi adalah lobi tradisional, yang cirinya adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pelobi biasanya memanfaatkan orang-orang terkenal, figur publik atau mantan pejabat"
+      },
+      {
+        "label": "B",
+        "text": "pelobi justru memengaruhi masyarakat"
+      },
+      {
+        "label": "C",
+        "text": "pelobi menempatkan calonnya di lembaga legislatif atau di eksekutif"
+      },
+      {
+        "label": "D",
+        "text": "A, B dan C salah"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Lobi & Negosiasi Bisnis: Lobi tradisional pakai tokoh/mantan pejabat; Negosiasi integratif cari menang-menang (win-win); Piggyback = teknik saling mendukung. Jawaban: pelobi biasanya memanfaatkan orang-orang terkenal, figur publik atau mantan pejabat."
+  },
+  {
+    "num": 95,
+    "q": "Tujuan negosiasi amat sederhana, yakni tercapainya ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "kata sepakat ( agreement ) antara kedua belah pihak"
+      },
+      {
+        "label": "2",
+        "text": "solusi ( solution ) bagi persoalan"
+      },
+      {
+        "label": "3",
+        "text": "kondisi saling menguntungkan ( win-win )"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (kata sepakat ( agreement ) antara kedua belah pihak • solusi ( solution ) bagi persoalan • kondisi saling menguntungkan ( win-win ))."
+  },
+  {
+    "num": 96,
+    "q": "Berikut ini adalah pernyataan yang benar tentang negosiasi informal ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "negosiasi dilakukan di luar suasana formal ditandai dengan tidak adanya aturan-aturan prosedural yang baku tetapi dengan maksud dan tujuan yang sama"
+      },
+      {
+        "label": "2",
+        "text": "kadang disebut sebagai lobi, yakni tawar-menawar dalam suasana informal"
+      },
+      {
+        "label": "3",
+        "text": "negosiasi yang membantu jika menyangkut hal-hal yang sifatnya sistematis"
+      }
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2 (negosiasi dilakukan di luar suasana formal ditandai dengan tidak adanya aturan-aturan prosedural yang baku tetapi dengan maksud dan tujuan yang sama • kadang disebut sebagai lobi, yakni tawar-menawar dalam suasana informal)."
+  },
+  {
+    "num": 97,
+    "q": "Lobi yang kita jalankan bukan berdasarkan asumsi atau anggapan tertentu melainkan setiap kegiatan lobi selalu berdasarkan fakta. Oleh sebab itu diperlukan ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "menganalisis fakta"
+      },
+      {
+        "label": "2",
+        "text": "membangkitkan pengaruh melalui tindak komunikasi"
+      },
+      {
+        "label": "3",
+        "text": "mengambil keputusan langsung"
+      }
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2 (menganalisis fakta • membangkitkan pengaruh melalui tindak komunikasi)."
+  },
+  {
+    "num": 98,
+    "q": "Berikut cara menjadi pelobi ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "memiliki keterbukaan wawasan, pengetahuan dan pengalaman"
+      },
+      {
+        "label": "2",
+        "text": "active listener dan assertive presenter"
+      },
+      {
+        "label": "3",
+        "text": "memiliki intuisi, fleksibilitas dan sensitivitas dalam mengelola situasi"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (memiliki keterbukaan wawasan, pengetahuan dan pengalaman • active listener dan assertive presenter • memiliki intuisi, fleksibilitas dan sensitivitas dalam mengelola situasi)."
+  },
+  {
+    "num": 99,
+    "q": "Untuk menjadi pelobi diperlukan ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "keterbukaan wawasan, pengetahuan dan pengalaman yang cukup mendalam"
+      },
+      {
+        "label": "2",
+        "text": "harus meluangkan waktu untuk mendalami topik lobi sehingga tidak terjebak dalam kondisi yang justru tidak menguntungkan dan membahayakan misi lobi yang sebenarnya"
+      },
+      {
+        "label": "3",
+        "text": "harus membina kemampuan untuk tidak hanya menghadirkan unsur hiburan"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (keterbukaan wawasan, pengetahuan dan pengalaman yang cukup mendalam • harus meluangkan waktu untuk mendalami topik lobi sehingga tidak terjebak dalam kondisi yang justru tidak menguntungkan dan membahayakan misi lobi yang sebenarnya • harus membina kemampuan untuk tidak hanya menghadirkan unsur hiburan)."
+  },
+  {
+    "num": 100,
+    "q": "Sikap yang perlu dimiliki negosiator dalam proses negosiasi, yaitu ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "pleasant"
+      },
+      {
+        "label": "2",
+        "text": "assertive (tidak plin-plan)"
+      },
+      {
+        "label": "3",
+        "text": "firm"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (pleasant • assertive (tidak plin-plan) • firm)."
+  },
+  {
+    "num": 101,
+    "q": "Negosiasi merupakan kegiatan komunikasi bisnis yang berlangsung pada level komunikasi ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "interpersonal"
+      },
+      {
+        "label": "B",
+        "text": "kelompok"
+      },
+      {
+        "label": "C",
+        "text": "interpersonal dan komunikasi kelompok"
+      },
+      {
+        "label": "D",
+        "text": "interpersonal dan komunikasi massa"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Lobi & Negosiasi Bisnis: Lobi tradisional pakai tokoh/mantan pejabat; Negosiasi integratif cari menang-menang (win-win); Piggyback = teknik saling mendukung. Jawaban: interpersonal dan komunikasi kelompok."
+  },
+  {
+    "num": 102,
+    "q": "Dalam banyak industri, negosiator menggunakan kriteria objektif untuk mengatakan apa yang adil dan masuk akal. Karena begitu banyaknya kriteria adil dan masuk akal tersebut maka kita perlu ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "meriset kriteria terbaik yang diterapkan"
+      },
+      {
+        "label": "2",
+        "text": "memperlihatkan bahwa kriteria yang lebih disukai itu juga lebih relevan"
+      },
+      {
+        "label": "3",
+        "text": "menggambarkan kenapa kriteria yang kurang disukai itu juga kurang relevan"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (meriset kriteria terbaik yang diterapkan • memperlihatkan bahwa kriteria yang lebih disukai itu juga lebih relevan • menggambarkan kenapa kriteria yang kurang disukai itu juga kurang relevan)."
+  },
+  {
+    "num": 103,
+    "q": "Negosiasi integratif adalah negosiasi yang lebih menghargai sikap daripada kepentingan. Negosiasi integratif lebih bertujuan untuk menciptakan situasi ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "win-win"
+      },
+      {
+        "label": "B",
+        "text": "win-lose"
+      },
+      {
+        "label": "C",
+        "text": "lose-lose"
+      },
+      {
+        "label": "D",
+        "text": "lose-win"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Lobi & Negosiasi Bisnis: Lobi tradisional pakai tokoh/mantan pejabat; Negosiasi integratif cari menang-menang (win-win); Piggyback = teknik saling mendukung. Jawaban: win-win."
+  },
+  {
+    "num": 104,
+    "q": "Kesepakatan kedua belah pihak dalam proses tawar-menawar paling baik terjadi di dalam suatu titik kesepakatan yang disebut sebagai ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "buyer's ideal offer"
+      },
+      {
+        "label": "B",
+        "text": "buyer's realistic price"
+      },
+      {
+        "label": "C",
+        "text": "seller's realistic price"
+      },
+      {
+        "label": "D",
+        "text": "seller's and buyer's realistic price"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: seller's and buyer's realistic price."
+  },
+  {
+    "num": 105,
+    "q": "Strategi negosiasi di mana pihak-pihak berselisih ingin mendapatkan hasil yang sebesar-besarnya dari penyelesaian masalah yang diambil adalah strategi .... WA",
+    "options": [
+      {
+        "label": "A",
+        "text": "win-win"
+      },
+      {
+        "label": "B",
+        "text": "win-lose"
+      },
+      {
+        "label": "C",
+        "text": "lose-lose"
+      },
+      {
+        "label": "D",
+        "text": "lose-fair"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Lobi & Negosiasi Bisnis: Lobi tradisional pakai tokoh/mantan pejabat; Negosiasi integratif cari menang-menang (win-win); Piggyback = teknik saling mendukung. Jawaban: win-lose."
+  },
+  {
+    "num": 106,
+    "q": "Dalam melakukan negosiasi, sikap-sikap yang perlu dihindari antara lain ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "mengubah perundingan menjadi perdebatan"
+      },
+      {
+        "label": "2",
+        "text": "mengurusi manusia, bukan mengurus masalah"
+      },
+      {
+        "label": "3",
+        "text": "mempersiapkan diri secara baik dan sistematis sebelum negosiasi berlangsung"
+      }
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2 (mengubah perundingan menjadi perdebatan • mengurusi manusia, bukan mengurus masalah)."
+  },
+  {
+    "num": 107,
+    "q": "Dalam melakukan negosiasi diperlukan teknik saling mendukung. Teknik ini disebut ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "push-pull"
+      },
+      {
+        "label": "B",
+        "text": "lose-win"
+      },
+      {
+        "label": "C",
+        "text": "split the difference"
+      },
+      {
+        "label": "D",
+        "text": "piggyback"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Lobi & Negosiasi Bisnis: Lobi tradisional pakai tokoh/mantan pejabat; Negosiasi integratif cari menang-menang (win-win); Piggyback = teknik saling mendukung. Jawaban: piggyback."
+  },
+  {
+    "num": 108,
+    "q": "Untuk meminimalisir risiko terjadinya kerugian maka diperlukan teknik negosiasi ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kooperatif"
+      },
+      {
+        "label": "B",
+        "text": "kompetitif"
+      },
+      {
+        "label": "C",
+        "text": "lunak dan keras"
+      },
+      {
+        "label": "D",
+        "text": "interest based"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Lobi & Negosiasi Bisnis: Lobi tradisional pakai tokoh/mantan pejabat; Negosiasi integratif cari menang-menang (win-win); Piggyback = teknik saling mendukung. Jawaban: interest based."
+  },
+  {
+    "num": 109,
+    "q": "Salah satu dari kegiatan bisnis yang tak kalah penting adalah menyusun pesan bisnis. Yang paling penting dilakukan pada kegiatan tersebut adalah ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "pemahaman yang baik terhadap penerima pesan sangat diperlukan"
+      },
+      {
+        "label": "2",
+        "text": "format, gaya, struktur"
+      },
+      {
+        "label": "3",
+        "text": "pemilihan media dan saluran komunikasi"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (pemahaman yang baik terhadap penerima pesan sangat diperlukan • format, gaya, struktur • pemilihan media dan saluran komunikasi)."
+  },
+  {
+    "num": 110,
+    "q": "Menurut Bisen dan Priya (2009:54) pesan-pesan bisnis perlu ditulis antara lain bertujuan untuk ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "dapat menjadi sumber acuan di masa mendatang"
+      },
+      {
+        "label": "2",
+        "text": "menghindari kesalahan"
+      },
+      {
+        "label": "3",
+        "text": "persyaratan umum"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (dapat menjadi sumber acuan di masa mendatang • menghindari kesalahan • persyaratan umum)."
+  },
+  {
+    "num": 111,
+    "q": "Pesan bisnis akan efektif jika penerima merespons sesuai dengan tujuan pembuatan pesan tersebut, yaitu ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "memberikan informasi"
+      },
+      {
+        "label": "2",
+        "text": "melakukan persuasi"
+      },
+      {
+        "label": "3",
+        "text": "melakukan kerja sama (kolaborasi)"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (memberikan informasi • melakukan persuasi • melakukan kerja sama (kolaborasi))."
+  },
+  {
+    "num": 112,
+    "q": "Surat yang digolongkan berdasarkan bentuknya adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "pemberitahuan"
+      },
+      {
+        "label": "B",
+        "text": "laporan"
+      },
+      {
+        "label": "C",
+        "text": "memorandum"
+      },
+      {
+        "label": "D",
+        "text": "surat rahasia"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: memorandum."
+  },
+  {
+    "num": 113,
+    "q": "Korespondensi atau kegiatan surat-menyurat menjadi bagian dari kehidupan organisasi bisnis sehari-hari. Berikut adalah peranan koresponden antara lain ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "menciptakan surat yang baik, jelas, dan tepat"
+      },
+      {
+        "label": "2",
+        "text": "menciptakan kerja sama yang baik"
+      },
+      {
+        "label": "3",
+        "text": "menyebarkan kegiatan untuk internal perusahaan"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (menciptakan surat yang baik, jelas, dan tepat • menciptakan kerja sama yang baik • menyebarkan kegiatan untuk internal perusahaan)."
+  },
+  {
+    "num": 114,
+    "q": "Surat merupakan salah satu media pada saluran komunikasi tertulis yang digunakan untuk menyampaikan informasi kepada pihak lain. Sebagai alat komunikasi, maka surat memiliki fungsi sebagai dasar penilaian dan keputusan, contohnya adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "surat perjanjian"
+      },
+      {
+        "label": "B",
+        "text": "surat perintah"
+      },
+      {
+        "label": "C",
+        "text": "Supersemar"
+      },
+      {
+        "label": "D",
+        "text": "rekomendasi"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: surat perjanjian."
+  },
+  {
+    "num": 115,
+    "q": "Pesan-pesan good news dan goodwill adalah pesan-pesan bisnis yang memberi kesan positif dan menyenangkan bagi pihak lain. Berikut adalah contoh pesan goodwill ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kenaikan gaji dan bonus lembur kerja"
+      },
+      {
+        "label": "B",
+        "text": "promosi jabatan dan tanda penghargaan"
+      },
+      {
+        "label": "C",
+        "text": "pemberian diskon dan garansi produk"
+      },
+      {
+        "label": "D",
+        "text": "ucapan selamat dan penghargaan"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: ucapan selamat dan penghargaan."
+  },
+  {
+    "num": 116,
+    "q": "Terdapat dua pendekatan organisasi dalam menyampaikan pesan-pesan yang kurang menyenangkan yaitu dengan cara ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "formal dan informal"
+      },
+      {
+        "label": "B",
+        "text": "langsung dan tidak langsung"
+      },
+      {
+        "label": "C",
+        "text": "intern dan ekstern"
+      },
+      {
+        "label": "D",
+        "text": "legal dan ilegal"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: langsung dan tidak langsung."
+  },
+  {
+    "num": 117,
+    "q": "Seringkali perusahaan dihadapkan pada keputusan sulit untuk menyampaikan penilaian kepada karyawannya. Dalam penilaian kinerja, nyatakan apa yang benar dan apa yang salah dan jelaskan bagaimana karyawan dapat memperbaiki prestasi kerja. Dalam penilaian tersebut hendaknya memuat hal berikut ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "menekankan dan mempertegas persyaratan pekerjaan"
+      },
+      {
+        "label": "2",
+        "text": "memberi umpan balik kepada karyawan atas usaha mereka untuk memenuhi persyaratan itu"
+      },
+      {
+        "label": "3",
+        "text": "memberi usaha bimbingan berkelanjutan dengan mengembangkan rencana tindakan bersama dengan penghargaan dan peluang"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (menekankan dan mempertegas persyaratan pekerjaan • memberi umpan balik kepada karyawan atas usaha mereka untuk memenuhi persyaratan itu • memberi usaha bimbingan berkelanjutan dengan mengembangkan rencana tindakan bersama dengan penghargaan dan peluang)."
+  },
+  {
+    "num": 118,
+    "q": "Surat lamaran kerja dapat juga dikatakan sebagai surat penjualan. Sebagai surat penjualan, paling tidak mengandung unsur berikut ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "mudah dipahami"
+      },
+      {
+        "label": "2",
+        "text": "jelas, ringkas, tepat atau sesuai dengan pekerjaan"
+      },
+      {
+        "label": "3",
+        "text": "rapi dalam penampilan paling penting diperhatikan"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (mudah dipahami • jelas, ringkas, tepat atau sesuai dengan pekerjaan • rapi dalam penampilan paling penting diperhatikan)."
+  },
+  {
+    "num": 119,
+    "q": "Surat lamaran kerja dapat juga dikatakan sebagai surat penjualan. Sebagai surat penjualan, paling tidak harus mudah dipahami, jelas, ringkas, tepat atau sesuai dengan pekerjaan, dan rapi dalam penampilan dan paling penting diperhatikan adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "menerima jenis pekerjaan apa saja"
+      },
+      {
+        "label": "B",
+        "text": "menulis surat lamaran dari sudut penulis"
+      },
+      {
+        "label": "C",
+        "text": "menulis surat lamaran dari sudut pandang pembaca bukan penulis"
+      },
+      {
+        "label": "D",
+        "text": "memberi komentar langsung tentang karakter kita"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: menulis surat lamaran dari sudut pandang pembaca bukan penulis."
+  },
+  {
+    "num": 120,
+    "q": "Justice dan fairness merupakan salah satu asas etika umum pemasaran, yang maksudnya adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "kewajiban berbuat yang baik"
+      },
+      {
+        "label": "B",
+        "text": "kewajiban tidak berbuat yang menimbulkan mudarat"
+      },
+      {
+        "label": "C",
+        "text": "menghormati otonomi manusia"
+      },
+      {
+        "label": "D",
+        "text": "berlaku adil dan jujur"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: berlaku adil dan jujur."
+  },
+  {
+    "num": 121,
+    "q": "Laporan yang menyajikan fakta-fakta, menganalisis dan menafsirkannya, kemudian mengambil kesimpulan dan memberikan rekomendasi disebut ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "Informational report"
+      },
+      {
+        "label": "B",
+        "text": "Progress reports"
+      },
+      {
+        "label": "C",
+        "text": "Justification reports"
+      },
+      {
+        "label": "D",
+        "text": "Quarterly reports"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: Justification reports."
+  },
+  {
+    "num": 122,
+    "q": "Laporan bisnis ( business report ) dapat didefinisikan sebagai suatu laporan yang ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "memiliki sifat netral, memihak, memiliki tujuan yang jelas"
+      },
+      {
+        "label": "2",
+        "text": "berisi rencana penyajian fakta kepada seorang atau lebih, untuk tujuan bisnis tertentu"
+      },
+      {
+        "label": "3",
+        "text": "memiliki sifat netral, tidak memihak, memiliki tujuan yang jelas"
+      }
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 2, 3 (berisi rencana penyajian fakta kepada seorang atau lebih, untuk tujuan bisnis tertentu • memiliki sifat netral, tidak memihak, memiliki tujuan yang jelas)."
+  },
+  {
+    "num": 123,
+    "q": "Laporan faktual mungkin meliputi kejadian-kejadian, kondisi, mutu, perkembangan, hasil, produk, masalah, atau saran pemecahan (Bovee & Thill, 2003:410). Laporan bisnis merupakan alat manajerial bagi ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "pembuatan keputusan para manajer"
+      },
+      {
+        "label": "2",
+        "text": "eksekutif yang tergantung pada informasi yang akurat, sehingga keputusan yang diambil lebih rasional"
+      },
+      {
+        "label": "3",
+        "text": "pelanggan"
+      }
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2 (pembuatan keputusan para manajer • eksekutif yang tergantung pada informasi yang akurat, sehingga keputusan yang diambil lebih rasional)."
+  },
+  {
+    "num": 124,
+    "q": "Rasa takut sering menghinggapi seseorang untuk melakukan presentasi. Hal ini disebabkan karena ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "takut salah dan gagal dalam menyampaikan materi"
+      },
+      {
+        "label": "2",
+        "text": "kurang siap dalam perencanaan presentasi"
+      },
+      {
+        "label": "3",
+        "text": "kurang terampil menggunakan alat bantu"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (takut salah dan gagal dalam menyampaikan materi • kurang siap dalam perencanaan presentasi • kurang terampil menggunakan alat bantu)."
+  },
+  {
+    "num": 125,
+    "q": "Berbicara di depan umum dan presentasi berperan sebagai salah satu pemicu keberhasilan seseorang. Alasannya adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "audiens merupakan pendengar yang baik"
+      },
+      {
+        "label": "B",
+        "text": "bisnis memerlukan kemampuan komunikasi yang baik"
+      },
+      {
+        "label": "C",
+        "text": "manusia harus selalu berkomunikasi melalui kemampuan presentasi dan berbicara"
+      },
+      {
+        "label": "D",
+        "text": "audiens akan percaya pada gaya berbicara seseorang daripada isi informasi yang disampaikan"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: bisnis memerlukan kemampuan komunikasi yang baik."
+  },
+  {
+    "num": 126,
+    "q": "Fokus presentasi bisnis adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "memberikan gambaran bisnis"
+      },
+      {
+        "label": "B",
+        "text": "membujuk dan merayu audiens"
+      },
+      {
+        "label": "C",
+        "text": "memberikan perbandingan tentang produk dengan pesaing"
+      },
+      {
+        "label": "D",
+        "text": "menjual gagasan, produk, atau jasa kepada pengambil keputusan"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: menjual gagasan, produk, atau jasa kepada pengambil keputusan."
+  },
+  {
+    "num": 127,
+    "q": "Briefing dan penanaman ideologi adalah jenis komunikasi .... WA",
+    "options": [
+      {
+        "label": "A",
+        "text": "antar manajer"
+      },
+      {
+        "label": "B",
+        "text": "antar bawahan"
+      },
+      {
+        "label": "C",
+        "text": "dari atasan ke bawahan"
+      },
+      {
+        "label": "D",
+        "text": "bawahan ke atas"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: dari atasan ke bawahan."
+  },
+  {
+    "num": 128,
+    "q": "Pengarahan yang berkaitan dengan pelaksanaan tugas disebut ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "perintah"
+      },
+      {
+        "label": "B",
+        "text": "tugas"
+      },
+      {
+        "label": "C",
+        "text": "briefing"
+      },
+      {
+        "label": "D",
+        "text": "rapat"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: briefing."
+  },
+  {
+    "num": 129,
+    "q": "Downward communication adalah komunikasi yang mengalir dari atasan ke bawahan yang biasanya berupa perintah pemberian informasi dengan cara melakukan penilaian dan briefing. Dalam konteks ini, yang dimaksud dengan briefing adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "berupa pemberian pengajaran sesuatu yang baru atau menyebarluaskan pada para karyawan bagaimana melakukan suatu tugas khusus"
+      },
+      {
+        "label": "B",
+        "text": "pemberian informasi yang berorientasi apa yang dimiliki perusahaan"
+      },
+      {
+        "label": "C",
+        "text": "penilaian atas dasar evaluasi supervisor"
+      },
+      {
+        "label": "D",
+        "text": "penjelasan secara singkat atau pertemuan untuk penerangan secara singkat"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: penjelasan secara singkat atau pertemuan untuk penerangan secara singkat."
+  },
+  {
+    "num": 130,
+    "q": "Tujuan dilakukannya wawancara pada kegiatan riset pemasaran ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "memungkinkan untuk memperoleh informasi mengenai konsumen"
+      },
+      {
+        "label": "2",
+        "text": "untuk mengetahui produk yang sedang booming, kepuasan pelanggan"
+      },
+      {
+        "label": "3",
+        "text": "untuk menggali kemungkinan kelangsungan suatu produk"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (memungkinkan untuk memperoleh informasi mengenai konsumen • untuk mengetahui produk yang sedang booming, kepuasan pelanggan • untuk menggali kemungkinan kelangsungan suatu produk)."
+  },
+  {
+    "num": 131,
+    "q": "Diskusi adalah sebuah proses tukar-menukar informasi, pendapat, dan unsur pengalaman secara teratur dengan maksud dan tujuan untuk ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "mendapatkan pengertian bersama yang lebih jelas, lebih teliti tentang sesuatu"
+      },
+      {
+        "label": "2",
+        "text": "mempersiapkan dan merampungkan suatu kesimpulan/pernyataan/keputusan"
+      },
+      {
+        "label": "3",
+        "text": "adu argumentasi"
+      }
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2 (mendapatkan pengertian bersama yang lebih jelas, lebih teliti tentang sesuatu • mempersiapkan dan merampungkan suatu kesimpulan/pernyataan/keputusan)."
+  },
+  {
+    "num": 132,
+    "q": "Agar diskusi dapat berjalan dengan baik maka untuk berkomunikasi dalam sidang kelompok hendaknya ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "tata tertib ketat"
+      },
+      {
+        "label": "2",
+        "text": "setiap orang diberi kesempatan berbicara"
+      },
+      {
+        "label": "3",
+        "text": "kesediaan untuk berkompromi"
+      }
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 2, 3 (setiap orang diberi kesempatan berbicara • kesediaan untuk berkompromi)."
+  },
+  {
+    "num": 133,
+    "q": "Agar tukar-menukar pendapat tidak bermuara pada permusuhan, maka perlu ada ketentuan dari pemimpin diskusi yang mempunyai sifat berikut ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "berhati-hati, cerdas, tanggap"
+      },
+      {
+        "label": "2",
+        "text": "pandai menyimpulkan"
+      },
+      {
+        "label": "3",
+        "text": "tidak memihak"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (berhati-hati, cerdas, tanggap • pandai menyimpulkan • tidak memihak)."
+  },
+  {
+    "num": 134,
+    "q": "Rapat memegang peranan penting dalam dunia bisnis modern. Rapat berguna untuk ....",
+    "options": [
+      {
+        "label": "1",
+        "text": "pengambilan keputusan dan aktivitas pelaku bisnis"
+      },
+      {
+        "label": "2",
+        "text": "interaksi peserta rapat harus menuju pada suatu keputusan yang menguntungkan berdasarkan perpaduan pemikiran kelompok"
+      },
+      {
+        "label": "3",
+        "text": "mengembangkan rasa memiliki dan tanggung jawab bersama di antara para personel"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true,
+    "cara": "Soal Tipe Pilihan Majemuk UT (1, 2, 3): Periksa tiap pernyataan satu per satu! Pernyataan yang tepat adalah nomor 1, 2, 3 (pengambilan keputusan dan aktivitas pelaku bisnis • interaksi peserta rapat harus menuju pada suatu keputusan yang menguntungkan berdasarkan perpaduan pemikiran kelompok • mengembangkan rasa memiliki dan tanggung jawab bersama di antara para personel)."
+  },
+  {
+    "num": 135,
+    "q": "Semua media berikut masih digunakan hingga sekarang, tetapi hanya satu yang semakin tersisih oleh aplikasi berbasis internet karena biaya dan fitur yang terbatas. Media tersebut adalah ....",
+    "options": [
+      {
+        "label": "A",
+        "text": "SMS"
+      },
+      {
+        "label": "B",
+        "text": "email"
+      },
+      {
+        "label": "C",
+        "text": "WhatsApp"
+      },
+      {
+        "label": "D",
+        "text": "media sosial"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "isMulti": false,
+    "cara": "Konsep Komunikasi Bisnis: Cocokkan fungsi komunikasi (informatif/persuasif/kontrol/koordinasi/emotif), sifat saluran media, atau etika surat bisnis dengan pertanyaan. Jawaban tepat: SMS."
+  }
+]
